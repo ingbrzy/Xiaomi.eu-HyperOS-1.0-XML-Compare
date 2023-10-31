@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="file_transferring">Transferring items. Try again later.</string>
+     <string name="menu_item_permission_manager_and_use_guide_title">Permissions details</string>
+     <string name="menu_item_privacy_setting_title">Privacy</string>
+     <string name="menu_item_support_device_title">Supported devices</string>
+     <string name="menu_item_view_privacy_policy_title">View Privacy Policy</string>
+     <string name="menu_item_view_user_protocol_title">View User Agreement</string>
+     <string name="menu_item_withdraw_privacy_policy_consent_title">Withdrawal of consent</string>
+     <string name="mi_share_turbo_mode">Turbo transfer</string>
+     <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
+     <string name="mishare_help_web">https://pc.mi.com/pc-manager-help</string>
+     <string name="miuix_appcompat_edit">Edit</string>
+     <string name="nfc_check_the_touch_device">To connect the devices, Wi-Fi and Bluetooth should be turned on on the other device too. Check whether connection for the other device is allowed in Settings > Connection &amp; sharing > Connected devices and try again.</string>
+     <string name="nfc_check_the_touch_device_china">To connect the devices, Wi-Fi and Bluetooth should be turned on on the other device too. Check whether connection for the other device is allowed in Settings > Connection &amp; sharing > Connected devices and try again.</string>
+     <string name="nfc_connect_fail">"Couldn't connect. Wait a minute or two and try again."</string>
+     <string name="nfc_connect_fail_lyra_secure">"You can turn on Mi Share in your device's Control center."</string>
+     <string name="nfc_connect_fail_lyra_secure_title">Mi Share is off</string>
+     <string name="nfc_connect_fail_pad">"Couldn't connect"</string>
+     <string name="nfc_connecting">Connecting…</string>
+     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">To connect the devices, turn on Wi-Fi and Bluetooth on this device first. Turn on now?</string>
+     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">To connect the devices, turn on Wi-Fi and Bluetooth on this device first. Turn on now?</string>
+     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Couldn't connect to computer. Make sure you've turned on Wi-Fi and Bluetooth on both your mobile device and computer, and that your computer is running Xiaomi PC Manager."</string>
+     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Couldn't connect to computer. Make sure you've turned on Wi-Fi and Bluetooth on both your mobile device and computer, and that your computer is running Xiaomi PC Manager."</string>
+     <string name="nfc_share">NFCShare</string>
+     <string name="nfc_wifi_and_bluetooth">Turn on Wi-Fi and Bluetooth</string>
+     <string name="nfc_wifi_and_bluetooth_china">Turn on Wi-Fi and Bluetooth</string>
+     <string name="permission_apply_purpose">Allow Mi Share to discover and connect to nearby devices for it to be able to transfer files.</string>
+     <string name="permission_related">Permissions</string>
+     <string name="privacy_authorize">Authorization</string>
+     <string name="send_one_apk_dialog_desc">%2$d APK \"%3$s\" from %1$s</string>
+     <string name="send_one_apk_dialog_desc_received">Received %2$d APK \"%3$s\" from %1$s</string>
+     <string name="send_one_apk_dialog_desc_receiving">Receiving %2$d APK \"%3$s\" from %1$s</string>
+     <string name="send_one_audio_dialog_desc">%2$d audio file \"%3$s\" from %1$s</string>
+     <string name="send_one_audio_dialog_desc_received">Received %2$d audio file \"%3$s\" from %1$s</string>
+     <string name="send_one_audio_dialog_desc_receiving">Receiving %2$d audio file \"%3$s\" from %1$s</string>
+     <string name="send_one_file_dialog_desc">%2$d %3$s file \"%4$s\" from %1$s</string>
+     <string name="send_one_file_dialog_desc_received">Received %2$d %3$s file \"%4$s\" from %1$s</string>
+     <string name="send_one_file_dialog_desc_receiving">Receiving %2$d %3$s file \"%4$s\" from %1$s</string>
+     <string name="send_one_zip_dialog_desc">%2$d ZIP file \"%3$s\" from %1$s</string>
+     <string name="send_one_zip_dialog_desc_received">Received %2$d ZIP file \"%3$s\" from %1$s</string>
+     <string name="send_one_zip_dialog_desc_receiving">Receiving %2$d ZIP file \"%3$s\" from %1$s</string>
+     <string name="sub_title_turbo_mode">Super fast transfers between Xiaomi phones and tablets. The network will be disconnected during the transfer.</string>
+     <string name="sub_title_withdraw_privacy_policy_consent">Withdrawing consent to the Privacy Policy will also turn off Mi Share</string>
+     <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager now supports Mi Share! You can find a list of supported computer models &lt;a href=%1$s>here&lt;/a>.</Data></string>
+     <string name="withdraw">Withdraw</string>
+     <string name="withdraw_consent_message">"If you continue, you'll withdraw your consent to the Privacy Policy of Mi Share. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Mi Share provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Mi Share services."</string>
+     <string name="withdraw_consent_title">Withdrawal of consent</string>
+     <string name="withdraw_with_time">Withdraw (%1$ds)</string>
+</resources>

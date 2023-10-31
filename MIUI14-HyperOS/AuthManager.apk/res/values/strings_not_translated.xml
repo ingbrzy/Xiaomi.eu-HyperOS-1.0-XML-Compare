@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="HIPS_Perm_Receive_SMS">Receive SMS and MMS</string>
+     <string name="HIPS_Perm_Receive_SMS_desc">For receiving your messages</string>
+     <string name="HIPS_Perm_read_Calendar">Access Calendar</string>
+     <string name="HIPS_Perm_read_Calendar_Desc">View events added to the Calendar</string>
+     <string name="group_audio">Music and audio</string>
+     <string name="group_call">Phone</string>
+     <string name="group_connect_device">Interconnectivity</string>
+     <string name="group_file">Files and documents</string>
+     <string name="group_image_video">Photos and videos</string>
+     <string name="group_location">Location</string>
+     <string name="group_microphone">Microphone</string>
+     <string name="group_nearby_device">Nearby devices</string>
+     <string name="group_other">Other permissions</string>
+     <string name="group_read_clipboard">Access clipboard</string>
+     <string name="group_sms">Messages</string>
+     <string name="group_sport_healthy">Health and activity</string>
+     <string name="group_write_clipboard">Add items to clipboard</string>
+     <string name="permdesc_receive_sms">Allow %1$s to receive SMS and MMS?</string>
+     <string name="permgroupdesc_read_media_visual_more">Allow %1$s to access more photos and videos?</string>
+     <string name="permgroupdesc_read_media_visual_u">Allow %1$s to access photos and videos on this device?</string>
+     <string name="select_allow_access_content">Select items to allow access</string>
+</resources>

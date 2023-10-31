@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="disable_sa_sa_combination_dppd">
+        <item>N41,N41</item>
+        <item>N1,N1</item>
+        <item>N41,N28</item>
+        <item>N78,N28</item>
+        <item>N41,N1</item>
+        <item>N78,N1</item>
+        <item>N28,N28</item>
+        <item>N78,N78</item>
+     </string-array>
+     <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+     </string-array>
+     <string-array name="service_component_keep_alive">
+        <item>com.xiaomi.registration/.autoregistration.RegistrationService</item>
+        <item>com.miui.dmregservice/cn.richinfo.dm.service.DMService</item>
+     </string-array>
+</resources>

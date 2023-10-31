@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="need_guard_time_aid_array">
+        <item>A0000000006D696B65796361040101</item>
+        <item>A00000063201010510009156000014A1</item>
+     </string-array>
+     <string-array name="need_guard_time_value_array">
+        <item>250</item>
+        <item>260</item>
+     </string-array>
+</resources>

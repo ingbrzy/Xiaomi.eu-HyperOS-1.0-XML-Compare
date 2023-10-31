@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="phrase_network_tip_summary">To be able to sync your frequent phrases with the cloud and use them across your devices, allow this app to connect to the internet.</string>
+</resources>

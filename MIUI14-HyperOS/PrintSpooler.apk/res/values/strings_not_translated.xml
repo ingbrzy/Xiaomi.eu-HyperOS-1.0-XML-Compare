@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="miuix_access_state_desc">Selected</string>
+     <string name="miuix_alphabet_indexer_name">Index bar</string>
+     <string name="miuix_appcompat_edit">Edit</string>
+     <string name="miuix_indexer_collect">Collections</string>
+     <string name="miuix_indexer_selected">Selected %s</string>
+</resources>

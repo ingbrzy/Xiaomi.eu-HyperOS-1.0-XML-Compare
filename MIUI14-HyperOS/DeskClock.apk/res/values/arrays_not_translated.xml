@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="not_alarm_repeat_type_no_workdays_values">
+        <item>1</item>
+        <item>4</item>
+        <item>5</item>
+     </integer-array>
+     <integer-array name="not_alarm_repeat_type_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+     </integer-array>
+</resources>

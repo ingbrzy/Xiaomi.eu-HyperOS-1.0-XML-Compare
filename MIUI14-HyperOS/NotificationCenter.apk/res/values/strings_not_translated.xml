@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="float_notification_snooze_summary_1_min">Swipe up on a floating notification to hide upcoming ones for %d</string>
+     <string name="float_notification_snooze_summary_always_float">Always show floating notifications</string>
+     <string name="float_notification_snooze_summary_until_unlock">Swipe up on a floating notification to hide upcoming ones until device is locked</string>
+</resources>

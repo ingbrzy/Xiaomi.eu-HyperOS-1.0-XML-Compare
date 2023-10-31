@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="desktop_positions">
+        <item>Left</item>
+        <item>Right</item>
+     </string-array>
+     <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+     </string-array>
+     <string-array name="settings_search_mirror_desktop">
+        <item>Home screen+</item>
+        <item>Interconnectivity/Home screen+</item>
+        <item>Home screen+, Home screen, Mi Smart Hub, Screen Combo, device interconnectivity</item>
+     </string-array>
+</resources>

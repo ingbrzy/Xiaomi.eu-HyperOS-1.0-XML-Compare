@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="insert_image_menu_take_photo_by_local_device">Take photo with this device</string>
+     <string name="insert_image_menu_take_photo_by_remote_device">Take photo with %1$s</string>
+     <string name="miui_penengine_toast_add_to_clip">Copied successfully</string>
+     <string name="miuix_item_view_role_description">Tab</string>
+     <string name="miuix_navigator_content_switch_description">Show sidebar</string>
+     <string name="miuix_navigator_multiple_choice">Select</string>
+     <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
+     <string name="pad_dialog_take_photo_by_device">Taking photo with %1$s</string>
+     <string name="permission_xiaoai_desc_m"><Data>In order to provide speech-to-text transcription services, Mi AI needs to collect audio input and your device IMEI. Read and agree to the &lt;a href=\"%1$s\">Notes Third Party Data Sharing Statement&lt;/a> before you continue. You can also learn more by reading the Mi AI &lt;a href=\"%2$s\">Privacy Policy&lt;/a>.</Data></string>
+</resources>

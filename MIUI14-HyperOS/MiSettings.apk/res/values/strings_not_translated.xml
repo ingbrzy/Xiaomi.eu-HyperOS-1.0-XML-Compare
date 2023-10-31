@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="anti_flicker_mode_summary_new">Use DC dimming in low light to reduce eye strain</string>
+     <string name="app_use">App screen time</string>
+     <string name="mi_transfer_banner_summary">Multiple device brands are supported</string>
+     <string name="mi_transfer_banner_title">Transfer items from your old device</string>
+</resources>

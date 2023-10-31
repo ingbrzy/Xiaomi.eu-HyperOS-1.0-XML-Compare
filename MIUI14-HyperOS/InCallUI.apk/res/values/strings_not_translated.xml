@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="align_satellite_model_exit">Exit</string>
+     <string name="align_satellite_model_use">Start</string>
+     <string name="antispam_notification_text">Tap to turn on smart DND features</string>
+     <string name="focus_notification_on_call">Calling…</string>
+     <string name="miuix_appcompat_edit">Edit</string>
+     <string name="relay_call_unable_to_work">"Can't use this feature for transferred calls"</string>
+     <string name="relay_device_local">This device</string>
+     <string name="relay_device_type_pc">Computer</string>
+     <string name="relay_stop_recorder">Recording stopped</string>
+     <string name="satellite_call_failed">Signal interrupted. Try again.</string>
+     <string name="satellite_dialog_button">Floating window</string>
+     <string name="satellite_dialog_cancel">Cancel</string>
+     <string name="satellite_guide_down">"Tilt your device down
+to put the ball in the blue area"</string>
+     <string name="satellite_guide_found">Found satellite</string>
+     <string name="satellite_guide_left">"Tilt your device left
+to put the satellite icon in the blue area"</string>
+     <string name="satellite_guide_right">"Tilt your device right
+to put the satellite icon in the blue area"</string>
+     <string name="satellite_guide_searching">Searching for satellite…</string>
+     <string name="satellite_guide_searching_floating">Searching…</string>
+     <string name="satellite_guide_up">"Tilt your device up
+to put the ball in the blue area"</string>
+     <string name="satellite_incall_tip">Speaker is on</string>
+     <string name="satellite_service_provider">Provided by China Telecom</string>
+     <string name="satellite_state">"Don't move your device"</string>
+     <string name="satellite_state_connected">"Connected to satellite. Don't move your device."</string>
+     <string name="satellite_state_connected_floating">"Don't move your device"</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <!-- Size mismatch! Translated: 3, Original: 4 -->
+     <string-array name="show_style_entries">
+        <item>@string/temporary_style</item>
+        <item>@string/scheduled_style</item>
+        <item>@string/always_style</item>
+        <item>@string/smart_style</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 3, Original: 4 -->
+     <string-array name="show_style_entries_5">
+        <item>@string/temporary_style_5</item>
+        <item>@string/scheduled_style</item>
+        <item>@string/always_style</item>
+        <item>@string/smart_style</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 3, Original: 4 -->
+     <string-array name="show_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+</resources>

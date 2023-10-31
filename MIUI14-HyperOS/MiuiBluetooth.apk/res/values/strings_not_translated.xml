@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="easy_tether_auto_connect_close">关闭</string>
+     <string name="easy_tether_auto_connect_open">开启</string>
+     <string name="easy_tether_auto_connect_summary">Automatically turn on the mobile hotspot and connect when nearby devices with the same account need internet access.</string>
+     <string name="easy_tether_cancel">Cancel</string>
+     <string name="easy_tether_confirm">Confirm</string>
+     <string name="easy_tether_connect_method_automatic">自动连接</string>
+     <string name="easy_tether_connect_method_dialog">弹窗开启</string>
+     <string name="easy_tether_connect_method_manually">Wi-Fi列表连接</string>
+     <string name="easy_tether_device_type_pad">平板</string>
+     <string name="easy_tether_device_type_pc">电脑</string>
+     <string name="easy_tether_device_type_phone">手机</string>
+     <string name="easy_tether_device_type_sound">音响</string>
+     <string name="easy_tether_device_type_tv">电视</string>
+     <string name="easy_tether_device_type_unknown">未知设备</string>
+     <string name="easy_tether_device_type_vela_sound">Vela音响</string>
+     <string name="easy_tether_device_type_vela_watch">Vela手表</string>
+     <string name="easy_tether_next_auto_connect">Auto-connect next time?</string>
+     <string name="easy_tether_statusbar_auto_connected_title">Connected to %1$s Hotspots</string>
+     <string name="easy_tether_statusbar_connect_fail_title">Connection Failed</string>
+     <string name="easy_tether_statusbar_connect_title">Enable %1$s Hotspot</string>
+     <string name="easy_tether_statusbar_connecting_title">Connecting</string>
+     <string name="easy_tether_statusbar_dialog_connected_title">Connected</string>
+     <string name="fast_connect_device_button_audio_share_fail">OK</string>
+     <string name="fast_connect_device_message_audio_share">listen the audio with it</string>
+     <string name="fast_connect_device_replace_current_device">replace the current device</string>
+     <string name="fast_connect_device_reset_audio_share">Please press and hold for 2 seconds to reset</string>
+     <string name="fast_connect_device_start_audio_share">listen together</string>
+     <string name="fast_connect_device_title_audio_share">listen with %1$s</string>
+     <string name="fast_connect_device_title_audio_share_fail">Unable to connect %1$s, please try again</string>
+     <string name="fast_connect_device_title_audio_share_success">listening with %1$s now</string>
+     <string name="headset_new_notification_connecting">Connecting</string>
+</resources>

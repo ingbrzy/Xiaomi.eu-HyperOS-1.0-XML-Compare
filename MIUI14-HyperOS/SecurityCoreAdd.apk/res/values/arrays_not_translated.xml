@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="altgr_keyboard_layout_list">
+        <item>keyboard_layout_spanish</item>
+        <item>keyboard_layout_french</item>
+        <item>keyboard_layout_german</item>
+     </string-array>
+     <string-array name="strg_keyboard_layout_list">
+        <item>keyboard_layout_german</item>
+     </string-array>
+</resources>

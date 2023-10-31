@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="config_tof_client_Component">com.miui.securitycore/com.miui.tof.service.TofService</string>
+     <string name="hovermode_text_confirm">Got it</string>
+     <string name="hovermode_text_doubleclick">Double tap to pause/play</string>
+     <string name="hovermode_text_drag">Slide to zoom</string>
+     <string name="hovermode_text_help">Help</string>
+     <string name="hovermode_text_left">Adjust brightness</string>
+     <string name="hovermode_text_prompt">When Hover mode is on, use gestures on the bottom half of the screen. There may be variation between apps.</string>
+     <string name="hovermode_text_right">Adjust volume</string>
+     <string name="miuivideo_activity" />
+     <string name="no_avaliable_application">No apps available</string>
+     <string name="open_system_optimization">Turn on system optimization first</string>
+     <string name="tof_music_support_scene_des">Supports music player controls</string>
+     <string name="tof_office_support_scene_des">Supports Word documents and PowerPoint presentations</string>
+     <string name="tof_short_video_support_scene_des">Supports switching between videos</string>
+     <string name="tof_video_support_scene_des">Supports fullscreen video player controls</string>
+     <string name="wallpaper_geometrically_irregular_title">Abstract geometry</string>
+     <string name="wallpaper_neon_title">Neon</string>
+     <string name="wallpaper_overlapping_space_title">Shape and shadow</string>
+     <string name="wallpaper_submerged_wing_title">Textures</string>
+     <string name="wallpaper_wabi_sabi_title">Wabi-sabi</string>
+</resources>

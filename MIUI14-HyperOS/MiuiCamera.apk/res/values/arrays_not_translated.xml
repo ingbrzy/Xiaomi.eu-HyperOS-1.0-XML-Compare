@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="com.google.firebase.crashlytics.build_ids_arch">
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+     </string-array>
+     <string-array name="com.google.firebase.crashlytics.build_ids_build_id">
+        <item>ece72a2ebc3774a1be9fd21271258acd3bcdfaa7</item>
+        <item>0cdf5aae10136fd0026a20292730a6f674491df7</item>
+        <item>1d373aecb1c692c3929c9364174ec433c4732675</item>
+     </string-array>
+     <string-array name="com.google.firebase.crashlytics.build_ids_lib">
+        <item>libc++_shared.so</item>
+        <item>libcamera_mi_handgesture.so</item>
+        <item>libAIPOSE.so</item>
+     </string-array>
+     <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+     </string-array>
+     <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+     </string-array>
+     <string-array name="pref_camera_metering_weight">
+        <item>@string/face_ae_strategy_switch_f_p</item>
+        <item>@string/face_ae_strategy_switch_e_p</item>
+     </string-array>
+     <string-array name="pref_camera_metering_weight_entry_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="rcs_allow_list">
+        <item>certificate_com_xiaomi_wearable:1da20e2bdfa678ae888e81e5ca0ec4744ebbbbbd</item>
+        <item>certificate_com_android_camera:27196e386b875e76adf700e7ea84e4c6eee33dfa</item>
+     </string-array>
+</resources>

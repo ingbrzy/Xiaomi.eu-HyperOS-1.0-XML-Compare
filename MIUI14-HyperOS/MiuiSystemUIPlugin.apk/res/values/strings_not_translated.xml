@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="deice_local">This device</string>
+     <string name="event_track_content_type_audio">音频</string>
+     <string name="event_track_content_type_video">视频</string>
+     <string name="focus_content">focusContent</string>
+     <string name="focus_desc">focusDesc</string>
+     <string name="focus_sub_title">focusSubtitle</string>
+     <string name="focus_title">focusTitle</string>
+     <string name="kddi_miui_toast_zen_standard_to_off">"Silent mode is off now. Calls and notifications won't be silenced."</string>
+     <string name="kddi_miui_toast_zen_to_standard">Switched to Silent mode. Calls and notifications will be silenced now.</string>
+     <string name="miui_dnd_count_down_time">"DND timer
+%s"</string>
+     <string name="miui_dnd_mode_off">DND is off</string>
+     <string name="miui_dnd_mode_on">DND is on</string>
+     <string name="miui_guide_dialog_button_negative_text">Settings</string>
+     <string name="miui_guide_dialog_button_positive_text">Got it</string>
+     <string name="miui_guide_dialog_message">Media sounds (music, videos, etc.) will still be played in Silent mode. You can change this in the Settings.</string>
+     <string name="miui_ringer_count_down">Count down</string>
+     <string name="miui_ringer_count_down_time">%s</string>
+     <string name="miui_ringer_standard_description">Silence ringtones for incoming calls and notifications</string>
+     <string name="miui_ringer_status_close">Off</string>
+     <string name="miui_ringer_status_open">On</string>
+     <string name="miui_ringer_total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
+     <string name="miui_silent_mode_off">Silent mode is off</string>
+     <string name="miui_silent_mode_on">Silent mode is on</string>
+     <string name="miui_toast_zen_standard_to_off_when_shield_media">Silent mode is off now. Ringtones, as well as notification and media sounds, will be played.</string>
+     <string name="miui_toast_zen_to_standard_when_shield_media">Switched to Silent mode. Ringtones, as well as notification and media sounds, are silenced now.</string>
+     <string name="mr_button_content_description">Cast</string>
+     <string name="mr_cast_button_connected">Cast. Connected</string>
+     <string name="mr_cast_button_connecting">Cast. Connecting</string>
+     <string name="mr_cast_button_disconnected">Cast. Disconnected</string>
+     <string name="mr_cast_dialog_title_view_placeholder">No info available</string>
+     <string name="mr_chooser_searching">Finding devices</string>
+     <string name="mr_chooser_title">Cast to</string>
+     <string name="mr_controller_album_art">Album art</string>
+     <string name="mr_controller_casting_screen">Casting screen</string>
+     <string name="mr_controller_close_description">Close</string>
+     <string name="mr_controller_collapse_group">Collapse</string>
+     <string name="mr_controller_disconnect">Disconnect</string>
+     <string name="mr_controller_expand_group">Expand</string>
+     <string name="mr_controller_no_info_available">No info available</string>
+     <string name="mr_controller_no_media_selected">No media selected</string>
+     <string name="mr_controller_pause">Pause</string>
+     <string name="mr_controller_play">Play</string>
+     <string name="mr_controller_stop">Stop</string>
+     <string name="mr_controller_stop_casting">Stop casting</string>
+     <string name="mr_controller_volume_slider">Volume slider</string>
+     <string name="mr_dialog_default_group_name">Group</string>
+     <string name="mr_dialog_groupable_header">Add a device</string>
+     <string name="mr_dialog_transferable_header">Play on a group</string>
+     <string name="mr_system_route_name">System</string>
+     <string name="mr_user_route_category_name">Devices</string>
+     <string name="multi_desktop_mode">Workstation</string>
+     <string name="open_system_optimization">Turn on system optimization first</string>
+     <string name="qs_customize_divider_label_packages_tiles_text">App toggles</string>
+     <string name="qs_customize_divider_label_system_tiles_text">System toggles</string>
+     <string name="qs_customize_entry_button_text">Edit</string>
+     <string name="qs_customize_header_sub_title">Drag added toggles to rearrange them</string>
+     <string name="qs_customize_header_title">Edit and sort</string>
+     <string name="quick_settings_aisubtitles_label">MI AI Subtitles</string>
+</resources>

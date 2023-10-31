@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="empty_device_list">Nothing here yet</string>
+     <string name="user_agreement_read_phone_permission_desc">For signing in using phone number</string>
+     <string name="user_agreement_read_phone_permission_title">Read phone numbers</string>
+</resources>

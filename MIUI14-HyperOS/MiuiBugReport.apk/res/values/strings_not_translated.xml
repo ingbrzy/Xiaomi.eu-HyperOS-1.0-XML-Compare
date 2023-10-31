@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="com.google.firebase.crashlytics.mapping_file_id">64bc7ccda9f6477fb8260ae4c2e641ac</string>
+     <string name="miui_feedback_main_item_official_progress">Repair progress</string>
+     <string name="miui_feedback_main_item_official_progress_hint">Update repair progress regularly in Xiaomi Community</string>
+     <string name="miui_feedback_main_item_use_guide">User guide</string>
+     <string name="miui_feedback_note_install_xiaomi_community">Install Xiaomi Community to be able to use this feature.</string>
+</resources>

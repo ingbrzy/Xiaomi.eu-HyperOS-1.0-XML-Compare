@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="additional_freeform_aspect_ratio_1_apps">
+        <item>com.tencent.qqlive</item>
+        <item>com.youdao.dict</item>
+        <item>com.miui.securitycore</item>
+     </string-array>
+     <integer-array name="config_custom_brightness_curve_brightening_interval">
+        <item>0</item>
+        <item>30</item>
+        <item>300</item>
+        <item>2500</item>
+        <item>20000</item>
+     </integer-array>
+     <integer-array name="config_custom_brightness_curve_darkening_interval">
+        <item>0</item>
+        <item>30</item>
+        <item>300</item>
+        <item>3000</item>
+        <item>20000</item>
+     </integer-array>
+     <integer-array name="config_default_curve_interval">
+        <item>0</item>
+        <item>30</item>
+        <item>300</item>
+        <item>3000</item>
+        <item>20000</item>
+     </integer-array>
+     <string-array name="config_screen_wakelock_white_list">
+        <item>com.qualcomm.qti.services.systemhelper</item>
+     </string-array>
+     <string-array name="config_tofComponentSupport">
+        <item>com.miui.video,com.miui.video.feature.detail.PadNewLongVideoDetailActivityV2,1,0x0607,0,0</item>
+        <item>com.qiyi.video.pad,org.iqiyi.video.activity.PlayerActivity,1,0x0601,0,0</item>
+        <item>tv.danmaku.bilibilihd,com.bilibili.video.videodetail.VideoDetailsActivity,1,0x0601,0,0</item>
+        <item>tv.danmaku.bilibilihd,com.bilibili.bangumi.ui.page.detail.OGVHDDetailActivity,1,0x0601,0,0</item>
+        <item>com.ss.android.ugc.aweme,,2,0x1800,0,0</item>
+        <item>com.smile.gifmaker,,2,0x1800,0,0</item>
+        <item>com.miui.player,com.tencent.qqmusiclite.activity.MainActivity,3,0x0619,0,0</item>
+        <item>com.miui.player,com.tencent.qqmusiclite.activity.player.MusicPlayerActivity,3,0x0619,0,0</item>
+        <item>cn.wps.moffice_eng,cn.wps.moffice.writer.multiactivity.Writer1,4,0x0060,0,0</item>
+        <item>cn.wps.moffice_eng,cn.wps.moffice.presentation.multiactivity.Presentation1,4,0x0060,0,0</item>
+        <item>com.microsoft.office.officehub,com.microsoft.office.officemobile.OfficeMobilePPTActivity,4,0x0060,0,0</item>
+        <item>com.microsoft.office.officehub,com.microsoft.office.officemobile.OfficeMobileWordActivity,4,0x0060,0,0</item>
+     </string-array>
+     <string-array name="cvw_unsupported_freeform_white_list">
+        <item>com.android.settings</item>
+        <item>com.miui.securitycore</item>
+        <item>com.tencent.qqlive</item>
+        <item>com.youdao.dict</item>
+     </string-array>
+     <string-array name="desktop_freeform_white_list">
+        <item>com.android.settings</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.securitymanager</item>
+        <item>com.miui.cleanmaster</item>
+        <item>com.miui.cleaner</item>
+        <item>com.miui.securityadd</item>
+        <item>com.miui.contentextension</item>
+        <item>com.xiaomi.aicr</item>
+        <item>com.miui.phrase</item>
+        <item>com.miuix.editor</item>
+        <item>com.miui.securityinputmethod</item>
+        <item>com.lbe.security.miui</item>
+        <item>com.miui.contentcatcher</item>
+        <item>com.miui.securitycore</item>
+     </string-array>
+     <string-array name="device_support_whitelist">
+        <item>babylon</item>
+        <item>shennong</item>
+        <item>houji</item>
+     </string-array>
+     <string-array name="global_region_support_smart_dual_sim">
+        <item>TH</item>
+        <item>SG</item>
+        <item>ID</item>
+        <item>PH</item>
+        <item>MY</item>
+        <item>VN</item>
+     </string-array>
+     <string-array name="list_about_desktop_mode_launch_freeform_ignore_translucent_app">
+        <item>com.xiaomi.mslgrdp</item>
+        <item>com.miui.home/.launcher.AddItemActivity</item>
+        <item>com.miui.securitymanager/com.miui.securitymain.SCMainEntryActivity</item>
+        <item>com.hunantv.imgo.activity/com.mgtv.ui.browser.ImgoOpenActivity</item>
+        <item>cn.wps.moffice_eng</item>
+        <item>com.miui.greenguard</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.baidu.netdisk</item>
+        <item>com.UCMobile</item>
+        <item>com.miui.packageinstaller</item>
+        <item>com.xiaomi.mipush.sdk.NotificationClickedActivity</item>
+        <item>com.miui.video</item>
+     </string-array>
+     <string-array name="list_about_desktop_mode_launch_fullscreen_app">
+        <item>com.android.camera</item>
+        <item>com.xiaomi.scanner</item>
+        <item>com.xiaomi.misettings/.usagestats.focusmode.land.FocusModeTimingLandActivity</item>
+        <item>com.miui.huanji</item>
+        <item>com.android.settings/.Settings$UsbDetailsActivity</item>
+        <item>com.miui.voiceassist/com.xiaomi.voiceassistant.powerkey.PowerKeyGuideActivity</item>
+        <item>com.milink.service/com.miui.circulate.world.CirculateWorldActivity</item>
+        <item>com.milink.service/com.xiaomi.miplay.client.permission.PermissionActivity</item>
+        <item>com.miui.voiceassist/com.xiaomi.voiceassistant.PermissionActivity</item>
+        <item>com.android.systemui/.settings.brightness.BrightnessDialog</item>
+        <item>com.miui.cloudservice/.wxapi.WXEntryActivity</item>
+        <item>com.miui.voiceassist/com.xiaomi.voiceassistant.mainui.BackActivity</item>
+        <item>com.miui.personalassistant/.picker.business.home.pages.PickerHomeActivity</item>
+        <item>com.miui.personalassistant/.picker.business.detail.PickerDetailActivity</item>
+     </string-array>
+     <string-array name="list_about_desktop_mode_launch_fullscreen_app_not_hide_others">
+        <item>com.miui.personalassistant/com.miui.personalassistant.picker.business.home.pages.PickerHomeActivity</item>
+        <item>com.miui.personalassistant/com.miui.personalassistant.picker.business.detail.PickerDetailActivity</item>
+     </string-array>
+     <string-array name="list_about_support_cvw_level_full">
+        <item>com.android.contacts</item>
+        <item>com.android.fileexplorer</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.miui.gallery</item>
+        <item>com.android.browser</item>
+        <item>com.android.email</item>
+        <item>com.miui.creation</item>
+     </string-array>
+     <string-array name="list_not_avoid_launch_other_freeform">
+        <item>com.miui.applicationlock.ConfirmAccessControl</item>
+        <item>com.xiaomi.mipush.sdk.NotificationClickedActivity</item>
+        <item>com.alipay.mobile.quinox.SchemeLauncherActivity</item>
+     </string-array>
+     <string-array name="list_revert_location_in_freeform">
+        <item>class com.miui.org.chromium.android_webview.PopupTouchHandleDrawable</item>
+        <item>class org.chromium.android_webview.PopupTouchHandleDrawable</item>
+     </string-array>
+     <string-array name="miui_multi_task_white_list_for_pad">
+        <item>com.miui.notes</item>
+        <item>com.android.email</item>
+        <item>com.android.browser</item>
+        <item>cn.wps.moffice_eng</item>
+     </string-array>
+     <string-array name="smart_orientation_activity_list">
+        <item>tv.danmaku.bili/com.bilibili.studio.centerplus.ui.CenterPlusMainActivity</item>
+     </string-array>
+     <string-array name="smart_orientation_list">
+        <item>com.miui.mediaviewer</item>
+        <item>com.youku.phone</item>
+        <item>ccom.sina.weibo</item>
+        <item>tv.danmaku.bili</item>
+     </string-array>
+</resources>

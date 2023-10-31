@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="no_word_model_entries">
+        <item>Off</item>
+        <item>Anywhere</item>
+        <item>On widgets</item>
+     </string-array>
+     <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Off</item>
+        <item>Anywhere</item>
+     </string-array>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="app_all_purpose_global">Welcome to File Manager! You can use this app to preview and manage files stored on your device.</string>
+     <string name="call_notification_answer_action">Answer</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Decline</string>
+     <string name="call_notification_hang_up_action">Hang Up</string>
+     <string name="call_notification_incoming_text">Incoming call</string>
+     <string name="call_notification_ongoing_text">Ongoing call</string>
+     <string name="call_notification_screening_text">Screening an incoming call</string>
+     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+     <string name="display_all_dirs">All folders</string>
+     <string name="display_hide_sys_dirs">Hidden system folders</string>
+     <string name="display_mode">Display</string>
+     <string name="ftp_invalid_username">"Username can't contain special characters. Enter another name."</string>
+     <string name="func_settings">Feature settings</string>
+     <string name="internal_storage_device">Device</string>
+     <string name="menu_item_midrop">Transfer files</string>
+     <string name="miuix_appcompat_edit">Edit</string>
+     <string name="miuix_item_view_role_description">Tab</string>
+     <string name="miuix_navigator_content_switch_description">Show sidebar</string>
+     <string name="miuix_navigator_multiple_choice">Select</string>
+     <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
+     <string name="navigator_label_all_files">All files</string>
+     <string name="navigator_label_external_devices">External devices</string>
+     <string name="permission_group_description_phone">When you set a file as private, this app will collect your device IMEI for recognition, storage, and unlocking purposes</string>
+     <string name="permission_group_description_storage_space">Access and add items to storage</string>
+     <string name="permission_group_name_phone">Phone</string>
+     <string name="permission_group_name_storage_space">Storage</string>
+     <string name="positive_order">Forward</string>
+     <string name="recent_file_by_source">File source</string>
+     <string name="recent_file_sort_by_date">Date</string>
+     <string name="recent_file_sort_type">Sort by</string>
+     <string name="reverse_order">Reverse</string>
+     <string name="search_category_type">Search by category</string>
+     <string name="search_text_hint">Search files</string>
+     <string name="sort_mode">Sort order</string>
+     <string name="sort_type">Filter</string>
+     <string name="view_mode_grid">Grid</string>
+     <string name="view_mode_list">List</string>
+     <string name="view_type_mode">Layout</string>
+</resources>

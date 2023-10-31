@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="btn_continue_record_description">Resume recording</string>
+     <string name="content_preview_ratio">1:1</string>
+     <string name="miuix_item_view_role_description">Tab</string>
+     <string name="miuix_navigator_content_switch_description">Show sidebar</string>
+     <string name="miuix_navigator_multiple_choice">Select</string>
+     <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
+     <string name="timer_format_two_sections" formatted="false">%02d:%02d</string>
+     <string name="toast_enter_silent_mode">Recording. Silent mode is on.</string>
+     <string name="toast_exit_silent_mode">Finished recording. Silent mode is off.</string>
+     <string name="trash_delete">Delete</string>
+</resources>

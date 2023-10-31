@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="hide_password_talkback">Hide password</string>
+     <string name="show_password_talkback">Show password</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="battery_auto_plug_wirelee_summary">Wireless charger connected successfully, test passed</string>
+     <string name="cit_btn_security_test_summary">"1.Please click the button and wait for a while, Pay attention to check the network status
+2.If Update Success pops up, it means that the widevine certificate has been updated successfully.
+3.If Certificate Update Failed pops up, it means that the widevine certificate has been updated Failed.
+4.This tool is not used as a regular test.
+5.This tool currently only works with XiaoMi Pad 6"</string>
+     <string name="cit_btn_security_test_text">Update Success</string>
+     <string name="cit_btn_security_text">Widevine Certificate Update</string>
+     <string name="cit_btn_security_text_title">Security Certificates Update</string>
+     <string name="cit_flash_timeout_tip">Test timed out, please re-enter flash test</string>
+     <string name="cit_lcdlight_title">Backlight Test</string>
+     <string name="cit_led_change">Select led strobe mode</string>
+     <string name="cit_led_continue">ever-bright</string>
+     <string name="cit_led_interval">adorable</string>
+     <string name="cit_led_negative">negative</string>
+     <string name="mic_reopen_tip">Please re-enter this test item for testing</string>
+     <string name="test_back_handset">Back handset test</string>
+     <string name="test_first_flash">First flash test</string>
+     <string name="test_flash">Flash test</string>
+     <string name="test_front_handset">Front handset test</string>
+     <string name="test_second_flash">Second flash test</string>
+</resources>

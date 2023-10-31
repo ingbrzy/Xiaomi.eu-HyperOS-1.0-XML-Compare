@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="checkbox_do_not_show_again">"Don't show again"</string>
+     <string name="close_smart_dual_sim">Cancel</string>
+     <string name="enable_2g_dialog_title">Attention</string>
+     <string name="enable_2g_dialog_warn_message">"If you turn off 2G and are in an area where 2G is the only network available, you won't be able to make any emergency or non-emergency calls. Turn off anyway?"</string>
+     <string name="enable_2g_summary">2G networks are less secure, but may improve connection quality in some locations</string>
+     <string name="enable_2g_title">Allow use of 2G</string>
+     <string name="no_ims_service_notification_content">Contact your service provider to address this issue.</string>
+     <string name="open_smart_dual_sim">Turn on</string>
+     <string name="prompt_to_suggest_no_ims_service_notification_title">"Can't use VoLTE service"</string>
+     <string name="smart_dual_sim_available_message">Turn on Smart dual SIM to improve video call quality. Turn on now?</string>
+     <string name="smart_dual_sim_available_title">Smart dual SIM</string>
+     <string name="volte_switch_globalization_prompt">This cellular network has not been verified for VoLTE on this device. Turning this feature on might affect battery life, calls, messages, voicemail, and mobile data usage.</string>
+     <string name="volte_switch_globalization_prompt_title">Attention</string>
+</resources>

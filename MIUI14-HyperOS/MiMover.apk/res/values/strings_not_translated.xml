@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="com.crashlytics.android.build_id">3aa18a9bd4d2480399fda9239eeb487a</string>
+     <string name="default_web_client_id">1049462411227-2t1l5macol9rmoupvj30n717p26vlmhg.apps.googleusercontent.com</string>
+     <string name="dialog_request_all_permission_content">"In order to transfer data from your old device to the new one, this app needs to connect to the internet and requires the following permissions:
+• Access photos, audio, and videos
+• Access messages, contacts, and call history
+• Access storage
+• Access the list of apps installed on the device"</string>
+     <string name="dialog_request_all_permission_title">Permissions required</string>
+     <string name="gcm_defaultSenderId">1049462411227</string>
+     <string name="google_api_key">AIzaSyD6F7XmMed-j-4aOCnRbdD3H2yJJkS8AD8</string>
+     <string name="google_app_id">1:1049462411227:android:ee23698df379c0903561fe</string>
+     <string name="google_crash_reporting_api_key">AIzaSyD6F7XmMed-j-4aOCnRbdD3H2yJJkS8AD8</string>
+     <string name="google_storage_bucket">mi-huanji.appspot.com</string>
+     <string name="miuix_appcompat_edit">Edit</string>
+     <string name="optional_per_access_camera">拍摄照片和录制视频</string>
+     <string name="optional_per_access_location">获取位置信息</string>
+     <string name="optional_per_access_media">读取图片/视频/音频</string>
+     <string name="optional_per_get_installed_packages">读取应用软件列表</string>
+     <string name="optional_per_read_call_log">读取通话记录</string>
+     <string name="optional_per_read_contacts">读取联系人信息</string>
+     <string name="optional_per_read_sms">读取短信内容</string>
+     <string name="optional_per_write_call_log">写入通话记录</string>
+     <string name="optional_per_write_contacts">写入联系人信息</string>
+     <string name="permission_about_storage_pad">Permission to access device storage is required</string>
+     <string name="project_id">mi-huanji</string>
+     <string name="provisiion_set_old_pad_summary">Use Mi Mover to import data from your old device without connecting to the internet</string>
+     <string name="provision_cta_title_pad">Transfer from old device</string>
+     <string name="provision_select_data_one">Select items to transfer</string>
+     <string name="provision_set_new_pad">Use as new device</string>
+     <string name="provision_set_old_pad">Import from old device</string>
+     <string name="receiver_video_summary_pad">Unlock your old device, tap \"Transfer\", and scan this image</string>
+     <string name="receiver_video_title_pad">Transfer from old device</string>
+</resources>

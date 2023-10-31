@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="after_sales_support">After-sales support</string>
+     <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="authority_introduction">Permissions manager is a basic service that allows you to manage app permissions on this device.</string>
+     <string name="default_font">Default</string>
+     <string name="font_settings_sub_title">Select system font</string>
+     <string name="font_settings_title">Font settings</string>
+     <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+     <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
+     <string name="font_use_case_text_example">Body</string>
+     <string name="font_use_case_title_example">Title</string>
+     <string name="get_imei_information">Access IMEI</string>
+     <string name="interconnection_service_summary_china">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. You can use Xiaomi Interconnectivity Services to control devices, transfer audio and video playback, combine device features, or start tasks on one device and continue with them in the same app on other connected devices. This app needs to connect to the internet and requires the following permissions:
+\u0009\u0009Mi Share:
+\u0009\u0009Access photos and files stored on the device
+\u0009\u0009For sending and receiving transferred content
+\u0009\u0009Access location info
+\u0009\u0009For transferring files over Bluetooth or Wi-Fi
+\u0009\u0009Turn Bluetooth on or off
+\u0009\u0009For discovering nearby devices to connect to via Bluetooth
+\u0009\u0009Turn Wi-Fi on or off
+\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
+\u0009\u0009Connect to nearby devices
+\u0009\u0009For discovering and connecting to nearby devices
+\u0009\u0009Transferring media playback (Mi Smart Play, casting):
+\u0009\u0009Turn Bluetooth on or off
+\u0009\u0009For discovering nearby devices to connect to via Bluetooth
+\u0009\u0009Turn Wi-Fi on or off
+\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
+\u0009\u0009Transfer items to other devices
+\u0009\u0009For establishing a Bluetooth connection between devices and transferring items
+\u0009\u0009Access location info
+\u0009\u0009For accessing the info of nearby devices
+\u0009\u0009Record internal device audio
+\u0009\u0009For transferring and playing audio between devices while casting and mirroring
+\u0009\u0009Access photos, videos, and audio stored on the device
+\u0009\u0009For sending and receiving transferred content
+\u0009\u0009Access device MAC address
+\u0009\u0009For recognizing connected devices
+\u0009\u0009Access screen content
+\u0009\u0009For accessing screen content while recording or casting, including sensitive information such as audio, passwords, payment passwords, photos, messages, etc.
+\u0009\u0009App handoff (cross-device app tasks, Home Screen+):
+\u0009\u0009Turn Bluetooth on or off
+\u0009\u0009For discovering nearby devices via Bluetooth
+\u0009\u0009Turn Wi-Fi on or off
+\u0009\u0009For discovering nearby devices to cast to via Wi-Fi
+\u0009\u0009Access device MAC address
+\u0009\u0009For recognizing connected devices
+\u0009\u0009Access photos, videos, and audio stored on the device
+\u0009\u0009For sending and receiving transferred content
+\u0009\u0009Transfer items to other devices
+\u0009\u0009For establishing a Bluetooth connection between devices and transferring content
+\u0009\u0009Record internal device audio
+\u0009\u0009For transferring and playing audio between devices while casting and mirroring
+\u0009\u0009Access screen content
+\u0009\u0009For accessing screen content while recording or casting, including sensitive information such as audio, passwords, payment passwords, photos, messages, etc.
+\u0009\u0009Operations with files (shared clipboard, using camera with Notes):
+\u0009\u0009Turn Bluetooth on or off
+\u0009\u0009For discovering nearby devices to connect to via Bluetooth
+\u0009\u0009Turn Wi-Fi on or off
+\u0009\u0009For discovering nearby devices to cast to via Wi-Fi
+\u0009\u0009Access photos, videos, and audio stored on the device
+\u0009\u0009For sending and receiving transferred content
+\u0009\u0009Access clipboard
+\u0009\u0009For allowing apps to access copied content
+\u0009\u0009Connecting devices together (boosting network speed, using keyboards, mice, and cameras):
+\u0009\u0009Turn Bluetooth on or off
+\u0009\u0009For discovering nearby devices to connect to via Bluetooth
+\u0009\u0009Turn Wi-Fi on or off
+\u0009\u0009For discovering nearby devices to cast to via Wi-Fi
+\u0009\u0009Access photos, videos, and audio stored on the device
+\u0009\u0009For sending and receiving transferred content
+\u0009\u0009Access camera
+\u0009\u0009For taking photos and recording video
+\u0009\u0009Controlling devices:
+\u0009\u0009Turn Bluetooth on and off
+\u0009\u0009For discovering nearby devices to connect to via Bluetooth
+\u0009\u0009 Turn Wi-Fi on and off
+\u0009\u0009For discovering nearby devices to cast to via Wi-Fi
+\u0009\u0009Record internal device audio
+\u0009\u0009For transferring and playing audio between devices while casting and mirroring
+\u0009\u0009Access photos, videos, and audio stored on the device
+\u0009\u0009For sending and receiving transferred content
+If you don't agree to grant these permissions, you won't be able to use these services.
+The available interconnectivity services may differ based on your system version and device model. Find more information at %s"</string>
+     <string name="official_website_real">www.miui.com</string>
+     <string name="permission_authority_describe">Access the list of apps installed on this device</string>
+     <string name="permission_authority_describe_applist_summary">For managing app permissions</string>
+     <string name="permission_get_imei_information_summary">For identifying device activation time</string>
+     <string name="permission_number">Access phone number</string>
+     <string name="permission_number_introduction">For establishing Bluetooth connection with car systems and Bluetooth earphones</string>
+     <string name="permission_qualcomm_describe_summary">For dynamically allocating system resources to different apps and organizing their work processes</string>
+     <string name="permission_quality_describe_summary">For collecting information about app crashes</string>
+     <string name="permission_uniquely_identifiable_information">Access unique identifiers of this device</string>
+     <string name="permission_uniquely_identifiable_information_summary">Access MAC address and device OAID for discovering, connecting, and communicating with other devices</string>
+     <string name="permission_use_bluetooth">Use Bluetooth</string>
+     <string name="permission_use_bluetooth_summary">For discovering, connecting, and communicating with devices nearby</string>
+     <string name="permission_use_wlan">Use Wi-Fi</string>
+     <string name="permission_use_wlan_summary">For discovering, connecting, and communicating with devices nearby</string>
+     <string name="phone_service_introduction">Telephony is a basic service that allows your device to make calls, send and receive messages, and connect to the network.</string>
+     <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier is a service that manages system processes.</string>
+     <string name="recommend_font">MiSans</string>
+     <string name="recommended_font_mark">Recommended</string>
+     <string name="require_base_authority_statement">"In order to provide basic services, the following permissions are required:
+\u0009\u0009\u0009Access IMEI and IMSI"</string>
+     <string name="require_basic_applist_and_authority_statement">In order to provide basic services, the following permissions are required:</string>
+     <string name="select_font_modele_tips">You can always select a new font in Themes</string>
+     <string name="service_name_authority">Permissions manager</string>
+     <string name="service_name_phone_service">Telephony</string>
+     <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
+     <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
+     <string name="system_update_title">System updates</string>
+     <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
+     <string name="terms_of_use_label_system_quality_monitoring">System quality monitoring</string>
+</resources>
