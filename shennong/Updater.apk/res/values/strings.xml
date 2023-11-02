@@ -71,7 +71,7 @@ Data will not be wiped."</string>
     <string name="no_mirror">All mirrors are currently offline, try later…</string>
     <string name="no_network">No network access.</string>
     <string name="no_update">You are up to date!</string>
-    <string name="no_xioamieu">"You are not using MIUI Rom created by Xiaomi.eu team!
+    <string name="no_xioamieu">"You are not using HyperOS Rom created by Xiaomi.eu team!
 Updates are not available for you!"</string>
     <string name="notif_cancel">Cancel</string>
     <string name="notif_install">Install</string>
@@ -89,7 +89,7 @@ Updates are not available for you!"</string>
     <string name="recovery_desc">Device will reboot to Recovery mode now. If you are not familiar with the mode, cancel future actions. Continue?</string>
     <string name="recovery_mode">Updater is in Recovery mode, you can flash ROMs in Updater!</string>
     <string name="server_error">Server not responding, application might not work properly!</string>
-    <string name="share_desc">Your MIUI version has been updated to %1$s, check latest changelog at: %2$s</string>
+    <string name="share_desc">Your HyperOS version has been updated to %1$s, check latest changelog at: %2$s</string>
     <string name="share_title">Share with</string>
     <string name="stable">Stable</string>
     <string name="status_bar_notification_info_overflow">999+</string>
