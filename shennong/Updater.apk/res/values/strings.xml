@@ -71,7 +71,7 @@ Data will not be wiped."</string>
     <string name="no_mirror">All mirrors are currently offline, try later…</string>
     <string name="no_network">No network access.</string>
     <string name="no_update">You are up to date!</string>
-    <string name="no_xioamieu">"You are not using HyperOS Rom created by Xiaomi.eu team!
+    <string name="no_xioamieu">"You are not using HyperOS ROM created by Xiaomi.eu team!
 Updates are not available for you!"</string>
     <string name="notif_cancel">Cancel</string>
     <string name="notif_install">Install</string>

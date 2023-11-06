@@ -272,6 +272,8 @@
         <item>com.unionpay/com.unionpay.activity.react.UPActivityReactNative</item>
         <item>cn.com.bmac.nfc/cn.com.bmac.nfc.ui.activity.QRMainActivity</item>
         <item>enfc.metro/enfc.metro.main.MainActivity</item>
+        <item>com.umetrip.android.msky.app/com.umetrip.android.msky.checkin.virtualcabin.activity.CkiLiveSeatMapRecordsActivity</item>
+        <item>com.umetrip.android.msky.app/com.umetrip.android.msky.checkin.boarding.activity.CkiBoardingCardActivity</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
