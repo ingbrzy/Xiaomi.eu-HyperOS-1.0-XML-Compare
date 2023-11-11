@@ -1,1 +1,0 @@
-Removed: [uk] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
