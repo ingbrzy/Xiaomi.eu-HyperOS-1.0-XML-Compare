@@ -483,8 +483,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">8d41ac3cf58646579d5cd55b6c5e2463</string>
-    <string name="com.miapm.build_id">afc170c79341469ea7c3ee375b5e103a</string>
+    <string name="com.crashlytics.android.build_id">448f9b69e7cf438b92db39a85dff21b3</string>
+    <string name="com.miapm.build_id">ea4a190e5f32450bbfa83eb94290735a</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -553,7 +553,7 @@ Toggle off to stop syncing."</string>
     <string name="confirm_privacy_password">Draw your unlock pattern</string>
     <string name="confirm_unbundled_phone_dialog_message">This phone number was associated with Mi Account %2$s on %1$s. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
     <string name="connection_lost">Disconnected</string>
-    <string name="content_center_title">111</string>
+    <string name="content_center_title">Content Center</string>
     <string name="content_collection_done">Added to favorites successfully</string>
     <string name="content_recommend">Recommended</string>
     <string name="content_recommend_trending_title">Google</string>
@@ -2197,15 +2197,15 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="privacy_agreement">User Agreement</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"This action requires uploading your Performance ID, which can't be done in Incognito mode. Leave Incognito mode and try again."</string>
     <string name="privacy_authorize_network_error">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="privacy_authorize_revoke">Revoke</string>
+    <string name="privacy_authorize_revoke">Withdraw</string>
     <string name="privacy_authorize_revoke_dialog_msg">After you revoke authorization, Mi Browser will stop collecting data, and all the related data will be deleted from the servers. This might make Mi Browser virtually unusable. Revoke authorization anyway?</string>
-    <string name="privacy_authorize_revoke_dialog_title">Revoking authorization</string>
-    <string name="privacy_authorize_revoke_failed">"Couldn't revoke authorization"</string>
-    <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
-    <string name="privacy_authorize_revoke_time">Revoke (%1$ds)</string>
-    <string name="privacy_authorize_revoking">Revoking authorization…</string>
-    <string name="privacy_authorize_summary">Toggle the switch on and off to grant or revoke your authorization</string>
-    <string name="privacy_authorize_title">Authorization</string>
+    <string name="privacy_authorize_revoke_dialog_title">Withdrawal of consent</string>
+    <string name="privacy_authorize_revoke_failed">"Couldn't withdraw consent"</string>
+    <string name="privacy_authorize_revoke_success">Consent withdrawn successfully</string>
+    <string name="privacy_authorize_revoke_time">Withdraw (%1$ds)</string>
+    <string name="privacy_authorize_revoking">Withdrawing consent…</string>
+    <string name="privacy_authorize_summary">Toggle the switch on and off to grant or withdraw your consent</string>
+    <string name="privacy_authorize_title">Withdrawal of consent</string>
     <string name="privacy_btn_more">More</string>
     <string name="privacy_disagree">"Don't agree"</string>
     <string name="privacy_improve_performance">User Experience Program</string>
@@ -2766,6 +2766,10 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
+    <string name="turn_off_dia_btn_cancel">Cancel</string>
+    <string name="turn_off_dia_btn_turn_off">Turn off</string>
+    <string name="turn_off_dia_content">"If you turn off Content Center, you won't be able to swipe up from the Home screen. You can edit the action for this gesture in Settings > Home screen. Turn off Content Center now?"</string>
+    <string name="turn_off_dia_title">Turn off Content Center?</string>
     <string name="twitter_moments">Twitter Moments</string>
     <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
     <string name="unSwitchText">NO</string>
@@ -2802,10 +2806,16 @@ Some sites won't use your previous browsing history to personalize their ads for
 You can always opt out in Settings > Privacy &amp; security."</string>
     <string name="user_experience_disagree">"Don't enroll"</string>
     <string name="user_experience_title">User Experience Program</string>
+    <string name="user_guide_agree">Agree</string>
     <string name="user_guide_color_mode_info">Light mode and Dark mode are available</string>
     <string name="user_guide_color_mode_title">Select color scheme</string>
     <string name="user_guide_control_privacy_tips">Be in full control of your privacy</string>
+    <string name="user_guide_disagree">"Don't agree"</string>
+    <string name="user_guide_privacy_message">Read and agree to our &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Privacy Policy&lt;/a>&lt;/font> and &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>User Agreement&lt;/a>&lt;/font> before using Content Center.</string>
+    <string name="user_guide_provide_service_content">Popular videos and news</string>
+    <string name="user_guide_provide_service_title">This feature provides the following services:</string>
     <string name="user_guide_read_info_tips">To be able to include apps in search results, Mi Browser needs to access the list of apps installed on your device.</string>
+    <string name="user_guide_turn_off_feature">To turn off this feature, tap &lt;font color=#0a84ff>&lt;u>here&lt;/u>&lt;/font>.</string>
     <string name="user_id_hint">Email/Phone/Mi Account ID</string>
     <string name="username">Name</string>
     <string name="uuid">UUID(Click To Export)</string>
@@ -3035,6 +3045,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_tab_status">Status</string>
     <string name="whatsapp_webpage_btn">View</string>
     <string name="whatsapp_webpage_tips">WhatsApp Status Saver</string>
+    <string name="withdraw_dia_content">If you withdraw your consent to the Privacy Policy of Content Center, this feature will cease to collect your personal information. Any personal information previously collected and uploaded to our servers will be deleted. Once you withdraw your consent, you will no longer be able to use Content Center. Withdraw consent now?</string>
     <string name="xiaomi_sign_in_btn_txt">Sign in or create account</string>
     <string name="yandex_ads_context">yandex:ads:context</string>
     <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
