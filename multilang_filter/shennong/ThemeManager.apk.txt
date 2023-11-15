@@ -1,4 +1,3 @@
-Removed: [be] strings.xml: string/health_chart_sleep_time_format (format mismatch)
 Removed: [fi] strings.xml: string/dynamic_video_wallpaper (format mismatch)
 Removed: [fi] strings.xml: string/resource_comment_1_star (format mismatch)
 Removed: [fi] strings.xml: string/resource_comment_2_star (format mismatch)

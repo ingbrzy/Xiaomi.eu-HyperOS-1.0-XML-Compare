@@ -1,1 +1,0 @@
-Removed: [pt-rBR] strings.xml: string/smart_style_summary (duplicate)
