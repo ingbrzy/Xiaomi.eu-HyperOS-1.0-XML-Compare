@@ -72,7 +72,7 @@
     <string name="app_name">Package installer</string>
     <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
     <string name="app_not_found_dlg_title">App not found</string>
-    <string name="app_store_has_safe_version">Download secure version from GetApps</string>
+    <string name="app_store_has_safe_version">Download secure version from a trusted source</string>
     <string name="app_version_format">Version: %1$s</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_type_face">Face</string>
@@ -410,12 +410,12 @@
     <string name="ignore_virus_install_text_clickable">Install anyway</string>
     <string name="install_abi_error">"This app isn't compatible with the 32-bit architecture"</string>
     <string name="install_abi_error_des">Install the 32-bit version of this app instead</string>
-    <string name="install_abi_error_des_market">Download the 32-bit version of this app from GetApps</string>
+    <string name="install_abi_error_des_market">Download the 32-bit version of this app from a trusted source</string>
     <string name="install_app_loading">Checking installation package…</string>
     <string name="install_apps_user_restriction_dlg_text">This user is not allowed to install apps</string>
     <string name="install_completed_pure_open_tip_title">Turn on Mi Protect to block risky apps and ensure your security.</string>
     <string name="install_package_error">"This app isn't compatible with your system"</string>
-    <string name="install_package_error_des">Contact the developer or install a compatible version from GetApps.</string>
+    <string name="install_package_error_des">Contact the developer or install a compatible version from a trusted source.</string>
     <string name="install_package_error_four">Installing this app may cause security risks</string>
     <string name="install_package_error_four_des">Uninstall this app or turn off permissions to install apps from unknown sources</string>
     <string name="install_source">Source</string>
@@ -427,7 +427,7 @@
     <string name="install_version">Version: %1$s</string>
     <string name="install_version_replace">Version: %1$s > %2$s</string>
     <string name="isntall_failed_verification">"Couldn't check this installation package. This app might not be compatible with the current version of Android."</string>
-    <string name="isntall_failed_verification_resolve_uggestion">Try to find a replacement for this app in GetApps</string>
+    <string name="isntall_failed_verification_resolve_uggestion">Try to find a replacement for this app from a trusted source</string>
     <string name="item_view_role_description">Tab</string>
     <string name="label">Label</string>
     <string name="learn_bundle_app_install">Learn more</string>
@@ -507,10 +507,10 @@
     <string name="miui_failed_solution_4">Free up storage in Security > Cleaner and try again.</string>
     <string name="miui_failed_solution_5">Try using a compatible installation package.</string>
     <string name="miui_failed_solution_6">Delete the already installed version and try to install again.</string>
-    <string name="miui_failed_solution_7">Download the latest version of this app in GetApps.</string>
-    <string name="miui_failed_solution_8">Download the app from GetApps.</string>
+    <string name="miui_failed_solution_7">Download the latest version of this app from a trusted source.</string>
+    <string name="miui_failed_solution_8">Download the app from a trusted source.</string>
     <string name="miui_failed_solution_retry_later">Wait a minute or two and try again</string>
-    <string name="miui_failed_solution_to_market">Install this app from GetApps</string>
+    <string name="miui_failed_solution_to_market">Install this app from a trusted source</string>
     <string name="miui_failed_system_incompatible">Incompatible installation package</string>
     <string name="miui_failed_update_incompatible">Conflicting app signatures</string>
     <string name="miui_failed_version_downgrade">"Can't downgrade apps"</string>

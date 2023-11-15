@@ -190,6 +190,7 @@
     <string name="download_status_paused">Pause</string>
     <string name="download_success">Download complete</string>
     <string name="download_wait_connect">Waiting to connect</string>
+    <string name="download_waiting">Pending</string>
     <string name="downloaded_empty">Empty</string>
     <string name="downloading">Downloading…</string>
     <string name="downloading_empty">Empty</string>
