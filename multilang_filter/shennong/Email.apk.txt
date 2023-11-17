@@ -1,4 +1,3 @@
-Removed: [be] plurals.xml: plurals/in_a_hour (format mismatch)
 Removed: [bg] strings.xml: string/certificate_added (format mismatch)
 Removed: [bg] strings.xml: string/certificate_add_failed (format mismatch)
 Removed: [cs] arrays.xml: array/signature_normal_string_array (item mismatch)
