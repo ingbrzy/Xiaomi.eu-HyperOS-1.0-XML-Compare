@@ -244,6 +244,7 @@ Removed: [ru] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (item mi
 Removed: [ru] arrays.xml: array/bluetooth_a2dp_codec_summaries (item mismatch)
 Removed: [ru] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
 Removed: [ru] strings.xml: string/bluetooth_pairing_pin_error_message (format mismatch)
+Removed: [ru] strings.xml: string/cloned_app_info_label (format mismatch)
 Removed: [ru] strings.xml: string/see_all_apps_title (format mismatch)
 Removed: [sk-rSK] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (item mismatch)
 Removed: [sk-rSK] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (item mismatch)
