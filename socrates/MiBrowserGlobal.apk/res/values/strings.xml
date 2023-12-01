@@ -483,8 +483,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">37e15f25aa1143b78d636644664c8178</string>
-    <string name="com.miapm.build_id">a616c1fbef904cd8ba03236acb50afb5</string>
+    <string name="com.crashlytics.android.build_id">6b82253a292f49e8b6c54127134786a5</string>
+    <string name="com.miapm.build_id">608cec17e49b4524adfbb9d7897ebdbd</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -620,11 +620,6 @@ Pages you view won't appear in history."</string>
     <string name="debug_user_firebase_config_search_hint">Search config</string>
     <string name="debug_youtube_file">Debug youtube file</string>
     <string name="debug_youtube_in_release">Debug youtube in release</string>
-    <string name="decompress">Extract</string>
-    <string name="decompress_fail">"Couldn't extract"</string>
-    <string name="decompress_success">Extracted successfully</string>
-    <string name="decompress_view">View</string>
-    <string name="decompress_viewer_label">Archive manager (Mi Browser)</string>
     <string name="decompressed_files">Extracted files</string>
     <string name="deeplink_intrercept_hint">This popup will suggest opening an app.</string>
     <string name="deeplink_intrercept_second_hint">The website is about to open an app. Stopped this action for now.</string>
@@ -1736,6 +1731,10 @@ Leave this page now?"</string>
     <string name="news_load_failed">Tap to try again</string>
     <string name="news_loading">Loading…</string>
     <string name="news_native_see_all">Full article</string>
+    <string name="news_video_history">History</string>
+    <string name="news_video_history_empty">Nothing here yet</string>
+    <string name="news_video_invisible_item">"Can't view this video"</string>
+    <string name="news_video_no_more_videos">"That's all for now"</string>
     <string name="next">Next</string>
     <string name="nf_choose_reason">Describe the issue</string>
     <string name="nf_content_gif_label">GIF</string>
@@ -2848,6 +2847,9 @@ You can always opt out in Settings > Privacy &amp; security."</string>
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"Couldn't download this item"</string>
     <string name="video_downloader_retry">Try again</string>
+    <string name="video_feedback_description">We collect and use the information you enter above in order to improve your user experience. To learn more about how we collect and process your personal information, refer to our Privacy Policy.</string>
+    <string name="video_feedback_description_title">This information will be used only for content recommendations</string>
+    <string name="video_feedback_not_sumbit_toast">Select an answer before submitting</string>
     <string name="video_guess_you_like">You might like</string>
     <string name="video_play_next">Up next</string>
     <string name="video_replay_btn">Replay</string>
