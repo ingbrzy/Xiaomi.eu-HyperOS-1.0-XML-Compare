@@ -13,14 +13,14 @@
     <string name="weather_type_2">Bedeckt</string>
     <string name="weather_type_3">Neblig</string>
     <string name="weather_type_4">Starkregen</string>
-    <string name="weather_type_5">Regenschauer</string>
+    <string name="weather_type_5">Platzregen</string>
     <string name="weather_type_6">Regensturm</string>
     <string name="weather_type_7">Gewitter</string>
     <string name="weather_type_8">Regen</string>
-    <string name="weather_type_9">Starke Regenfälle</string>
+    <string name="weather_type_9">Schwere Regenfälle</string>
     <string name="weather_type_10">Mäßiger Regen</string>
     <string name="weather_type_11">Nieselregen</string>
-    <string name="weather_type_12">Graupel</string>
+    <string name="weather_type_12">Schneeregen</string>
     <string name="weather_type_13">Schneesturm</string>
     <string name="weather_type_14">Schneefall</string>
     <string name="weather_type_15">Starker Schneefall</string>
