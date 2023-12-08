@@ -1,0 +1,6 @@
+Removed: [ko] arrays.xml: array/nf_feedback_reason (item mismatch)
+Removed: [ko] plurals.xml: plurals/le_notification_download_completed (format mismatch)
+Removed: [sl] plurals.xml: plurals/le_notification_download_completed (format mismatch)
+Removed: [uk] plurals.xml: plurals/le_notification_download_completed (format mismatch)
+Removed: [vi] arrays.xml: array/nf_feedback_reason (item mismatch)
+Removed: [vi] plurals.xml: plurals/le_notification_download_completed (format mismatch)
