@@ -1,0 +1,2 @@
+Removed: [fr] strings.xml: string/arriérés_sim_title (invalid name)
+Removed: [vi] strings.xml: string/ hide_error_from_network_text (invalid name)
