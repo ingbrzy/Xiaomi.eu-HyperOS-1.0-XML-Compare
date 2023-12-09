@@ -77,6 +77,7 @@ MM/dd"</string>
     <string name="aod_mode_time_summary">Schedule time to turn Always on mode on and off</string>
     <string name="aod_mode_time_title">Schedule</string>
     <string name="aod_mode_title">Always-on display</string>
+    <string name="aod_notification_use_app_icon">Use app icons for notifications</string>
     <string name="aod_show_date_and_time">Show date and time</string>
     <string name="aod_show_style_title">Display items</string>
     <string name="aod_signature_12">hh:mm aa</string>
