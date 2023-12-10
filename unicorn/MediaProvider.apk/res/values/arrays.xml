@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_supported_transcoding_relative_paths">
+        <item>DCIM/Camera/</item>
+    </string-array>
+    <array name="config_supported_uncached_relative_paths" />
+</resources>
