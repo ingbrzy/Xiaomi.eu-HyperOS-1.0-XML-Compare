@@ -294,6 +294,9 @@ Toggle off to stop syncing."</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
     <string name="browserFrameNetworkErrorLabel">Connection error</string>
+    <string name="browser_slide_video_history">Recent</string>
+    <string name="browser_slide_video_like">Liked</string>
+    <string name="browser_slide_video_my">Profile</string>
     <string name="browser_wallpaper">Wallpapers</string>
     <string name="browser_wallpaper_activity">Promotions</string>
     <string name="browser_wallpaper_application">Apply</string>
@@ -483,8 +486,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">6b82253a292f49e8b6c54127134786a5</string>
-    <string name="com.miapm.build_id">608cec17e49b4524adfbb9d7897ebdbd</string>
+    <string name="com.crashlytics.android.build_id">34bc7da583784f9ab1478576c026586e</string>
+    <string name="com.miapm.build_id">452d4f0867c941b99e4e0d425684d213</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -1251,6 +1254,7 @@ Send this code to the supervisor."</string>
     <string name="list_menu_rename_file">Rename</string>
     <string name="list_menu_rename_result_fail">"Couldn't rename"</string>
     <string name="list_menu_rename_result_repeat">File with this name already exists</string>
+    <string name="load_failure">"Couldn't load"</string>
     <string name="load_more">View more</string>
     <string name="loading">Just a sec…</string>
     <string name="loading_tips">Pull down to refresh</string>
@@ -2850,6 +2854,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_feedback_description">We collect and use the information you enter above in order to improve your user experience. To learn more about how we collect and process your personal information, refer to our Privacy Policy.</string>
     <string name="video_feedback_description_title">This information will be used only for content recommendations</string>
     <string name="video_feedback_not_sumbit_toast">Select an answer before submitting</string>
+    <string name="video_feedback_thanks">Thanks for your feedback</string>
     <string name="video_guess_you_like">You might like</string>
     <string name="video_play_next">Up next</string>
     <string name="video_replay_btn">Replay</string>
@@ -2922,6 +2927,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Delete</string>
     <string name="web_ad_clear_dialog_msg">Delete ad tags from \"%s\" now?</string>
     <string name="web_ad_clear_dialog_title">Delete ad tag</string>
+    <string name="web_app_center">Mini programs</string>
     <string name="web_enhance_dialog_cancel">Cancel</string>
     <string name="web_enhance_dialog_confirm">OK</string>
     <string name="web_enhance_dialog_msg">Start blocking ads on %s now?</string>
