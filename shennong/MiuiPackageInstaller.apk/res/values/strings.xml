@@ -974,8 +974,6 @@
     <string name="safe_mode_tip_title_off_msg">Mi Protect is off</string>
     <string name="safe_mode_tip_title_on_msg">Mi Protect</string>
     <string name="safe_mode_title_text">Mi Protect</string>
-    <string name="safe_space_tip_dialog_description">“%1$s”未经小米安全审核，无法确认其安全性。为保护设备安全、隐私安全，以下保护措施已启用：</string>
-    <string name="safe_space_tip_dialog_title">已为您启用以下保护措施</string>
     <string name="safe_version_install">Secure version</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
@@ -1221,7 +1219,7 @@ come from"</string>
     <string name="unrecorded_app_dialog_tips_clickable_msg_default">了解备案政策</string>
     <string name="unrecorded_app_dialog_tips_help">若您信任该应用，请前往右上角 “ ︙ > 单次安装授权”中允许本次安装</string>
     <string name="unrecorded_app_dialog_tips_msg_default">该应用未依照政策要求进行应用备案，如果您的利益受到侵害，可能无法联系到此应用的开发者，请谨慎安装！了解备案政策</string>
-    <string name="unrecorded_app_dialog_tips_title_default">发现高风险应用</string>
+    <string name="unrecorded_app_dialog_tips_title_default">风险详情</string>
     <string name="unrecorded_app_tips_des_1_clickable_default">了解备案政策</string>
     <string name="unrecorded_app_tips_des_1_default">依据相关政策要求，未备案应用存在仿冒风险，不建议下载和安装，该应用未经小米安全检测和应用备案校验，请谨慎下载。了解备案政策</string>
     <string name="unrecorded_app_tips_des_2_clickable_default">前往申诉</string>
@@ -1230,13 +1228,13 @@ come from"</string>
     <string name="unrecorded_risk_app">发现风险应用</string>
     <string name="unrecorded_risk_app_description">根据相关法规及监管要求，禁止安装该应用！</string>
     <string name="unrecorded_risk_app_description_2">如您是开发者，可前往申诉</string>
-    <string name="unrecorded_risk_app_description_temp">如果您的利益受到侵害，可能无法联系到此应用的开发者，请谨慎安装！</string>
+    <string name="unrecorded_risk_app_description_temp">该应用未依照政策要求进行应用备案，如果您的利益受到侵害，可能无法联系到此应用的开发者，请谨慎安装！</string>
     <string name="untrusted_external_source_title">Allow \"%1$s\" to install apps?</string>
     <string name="untrusted_external_source_warning_summary">Your device and personal data are more vulnerable to attack by unknown apps. By installing apps from this source, you agree that you are responsible for any damage to your device or loss of data that may result from their use.</string>
     <string name="update_start">Update</string>
     <string name="uri_no_permission">Unable to read file,permission denied</string>
     <string name="user_is_not_allowed_dlg_text">The current user is not allowed to perform this uninstallation.</string>
-    <string name="using_enhanced_protection">"建议开启
+    <string name="using_enhanced_protection">"安全升级
 增强防护模式"</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
