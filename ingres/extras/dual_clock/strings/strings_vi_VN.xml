@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">EEE, MMM dd</string>
+    <string name="date_time_12">EEE, MMM dd</string>
+    <string name="location">Địa phương</string>
+    <string name="resident_city">Đồng hồ thứ hai</string>
+    <string name="RTL">0</string>
+    <string name="clock_local">Địa phương</string>
+    <string name="clock_city">Thành phố</string>
+</resources>
