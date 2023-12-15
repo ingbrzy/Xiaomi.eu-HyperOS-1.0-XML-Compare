@@ -1,0 +1,1 @@
+Removed: [hr] strings.xml: string/ear_scan_process_text (format mismatch)
