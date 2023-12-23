@@ -125,6 +125,7 @@
     <string name="app_permission_use_group_storage">Storage</string>
     <string name="app_permission_use_group_storage_desc">For finding and playing songs saved on device</string>
     <string name="app_resident_push_switch">Allow permanent notifications</string>
+    <string name="app_third_privacy">Third party privacy policies</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply_for_the_following_permissions">This app requests the following permissions:</string>
     <string name="apply_permissions_greater_than_pie">You can grant this permission in Settings > Apps > Permissions > Permissions > Files and media > Music.</string>
@@ -323,8 +324,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">40c8ade138b040b18d01efbc4f025d92</string>
-    <string name="com.miapm.build_id">54efe2dddaa841d6b5cdc43fe77bd527</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">c9bea3bfb5b343438dc1081151b394b5</string>
+    <string name="com.miapm.build_id">7967de020cb147ed90305515fe078814</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
