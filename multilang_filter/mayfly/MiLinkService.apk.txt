@@ -1,3 +1,2 @@
 Removed: [it] strings.xml: string/privacy_detail (format mismatch)
-Removed: [ko] strings.xml: string/privacy_detail (format mismatch)
 Removed: [ro] strings.xml: string/privacy_detail (format mismatch)
