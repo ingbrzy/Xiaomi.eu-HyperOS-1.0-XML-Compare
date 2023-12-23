@@ -1,8 +1,5 @@
 Removed: [ca] arrays.xml: array/unit_data_order_currency_ (item mismatch)
-Removed: [es-rUS] arrays.xml: array/unit_data_order_currency_ (item mismatch)
-Removed: [es] arrays.xml: array/unit_data_order_currency_ (item mismatch)
 Removed: [fr] arrays.xml: array/unit_data_order_currency_ (item mismatch)
 Removed: [it] arrays.xml: array/unit_data_order_currency_ (item mismatch)
-Removed: [pt-rBR] strings.xml: string/rate_number_first_house (format mismatch)
 Removed: [ro] arrays.xml: array/unit_data_order_currency_ (item mismatch)
 Removed: [ru] arrays.xml: array/unit_data_order_currency_ (item mismatch)
