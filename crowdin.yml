@@ -5,18 +5,18 @@ files:
       - '*_not_translated.xml'
       - '*_size_mismatch.xml'
       - '**-%locale_with_underscore%/*.xml'
-      - '/MIUI14-HyperOS/**'
-      - '/diting/**'
-      - '/fuxi/**'
-      - '/ingres/**'
-      - '/ishtar/**'
-      - '/mayfly/**'
-      - '/mondrian/**'
-      - '/multilang_filter/**'
-      - '/nuwa/**'
-      - '/shennong/**'
-      - '/socrates/**'
-      - '/thor/**'
-      - '/unicorn/**'
-      - '/zeus/**'
-    translation: /%original_path%-%locale_with_underscore%/%original_file_name%
+      - /MIUI14-HyperOS/**/*.xml
+      - /diting/**/*.xml
+      - /fuxi/**/*.xml
+      - /ingres/**/*.xml
+      - /ishtar/**/*.xml
+      - /mayfly/**/*.xml
+      - /mondrian/**/*.xml
+      - /multilang_filter/**/*.xml
+      - /nuwa/**/*.xml
+      - /shennong/**/*.xml
+      - /socrates/**/*.xml
+      - /thor/**/*.xml
+      - /unicorn/**/*.xml
+      - /zeus/**/*.xml
+    translation: /%original_path%-%android_code%/%original_file_name%
