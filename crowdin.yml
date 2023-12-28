@@ -1,0 +1,22 @@
+files:
+  - source: '*.xml'
+    ignore:
+      - '**/strings/*.xml'
+      - '*_not_translated.xml'
+      - '*_size_mismatch.xml'
+      - '**-%locale_with_underscore%/*.xml'
+      - '/MIUI14-HyperOS/**'
+      - '/diting/**'
+      - '/fuxi/**'
+      - '/ingres/**'
+      - '/ishtar/**'
+      - '/mayfly/**'
+      - '/mondrian/**'
+      - '/multilang_filter/**'
+      - '/nuwa/**'
+      - '/shennong/**'
+      - '/socrates/**'
+      - '/thor/**'
+      - '/unicorn/**'
+      - '/zeus/**'
+    translation: /%original_path%-%locale_with_underscore%/%original_file_name%
