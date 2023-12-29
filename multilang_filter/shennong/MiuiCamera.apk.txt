@@ -1,8 +1,6 @@
-Removed: [be] strings.xml: string/cine_image_modify_layout_content_description (duplicate)
 Removed: [cs] strings.xml: string/street_tip_near (format mismatch)
 Removed: [es] strings.xml: string/dolly_zoom_capture_tip1 (format mismatch)
 Removed: [ro] strings.xml: string/mtrl_picker_navigate_to_year_description (format mismatch)
 Removed: [ro] strings.xml: string/street_tip_near (format mismatch)
 Removed: [sk] strings.xml: string/street_tip_near (format mismatch)
-Removed: [sl] strings.xml: string/mtrl_picker_navigate_to_year_description (format mismatch)
 Removed: [vi] strings.xml: string/update_loading (format mismatch)

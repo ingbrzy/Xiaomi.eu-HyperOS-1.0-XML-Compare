@@ -1,5 +1,3 @@
-Removed: [ca] arrays.xml: array/unit_data_order_currency_ (item mismatch)
 Removed: [fr] arrays.xml: array/unit_data_order_currency_ (item mismatch)
 Removed: [it] arrays.xml: array/unit_data_order_currency_ (item mismatch)
 Removed: [ro] arrays.xml: array/unit_data_order_currency_ (item mismatch)
-Removed: [ru] arrays.xml: array/unit_data_order_currency_ (item mismatch)
