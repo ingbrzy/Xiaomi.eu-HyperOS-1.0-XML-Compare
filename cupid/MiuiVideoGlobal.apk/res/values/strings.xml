@@ -91,7 +91,6 @@
     <string name="afternoon">Afternoon</string>
     <string name="agree">Agree</string>
     <string name="agree_and_continue">Agree</string>
-    <string name="agree_label">Agree</string>
     <string name="ai_animation_music_text">AI soundtrack</string>
     <string name="ai_music_save_cancel">Cancel</string>
     <string name="ai_music_save_dialog_title">Save</string>
@@ -143,7 +142,6 @@
     <string name="btn_playlist_play_all">Play</string>
     <string name="cancel">Cancel</string>
     <string name="cancel_choose">Deselect</string>
-    <string name="cancel_label">X</string>
     <string name="cancel_subscribe_tips">Unfollow now?</string>
     <string name="cast_ad_label">Ad</string>
     <string name="cast_casting_to_device">Casting to %1$s</string>
@@ -295,8 +293,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">8908d6c820da4428a275152ac696ff9b</string>
-    <string name="com.miapm.build_id">c032c0a4b5cf44e894e1f44dfd02393f</string>
+    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
+    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -362,8 +360,6 @@
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="day">day</string>
     <string name="default_localization_key">system</string>
-    <string name="default_message_body">message body</string>
-    <string name="default_title">Title</string>
     <string name="default_upgrade_hint">"Hi there!
 Mi Video is ready for an update.
 Update the app now to check out our new cool features!
@@ -1725,7 +1721,6 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="recommend_slide_to_more">Swipe for more</string>
     <string name="recommend_switch_alert">To remove this section, go to settings in Mi Video</string>
     <string name="recommend_to_you">Recommended to you</string>
-    <string name="reject_all_label">Reject All</string>
     <string name="reload_sub_title">Tap to try again.</string>
     <string name="reload_title">"Couldn't connect to the network."</string>
     <string name="remaining_space">Available: %s</string>
@@ -1803,7 +1798,6 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="share_ugc_join">Join</string>
     <string name="share_ugc_waitting">Generating link…</string>
     <string name="shorts_assemble_ad_recommend">Recommended</string>
-    <string name="show_options_label">Show Options</string>
     <string name="show_the_location">Notification types</string>
     <string name="sign_in">Signing in</string>
     <string name="sign_in_google_account">Sign in with Google</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="electric_dimension_ratio">584:174</string>
+    <string name="intercept_dimension_ratio">279.5:174</string>
+    <string name="intercept_net_split_image_ratio">1008:480</string>
+</resources>

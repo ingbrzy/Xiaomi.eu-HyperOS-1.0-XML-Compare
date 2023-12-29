@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="page_layout_margins_godzilla">
+        <item>770</item>
+        <item>1167</item>
+        <item>1594</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_godzilla_global">
+        <item>1287</item>
+        <item>1678</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_huge">
+        <item>770</item>
+        <item>1167</item>
+        <item>1594</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_huge_global">
+        <item>1287</item>
+        <item>1678</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_large">
+        <item>770</item>
+        <item>1167</item>
+        <item>1594</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_large_global">
+        <item>1273</item>
+        <item>1667</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_medium">
+        <item>770</item>
+        <item>1167</item>
+        <item>1594</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_medium_global">
+        <item>1273</item>
+        <item>1667</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_normal">
+        <item>770</item>
+        <item>1167</item>
+        <item>1594</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_normal_global">
+        <item>1273</item>
+        <item>1667</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_small">
+        <item>770</item>
+        <item>1167</item>
+        <item>1594</item>
+    </integer-array>
+    <integer-array name="page_layout_margins_small_global">
+        <item>1273</item>
+        <item>1667</item>
+        <item>-1</item>
+    </integer-array>
+</resources>
