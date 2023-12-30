@@ -1,4 +1,3 @@
-Removed: [cs] strings.xml: string/ai_input_name_hint (duplicate)
 Removed: [fr] plurals.xml: plurals/share_album_sync_textline_oversize (missing quantity)
 Removed: [it] strings.xml: string/backup_pause_title (format mismatch)
 Removed: [ja] strings.xml: string/photo_editor_navigator_download_network_metered_msg (format mismatch)
