@@ -4,7 +4,7 @@ files:
       - '**/strings/*.xml'
       - '*_not_translated.xml'
       - '*_size_mismatch.xml'
-      - '**-%locale_with_underscore%/*.xml'
+      - '**-%android_code%/*.xml'
       - /MIUI14-HyperOS/**/*.xml
       - /diting/**/*.xml
       - /fuxi/**/*.xml
