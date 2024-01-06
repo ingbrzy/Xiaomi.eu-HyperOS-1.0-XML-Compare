@@ -30,6 +30,7 @@ Removed: [ne-rIN] strings.xml: string/circulate_headset_back_to_box_desc_err_310
 Removed: [ne-rNP] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
 Removed: [or-rIN] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
 Removed: [pa-rIN] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
+Removed: [pt-rBR] arrays.xml: plurals/remember_number_habit (unexpected type)
 Removed: [ro] strings.xml: string/privacy_detail (format mismatch)
 Removed: [sq-rAL] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
 Removed: [sw] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
