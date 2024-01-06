@@ -204,6 +204,18 @@
         <item>@drawable/music_icon_d_8</item>
         <item>@drawable/music_icon_d_9</item>
     </array>
+    <array name="cover_icon_n_arrays">
+        <item>@drawable/music_icon_d_n_0</item>
+        <item>@drawable/music_icon_d_n_1</item>
+        <item>@drawable/music_icon_d_n_2</item>
+        <item>@drawable/music_icon_d_n_3</item>
+        <item>@drawable/music_icon_d_n_4</item>
+        <item>@drawable/music_icon_d_n_5</item>
+        <item>@drawable/music_icon_d_n_6</item>
+        <item>@drawable/music_icon_d_n_7</item>
+        <item>@drawable/music_icon_d_n_8</item>
+        <item>@drawable/music_icon_d_n_9</item>
+    </array>
     <array name="desktop_lyric_seekbar_track_color">
         <item>#ff13baff</item>
         <item>#ff616acb</item>

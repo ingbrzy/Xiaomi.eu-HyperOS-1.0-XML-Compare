@@ -4,7 +4,7 @@
     <string name="date_time_12">EEE, d. MMMM</string>
     <string name="desc_date_format">EEEE, d. MMM</string>
     <string name="desc_date_format_12">EEEE, d. MMM</string>
-    <string name="desc_time">'Aktuelle Zeit' + #hour12+' '+ifelse(#minute,#minute,'Uhr')+', Doppeltipp zum Öffnen der Uhr'</string>
+    <string name="desc_time">'Aktuelle Zeit' + #hour12+' '+ifelse(#minute,#minute,'Uhr')</string>
     <string name="weather_type_null">'Keine Daten'</string>
     <string name="weather_type_0">Klar</string>
     <string name="weather_type_1">Bewölkt</string>

@@ -1,2 +1,1 @@
-Removed: [ro] strings.xml: string/check_contact (duplicate)
 Removed: [sk] strings.xml: string/device_activation_card_description_china (format mismatch)

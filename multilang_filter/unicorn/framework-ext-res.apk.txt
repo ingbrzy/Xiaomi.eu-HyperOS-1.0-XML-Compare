@@ -1,1 +1,7 @@
+Removed: [ca-rES] strings.xml: string/application_not_install_content (format mismatch)
+Removed: [ca-rES] strings.xml: string/auto_start_warning_allow (format mismatch)
+Removed: [ca-rES] strings.xml: string/auto_start_warning_deny (format mismatch)
+Removed: [ca-rES] strings.xml: string/blues (format mismatch)
+Removed: [ca-rES] strings.xml: string/fairyland (format mismatch)
+Removed: [ca-rES] strings.xml: string/guitar (format mismatch)
 Removed: [it-rIT] strings.xml: string/wireless_charging_notification_message2 (format mismatch)

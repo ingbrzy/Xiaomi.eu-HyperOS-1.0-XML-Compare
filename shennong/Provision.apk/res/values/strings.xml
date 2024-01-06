@@ -56,6 +56,8 @@
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Provision</string>
+    <string name="application_extension_service">Application extension services</string>
+    <string name="application_extension_service_introduction">Application extension services will provide you with sign-in and verification features. In order to provide basic services, this app needs the following permissions:</string>
     <string name="application_package_introduction">Package installer is used for installing third-party apps, including pre-installation scanning and post-installation app recommendation services.</string>
     <string name="application_permissions">App permissions</string>
     <string name="aquire_device_info">Access device info</string>
@@ -323,6 +325,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="install_preinstall_app">Loading apps…</string>
     <string name="intent_filter_verification_service">Intent Filter Verification Service</string>
     <string name="interconnection_communication_introduction">Xiaomi Internet Communication Services lets you discover, connect, and communicate with other devices.</string>
+    <string name="interconnection_service_global_item_title">Xiaomi Interconnectivity</string>
+    <string name="interconnection_service_global_label">"&lt;Data>Xiaomi Interconnectivity allows your devices to interact with each other wirelessly. By toggling this switch on, you're agreeing to the Xiaomi Interconnectivity's &lt;a href=%1$s>Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="interconnection_service_summary_china">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Play, casting, app handoff, Home screen+, shared clipboard, cross-device image capture, network assistance, shared keyboards and mice, shared camera, and Mi Smart Hub.To be able to work normally, Xiaomi Interconnectivity Services need to connect to the internet and require the following permissions:
 \u0009\u0009Mi Smart Play and casting:
 \u0009\u0009Turn Bluetooth on or off
@@ -385,6 +389,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009For sending and receiving transferred content
 If you don't agree to grant these permissions, you won't be able to use these services.
 Avavailable interconnectivity services may differ based on your system version and device model. Find more information at %s."</string>
+    <string name="interconnection_service_summary_global">"Xiaomi Interconnectivity features may vary depending on device model and system version. Visit the system's official website to learn more."</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">"If your device goes missing, you won't be able to prevent other people from using it and accessing your data unless you set a screen lock. Skip anyway?"</string>
     <string name="item_facerecognition">Face unlock</string>
@@ -596,6 +601,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="permission_make_a_call_fast_application_summary">For allowing quick apps to make calls;</string>
     <string name="permission_media_storage_summary">For checking how apps use privacy-related permissions while accessing files</string>
     <string name="permission_message_introduction">For sending messages to blocked contacts</string>
+    <string name="permission_not_agree_service_not_working">"If you don't agree to the aforementioned required permissions, you won't be able to use this service."</string>
     <string name="permission_number">Access phone number</string>
     <string name="permission_number_introduction">For establishing Bluetooth connection with car systems and Bluetooth earphones</string>
     <string name="permission_phone_imei_device">For accessing IMEI in order to identify devices</string>
@@ -644,6 +650,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="permission_recording_introduction">For recording audio while recording video</string>
     <string name="permission_screen_shoot_introduction">For accessing and saving screen recordings</string>
     <string name="permission_send_message">Send SMS</string>
+    <string name="permission_sms_verification_code_login">For providing SMS verification for quick sign-in</string>
     <string name="permission_uniquely_identifiable_information">Access unique identifiers of this device</string>
     <string name="permission_uniquely_identifiable_information_summary">Access MAC address and device OAID for discovering, connecting, and communicating with other devices</string>
     <string name="permission_use_bluetooth">Use Bluetooth</string>
@@ -690,6 +697,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="provision_skip_underline">Skip</string>
     <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier is a service that manages system processes.</string>
     <string name="read_application_info">Access app info</string>
+    <string name="read_sms_and_mms">Access SMS and MMS</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Recommended</string>
     <string name="recorder_introduction">You can use this app to record audio and back up recordings to the cloud.</string>

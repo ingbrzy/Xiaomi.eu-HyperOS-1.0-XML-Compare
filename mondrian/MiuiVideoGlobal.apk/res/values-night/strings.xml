@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_tv_detail_player_skeleton">live_tv_detail_player_skeleton_dark.json</string>
+    <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton_dark.json</string>
+    <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton_dark.json</string>
+</resources>
