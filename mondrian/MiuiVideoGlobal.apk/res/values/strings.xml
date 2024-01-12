@@ -271,6 +271,7 @@
     <string name="chromecast_playing">"You're watching this video with Chromecast"</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="click_to_open_ad">Tap to learn more</string>
     <string name="click_to_open_pip">Tap to switch to picture-in-picture</string>
     <string name="click_to_play_video_push_context">Tap to play video</string>
     <string name="click_to_reload_more">Tap to load more</string>
@@ -293,8 +294,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
-    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
+    <string name="com.crashlytics.android.build_id">845a269762414bf9886c34e8bad21d63</string>
+    <string name="com.miapm.build_id">3ec172aa994d4bf3aec4d1455d3c5f69</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -962,6 +963,8 @@ for videos"</string>
     <string name="local_subtitle_input_keyword_text">Search keywords</string>
     <string name="local_tip_act_for_android_u">Edit</string>
     <string name="local_tip_info_for_android_u">"You've only allowed Mi Video to display some videos."</string>
+    <string name="local_tip_info_for_no_audio">"Can't access audio files saved to your device. Grant the required permissions first."</string>
+    <string name="local_tip_info_for_no_video">"Can't access videos saved to your device. Grant the required permissions first."</string>
     <string name="local_video_create_a_new_playlist">New playlist</string>
     <string name="local_video_date">Date</string>
     <string name="local_video_dialog_default">Default</string>
@@ -1685,6 +1688,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="popup_pip_activate_button">Settings</string>
     <string name="popup_pip_not_activated">Allow Mi Video to use picture-in-picture first.</string>
     <string name="popup_window_home_tip">Download online videos</string>
+    <string name="popup_window_small_tag_tip">Tap a tag to view all videos in that category</string>
     <string name="pre_ad">·AD</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="privacy_agree_subtitle">Consent to the Privacy Policy allows you to use all features of Mi Video</string>
@@ -1792,6 +1796,8 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="settings_inline_auto_play_wify">Autoplay on Wi-Fi only</string>
     <string name="settings_inline_title">Start page autoplay</string>
     <string name="settings_manager_hidden_folder">Manage hidden videos</string>
+    <string name="shake_or_click_to_open_ad">Shake or tap to learn more</string>
+    <string name="shake_to_open_ad">Shake to learn more</string>
     <string name="share">Share</string>
     <string name="share_text_before_link">Watch and download great videos for free on Mi Video</string>
     <string name="share_ugc_content">Take a look at %1$s! #%2$s (%3$s)</string>
@@ -1807,7 +1813,9 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="sign_in_title">Sign in with your Mi Account</string>
     <string name="skip_ad">Skip</string>
     <string name="slid_fail_message">"Couldn't save"</string>
+    <string name="slide_or_click_to_open_ad">Slide or tap to learn more</string>
     <string name="slide_save_message">Generating video…</string>
+    <string name="slide_to_open_ad">Slide to learn more</string>
     <string name="small_video_load_more_hint">Swipe up to play more videos</string>
     <string name="small_video_tab_expose_hint">Tap for more short videos</string>
     <string name="sms_send_success">Sent successfully</string>
