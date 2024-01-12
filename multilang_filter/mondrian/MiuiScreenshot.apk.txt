@@ -1,0 +1,1 @@
+Removed: [cs] strings.xml: string/screenshot succeed (invalid name)
