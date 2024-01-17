@@ -1,1 +1,2 @@
 Removed: [ru] strings.xml: string/kddi_long_press_power_guide_assistant_message (format mismatch)
+Removed: [vi] strings.xml: string/three_gesture_down (duplicate)
