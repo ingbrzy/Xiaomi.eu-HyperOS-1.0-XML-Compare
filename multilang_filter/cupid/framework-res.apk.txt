@@ -10,4 +10,3 @@ Removed: [pl] strings.xml: string/ext_media_unsupported_notification_message (fo
 Removed: [pt-rPT] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
 Removed: [ro] strings.xml: string/accessibility_shortcut_toogle_warning (format mismatch)
 Removed: [ro] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
-Removed: [ru] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
