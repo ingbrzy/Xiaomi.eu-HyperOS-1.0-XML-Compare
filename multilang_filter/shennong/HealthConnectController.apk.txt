@@ -1,1 +1,0 @@
-Removed: [ru] strings.xml: string/recent_access_screen_description (format mismatch)
