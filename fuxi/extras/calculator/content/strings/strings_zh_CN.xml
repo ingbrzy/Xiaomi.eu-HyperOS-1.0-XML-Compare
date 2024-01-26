@@ -1,3 +1,13 @@
 <resources>
     <string name="title_name">计算器</string>
+    
+    <string name="clear">清除</string>
+    <string name="delete">退格</string>
+    <string name="percent">百分号</string>
+    <string name="add">加</string>
+    <string name="subtract">减</string>
+    <string name="multiply">乘</string>
+    <string name="divide">除</string>
+    <string name="equals">等于</string>
+    <string name="point">小数点</string>
 </resources>
