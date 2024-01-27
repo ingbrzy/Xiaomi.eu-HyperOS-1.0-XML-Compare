@@ -1,2 +1,1 @@
 Removed: [de] plurals.xml: plurals/satellite_state_fail (format mismatch)
-Removed: [ru] plurals.xml: plurals/satellite_state_fail (duplicate quantity)
