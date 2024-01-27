@@ -294,8 +294,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">845a269762414bf9886c34e8bad21d63</string>
-    <string name="com.miapm.build_id">3ec172aa994d4bf3aec4d1455d3c5f69</string>
+    <string name="com.crashlytics.android.build_id">1c1c1e5f65e846aca198836853cc95a6</string>
+    <string name="com.miapm.build_id">66cbcc2afcb64935aaf96438600099bb</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -1817,6 +1817,10 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="slide_save_message">Generating video…</string>
     <string name="slide_to_open_ad">Slide to learn more</string>
     <string name="small_video_load_more_hint">Swipe up to play more videos</string>
+    <string name="small_video_report">Report</string>
+    <string name="small_video_report_dialog_title">Select a reason</string>
+    <string name="small_video_report_submit">Submit</string>
+    <string name="small_video_report_success">Thanks for your feedback!</string>
     <string name="small_video_tab_expose_hint">Tap for more short videos</string>
     <string name="sms_send_success">Sent successfully</string>
     <string name="sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
