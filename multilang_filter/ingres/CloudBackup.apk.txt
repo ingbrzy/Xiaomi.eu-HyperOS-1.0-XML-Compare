@@ -10,7 +10,6 @@ Removed: [da] strings.xml: string/restore_home_screen_apps_options (format misma
 Removed: [de] strings.xml: string/restore_header_backup_size (format mismatch)
 Removed: [de] strings.xml: string/restore_header_title2 (format mismatch)
 Removed: [de] strings.xml: string/restore_header_title (format mismatch)
-Removed: [de] strings.xml: string/restore_home_screen_apps_options (format mismatch)
 Removed: [el] strings.xml: string/restore_header_backup_size (format mismatch)
 Removed: [el] strings.xml: string/restore_header_title2 (format mismatch)
 Removed: [el] strings.xml: string/restore_header_title (format mismatch)
