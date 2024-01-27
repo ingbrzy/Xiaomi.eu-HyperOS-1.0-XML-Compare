@@ -233,6 +233,7 @@
     <string name="public_amazon_autosave_finished">The document has been auto saved</string>
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">"Invalid document, can't complete operation"</string>
+    <string name="public_banner_action_button">立即使用</string>
     <string name="public_bookmark">Bookmark</string>
     <string name="public_bottombar_mark">标记</string>
     <string name="public_cancel">Cancel</string>
@@ -395,8 +396,13 @@
     <string name="public_sensor_ratation_port_tip">Portrait orientation</string>
     <string name="public_service_disable_error_tips">"This feature can't be used since related service has been disabled."</string>
     <string name="public_share">Share</string>
+    <string name="public_share_change_to_pdf">以PDF发送</string>
+    <string name="public_share_change_to_pic">以图片发送</string>
+    <string name="public_share_change_to_word">以Word发送</string>
+    <string name="public_share_doc">以文件发送</string>
     <string name="public_share_no_network">"Couldn't connect to the network"</string>
     <string name="public_share_retry">Try again</string>
+    <string name="public_share_title">发送方式</string>
     <string name="public_share_to_tv">投影到电视</string>
     <string name="public_shareplay_connect_fail">Check your network connection</string>
     <string name="public_shareplay_connection">Connecting…</string>
@@ -453,7 +459,7 @@
     <string name="ss_toolbar_sheets_unhided">全部工作表</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_app_svn">svn</string>
-    <string name="wps_lite_app_version">3.5.0</string>
+    <string name="wps_lite_app_version">3.6.4</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Doc Viewer (Powered by WPS)</string>
     <string name="writer_characters">Characters (no spaces)</string>
     <string name="writer_characters_with_spaces">Characters (with spaces)</string>
