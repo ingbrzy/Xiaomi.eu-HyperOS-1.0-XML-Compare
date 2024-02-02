@@ -2,6 +2,7 @@ Removed: [cs] strings.xml: string/passport_user_agreement_hint_3rd_app_mobile (f
 Removed: [cs] strings.xml: string/passport_user_agreement_hint_3rd_app_with_telecom (format mismatch)
 Removed: [cs] strings.xml: string/passport_user_agreement_hint_3rd_app_with_unicom (format mismatch)
 Removed: [fr] strings.xml: string/passport_user_agreement_hint_3rd_app_mobile (format mismatch)
+Removed: [hr] strings.xml: string/messenger_send_button_text (duplicate)
 Removed: [sk] strings.xml: string/passport_user_agreement_hint_3rd_app_mobile (format mismatch)
 Removed: [sk] strings.xml: string/passport_user_agreement_hint_3rd_app_with_telecom (format mismatch)
 Removed: [sk] strings.xml: string/passport_user_agreement_hint_3rd_app_with_unicom (format mismatch)
