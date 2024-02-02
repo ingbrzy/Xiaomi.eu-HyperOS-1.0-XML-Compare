@@ -1275,7 +1275,7 @@ come from"</string>
     <string name="unrecorded_risk_app">Risks detected</string>
     <string name="unrecorded_risk_app_description">Installation of this app is prohibited in accordance with relevant regulatory requirements</string>
     <string name="unrecorded_risk_app_description_2">As a developer, you can submit an appeal</string>
-    <string name="unrecorded_risk_app_description_temp">该应用未依照政策要求进行应用备案，如果您的利益受到侵害，可能无法联系到此应用的开发者，请谨慎安装！</string>
+    <string name="unrecorded_risk_app_description_temp">该应用未依照国家政策进行备案，可能存在网络诈骗、病毒、获取用户隐私信息等恶意行为！</string>
     <string name="untrusted_external_source_title">Allow \"%1$s\" to install apps?</string>
     <string name="untrusted_external_source_warning_summary">Your device and personal data are more vulnerable to attack by unknown apps. By installing apps from this source, you agree that you are responsible for any damage to your device or loss of data that may result from their use.</string>
     <string name="update_start">Update</string>
