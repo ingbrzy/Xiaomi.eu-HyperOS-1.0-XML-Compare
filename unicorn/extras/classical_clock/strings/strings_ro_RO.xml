@@ -4,5 +4,5 @@
     <string name="date_time_12" value="EEE, dd MMMM"/>
     <string name="desc_date_format" value="EEEE, dd MMM"/>
     <string name="desc_date_format_12" value="EEEE, dd MMM"/>
-    <string name="desc_time" value="'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', apăsați de două ori pentru a accesa aplicația Ceas'"/>
+    <string name="desc_time" value="'ora curentă' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', apăsați de două ori pentru a accesa aplicația Ceas'"/>
 </strings>
