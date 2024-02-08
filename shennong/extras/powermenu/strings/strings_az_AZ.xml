@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">Təyyarə</string>
+    <string name="label_silent_mode">Səssiz Rejim</string>
+    <string name="label_reboot">Yenidən başladın</string>
+    <string name="label_shutdown">Bağlantı</string>
+    <string name="label_alert_reboot">Yenidən başladın</string>
+    <string name="label_alert_recovery">TWRP Bərpası</string>
+    <string name="label_alert_fastboot">Sürətli yükləmə</string>
+    <string name="label_alert_shutdown">Bağlantı</string>
+    <string name="label_blank">Geri</string>
+</resources>
