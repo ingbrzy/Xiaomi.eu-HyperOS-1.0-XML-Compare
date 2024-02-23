@@ -1,1 +1,2 @@
+Removed: [az-rAZ] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
 Removed: [fr] strings.xml: string/passport_ Frequency_try_later (invalid name)
