@@ -294,7 +294,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">c389fdd2329e403bbc891c4d57c1e151</string>
+    <string name="com.crashlytics.android.build_id">1216db709af44ba786cfeed9d4169a06</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -1785,6 +1785,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="sending">Sending…</string>
     <string name="service_error">Server error</string>
     <string name="set_success">Changed successfully</string>
+    <string name="setting_privacy_title">Terms and conditions</string>
     <string name="settings_inline_auto_play">Always autoplay</string>
     <string name="settings_inline_auto_play_close">Autoplay off</string>
     <string name="settings_inline_auto_play_tip_close_forever">Always off</string>
