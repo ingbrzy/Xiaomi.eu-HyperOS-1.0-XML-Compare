@@ -11,7 +11,7 @@
     <string name="activate_fail_notification_title">Reactivate sync</string>
     <string name="activating">Activating…</string>
     <string name="address">Address</string>
-    <string name="after_reset_need_restore_system_app">"Looks like you've performed a factory reset. Connect to the network and restore system items to be able to use MIUI normally."</string>
+    <string name="after_reset_need_restore_system_app">"Looks like you've performed a factory reset. Connect to the network and restore system items to be able to use device normally."</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
     <string name="birthday">Birthday</string>
@@ -89,7 +89,7 @@
     <string name="chinese_symbol_animals_snake">蛇</string>
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Clear</string>
-    <string name="click_to_restore">Restore system items to be able to use MIUI normally after a factory reset. Tap to start.</string>
+    <string name="click_to_restore">Restore system items to be able to use your device normally after a factory reset. Tap to start.</string>
     <string name="close">Close</string>
     <string name="com_android_deskclock">Clock</string>
     <string name="com_android_download_ui">Downloads</string>
@@ -452,7 +452,7 @@
     <string name="im">IM</string>
     <string name="immersion_button_close_description">Close</string>
     <string name="instruction">Important safety information</string>
-    <string name="label">MIUI SDK</string>
+    <string name="label">System SDK</string>
     <string name="midnight">AM</string>
     <string name="mobile_data_consume">Downloading items now will require using %1$s MB of mobile data. Download anyway?</string>
     <string name="mobile_data_remind">Data usage warning</string>
