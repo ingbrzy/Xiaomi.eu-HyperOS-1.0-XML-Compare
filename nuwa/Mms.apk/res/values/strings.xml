@@ -125,8 +125,11 @@ Try again."</string>
     <string name="cannot_add_slide_anymore">"Can't add more slides."</string>
     <string name="cannot_get_details">"Can't get details."</string>
     <string name="cannot_resend_audio">"Couldn't send recording"</string>
+    <string name="cannot_send_location">Grant location permissions first</string>
     <string name="cannot_send_message">"Can't send message"</string>
     <string name="cannot_send_message_reason">Your message has no valid recipients.</string>
+    <string name="cannot_send_mms">"Satellite communications don't support MMS"</string>
+    <string name="carry_current_location">Include current location</string>
     <string name="change_duration_activity">Change duration</string>
     <string name="chatbot_list_title">Chatbots</string>
     <string name="chatbot_main_title">Chatbots</string>
@@ -341,8 +344,10 @@ Try again."</string>
     <string name="edit_phrase">Edit quick replies</string>
     <string name="edit_slide_activity">Edit slide</string>
     <string name="edit_slideshow_activity">Edit slideshow</string>
+    <string name="emergency_label">Emergency contact</string>
     <string name="empty" />
     <string name="enable_classify_tip_dialog_content">This will relaunch the Messaging app. Continue anyway?</string>
+    <string name="enable_location_service">Permissions required</string>
     <string name="enabled">On</string>
     <string name="english_subject_limit">40 characters</string>
     <string name="eras_ad">CE</string>
@@ -467,6 +472,7 @@ Try again."</string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Hidden sender address</string>
     <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hold_hand_with_sending">Sending SMS. Keep still.</string>
     <string name="hold_to_talk">Hold to talk</string>
     <string name="home_tab_ad">Promotional</string>
     <string name="home_tab_common">Regular</string>
@@ -487,6 +493,8 @@ Try again."</string>
     <string name="invalid_recipient_message">"Correct the recipients or they won't receive the message."</string>
     <string name="invisible_mode_on">"You're incognito"</string>
     <string name="is_composing">Typing…</string>
+    <string name="item_over_quantity">Select up to %d messages containing location info</string>
+    <string name="item_shortage">Select at least %d messages containing location info</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"Slideshow layout "</string>
     <string name="leave_mms_tips_context_app">Leave Messaging and open the app now?</string>
@@ -503,6 +511,7 @@ Try again."</string>
     <string name="menu_edit">Edit</string>
     <string name="menu_forward">Forward</string>
     <string name="menu_lock">Add to favorites</string>
+    <string name="menu_locus_map">Route map</string>
     <string name="menu_make_call">Call</string>
     <string name="menu_multi_select">Select</string>
     <string name="menu_new_manual">Enter phone number</string>
@@ -686,6 +695,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="mx_privacy_policy">Mi Message Privacy Policy</string>
     <string name="mx_privacy_policy_revoke">Withdraw consent to the Privacy Policy of Mi Message</string>
     <string name="mx_stranger_recommend_msg">Tap to block Mi Messages from unknown numbers</string>
+    <string name="my_location">My location:</string>
     <string name="need_download">Syncing…</string>
     <string name="net_sms_subscribed">Subscribed successfully</string>
     <string name="net_sms_unsubscribe">Unsubscribed successfully</string>
@@ -708,6 +718,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="noon">Midday</string>
     <string name="nosend_message">"Don't send"</string>
     <string name="not_prepare_for_send">No message to send</string>
+    <string name="not_send_location">Not now</string>
     <string name="not_set">Not set</string>
     <string name="not_support_audio_forward">"Can't forward voice messages"</string>
     <string name="not_support_file">"Can't send files of this type"</string>
@@ -732,6 +743,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="number_recognition_partner">Sender ID recognition service providers</string>
     <string name="open_audio_record_panel">Open the panel for recording audio</string>
     <string name="open_edit_sms_panel">Open the panel for editing messages</string>
+    <string name="open_now">Settings</string>
     <string name="open_url_with_web">Open this URL in Browser?</string>
     <string name="over_max_mms_size">MMS is too big.</string>
     <string name="overwrite_edited_content">"The content you've edited will be overwritten."</string>
@@ -1123,6 +1135,11 @@ Check out recommended chatbots!"</string>
     <string name="rms_view_vedio_notsupport">"Can't send this file as a video"</string>
     <string name="rsc_chatbot_back">Back</string>
     <string name="rsc_chatbot_detail">Vendor info</string>
+    <string name="satellite_location_failed">"Couldn't send location. SMS sent without location."</string>
+    <string name="satellite_location_privacy"><Data>Tiantong Satellite needs to access your location to be able to send SMS. Read and agree to our &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font> before you continue.</Data></string>
+    <string name="satellite_location_privacy_title">Access location</string>
+    <string name="satellite_message_notification_contact_end">(Sending via satellite)</string>
+    <string name="satellite_sms_notification">This message was sent by Tiantong Satellite services. The sender may need your help.</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
@@ -1170,6 +1187,7 @@ Check out recommended chatbots!"</string>
     <string name="send_rms_editor_hints">5G Messaging</string>
     <string name="send_rms_editor_hints_omit">Mi Message</string>
     <string name="send_sms">Send message</string>
+    <string name="send_sms_with_location">Allow this app to access your location to be able to send messages including your location. You can grant this permission in Settings.</string>
     <string name="send_to">To:</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_label">"Sent: "</string>
