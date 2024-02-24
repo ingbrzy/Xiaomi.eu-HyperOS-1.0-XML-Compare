@@ -1,5 +1,8 @@
 Removed: [it] strings.xml: string/menu_summary_power_manager_2 (format mismatch)
 Removed: [it] strings.xml: string/power_center_battery_last (format mismatch)
+Removed: [pl] strings.xml: string/app_manager_default_close_summary (duplicate)
+Removed: [pl] strings.xml: string/app_manager_default_open_summary (duplicate)
+Removed: [pl] strings.xml: string/app_manager_default_open_title (duplicate)
 Removed: [ro] plurals.xml: plurals/quick_optimize_summary_text (format mismatch)
 Removed: [ro] strings.xml: string/app_running_tip_dialog_text (format mismatch)
 Removed: [ro] strings.xml: string/gb_predownload_noti_message (format mismatch)
