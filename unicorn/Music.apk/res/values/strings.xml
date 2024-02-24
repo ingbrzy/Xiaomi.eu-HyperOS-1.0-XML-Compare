@@ -145,6 +145,64 @@
     <string name="artist_home_search_hint">Search for artists</string>
     <string name="artist_is_empty">Artist name can not be empty.</string>
     <string name="artist_name">Artist</string>
+    <string name="asm_batch_download_failed">"Couldn't download"</string>
+    <string name="asm_buy_member_success">Purchased VIP membership successfully</string>
+    <string name="asm_dialog_title_tips">VIP membership</string>
+    <string name="asm_dialog_vip_confirm_text">Join</string>
+    <string name="asm_dialog_vip_message">Sign up for a VIP membership to listen to high-quality songs and download even more content.</string>
+    <string name="asm_disable_song_click_tip">"This song isn't available due to copyright issues"</string>
+    <string name="asm_download_failed">"Couldn't download \"%1$s\""</string>
+    <string name="asm_download_is_downloaded">Downloaded song successfully</string>
+    <string name="asm_download_is_downloaded_hq">Downloaded in HQ</string>
+    <string name="asm_download_is_downloading">Downloading…</string>
+    <string name="asm_download_list_not_supported">"Can't download some songs on this list"</string>
+    <string name="asm_download_pending_status_msg">Preparing download…</string>
+    <string name="asm_download_success">Downloaded \"%1$s\"</string>
+    <string name="asm_during_the_payment">Checking payment status…</string>
+    <string name="asm_fail_play_song">"Couldn't download song"</string>
+    <string name="asm_google_connect_failed">"Couldn't complete payment. Make sure you're signed in to Play Store."</string>
+    <string name="asm_google_no_goods">"Couldn't get product info"</string>
+    <string name="asm_google_not_login">Sign in to Play Store and try again</string>
+    <string name="asm_google_pay_success">Generated Google Pay order</string>
+    <string name="asm_google_query_failed">"Couldn't get product info"</string>
+    <string name="asm_google_service_failed">"Couldn't launch Google services. Try again."</string>
+    <string name="asm_gooleplay_notice">"Google Play services aren't installed"</string>
+    <string name="asm_loadstate_error_retry">Connect to the internet and tap to try again</string>
+    <string name="asm_loadstate_not_more">"That's all for now"</string>
+    <string name="asm_network_error">Check your network connection</string>
+    <string name="asm_new_song_title">New songs</string>
+    <string name="asm_no_need_download_songs">Song is in download queue</string>
+    <string name="asm_no_network">"Couldn't connect to the network"</string>
+    <string name="asm_not_action_is_local_music">"Can't perform this action on local files"</string>
+    <string name="asm_notify_use_mobile_download">Downloading with mobile data</string>
+    <string name="asm_page_empty_search">"Couldn't find results"</string>
+    <string name="asm_page_error_airplane">Turn off Airplane mode to be able to connect</string>
+    <string name="asm_page_error_data">An error occurred</string>
+    <string name="asm_page_error_no_network">"Couldn't connect to the network"</string>
+    <string name="asm_page_local_empty_action">Discover new music</string>
+    <string name="asm_pay_info_deduction_failed">"Couldn't complete automatic payment. Check your payment method soon to avoid losing the benefits of your VIP membership."</string>
+    <string name="asm_pay_info_upload_failed">"Couldn't upload order info"</string>
+    <string name="asm_pay_order_generate">Generating order…</string>
+    <string name="asm_pay_order_generate_failed">"Couldn't generate order"</string>
+    <string name="asm_pay_query_overtime">Payment status request timed out</string>
+    <string name="asm_privacy_desc">Wansheng Privacy Policy</string>
+    <string name="asm_privacy_tips_content">Agree to the <a href="/link/click">Wansheng Privacy Policy</a> to be able to use online music services.</string>
+    <string name="asm_privacy_tips_title">Wansheng Privacy Policy</string>
+    <string name="asm_pro_center">Membership</string>
+    <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
+    <string name="asm_song_err_connect">"Couldn't connect to the server"</string>
+    <string name="asm_song_err_not_exist">"The requested audio source doesn't exist"</string>
+    <string name="asm_song_err_not_exist_clear">"Song doesn't exist. Removed from queue."</string>
+    <string name="asm_song_err_play">"Couldn't play. Try again."</string>
+    <string name="asm_songlist_all_genre_close">Collapse all</string>
+    <string name="asm_songlist_all_genre_title">All categories</string>
+    <string name="asm_songs_is_downloading">Downloading song…</string>
+    <string name="asm_stop_action_when_no_network">Connect to the network and try again</string>
+    <string name="asm_tips_cannot_download_disable_songs">"Can't download this song"</string>
+    <string name="asm_toast_pay_canceled">Payment canceled</string>
+    <string name="asm_toast_pay_failed">"Couldn't complete payment"</string>
+    <string name="asm_unknow_album">Unknown album</string>
+    <string name="asm_unknow_artist">Unknown artist</string>
     <string name="audio_ad_countdown">Skip ad in %ss</string>
     <string name="audio_ad_pass">Skip ad</string>
     <string name="audio_add_equalizer">均衡器+</string>
@@ -191,7 +249,7 @@
     <string name="back_confirm">Tap again to exit</string>
     <string name="banner_op">Mi Music</string>
     <string name="best_experience">Best experience</string>
-    <string name="billion_char">%sB</string>
+    <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Bluetooth audio device</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
@@ -324,8 +382,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">2378f9a9724841528977d9c2f15febee</string>
-    <string name="com.miapm.build_id">22cefad84e6443328b519eaebeb08cba</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">6bd2a25900b04629999851bf47717a74</string>
+    <string name="com.miapm.build_id">e54d085ab6364592814c930ee69af058</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -367,6 +425,7 @@
     <string name="current_lyric">Current lyrics</string>
     <string name="current_service_key">service</string>
     <string name="current_version">Current version</string>
+    <string name="daily_recommend_desc">Daily recommendations hand-picked for you</string>
     <string name="daily_recommendation">Daily mix</string>
     <string name="dark_mode">Dark mode</string>
     <string name="data_usage_warning">Data usage</string>
@@ -676,8 +735,8 @@
     <string name="filter_by_folder">By folder</string>
     <string name="filter_by_folder_summary">Choose folders to display</string>
     <string name="filter_by_size">By size</string>
-    <string name="filter_by_size_max">%dMB</string>
-    <string name="filter_by_size_min">%dKB</string>
+    <string name="filter_by_size_max">%d MB</string>
+    <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"Hide files smaller than "</string>
     <string name="filter_by_size_summary">Hide small audio files</string>
     <string name="filter_distinct">鲜明</string>
@@ -688,7 +747,7 @@
     <string name="filter_rectangle">矩形</string>
     <string name="filter_rotate">旋转</string>
     <string name="filter_sharpening">锐化</string>
-    <string name="filter_size_unit">%dKB</string>
+    <string name="filter_size_unit">%d KB</string>
     <string name="filter_sketch">素描</string>
     <string name="find_you_tunes">Find your tunes</string>
     <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
@@ -1058,7 +1117,7 @@
     <string name="middle_sound_quality">Standard</string>
     <string name="midnight">Night</string>
     <string name="milink_unavaliable_please_update">"Mi Link isn't available. Update MIUI."</string>
-    <string name="million_char">%sM</string>
+    <string name="million_char">%s M</string>
     <string name="millions_songs">Millions of songs</string>
     <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Unknown></string>
@@ -1555,9 +1614,9 @@
     <string name="privacy_desc">Privacy Policy (mandatory)</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
-    <string name="privacy_request_desc"><Data>"Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
+    <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
 Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
-If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you."</Data></string>
+If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"Welcome to Mi Music! This app provides the following services:
 - A local audio player
 - Online streaming services"</string>
@@ -1573,9 +1632,10 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="qq_application_id" />
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="queue_is_empty">Playing queue is empty.</string>
-    <string name="read_and_agree_hungama_protocol"><Data>"I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacy Policy&lt;/a>&lt;/font>"</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>"I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>"</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>"I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Privacy Policy&lt;/a>&lt;/font> to be able to use online music services.&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_joox_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_mi_protocol">"&lt;Data>I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_protocol">Read and agree to our User Agreement and Privacy Policy before you continue.</string>
     <string name="ready_to_play">Up next</string>
     <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>
@@ -1876,7 +1936,7 @@ Be Happy"</string>
     <string name="the_united_nations_day">United Nations Day</string>
     <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
-    <string name="thousand_char">%sK</string>
+    <string name="thousand_char">%s K</string>
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
@@ -2270,5 +2330,6 @@ Tap %s to start this download the next time you're connected to a Wi-Fi network.
     <string name="youtube_tab_popular">Popular</string>
     <string name="youtube_tab_radar">Radar</string>
     <string name="youtube_tab_shorts">Shorts</string>
+    <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Trending</string>
 </resources>

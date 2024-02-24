@@ -1,0 +1,37 @@
+<resources>
+    <string name="air_quality0">'HKİ '+#aqi</string>
+    <string name="air_quality1">'HKİ '+#aqi</string>
+    <string name="air_quality2">'HKİ '+#aqi</string>
+    <string name="air_quality3">'HKİ '+#aqi</string>
+    <string name="air_quality4">'HKİ '+#aqi</string>
+    <string name="air_quality5">'HKİ '+#aqi</string>
+    <string name="weather_null">Hava məlumatlarını əldə etmək üçün toxunun</string>
+    <string name="weather_location_null">Yerləşmə məlumatları yoxdur</string>
+    <string name="desc_weather_aqi">@weather_description+' '+ @air_quality</string>
+    <string name="weather_type_0">Təmiz</string>
+    <string name="weather_type_1">Buludlu</string>
+    <string name="weather_type_2">Tutqun</string>
+    <string name="weather_type_3">Dumanlı</string>
+    <string name="weather_type_4">Güclü leysan</string>
+    <string name="weather_type_5">Leysan</string>
+    <string name="weather_type_6">Yağış fırtınası</string>
+    <string name="weather_type_7">Fırtına</string>
+    <string name="weather_type_8">Yağış</string>
+    <string name="weather_type_9">Güclü yağış</string>
+    <string name="weather_type_10">Orta səviyyəli yağış</string>
+    <string name="weather_type_11">Yüngül yağış</string>
+    <string name="weather_type_12">Yağış və qar qarışıq</string>
+    <string name="weather_type_13">Çovğun</string>
+    <string name="weather_type_14">Qar</string>
+    <string name="weather_type_15">Güclü qar</string>
+    <string name="weather_type_16">Orta səviyyəli qar</string>
+    <string name="weather_type_17">Yüngül qar</string>
+    <string name="weather_type_18">Güclü qum fırtınası</string>
+    <string name="weather_type_19">Qum fırtınası</string>
+    <string name="weather_type_20">Qum</string>
+    <string name="weather_type_21">Toz fırtınası</string>
+    <string name="weather_type_22">Dolu</string>
+    <string name="weather_type_23">Toz</string>
+    <string name="weather_type_24">Duman</string>
+    <string name="weather_type_25">Dondurucu yağış</string>
+</resources>
