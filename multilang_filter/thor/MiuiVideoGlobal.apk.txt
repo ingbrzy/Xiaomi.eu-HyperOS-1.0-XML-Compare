@@ -1,6 +1,5 @@
 Removed: [ar] plurals.xml: plurals/notice_user_banned (format mismatch)
 Removed: [as-rIN] plurals.xml: plurals/notice_user_banned (format mismatch)
-Removed: [az-rAZ] plurals.xml: plurals/notice_user_banned (format mismatch)
 Removed: [it] arrays.xml: array/subtitle_language_names (item mismatch)
 Removed: [ja] plurals.xml: plurals/notice_user_banned (format mismatch)
 Removed: [kk-rKZ] plurals.xml: plurals/notice_user_banned (format mismatch)
