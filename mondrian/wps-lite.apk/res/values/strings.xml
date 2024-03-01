@@ -226,7 +226,7 @@
     <string name="ppt_video_install_videoplayer_tip">Install a video player</string>
     <string name="ppt_volume_is_too_low_tip">Put on your headphones or turn up the volume</string>
     <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
-    <string name="privacy_protecte">https://privacy.wps.cn/policies/privacy/wps-file-viewer</string>
+    <string name="privacy_protecte">https://www.wps.com/privacy-policy/</string>
     <string name="projection_fail">"Couldn't cast. Check your external monitor and try again."</string>
     <string name="public_2pic">Export to image</string>
     <string name="public_ack">知道了</string>
