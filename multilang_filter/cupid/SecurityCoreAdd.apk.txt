@@ -1,2 +1,0 @@
-Removed: [hr] strings.xml: string/can_not_switch_when_lock_to_app_enabled_classic_navigation (duplicate)
-Removed: [hr] strings.xml: string/can_not_switch_when_lock_to_app_enabled_guest_navigation (duplicate)
