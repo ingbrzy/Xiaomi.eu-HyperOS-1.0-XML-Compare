@@ -1,4 +1,3 @@
-Removed: [el-rGR] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
 Removed: [en-rGB] strings.xml: string/ext_media_badremoval_notification_message (format mismatch)
 Removed: [en-rGB] strings.xml: string/ext_media_new_notification_message (format mismatch)
 Removed: [en-rGB] strings.xml: string/ext_media_nomedia_notification_message (format mismatch)
