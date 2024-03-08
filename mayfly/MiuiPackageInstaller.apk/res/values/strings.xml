@@ -44,7 +44,7 @@
     <string name="aleady_understand_the_app_is_hight_risk">understand that this app might pose security risks.</string>
     <string name="allow_current_install">Allow once</string>
     <string name="allowed_this_time">Allow once</string>
-    <string name="already_open_enhance">已开启增强防护</string>
+    <string name="already_open_enhance">Enhanced protection is on</string>
     <string name="already_understand_the_risks_market_unknown">"I understand that this installation package hasn't been tested for security issues"</string>
     <string name="already_understood_bundle_app">I understand the risks of bundled apps</string>
     <string name="am">AM</string>
@@ -53,7 +53,6 @@
     <string name="anonymous_source_warning">Your phone and personal data are more vulnerable to attack by unknown apps. By installing this app, you agree that you are responsible for any damage to your phone or loss of data that may result from its use.</string>
     <string name="app_already_on_the_app_store">Download from GetApps</string>
     <string name="app_crash_test_text">Package installer force closed</string>
-    <string name="app_data_independent_storage">应用间数据独立存储，保护用户隐私数据 了解更多</string>
     <string name="app_data_safe_inside">应用数据保险箱内测</string>
     <string name="app_description_picture">App description</string>
     <string name="app_detail_change_log">"What's new"</string>
@@ -201,7 +200,7 @@
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="click_tip_toast">Check the box before you continue</string>
     <string name="close">Close</string>
-    <string name="close_enhance_safe_guard">关闭增强防护</string>
+    <string name="close_enhance_safe_guard">Turn off Enhanced protection</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">Cancel</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">Continue</string>
     <string name="close_mi_protected_second_tip_dialog_cancel">No thanks</string>
@@ -209,9 +208,6 @@
     <string name="close_mi_protected_second_tip_dialog_ok">Add</string>
     <string name="close_mi_protected_second_tip_dialog_title">Add more verification methods?</string>
     <string name="close_safe_mode">Turn off</string>
-    <string name="closed_beta">关闭内测</string>
-    <string name="closed_beta_dialog_description">应用数据保险箱，保护您的隐私数据安全，拦截恶意应用读取或交换其他应用数据，应用仅可读取自身创建文件和数据。</string>
-    <string name="closed_beta_dialog_title">关闭应用数据保险箱内测？</string>
     <string name="comment_count_wan">%1$s万reviews</string>
     <string name="confirm_install">Install</string>
     <string name="copy">Copy</string>
@@ -257,7 +253,7 @@
     <string name="dialog_install_source">Source: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Got it</string>
     <string name="dialog_security_mode_guide_cancel">Cancel</string>
-    <string name="dialog_security_mode_guide_child_msg">建议您开启“安全守护”，保护未成年人隐私和安全，管控风险应用，防范恶意内容</string>
+    <string name="dialog_security_mode_guide_child_msg">Turn on Mi Protect to secure the privacy of minors, detect risky apps, and avoid malicious content.</string>
     <string name="dialog_security_mode_guide_delete_apps_msg">"You've deleted multiple apps that you've never used. If you have mistakenly downloaded unwanted apps or ads, turn on Mi Protect to prevent apps from downloading and installing other apps without your consent."</string>
     <string name="dialog_security_mode_guide_elder_msg">"Turn on Mi Protect's Elder protection to ensure your privacy and security."</string>
     <string name="dialog_security_mode_guide_open">Turn on</string>
@@ -287,26 +283,26 @@
     <string name="elder_mode_title">Elder protection</string>
     <string name="empty" />
     <string name="empty_app">No apps</string>
-    <string name="enhance_mode_close_feedback">感谢使用增强防护</string>
-    <string name="enhance_mode_feedback_reason">我关闭增强防护主要原因是</string>
-    <string name="enhance_safe_guard_mode_description">开启后，仅支持安装经过小米应用市场检测的应用，并禁止安装病毒和风险应用</string>
-    <string name="enhance_safe_guard_title">开启增强防护，阻拦风险应用</string>
-    <string name="enhance_safe_mode">增强防护</string>
-    <string name="enhance_safe_mode_open_description">开启后仅支持安装通过小米应用商店安全检测的应用，全面禁止安装病毒和风险应用</string>
-    <string name="enhance_safe_mode_title">增强防护模式</string>
-    <string name="enhanced_protection_des_1">增强防护是安全守护下的子功能。增强防护可以给您提供更高级和更便捷的安全防护，避免恶意应用入侵，全方位保护您的权益。</string>
+    <string name="enhance_mode_close_feedback">Thanks for using Enhanced protection</string>
+    <string name="enhance_mode_feedback_reason">Why are you turning this feature off?</string>
+    <string name="enhance_safe_guard_mode_description">Only install apps that have passed GetApps tests to protect your device from viruses and malware</string>
+    <string name="enhance_safe_guard_title">Turn on Enhanced protection to avoid risky apps</string>
+    <string name="enhance_safe_mode">Enhanced protection</string>
+    <string name="enhance_safe_mode_open_description">"With Enhanced protection turned on, you'll only be able to install apps that have passed GetApps tests, protecting your device from viruses and malware"</string>
+    <string name="enhance_safe_mode_title">Enhanced protection</string>
+    <string name="enhanced_protection_des_1">Enhanced protection is an advanced feature of Mi Protect. It safeguards your device by adding additional measures against viruses and malware.</string>
     <string name="enhanced_protection_des_2">"启用增强防护后，手机仅支持安装经过小米应用商店安全检测的应用。
 可有效防范以下场景中存在的安全风险："</string>
     <string name="enhanced_protection_des_end_1">被诈骗团伙盯上、接到奇怪的骚扰电话、手机莫名死机.......</string>
     <string name="enhanced_protection_des_end_2">这些都是不良应用危害用户安全的典型表现，现在，即便是手机小白，也可以&lt;font color=#259cff>开启增强防护模式&lt;/font>，一眼识别不良应用</string>
-    <string name="enhanced_protection_f_1_demo">2023年2月1日，陈先生安装某款应用后，在犯罪分子的诱导下，多次通过银行卡进行转账，共计被骗78238元。</string>
-    <string name="enhanced_protection_f_1_des">在未开启增强防护模式的情况下，恶意应用容易骗取您的钱款。</string>
-    <string name="enhanced_protection_f_1_title">一、防范诈骗应用安装</string>
+    <string name="enhanced_protection_f_1_demo">On February 1, 2023, Mr. Chen installed an app through which scammers made him transfer money multiple times. Mr. Chen lost 78,238 CNY in total.</string>
+    <string name="enhanced_protection_f_1_des">Without Enhanced protection, malicious apps might scam you.</string>
+    <string name="enhanced_protection_f_1_title">Anti-fraud protection</string>
     <string name="enhanced_protection_f_2_demo">2020年6月至9月，李某制作了一款可以窃取用户照片的软件，又将该软件伪装成“颜值检测”软件，以此方式窃取用户手机相册照片1751张。其中，含有人脸信息、姓名、身份证号码、联系方式、家庭住址等100余条公民个人信息。</string>
-    <string name="enhanced_protection_f_2_des">在未开启增强防护模式的情况下，恶意应用容易窃取您的个人隐私。</string>
-    <string name="enhanced_protection_f_2_title">二、防范个人信息泄露</string>
+    <string name="enhanced_protection_f_2_des">When Enhanced protection is off, malicious apps might access your personal information.</string>
+    <string name="enhanced_protection_f_2_title">Privacy protection</string>
     <string name="enhanced_protection_f_3_des">在未开启增强防护模式的情况下，恶意应用容易攻击您的手机系统，使得手机出现卡顿、死机的情况。</string>
-    <string name="enhanced_protection_f_3_title">三、防范造成系统不稳定</string>
+    <string name="enhanced_protection_f_3_title">System stability</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_a11y_label">Error: invalid</string>
@@ -394,7 +390,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_automatic_detection">4次自动检测</string>
+    <string name="four_automatic_detection">4 automated tests</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
@@ -442,10 +438,9 @@
     <string name="isntall_failed_verification_resolve_uggestion">Try to find a replacement for this app from a trusted source</string>
     <string name="item_view_role_description">Tab</string>
     <string name="learn_bundle_app_install">Learn more</string>
-    <string name="learn_enhance_safe_guard">了解增强防护</string>
+    <string name="learn_enhance_safe_guard">Learn more</string>
     <string name="learn_more">Learn more</string>
-    <string name="learn_more_text">了解更多</string>
-    <string name="let_me_think_again">我再想想</string>
+    <string name="let_me_think_again">Keep on</string>
     <string name="lock_finger">Verify fingerprint to install</string>
     <string name="lock_screen_authrioze_subtitle_password">Authorize with screen lock</string>
     <string name="lock_screen_password_authrioze">Verify screen lock to install</string>
@@ -688,8 +683,8 @@
     <string name="only_get_app_for_mi_store">Only download apps through GetApps and verified developers</string>
     <string name="only_get_app_for_mi_store_sub">This app has passed our strict security screenings</string>
     <string name="open">Turn on</string>
-    <string name="open_and_exit">开启并退出</string>
-    <string name="open_enhanced_protection">开启增强防护</string>
+    <string name="open_and_exit">Turn on</string>
+    <string name="open_enhanced_protection">Turn on Enhanced protection</string>
     <string name="passed_security_test">Passed Xiaomi security tests</string>
     <string name="passport_access_denied">Access denied</string>
     <string name="passport_account_crop_user_avatar">Crop photo</string>
@@ -929,6 +924,7 @@
     <string name="permission_num">%1$s</string>
     <string name="please_input_install_app_name">Enter app name</string>
     <string name="please_input_phone_password">Enter screen lock</string>
+    <string name="please_input_phone_password_short">Enter screen lock</string>
     <string name="pm">PM</string>
     <string name="pref_ads">Recommendations</string>
     <string name="pref_key_about_privacy_title">Privacy Policy</string>
@@ -937,9 +933,9 @@
     <string name="pref_key_shelf_app">List app on GetApps</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="prepare_install">Preparing installation…</string>
-    <string name="professional_review">专业人员审核</string>
+    <string name="professional_review">Professional reviewers</string>
     <string name="prohibit_isntall">Add to blocklist</string>
-    <string name="protect_privacy_and_security">保护隐私安全</string>
+    <string name="protect_privacy_and_security">Privacy protection</string>
     <string name="pure_function_introduction">Secure mode features</string>
     <string name="pure_guarding">Turned on</string>
     <string name="pure_introduction_des1">Check apps from unknown sources for possible security risks before installation</string>
@@ -1179,8 +1175,7 @@ come from"</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
-    <string name="sure">确定</string>
-    <string name="sure_close_enhance_safe_guard">确定要关闭增强防护吗？</string>
+    <string name="sure_close_enhance_safe_guard">Turn off Enhanced protection now?</string>
     <string name="sure_close_enhance_safe_guard_des">为了保护手机安全，增强防护能过滤掉没有经过小米应用商店安全检测的应用，守护您的每一次安装！</string>
     <string name="sure_install">Install this app now?</string>
     <string name="sure_ok">Got it</string>
@@ -1265,7 +1260,6 @@ come from"</string>
     <string name="unlock_failed">Internal error</string>
     <string name="unrecorded_app_dialog_tips_clickable_msg_default">Learn more about the app listing policy</string>
     <string name="unrecorded_app_dialog_tips_help">If you trust this app, press the ︙ button in the upper right corner and select \"Allow once\"</string>
-    <string name="unrecorded_app_dialog_tips_msg_default">"This app hasn't been listed in accordance with policy compliance requirements. You may not be able to contact the developer of this app in the event that your interests are violated. Install this app with caution. Learn more about the app listing policy"</string>
     <string name="unrecorded_app_dialog_tips_title_default">Risks detected</string>
     <string name="unrecorded_app_tips_des_1_clickable_default">Learn more about the app listing policy</string>
     <string name="unrecorded_app_tips_des_1_default">"Apps that come without the required compliance information may pose security risks. This app hasn't been tested or verified by Xiaomi. Download it with caution. Learn more about the app listing policy"</string>
@@ -1275,14 +1269,14 @@ come from"</string>
     <string name="unrecorded_risk_app">Risks detected</string>
     <string name="unrecorded_risk_app_description">Installation of this app is prohibited in accordance with relevant regulatory requirements</string>
     <string name="unrecorded_risk_app_description_2">As a developer, you can submit an appeal</string>
-    <string name="unrecorded_risk_app_description_temp">该应用未依照国家政策进行备案，可能存在网络诈骗、病毒、获取用户隐私信息等恶意行为！</string>
+    <string name="unrecorded_risk_app_description_temp">"The developer hasn't provided this app's listing to the regulatory authorities. You might not be able to contact the developer in case your interests are violated."</string>
     <string name="untrusted_external_source_title">Allow \"%1$s\" to install apps?</string>
     <string name="untrusted_external_source_warning_summary">Your device and personal data are more vulnerable to attack by unknown apps. By installing apps from this source, you agree that you are responsible for any damage to your device or loss of data that may result from their use.</string>
     <string name="update_start">Update</string>
     <string name="uri_no_permission">Unable to read file,permission denied</string>
     <string name="user_is_not_allowed_dlg_text">The current user is not allowed to perform this uninstallation.</string>
-    <string name="using_enhanced_protection">"安全升级
-增强防护模式"</string>
+    <string name="using_enhanced_protection">"Safeguard your device with
+Enhanced protection"</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="verification_word">Verify</string>
