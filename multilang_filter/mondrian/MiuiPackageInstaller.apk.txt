@@ -1,3 +1,4 @@
+Removed: [pt-rBR] strings.xml: string/learn_more (duplicate)
 Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app (format mismatch)
 Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_mobile (format mismatch)
 Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_with_telecom (format mismatch)
