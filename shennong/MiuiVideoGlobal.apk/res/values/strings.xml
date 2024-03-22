@@ -81,6 +81,7 @@
     <string name="ad_click_to_play">Tap to play</string>
     <string name="ad_flag_text">AD</string>
     <string name="ad_left_time">seconds left in the commercial</string>
+    <string name="ad_topview_repeat_play">Tap to play again</string>
     <string name="add_local_shortcut_add">Add</string>
     <string name="add_local_shortcut_des">Add \"My videos\" to Home screen to access local video files in a single tap.</string>
     <string name="add_search_channel_link">URL</string>
@@ -294,7 +295,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">1216db709af44ba786cfeed9d4169a06</string>
+    <string name="com.crashlytics.android.build_id">080cf406a77848158a1d637f502bf395</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
