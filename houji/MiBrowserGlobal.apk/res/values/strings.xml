@@ -29,6 +29,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="abcdef">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoA6UHJ2rwJLYQwv7lF0I5jWMbA1rFYC7MkZ/t9Cll+P5eC6FXi0vNZtOLRKEToQeIx0kY180qd8uShem+bnI74ogq+JvPOpQ+O663nr7ZiSTqEKxXFXYO0m1Y8C6hLKH0QkfmQC0HDi60R7xz3vIOholMw5GGbEi9ocmI5q94/sB5ry9VZACKEOPwsKQg/rjE5VIwUkSHJJDGShcvqwwQqGZXV+rBJKB3yJ5zHqKEqK94j/7aY20cGt1hwRGuUXTWoeREwqAhSMnVJFEXcFJvtX07hb4L86WONsLUHSUuoQ4p0IKOvOcfQwVctXRs1iwNLomG8M0P0Nyc3v8lFpK7QIDAQAB</string>
+    <string name="accelerate_play">Speed: %sX</string>
     <string name="accept_cookies_confirm_message">Turning this feature off may cause some websites to misbehave.</string>
     <string name="accessibility_button_clear">Clear input</string>
     <string name="account_bind_secure_email_title">Add recovery email</string>
@@ -313,6 +314,9 @@ Toggle off to stop syncing."</string>
     <string name="browser_wallpaper_toast">Turn off the Promotions toggle to be able to switch wallpapers</string>
     <string name="btn_agree">Agree</string>
     <string name="btn_cancel">Cancel</string>
+    <string name="btn_copied">Copied</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_open">Open</string>
     <string name="camera_permission_name">Use camera</string>
     <string name="can_not_send_with_too_many">"Can't send that many items at once"</string>
     <string name="cancel">Cancel</string>
@@ -485,8 +489,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">6f8fe2599c514280a5ea62e88bfbd650</string>
-    <string name="com.miapm.build_id">227a51c2d6a04d55868c825fc7eb6cce</string>
+    <string name="com.crashlytics.android.build_id">158fe09c2d494b808ff46a48af5fabab</string>
+    <string name="com.miapm.build_id">45500e79536741b78c3a39adc066ca92</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -1243,6 +1247,8 @@ Send this code to the supervisor."</string>
     <string name="just_a_second">Just a sec…</string>
     <string name="just_now">Just now</string>
     <string name="keep_intrercept">Stop</string>
+    <string name="kindred_coupons_terms">View terms and conditions</string>
+    <string name="kindred_coupons_title">Coupons</string>
     <string name="le_download_failed_server_error">"Couldn't download due to a server error."</string>
     <string name="le_network_chagne_to_none">Disconnected from the network. All downloads were paused.</string>
     <string name="list_item_click">List item click</string>
@@ -1374,7 +1380,7 @@ Send this code to the supervisor."</string>
     <string name="mggc_game_play">Play</string>
     <string name="mggc_game_played">Recent</string>
     <string name="mggc_game_recommend_guide_title">Play for free</string>
-    <string name="mggc_home_page_title">Game Center</string>
+    <string name="mggc_home_page_title">GAME CENTER</string>
     <string name="mggc_home_recommend_tip">Random</string>
     <string name="mggc_hot_games">Popular</string>
     <string name="mggc_ins_back_continue_game">Continue</string>
@@ -2358,6 +2364,8 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="record_permission_name">Record audio</string>
     <string name="recovery_page_popup">Pick up where you left off</string>
     <string name="refresh">Refresh</string>
+    <string name="refresh_button_update_item">%d updates are available</string>
+    <string name="refresh_button_update_latest">"You're viewing the latest items"</string>
     <string name="refresh_fail">"Couldn't load info"</string>
     <string name="refresh_guide">Back to top</string>
     <string name="refreshing">Refreshing…</string>
@@ -2559,7 +2567,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="setting_privacy_password">Set unlock pattern</string>
     <string name="setting_searchable_content">Searchable items</string>
     <string name="setting_sms_content">SMS content</string>
-    <string name="setting_swipe_up">Swipe up on Home screen</string>
     <string name="settings_search_online_apps">App markets</string>
     <string name="settings_search_online_apps_desc">Content from app markets</string>
     <string name="share_by_yidianzixun">【一点资讯】</string>
@@ -2709,6 +2716,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tab_forward_description">Next page of history</string>
     <string name="tab_game">Games</string>
     <string name="tab_home">Home</string>
+    <string name="tab_mall">Store</string>
     <string name="tab_mine">Profile</string>
     <string name="tab_novel">Books</string>
     <string name="tab_quicklinks">Start page</string>
