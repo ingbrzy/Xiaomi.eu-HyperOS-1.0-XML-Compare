@@ -80,6 +80,8 @@
     <string name="afternoon">Afternoon</string>
     <string name="agreement_desc">User Agreement (mandatory)</string>
     <string name="alaka_required">You should pay for this song to listen to it</string>
+    <string name="alarm_clock_recommend_desc">Wake up to a new song each day</string>
+    <string name="alarm_clock_recommend_switch">Recommended song alarm</string>
     <string name="alarm_clock_ringtones_successful">Set alarm successfully</string>
     <string name="album_cover">Album cover</string>
     <string name="album_is_empty">Album name can not be empty.</string>
@@ -175,6 +177,7 @@
     <string name="asm_no_network">"Couldn't connect to the network"</string>
     <string name="asm_not_action_is_local_music">"Can't perform this action on local files"</string>
     <string name="asm_notify_use_mobile_download">Downloading with mobile data</string>
+    <string name="asm_online_service_switch">Turn on online services in the app settings</string>
     <string name="asm_page_empty_search">"Couldn't find results"</string>
     <string name="asm_page_error_airplane">Turn off Airplane mode to be able to connect</string>
     <string name="asm_page_error_data">An error occurred</string>
@@ -382,8 +385,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">6bd2a25900b04629999851bf47717a74</string>
-    <string name="com.miapm.build_id">e54d085ab6364592814c930ee69af058</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">edfae882c251485a84ed000a6def50ff</string>
+    <string name="com.miapm.build_id">7d326eb49dcb4804ac1e016ca3dbaf29</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -722,6 +725,19 @@
     <string name="favorites">Favorites</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="feed_back">Feedback</string>
+    <string name="feed_back_ad_desc">Mi Music is a free service that relies on ads as the main source of income. We use ad revenue to keep improving our features and services and release updates. When possible, we reduce the number of ads to give you a more streamlined experience.</string>
+    <string name="feed_back_ad_problem">There are too many ads</string>
+    <string name="feed_back_button_text">Send feedback</string>
+    <string name="feed_back_button_toast">Sent feedback successfully</string>
+    <string name="feed_back_icon_problem">"I can't find the Mi Music icon"</string>
+    <string name="feed_back_iconp_desc">"Make sure that you've allowed the Mi Music Home screen shortcut to display in Settings > Apps > Manage Home screen shortcuts."</string>
+    <string name="feed_back_iconp_generate">You can also tap below to create a Home screen shortcut for Mi Music.</string>
+    <string name="feed_back_iconp_text">Create shortcut</string>
+    <string name="feed_back_iconp_toast">Created Home screen shortcut successfully</string>
+    <string name="feed_back_other">Send feedback</string>
+    <string name="feed_back_tab_disappear">The \"Watch\" tab has disappeared</string>
+    <string name="feed_back_tabd_desc">If the Watch tab was previously visible and has disappeared, connect to the network and restart the app.</string>
+    <string name="feed_back_title">FAQ &amp; feedback</string>
     <string name="feedback_send_email_body_extra_info">Do not delete the following info. It will help us locate the problem.</string>
     <string name="file_and_media_permissions_for_display">Access to files: for scanning, displaying, and playing local files</string>
     <string name="file_not_found">"File doesn't exist"</string>
@@ -1363,7 +1379,6 @@
     <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
     <string name="online_music_joox">JOOX</string>
     <string name="online_music_yandex">Yandex</string>
-    <string name="online_playlist_category">Playlists</string>
     <string name="online_recommend">Playlist</string>
     <string name="online_service_open_tip">Online music services are on</string>
     <string name="online_service_title">Online services</string>
@@ -1585,6 +1600,21 @@
     <string name="play_setting">Playback</string>
     <string name="play_video_with_traffic">CONTINUE</string>
     <string name="play_video_with_traffic_toast">"You're using mobile data now."</string>
+    <string name="playerui_lyric_dialog_cancel">No</string>
+    <string name="playerui_lyric_dialog_hint">I allow Mi Music to access audio files for optimization purposes</string>
+    <string name="playerui_lyric_dialog_ok">Yes</string>
+    <string name="playerui_lyric_dialog_title">Are these lyrics accurate?</string>
+    <string name="playerui_lyric_edit_hint">Tap here to edit lyrics</string>
+    <string name="playerui_lyric_fun_edit">Edit lyrics</string>
+    <string name="playerui_lyric_fun_font">Text size</string>
+    <string name="playerui_lyric_fun_history">Lyrics history</string>
+    <string name="playerui_lyric_fun_research">Search again</string>
+    <string name="playerui_lyric_searching">Searching…</string>
+    <string name="playerui_lyric_selected">Use these lyrics</string>
+    <string name="playerui_song_dialog_cancel">"Don't allow"</string>
+    <string name="playerui_song_dialog_hint">"More accurate lyrics aren't currently available. You can help us by allowing Mi Music to access this audio file for optimization purposes. Allow access now?"</string>
+    <string name="playerui_song_dialog_ok">Allow</string>
+    <string name="playerui_song_dialog_title">Allow access to audio file</string>
     <string name="playlist_empty">No playlists found.</string>
     <string name="playlist_recommend_title">Recommended</string>
     <string name="playlist_title">Playlist name</string>
