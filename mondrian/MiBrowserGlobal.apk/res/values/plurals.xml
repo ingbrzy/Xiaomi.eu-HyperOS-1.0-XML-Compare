@@ -138,6 +138,10 @@
         <item quantity="other">Protected %d times</item>
         <item quantity="one">Protected %d time</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">You have %d coupons</item>
+        <item quantity="one">You have %d coupon</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">Downloaded %1$s items successfully</item>
         <item quantity="one">Downloaded %1$s item successfully</item>
