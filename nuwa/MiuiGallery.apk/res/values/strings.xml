@@ -1120,6 +1120,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="confirm">OK</string>
     <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
     <string name="confirm_cancel_task_images">Cancel sending images to %1$s?</string>
