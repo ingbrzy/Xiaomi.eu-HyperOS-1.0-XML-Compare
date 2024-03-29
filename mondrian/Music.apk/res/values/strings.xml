@@ -385,8 +385,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">edfae882c251485a84ed000a6def50ff</string>
-    <string name="com.miapm.build_id">7d326eb49dcb4804ac1e016ca3dbaf29</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">583776ea272c4919ae6983769adbc3f4</string>
+    <string name="com.miapm.build_id">23376226ab7b447eb6d96757a8577510</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
