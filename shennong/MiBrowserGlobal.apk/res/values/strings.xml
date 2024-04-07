@@ -488,9 +488,14 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_title">Skip Video?</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
+    <string name="columbus_reward_style_access">Learn more</string>
+    <string name="columbus_reward_style_close_cancel">Exit</string>
+    <string name="columbus_reward_style_close_desc">Finish watching the video to get a reward. Continue watching?</string>
+    <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">158fe09c2d494b808ff46a48af5fabab</string>
-    <string name="com.miapm.build_id">45500e79536741b78c3a39adc066ca92</string>
+    <string name="columbus_skip_ad_time">Skip (%d)</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">d4f3ae5dcecc4da4894254e7fab9bdee</string>
+    <string name="com.miapm.build_id">ece08a6f833645efbb0775330f7b9a74</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -1353,9 +1358,7 @@ Send this code to the supervisor."</string>
     <string name="menu_title_open_file_management">Open File Manager</string>
     <string name="menu_title_pause_all">Pause all</string>
     <string name="menu_title_resume_all">Start all</string>
-    <string name="mggc_aab">f4bb9b1cdc1a0f4b</string>
     <string name="mggc_app_name">Game Center</string>
-    <string name="mggc_bba">e6135d289c1ff651b514fd4559850c19</string>
     <string name="mggc_bottom_bar_category">Categories</string>
     <string name="mggc_bottom_bar_home">Home</string>
     <string name="mggc_bottom_bar_ranking">Charts</string>
@@ -2440,7 +2443,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="rlv_pull_to_refresh">Pull down to refresh</string>
     <string name="rlv_refreshing">Refreshing…</string>
     <string name="rlv_release_to_refresh">Release to refresh</string>
-    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">None</string>
     <string name="router_download_exist">This file already exists</string>
     <string name="router_download_failed">"Couldn't download"</string>
@@ -2849,6 +2851,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_count_down_view">Skip</string>
     <string name="tt_dislike_header_tv_back">Back</string>
     <string name="tt_dislike_header_tv_title">Select</string>
+    <string name="tt_display_error">Display error</string>
     <string name="tt_error_access_method_pass">Illegal access method</string>
     <string name="tt_error_ad_able_false_msg">Prohibit request ads by compliance, please check COPPA/CCPA/GDPR settings</string>
     <string name="tt_error_ad_sec_false_msg">Security Check Failed</string>
@@ -2940,6 +2943,8 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_splash_wriggle_text">Go to details page or third-party application</string>
     <string name="tt_splash_wriggle_top_text">Twist the phone</string>
     <string name="tt_splash_wriggle_top_text_style_17">Twist the phone or tap the icon</string>
+    <string name="tt_suggestion_commit">Submit</string>
+    <string name="tt_suggestion_description">Enter a description of the display error, and click the Submit button. The ad creative will also be sent back to Pangle to help troubleshoot the problem.</string>
     <string name="tt_sys_error">System error</string>
     <string name="tt_template_load_fail">main template load fail !</string>
     <string name="tt_text_privacy_app_version">Version：V</string>
