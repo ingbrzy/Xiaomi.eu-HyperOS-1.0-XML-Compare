@@ -188,9 +188,9 @@
     <string name="asm_pay_order_generate">Generating order…</string>
     <string name="asm_pay_order_generate_failed">"Couldn't generate order"</string>
     <string name="asm_pay_query_overtime">Payment status request timed out</string>
-    <string name="asm_privacy_desc">Wansheng Privacy Policy</string>
-    <string name="asm_privacy_tips_content">Agree to the <a href="/link/click">Wansheng Privacy Policy</a> to be able to use online music services.</string>
-    <string name="asm_privacy_tips_title">Wansheng Privacy Policy</string>
+    <string name="asm_privacy_desc">ASM Privacy Policy</string>
+    <string name="asm_privacy_tips_content">Agree to the <a href="/link/click">ASM Privacy Policy</a> to be able to use online music services.</string>
+    <string name="asm_privacy_tips_title">ASM Privacy Policy</string>
     <string name="asm_pro_center">Membership</string>
     <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
     <string name="asm_song_err_connect">"Couldn't connect to the server"</string>
@@ -385,8 +385,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">583776ea272c4919ae6983769adbc3f4</string>
-    <string name="com.miapm.build_id">23376226ab7b447eb6d96757a8577510</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">386f5b00a01c4fabb12e632952a68872</string>
+    <string name="com.miapm.build_id">983d1f33ce314fd8af6c3826a5c9087d</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1057,6 +1057,21 @@
     <string name="lrc_search_failed">"Couldn't find lyrics"</string>
     <string name="lrc_searching">Searching…</string>
     <string name="ludo_tab_guide">Check out our new Music rooms</string>
+    <string name="lyric_ai_apply_fail">"Couldn't use. Try again."</string>
+    <string name="lyric_ai_button_text">AI lyrics</string>
+    <string name="lyric_ai_dialog_one">"•You can tap to recognize lyrics, and we'll fill in the lyrics for you using AI voice recognition technology."</string>
+    <string name="lyric_ai_dialog_three">•You can check progress in the lyrics toolbar.</string>
+    <string name="lyric_ai_dialog_two">"•Recognition will take a few minutes. Once it's complete, lyrics will be filled in automatically."</string>
+    <string name="lyric_ai_identify_success">Recognized lyrics successfully</string>
+    <string name="lyric_ai_song">Current song</string>
+    <string name="lyric_ai_song_list">Songs</string>
+    <string name="lyric_ai_state_apply">Using lyrics</string>
+    <string name="lyric_ai_state_default">Song not recognized</string>
+    <string name="lyric_ai_state_fail">"Couldn't recognize lyrics"</string>
+    <string name="lyric_ai_state_identify">Recognize</string>
+    <string name="lyric_ai_state_identifying">Just a sec…</string>
+    <string name="lyric_ai_state_use">Use</string>
+    <string name="lyric_ai_title">AI lyrics recognition</string>
     <string name="lyric_is_empty">No lyrics available</string>
     <string name="lyric_label">Lyrics</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
@@ -1662,7 +1677,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="qq_application_id" />
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="queue_is_empty">Playing queue is empty.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Privacy Policy&lt;/a>&lt;/font> to be able to use online music services.&lt;/Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Privacy Policy&lt;/a>&lt;/font> to be able to use online music services.&lt;/Data></string>
     <string name="read_and_agree_hungama_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_joox_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_mi_protocol">"&lt;Data>I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>

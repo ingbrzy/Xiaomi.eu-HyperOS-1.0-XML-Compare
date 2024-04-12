@@ -200,4 +200,10 @@
         <item quantity="other">%1$d companies on the widget</item>
         <item quantity="one">%1$d company on the widget</item>
     </plurals>
+    <plurals name="pa_travel_train_tip_delay_hour_min">
+        <item quantity="other">列车晚点%1$d小时%2$d分钟</item>
+    </plurals>
+    <plurals name="pa_travel_train_tip_delay_min">
+        <item quantity="other">列车晚点%d分钟</item>
+    </plurals>
 </resources>

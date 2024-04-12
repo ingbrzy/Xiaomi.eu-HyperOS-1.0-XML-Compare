@@ -144,6 +144,7 @@
     <string name="cancel">Cancel</string>
     <string name="cancel_choose">Deselect</string>
     <string name="cancel_subscribe_tips">Unfollow now?</string>
+    <string name="card_content_descriptor">card</string>
     <string name="cast_ad_label">Ad</string>
     <string name="cast_casting_to_device">Casting to %1$s</string>
     <string name="cast_closed_captions">Closed captions</string>
@@ -295,7 +296,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">080cf406a77848158a1d637f502bf395</string>
+    <string name="com.crashlytics.android.build_id">f86f3758a14f4f8ea0ccd6d86d3de3d4</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -385,7 +386,7 @@ Send this code to the supervisor."</string>
     <string name="dialog_cancel">Cancel</string>
     <string name="dialog_clearn_content">Clear browsing history now?</string>
     <string name="dialog_clearn_title">Clear history</string>
-    <string name="dialog_confirm">OK</string>
+    <string name="dialog_confirm">Add</string>
     <string name="dialog_delete_bookmarks_content">Delete bookmark now?</string>
     <string name="dialog_disagree_continue">Continue</string>
     <string name="dialog_disagree_info">"If you don't agree to the Mi Video Privacy Policy, you won't be able to use our online services, and will only be able to watch videos stored on your device. Continue anyway?"</string>
@@ -815,6 +816,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="hide">Hide</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_video_toast">This item has been hidden. You can find and manage hidden items in Local > Folders > Hidden items.</string>
+    <string name="hiding_dialog_ok">Set</string>
     <string name="hint_icon_ad_title">Recommended</string>
     <string name="hint_in_mivideo">You can check the side panel for additional features now</string>
     <string name="history">History</string>
@@ -1209,6 +1211,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_dialog_ok">OK</string>
     <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">Selected %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
@@ -1224,6 +1227,8 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="mnc_live_unsubscribe_toast">Unsubscribed successfully</string>
     <string name="mnc_subscribe_push_context">Tap to watch now</string>
     <string name="mnc_subscribe_push_title">Stream is starting</string>
+    <string name="modal_content_descriptor">modal</string>
+    <string name="modal_inner_content_descriptor">modal inner</string>
     <string name="moment_guide_desc">Use gestures to zoom in and out</string>
     <string name="moment_tab_all">All</string>
     <string name="moment_tab_facebook">Facebook</string>
@@ -1554,6 +1559,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Update to the latest system version to be able to use picture-in-picture.</string>
+    <string name="play_at_normal_speed">Playing at 1X speed</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Create playlist</string>
     <string name="play_list_save_dialog_title">Add to playlist</string>
@@ -1731,6 +1737,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="remaining_space_not_enough">"Can't download due to insufficient storage space"</string>
     <string name="reminder">Attention</string>
     <string name="rename">Rename</string>
+    <string name="rename_dialog_ok">OK</string>
     <string name="rename_word_out">This filename is too long</string>
     <string name="repeat_play">Replay</string>
     <string name="report">Report</string>
@@ -1801,6 +1808,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="shake_to_open_ad">Shake to learn more</string>
     <string name="share">Share</string>
     <string name="share_text_before_link">Watch and download great videos for free on Mi Video</string>
+    <string name="share_title">Share</string>
     <string name="share_ugc_content">Take a look at %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Join</string>
     <string name="share_ugc_waitting">Generating link…</string>
