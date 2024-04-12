@@ -1068,7 +1068,7 @@ Add widgets to get started."</string>
     <string name="pa_travel_gtauth_privacy_policy">《隐私政策》</string>
     <string name="pa_travel_gtauth_privacy_prefix">已阅读并同意</string>
     <string name="pa_travel_gtauth_privacy_protocol">《用户服务协议》</string>
-    <string name="pa_travel_item_source_guotie">国铁吉迅</string>
+    <string name="pa_travel_item_source_guotie">国铁吉讯</string>
     <string name="pa_travel_item_source_hanglv">航旅纵横</string>
     <string name="pa_travel_item_source_prefix">数据来源：</string>
     <string name="pa_travel_item_source_sms">短信</string>
@@ -1080,7 +1080,7 @@ Add widgets to get started."</string>
     <string name="pa_travel_preference_cp_state_not_bind">未绑定</string>
     <string name="pa_travel_preference_summary_cpbind">绑定后享受更精准、智能的提醒服务</string>
     <string name="pa_travel_preference_summary_reminder">根据火车车次、飞机航班信息，自动在负一屏顶部提醒行程</string>
-    <string name="pa_travel_preference_title_cp_gt">国铁吉迅</string>
+    <string name="pa_travel_preference_title_cp_gt">国铁吉讯</string>
     <string name="pa_travel_preference_title_cp_zh">航旅纵横</string>
     <string name="pa_travel_preference_title_reminder">行程提醒</string>
     <string name="pa_travel_select_arrival_station">请选择目的地</string>
