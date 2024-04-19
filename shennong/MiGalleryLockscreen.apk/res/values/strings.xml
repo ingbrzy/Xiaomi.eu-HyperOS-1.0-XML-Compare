@@ -1090,8 +1090,6 @@ mm"</string>
     <string name="sst_subscrible_manager_title_bar_text">Manage subscriptions</string>
     <string name="sst_subscripted">Subscribed</string>
     <string name="sst_subscripted2">Available categories</string>
-    <string name="sst_surprise_wallpaper">surprise wallpaper</string>
-    <string name="sst_surprise_wallpaper_desc">Using AIGC to generate personalized wallpapers</string>
     <string name="sst_switch_wallpaper_order_desc">Select the slide order</string>
     <string name="sst_switch_wallpaper_order_fixed">Sequence</string>
     <string name="sst_switch_wallpaper_order_random">Random</string>
@@ -1135,8 +1133,6 @@ mm"</string>
     <string name="sunday_shortest">Sun</string>
     <string name="sure_close_gallery">Turn off Wallpaper Carousel?</string>
     <string name="sure_close_gallery_des">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
-    <string name="surprise_wallpaper_empty_dlg_content">Surprise wallpapers will be based on self-selected wallpapers (if enabled) or randomly generated customized wallpapers</string>
-    <string name="surprise_wallpaper_empty_dlg_title">Surprise Wallpaper</string>
     <string name="system_default">Default</string>
     <string name="tab_user_title_bar_text">Settings</string>
     <string name="tb_collapse_desc">Hide the \"Share\" menu</string>
