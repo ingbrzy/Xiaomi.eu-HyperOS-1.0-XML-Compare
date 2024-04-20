@@ -768,6 +768,7 @@
     <string name="pref_title_quick_note">Quick notes</string>
     <string name="pref_title_todo_float_mode">Use task toolbox</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="privacy_preference">ICP备案号：京ICP备10046444号-74A</string>
     <string name="private_entry_available">Release to open private folder</string>
     <string name="private_entry_default">Pull down to open private folder</string>
     <string name="progressbar_title">Checking for security issues…</string>
