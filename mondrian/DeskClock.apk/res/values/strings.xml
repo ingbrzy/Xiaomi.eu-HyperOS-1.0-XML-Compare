@@ -184,6 +184,7 @@
     <string name="click_to_cancel_alarm">Tap to turn off</string>
     <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
+    <string name="clock_information_ipc">ICP备案号：京ICP备10046444号-57A</string>
     <string name="close">Close</string>
     <string name="close_alarm">Turn off</string>
     <string name="close_alarm_new">Stop</string>
