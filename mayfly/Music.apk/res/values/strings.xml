@@ -108,7 +108,7 @@
     <string name="app_disable_description_content">Mi Music is a system app. If you disable it, this may affect your usage of other apps. Disable anyway?</string>
     <string name="app_disable_description_title">Disable system app?</string>
     <string name="app_label">Downloads</string>
-    <string name="app_name">podcast</string>
+    <string name="app_name">FFmpegAndroid</string>
     <string name="app_notify_dialog_btn_desc">Settings</string>
     <string name="app_notify_dialog_check_desc">"Turn on Notification shade widget, but don't allow permanent notifications"</string>
     <string name="app_notify_dialog_path">Settings > Notifications &amp; status bar > App notifications > Music</string>
@@ -169,6 +169,7 @@
     <string name="asm_google_query_failed">"Couldn't get product info"</string>
     <string name="asm_google_service_failed">"Couldn't launch Google services. Try again."</string>
     <string name="asm_gooleplay_notice">"Google Play services aren't installed"</string>
+    <string name="asm_item_not_available">item is not available</string>
     <string name="asm_loadstate_error_retry">Connect to the internet and tap to try again</string>
     <string name="asm_loadstate_not_more">"That's all for now"</string>
     <string name="asm_network_error">Check your network connection</string>
@@ -189,6 +190,7 @@
     <string name="asm_pay_order_generate_failed">"Couldn't generate order"</string>
     <string name="asm_pay_query_overtime">Payment status request timed out</string>
     <string name="asm_privacy_desc">ASM Privacy Policy</string>
+    <string name="asm_privacy_policy_url">https://fra-mi-h5.allsaints.tv/#/privacy-policy.html</string>
     <string name="asm_privacy_tips_content">Agree to the <a href="/link/click">ASM Privacy Policy</a> to be able to use online music services.</string>
     <string name="asm_privacy_tips_title">ASM Privacy Policy</string>
     <string name="asm_pro_center">Membership</string>
@@ -254,6 +256,7 @@
     <string name="best_experience">Best experience</string>
     <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Bluetooth audio device</string>
+    <string name="boldFont">sans-serif-medium</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="brvah_load_complete">点击加载更多</string>
@@ -385,8 +388,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">386f5b00a01c4fabb12e632952a68872</string>
-    <string name="com.miapm.build_id">983d1f33ce314fd8af6c3826a5c9087d</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">8a1b87921fa449ae9a06a0b191f54260</string>
+    <string name="com.miapm.build_id">038e6202ece14a57b2f3a134434f308d</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1031,6 +1034,7 @@
     <string name="loading_reached_the_bottom">"That's all for now."</string>
     <string name="loading_text">Just a sec…</string>
     <string name="local_ad_title">Promotion</string>
+    <string name="local_count_and_path">%1$d %2$s</string>
     <string name="local_download_download">Download</string>
     <string name="local_download_hint">Turn on Wi-Fi before downloading</string>
     <string name="local_download_item">Download for free</string>
@@ -1048,6 +1052,10 @@
     <string name="local_page_artist_more">More songs by %s</string>
     <string name="local_page_playlist">Playlists</string>
     <string name="local_page_song_download_history">Downloads</string>
+    <string name="lock_screen_music_settings">音乐锁屏设置</string>
+    <string name="lock_screen_settings">锁屏设置</string>
+    <string name="lock_screen_slide_up">上划解锁</string>
+    <string name="lock_screen_switch">使用音乐锁屏</string>
     <string name="login_instantly">Sign in</string>
     <string name="login_mi_account_and_gain_more_rights">Sign in with your Xiaomi Account to access more features.</string>
     <string name="login_out_tip">"Can't sign out for now. You can clear all app data instead."</string>
@@ -1062,6 +1070,7 @@
     <string name="lyric_ai_dialog_one">"•You can tap to recognize lyrics, and we'll fill in the lyrics for you using AI voice recognition technology."</string>
     <string name="lyric_ai_dialog_three">•You can check progress in the lyrics toolbar.</string>
     <string name="lyric_ai_dialog_two">"•Recognition will take a few minutes. Once it's complete, lyrics will be filled in automatically."</string>
+    <string name="lyric_ai_fail_toast">File is too large to recognize</string>
     <string name="lyric_ai_identify_success">Recognized lyrics successfully</string>
     <string name="lyric_ai_song">Current song</string>
     <string name="lyric_ai_song_list">Songs</string>
@@ -1072,6 +1081,15 @@
     <string name="lyric_ai_state_identifying">Just a sec…</string>
     <string name="lyric_ai_state_use">Use</string>
     <string name="lyric_ai_title">AI lyrics recognition</string>
+    <string name="lyric_feedback_inaccurate_timing">歌词时间不准</string>
+    <string name="lyric_feedback_lyrics_error">整首歌词错误</string>
+    <string name="lyric_feedback_misspelling">有错别字</string>
+    <string name="lyric_feedback_other">其他</string>
+    <string name="lyric_feedback_pure_music">纯音乐无需歌词</string>
+    <string name="lyric_feedback_report_optimization">歌词不准？上报优化</string>
+    <string name="lyric_feedback_submit">提交</string>
+    <string name="lyric_feedback_submit_success">提交成功</string>
+    <string name="lyric_feedback_title">当前歌词不准确，上报错误原因</string>
     <string name="lyric_is_empty">No lyrics available</string>
     <string name="lyric_label">Lyrics</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
@@ -1333,6 +1351,7 @@
     <string name="no_system_cropper_find">"System doesn't have cropper for image"</string>
     <string name="no_url">播放地址无效</string>
     <string name="noon">Midday</string>
+    <string name="normalFont">sans-serif</string>
     <string name="normal_quality">Good</string>
     <string name="not_login">Not signed in</string>
     <string name="not_now">Not now</string>
@@ -1402,6 +1421,7 @@
     <string name="online_switch_message">Turning off online services will affect VIP services and recommendations. Turn off anyway?</string>
     <string name="online_switch_setting">Online content settings</string>
     <string name="only_pro_can_choose_hd_sound_quality">HD audio is only available to Gold members</string>
+    <string name="open_alarm_clock_recommend_switch">开启早起闹钟推荐歌曲</string>
     <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
     <string name="open_service">Turn on</string>
     <string name="operation_done_close">Close</string>
@@ -1879,6 +1899,10 @@ Be Happy"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Try crossfading songs during playback</string>
     <string name="sound_off">声音关</string>
     <string name="sound_on">声音开</string>
+    <string name="srl_component_falsify" formatted="false">"%s falsify area,
+ Represents the height[%.1fdp] of drag at run time,
+ It does not show anything."</string>
+    <string name="srl_content_empty">The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?</string>
     <string name="start">开始</string>
     <string name="start_to_check_new_version">Checking for updates…</string>
     <string name="start_to_download">Downloading…</string>
@@ -2034,6 +2058,7 @@ Be Happy"</string>
     <string name="today">Today</string>
     <string name="today_hot_playlist">"Today's top playlist"</string>
     <string name="tomorrow">Tomorrow</string>
+    <string name="tools_settings">工具设置</string>
     <string name="top_chart_title">Charts</string>
     <string name="track_play_history_after_login">Sign in to view playback history</string>
     <string name="tt_00_00">00:00</string>
