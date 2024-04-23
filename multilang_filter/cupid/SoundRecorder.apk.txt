@@ -1,4 +1,5 @@
 Removed: [cs] strings.xml: string/low_battery_error (format mismatch)
 Removed: [fr] strings.xml: string/low_battery_error (format mismatch)
+Removed: [it] strings.xml: string/low_battery_error (format mismatch)
 Removed: [sk] strings.xml: string/low_battery_error (format mismatch)
 Removed: [vi] strings.xml: string/low_battery_error (format mismatch)
