@@ -13,6 +13,7 @@ Removed: [ha-rNG] strings.xml: string/circulate_headset_back_to_box_desc_err_310
 Removed: [hi] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
 Removed: [hy-rAM] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
 Removed: [in] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
+Removed: [it] strings.xml: string/privacy_detail (format mismatch)
 Removed: [ka-rGE] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
 Removed: [kk-rKZ] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)
 Removed: [km-rKH] strings.xml: string/circulate_headset_back_to_box_desc_err_310 (format mismatch)

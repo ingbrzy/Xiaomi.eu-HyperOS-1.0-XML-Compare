@@ -1,1 +1,2 @@
 Removed: [ca-rES] strings.xml: string/guitar (format mismatch)
+Removed: [it-rIT] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
