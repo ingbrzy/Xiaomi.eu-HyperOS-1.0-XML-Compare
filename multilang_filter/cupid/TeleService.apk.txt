@@ -1,3 +1,4 @@
 Removed: [az-rAZ] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
 Removed: [fr] strings.xml: string/arriérés_sim_title (invalid name)
+Removed: [it] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
 Removed: [vi] strings.xml: string/ hide_error_from_network_text (invalid name)
