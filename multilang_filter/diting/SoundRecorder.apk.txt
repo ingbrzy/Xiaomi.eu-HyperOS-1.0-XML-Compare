@@ -1,4 +1,6 @@
 Removed: [cs] strings.xml: string/low_battery_error (format mismatch)
 Removed: [fr] strings.xml: string/low_battery_error (format mismatch)
+Removed: [it] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
+Removed: [it] strings.xml: string/low_battery_error (format mismatch)
 Removed: [sk] strings.xml: string/low_battery_error (format mismatch)
 Removed: [vi] strings.xml: string/low_battery_error (format mismatch)
