@@ -1035,6 +1035,36 @@ Add widgets to get started."</string>
     <string name="pa_travel_accessibility_weather" formatted="false">到达当日， %s，天气 %s，温度 %s，双击跳转天气详情页</string>
     <string name="pa_travel_all">全部行程</string>
     <string name="pa_travel_bind_state_none">--</string>
+    <string name="pa_travel_content_description_assistant_all_travel">双击查看未来三十天行程</string>
+    <string name="pa_travel_content_description_assistant_cp_bind">双击绑定授权第三方服务账号</string>
+    <string name="pa_travel_content_description_assistant_reminder_close">双击关闭行程提醒</string>
+    <string name="pa_travel_content_description_assistant_reminder_open">双击开启行程提醒</string>
+    <string name="pa_travel_content_description_cp_bind_crgt_bind">未绑定国铁吉迅，双击绑定国铁吉迅</string>
+    <string name="pa_travel_content_description_cp_bind_crgt_unbind">已绑定国铁吉迅，双击解绑国铁吉迅</string>
+    <string name="pa_travel_content_description_cp_bind_querying">暂未获取绑定状态，稍后重试</string>
+    <string name="pa_travel_content_description_cp_bind_ume_bind">未绑定航旅纵横，双击绑定航旅纵横</string>
+    <string name="pa_travel_content_description_cp_bind_ume_unbind">已绑定航旅纵横，双击解绑航旅纵横</string>
+    <string name="pa_travel_content_description_crgt_auth_checked">双击取消同意“国铁吉讯”《用户服务协议》和《隐私政策》</string>
+    <string name="pa_travel_content_description_crgt_auth_dialog_cancel">双击取消同意授权“国铁吉讯”《用户服务协议》和《隐私政策》</string>
+    <string name="pa_travel_content_description_crgt_auth_dialog_confirm">双击同意并授权“国铁吉讯”《用户服务协议》和《隐私政策》</string>
+    <string name="pa_travel_content_description_crgt_auth_grant">双击确认并授权绑定“国铁吉讯”</string>
+    <string name="pa_travel_content_description_crgt_auth_look_privacy">双击查看“国铁吉讯”《用户服务协议》和《隐私政策》</string>
+    <string name="pa_travel_content_description_crgt_auth_unchecked">双击同意“国铁吉讯”《用户服务协议》和《隐私政策》</string>
+    <string name="pa_travel_content_description_list_card_checked" formatted="false">已选中行程%s%s，在页面底部中央双击删除按钮，删除该行程</string>
+    <string name="pa_travel_content_description_list_card_crossed_flight_info" formatted="false">%s %s，航班%s，%s从%s起飞，%s天后%s到达%s，%s</string>
+    <string name="pa_travel_content_description_list_card_crossed_train_info" formatted="false">%s %s，列车%s，%s从%s出发，%s天后%s到达%s，%s</string>
+    <string name="pa_travel_content_description_list_card_flag_action_bound">双击跳转行程详情页，长按选中可删除该行程</string>
+    <string name="pa_travel_content_description_list_card_flag_action_unbind">双击跳转%s账户授权页，长按选中可删除该行程</string>
+    <string name="pa_travel_content_description_list_card_flag_flight">航班</string>
+    <string name="pa_travel_content_description_list_card_flag_train">列车</string>
+    <string name="pa_travel_content_description_list_card_flight_info" formatted="false">%s %s，航班%s，%s从%s起飞，%s到达%s，%s</string>
+    <string name="pa_travel_content_description_list_card_select_arrival_station">双击选择到达站</string>
+    <string name="pa_travel_content_description_list_card_station_selected">双击选中%s</string>
+    <string name="pa_travel_content_description_list_card_train_info" formatted="false">%s %s，列车%s，%s从%s出发，%s到达%s，双击跳转行程详情页，%s</string>
+    <string name="pa_travel_content_description_list_card_train_info_no_arrival_station" formatted="false">%s %s，列车%s，%s从%s出发，%s</string>
+    <string name="pa_travel_content_description_list_card_unchecked" formatted="false">未选中行程%s%s</string>
+    <string name="pa_travel_content_description_list_delete_dialog_button_cancel">双击取消删除</string>
+    <string name="pa_travel_content_description_list_delete_dialog_button_confirm">双击确认删除，删除后不可恢复</string>
     <string name="pa_travel_date_unit_day">日</string>
     <string name="pa_travel_date_unit_month">月</string>
     <string name="pa_travel_date_unit_year">年</string>
@@ -1057,6 +1087,7 @@ Add widgets to get started."</string>
     <string name="pa_travel_flight_status_boarding_pass">登机牌</string>
     <string name="pa_travel_flight_status_check_in_not_open">未开放值机</string>
     <string name="pa_travel_flight_status_go_for_check_in">去值机</string>
+    <string name="pa_travel_flight_status_itinerary_statistics">行程统计</string>
     <string name="pa_travel_flight_tip_cancel">航班取消，请您重新制定出行计划</string>
     <string name="pa_travel_flight_tip_delay">航班延误，请您依旧按照计划时间到达机场</string>
     <string name="pa_travel_flight_unauthorized_tip">授权服务账号，及时获得航班动态信息</string>
@@ -1078,13 +1109,18 @@ Add widgets to get started."</string>
     <string name="pa_travel_near_travel_tip">24小时内待出发行程</string>
     <string name="pa_travel_preference_cp_state_bind">已绑定</string>
     <string name="pa_travel_preference_cp_state_not_bind">未绑定</string>
+    <string name="pa_travel_preference_summary_all_travel">近30天待出行行程</string>
     <string name="pa_travel_preference_summary_cpbind">绑定后享受更精准、智能的提醒服务</string>
-    <string name="pa_travel_preference_summary_reminder">根据火车车次、飞机航班信息，自动在负一屏顶部提醒行程</string>
+    <string name="pa_travel_preference_summary_reminder">根据火车车次、飞机航班信息，自动在负一屏顶部下发行程提醒</string>
+    <string name="pa_travel_preference_title_all_travel">全部行程</string>
     <string name="pa_travel_preference_title_cp_gt">国铁吉讯</string>
     <string name="pa_travel_preference_title_cp_zh">航旅纵横</string>
+    <string name="pa_travel_preference_title_cpbind">绑定服务账号</string>
     <string name="pa_travel_preference_title_reminder">行程提醒</string>
     <string name="pa_travel_select_arrival_station">请选择目的地</string>
     <string name="pa_travel_select_title">已选择%d项</string>
+    <string name="pa_travel_time_unit_hour">时</string>
+    <string name="pa_travel_time_unit_minute">分</string>
     <string name="pa_travel_title_travel_assistant">出行助手</string>
     <string name="pa_travel_title_travel_cpbind">服务绑定</string>
     <string name="pa_travel_title_travel_gtauth">国铁吉讯账户授权</string>
