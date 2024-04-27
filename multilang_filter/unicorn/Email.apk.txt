@@ -1,4 +1,5 @@
 Removed: [cs] arrays.xml: array/signature_normal_string_array (item mismatch)
 Removed: [fr] arrays.xml: array/error_message_respond (item mismatch)
+Removed: [it] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
 Removed: [sk] arrays.xml: array/signature_normal_string_array (item mismatch)
 Removed: [vi] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
