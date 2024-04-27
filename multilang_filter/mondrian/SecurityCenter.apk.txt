@@ -1,5 +1,6 @@
 Removed: [az-rAZ] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
-Removed: [pt-rPT] plurals.xml: plurals/hints_auto_start_enable_title_global (duplicate quantity)
+Removed: [it] strings.xml: string/menu_summary_power_manager_2 (format mismatch)
+Removed: [it] strings.xml: string/power_center_battery_last (format mismatch)
 Removed: [ro] plurals.xml: plurals/quick_optimize_summary_text (format mismatch)
 Removed: [ro] strings.xml: string/app_running_tip_dialog_text (format mismatch)
 Removed: [ro] strings.xml: string/gb_predownload_noti_message (format mismatch)
