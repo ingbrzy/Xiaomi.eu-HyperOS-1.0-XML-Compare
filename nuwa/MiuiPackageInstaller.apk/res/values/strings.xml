@@ -400,14 +400,13 @@
     <string name="full_safe_auth_dialog_title">请验证身份确认安装</string>
     <string name="full_safe_bundle_app_confirm_install">确认安装</string>
     <string name="full_safe_enhance_mode_summary">仅支持安装小米应用商店的应用</string>
-    <string name="full_safe_install_risk_source_dialog_safe_title_des">该安装来源存在高风险：破坏系统运行。建议您通过其他安全渠道安装应用！</string>
+    <string name="full_safe_install_risk_source_dialog_safe_title_des">该安装来源存在高风险：破坏系统运行，建议您通过其他安全渠道安装应用。</string>
     <string name="full_safe_install_source_dialog_safe_title_des">允许安装来自该来源的应用，设备和个人隐私安全易受到未知风险攻击。</string>
     <string name="full_safe_protect_guide_message">当通过浏览器等非小米应用商店来源安装应用时，将收到安全提醒，防止误安装风险应用，建议开启。</string>
     <string name="full_safe_protect_title">应用安装防护</string>
-    <string name="full_safe_version_update_known_button_text">我知道了</string>
-    <string name="full_safe_version_update_tip_bottom">*快来体验试试看吧～</string>
-    <string name="full_safe_version_update_tip_sub_title_not_renamed">「安全守护」全新升级</string>
-    <string name="full_safe_version_update_tip_sub_title_rename">「安全守护」正式升级为「应用安装防护」</string>
+    <string name="full_safe_version_update_known_button_text">知道了</string>
+    <string name="full_safe_version_update_tip_sub_title_not_renamed">“安全守护”全新升级，此版本有以下新变化：</string>
+    <string name="full_safe_version_update_tip_sub_title_rename">“安全守护”正式升级为“应用安装防护”，此版本有以下新变化：</string>
     <string name="full_safe_version_update_tip_text1">应用安装更快速</string>
     <string name="full_safe_version_update_tip_text2">风险提示更清晰</string>
     <string name="full_safe_version_update_tip_text3">页面设计更简洁</string>
@@ -1172,6 +1171,7 @@ come from"</string>
     <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
     <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
     <string name="single_authorize">Allow once</string>
+    <string name="single_authorize_for_installation">单次安装授权</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
