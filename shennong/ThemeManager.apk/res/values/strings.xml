@@ -775,6 +775,7 @@ Tap to turn off."</string>
     <string name="lockstyle_personal_settings">Customize</string>
     <string name="login_theme">Sign in to Themes</string>
     <string name="long_click_can_hide_resource">Press and hold to hide items</string>
+    <string name="loop_video_wallpaper">Loop video wallpapers</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
