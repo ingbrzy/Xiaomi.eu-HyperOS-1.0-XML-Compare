@@ -444,6 +444,7 @@ You can start another session on your computer."</string>
     <string name="nfc_wifi_and_bluetooth_china">Turn on Wi-Fi and Bluetooth</string>
     <string name="night">Evening</string>
     <string name="noon">Midday</string>
+    <string name="not_find_car_to_mirror">"Couldn't find a vehicle to which to transfer apps"</string>
     <string name="not_set">Not set</string>
     <string name="notification_channel_description_download">Show download progress in the Notification shade</string>
     <string name="notification_channel_name_download">Show download progress</string>
