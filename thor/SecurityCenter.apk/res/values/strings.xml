@@ -37,6 +37,9 @@
     <string name="HIPS_Perm_tencentControl_Desc">Access images and files saved from WeChat and QQ</string>
     <string name="HIPS_Perm_use_sip_Desc">Use Session Initiation Protocol to stream video</string>
     <string name="Phonepass">Allow calls</string>
+    <string name="SC_HIPS_Perm_process_outgoing_calls">Answer and end calls</string>
+    <string name="SC_HIPS_Perm_read_clipboard">Access clipboard</string>
+    <string name="SC_HIPS_Perm_write_clipboard">Add items to clipboard</string>
     <string name="SMS_and_MMS">SMS and MMS</string>
     <string name="SMSpass">Allow SMS</string>
     <string name="Setting_lock">Settings</string>
@@ -80,6 +83,7 @@
     <string name="abnormal_consume_type_wakelock">"The system can't go to sleep"</string>
     <string name="about_autostart">About autostart</string>
     <string name="about_autostart_gloabl">About background autostart</string>
+    <string name="about_securitycenter_icp">ICP备案号：京ICP备10046444号-61A，京ICP备10046444号-62A，京ICP备10046444号-63A，京ICP备10046444号-69A，京ICP备10046444号-97A ></string>
     <string name="about_securitycenter_phne">Customer service hotline: 400–100–5678</string>
     <string name="about_securitycenter_title">About Security</string>
     <string name="ac_enter_applock">Enter App lock</string>
@@ -107,6 +111,13 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Enter App lock password</string>
     <string name="accessibility_gameboosterservice_description">"Turn on to silence incoming WeChat calls when you're playing games"</string>
+    <string name="accessibility_keyboard_delete_button">Delete</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Numbers</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symbols</string>
+    <string name="accessibility_keyboard_ok_button">Enter</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letters</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbols lock</string>
     <string name="accessibility_service_description" />
     <string name="action_button_text_100">Optimize</string>
     <string name="action_button_text_60">Fix</string>
@@ -349,6 +360,13 @@
     <string name="app_install_intercept">Block installation</string>
     <string name="app_install_tips_go_to">Open</string>
     <string name="app_install_tips_install_success">Installed %1$s successfully</string>
+    <string name="app_isolate_func_close_tip">If you turn this feature off, some app data may be lost. Back up important data first. Turn off now?</string>
+    <string name="app_isolate_func_closing">Turning off…</string>
+    <string name="app_isolate_func_opening">Turning on…</string>
+    <string name="app_lock_face_error_to_try">Tap the face icon to use Face unlock</string>
+    <string name="app_lock_pwd">Enter password to unlock</string>
+    <string name="app_lock_pwd_forget">Forgot password</string>
+    <string name="app_lock_pwd_or_finger">Unlock via password or fingerprint</string>
     <string name="app_manage_frequency">使用频率</string>
     <string name="app_manage_install_time">安装时间</string>
     <string name="app_manage_installed">已安装</string>
@@ -362,12 +380,14 @@
     <string name="app_management_for_chain_start_desc">Prevent this app from connecting to or opening other apps</string>
     <string name="app_management_for_device_id">Hide identifiers and prevent tracking</string>
     <string name="app_management_for_device_id_desc">Prevent this app from accessing your phone number and personally identifying information</string>
-    <string name="app_management_for_independent_storage">Isolate cached data</string>
-    <string name="app_management_for_independent_storage_desc">Only allow the app to access its own files and data</string>
+    <string name="app_management_for_independent_storage">Independent storage</string>
+    <string name="app_management_for_independent_storage_desc">Store app data independently and prevent the app from accessing some external data</string>
     <string name="app_management_for_install">Block app downloads</string>
     <string name="app_management_for_install_desc">Prevent this app from downloading or installing other apps</string>
     <string name="app_management_measures">App management</string>
     <string name="app_manager_advanced_setting">Advanced settings</string>
+    <string name="app_manager_airtel_dlg_msg">If you have questions, contact Airtel</string>
+    <string name="app_manager_airtel_dlg_title">Blocked by Airtel</string>
     <string name="app_manager_allow">Yes</string>
     <string name="app_manager_anomaly_analysis">Analyze third party app problems</string>
     <string name="app_manager_app_ifno_version">App version</string>
@@ -400,7 +420,7 @@
     <string name="app_manager_data_size">User data</string>
     <string name="app_manager_default_cleared">Cleared</string>
     <string name="app_manager_default_close_summary">No defaults set.</string>
-    <string name="app_manager_default_open_summary">You’ve chosen to launch this app by default for some actions.</string>
+    <string name="app_manager_default_open_summary">"You've chosen to launch this app by default for some actions."</string>
     <string name="app_manager_default_open_title">Clear defaults</string>
     <string name="app_manager_defaults_setting">Default apps</string>
     <string name="app_manager_details_electric_title">Battery</string>
@@ -1319,6 +1339,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
     <string name="commonly_used_func_card_title">Common features</string>
     <string name="commonly_used_func_edit_too_many_func">"Can't add more items"</string>
+    <string name="compact_safebox_dialog_tip">In order to provide you with a better user experience, Second space no longer supports hidden folders. Transfer these items as soon as possible to prevent the loss of your data.</string>
     <string name="compatible_dialog_content">"This app isn't fully compatible with the 64-bit architecture. You may experience performance issues and increased power consumption while using it."</string>
     <string name="compatible_dialog_more_info">Learn more</string>
     <string name="compatible_dialog_title">Attention</string>
@@ -1413,10 +1434,16 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cs_pickup_single_title">Single participant</string>
     <string name="cs_pickup_surround_desc">Uses AI to reduce noise for crisp, clear sound</string>
     <string name="cs_pickup_surround_title">Microphone noise reduction</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_desc">End the call and follow the instructions to start.</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_title">To pick up sound only from one person, record their voiceprint first.</string>
+    <string name="cs_pickup_vioce_print_unsupport_tips">Record voiceprint before selecting \"Single participant\"</string>
+    <string name="cs_pickup_vioce_print_unsupport_toast">Disconnect external devices and try again</string>
+    <string name="cs_pickup_voice_print_desc">Pick up sound only from one person</string>
     <string name="cs_screen_translation_title">Screen translation</string>
     <string name="cs_title_pickup">Noise reduction</string>
     <string name="cs_title_smart_subtitle">Subtitle transcription</string>
     <string name="cs_title_ultraclear">Ultra HD mode</string>
+    <string name="cs_voice_print">Record voiceprint</string>
     <string name="cta_HIPS_Perm_Location_Desc">For providing the features relevant to your location in Warning Center, Emergency SOS, App battery saver, payment security scanner, and approximate location service</string>
     <string name="cta_agree_desc">To be able to use our services, allow this app to connect to the internet and grant the permissions listed above.</string>
     <string name="cta_close_dialog_cancel">Cancel</string>
@@ -1432,6 +1459,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">For using blocklist and making calls to emergency contacts when earthquake warnings are issued</string>
     <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">For managing authorization when performing cross-device identity verification, USB debugging, and restoring Privacy protection password and App lock</string>
+    <string name="custom_define_permission_desc_android.permission.NEARBY_DEVICES">For connecting or disconnecting Bluetooth devices for automated tasks</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">For displaying blocked calls in your call history</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">For using blocklist</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">For recognizing call status in high temperature or low battery situations</string>
@@ -1735,6 +1763,10 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Afternoon</string>
     <string name="every_day">Every day</string>
+    <string name="ew_action_subscribe">Subscribe</string>
+    <string name="ew_action_subscribed">Subscribed</string>
+    <string name="ew_action_subscribed_area">Subscribed regions</string>
+    <string name="ew_action_unsubscribe">Unsubscribe</string>
     <string name="ew_alert_arrive_location">Seismic wave arrived in %s</string>
     <string name="ew_alert_dial_text">"Call emergency
 contact"</string>
@@ -1775,6 +1807,7 @@ medical card"</string>
     <string name="ew_contact_dialog_tips">Add at least one emergency contact.</string>
     <string name="ew_contact_dialog_title">Attention</string>
     <string name="ew_current_location">Current location</string>
+    <string name="ew_current_location_with_bracket">" (Current location)"</string>
     <string name="ew_emergency_allergy">Allergies</string>
     <string name="ew_emergency_basic_info">Basic info</string>
     <string name="ew_emergency_birthday">Date of birth</string>
@@ -1828,7 +1861,7 @@ You must understand that this feature is provided for your reference only. The w
     <string name="ew_guide_tips_1">"You'll be notified about upcoming earthquakes and hear warning sound"</string>
     <string name="ew_guide_tips_2">Earthquake early information and warning sound will be updated during the earthquake</string>
     <string name="ew_guide_tips_3">"You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required"</string>
-    <string name="ew_guide_title">View demo</string>
+    <string name="ew_guide_title">Demo</string>
     <string name="ew_info_agreement">Disclaimers</string>
     <string name="ew_info_other">Other</string>
     <string name="ew_info_range">Service scope</string>
@@ -1857,8 +1890,8 @@ You must understand that this feature is provided for your reference only. The w
     <string name="ew_main_detail_title">Settings</string>
     <string name="ew_main_emergency_tips">Record your basic medical info to always have it at hand</string>
     <string name="ew_main_emergency_title">Medical card</string>
-    <string name="ew_main_open_tips">"This feature will notify you about upcoming earthquakes and play warning sound. You'll also be provided with the information about emergency services after the emergency countdown stops."</string>
-    <string name="ew_main_open_title">Receive alerts and get help</string>
+    <string name="ew_main_open_tips">This feature will notify you about upcoming earthquakes and play a warning sound</string>
+    <string name="ew_main_open_title">Earthquake warning</string>
     <string name="ew_main_place_tips">Learn where the nearest emergency shelter is whenever you need one</string>
     <string name="ew_main_place_title">Emergency shelters nearby</string>
     <string name="ew_main_setting_show_desc">Demo</string>
@@ -1918,8 +1951,8 @@ volunteer"</string>
     <string name="ew_settings_set_level_summary">Receive warnings about earthquakes when their intensity is %s or higher</string>
     <string name="ew_settings_set_level_title">Set earthquake warning threshold</string>
     <string name="ew_signature_default">成都高新减灾研究所 大陆地震预警中心</string>
-    <string name="ew_sleep_mode_alert_content">"To make sure you can receive earthquake early warnings, Sleep mode will be turned off. Background apps, NFC, Bluetooth, GPS, mobile data, and Wi-Fi will work normally even when you're sleeping. Turn on Earthquake warning now?"</string>
-    <string name="ew_sleep_mode_alert_title">Earthquake warning</string>
+    <string name="ew_sleep_mode_alert_content">"To make sure you can receive earthquake early warnings, Sleep mode will be turned off. Background apps, NFC, Bluetooth, GPS, mobile data, and Wi-Fi will work normally even when you're sleeping."</string>
+    <string name="ew_sleep_mode_alert_title">Important notice</string>
     <string name="ew_subscribe_area_title">Manage added areas</string>
     <string name="ew_subscribe_city">Added areas</string>
     <string name="ew_subscribe_city_count">最多可以订阅%s个城市</string>
@@ -2050,7 +2083,7 @@ volunteer"</string>
     <string name="fingerprint_verify_failed">"Couldn't verify fingerprint"</string>
     <string name="fingerprint_verify_succeed">Fingerprint verified</string>
     <string name="fingerprint_verify_try_agin">"Couldn't scan fingerprint, try again"</string>
-    <string name="firewall_activity_lable">Restrict data usage by app</string>
+    <string name="firewall_activity_lable">Network access</string>
     <string name="firewall_allow_all">Allow all apps to connect using the following method</string>
     <string name="firewall_allow_data">Allow mobile data usage</string>
     <string name="firewall_allow_network">Allow</string>
@@ -2075,7 +2108,7 @@ volunteer"</string>
     <string name="firewall_statement_no_more">"Don't remind me again"</string>
     <string name="firewall_statement_ok">Got it</string>
     <string name="firewall_statement_title">Attention</string>
-    <string name="firewall_system_title">System app connections</string>
+    <string name="firewall_system_title">Network access for system apps</string>
     <string name="firewall_temp_rule_reason">%2$s restricted internet connection for %1$s​</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using Wi-Fi when this switch is off.​"</string>
@@ -2281,8 +2314,13 @@ volunteer"</string>
     <string name="game_video_net_data">Mobile data</string>
     <string name="game_video_network_eror">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="game_wid_viewpoint_buttom">Take a short break.</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">"Don't agree"</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Agree</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_title">Agree to our Privacy Policy</string>
     <string name="gamebooster_dialog_recover">Renew</string>
     <string name="gamebooster_dialog_start_booster">Start</string>
+    <string name="gamebooster_dialog_start_booster_new">Boost</string>
     <string name="gamebooster_lowbattery_notification_summary">Charge your device before it turns off.</string>
     <string name="gamebooster_main_activity_back">Back</string>
     <string name="gamebooster_network_dialog_cn_message">"You can't use Game Turbo when Security isn't allowed to connect to the internet and access your location. Allow now?"</string>
@@ -2300,8 +2338,14 @@ volunteer"</string>
     <string name="gamebox_display_2">Saturated</string>
     <string name="gamebox_display_3">Bright</string>
     <string name="gamebox_display_4">Bright &amp; saturated</string>
+    <string name="gamebox_display_5">HDR</string>
     <string name="gamebox_display_set">"Visual enhancement: "</string>
     <string name="gamebox_dnd">DND</string>
+    <string name="gamebox_filter_alpha_tip">Transparency</string>
+    <string name="gamebox_filter_dark_conter">Vignette</string>
+    <string name="gamebox_filter_tip">Selected in-game filter will be applied when you start playing</string>
+    <string name="gamebox_filter_toast_apply">The filter will be applied when you start playing</string>
+    <string name="gamebox_filter_toast_open">Applying filter: %1$s</string>
     <string name="gamebox_func_antimsg_close">Floating notifications are allowed now</string>
     <string name="gamebox_func_antimsg_open">Floating notifications are restricted now</string>
     <string name="gamebox_func_immersion_close">Immersive mode is off now</string>
@@ -2321,6 +2365,7 @@ volunteer"</string>
     <string name="gamebox_macro">Combos</string>
     <string name="gamebox_manual_record">Record</string>
     <string name="gamebox_mem_clean">Clear memory</string>
+    <string name="gamebox_mem_filter">Game filters</string>
     <string name="gamebox_milink">Cast</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Install QQ and try again.</string>
@@ -2373,6 +2418,8 @@ volunteer"</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Moderate</string>
     <string name="gb_advance_settings_screen_hdr_gear3">Strong</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Extreme</string>
+    <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
+    <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">Increase contrast and enhance details for games</string>
     <string name="gb_advance_settings_touch">Touch controls</string>
     <string name="gb_advance_settings_vibration_4d">4D vibration</string>
@@ -2405,6 +2452,7 @@ volunteer"</string>
     <string name="gb_beauty_light">Fill light</string>
     <string name="gb_beauty_nature_light">Natural</string>
     <string name="gb_beauty_warm_light">Warm</string>
+    <string name="gb_casual_game_application_range_prefix">NO.</string>
     <string name="gb_collimator_color">Color</string>
     <string name="gb_collimator_size">Size</string>
     <string name="gb_collimator_style">Type</string>
@@ -2804,6 +2852,7 @@ of your gaming sessions"</string>
     <string name="gtb_dialog_hint_smart_5g">You can turn this feature on and off in Game Turbo > Settings.</string>
     <string name="gtb_dialog_privacy_speed_message">"You're about to use Xunyou Game Booster. This service will collect your Xiaomi Account ID to record your membership duration."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"I've read and agreed to Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy.&lt;/a>"</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
     <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"I've read and agreed to Xunyou Game Voice Changer &lt;a href=\"%1$s\">Privacy Policy.&lt;/a>"</Data></string>
@@ -3019,6 +3068,9 @@ to join our egg hunt!"</string>
     <string name="item_view_role_description">Tab</string>
     <string name="item_virus_lib">Update virus definitions automatically</string>
     <string name="item_zero">%d CNY</string>
+    <string name="keyboard_key">\"</string>
+    <string name="keyboard_key_back">Back</string>
+    <string name="keyboard_key_space">Space</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">KB/s</string>
@@ -3045,6 +3097,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
     <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue, go to the Feedback app and send a log from your device."</string>
     <string name="location">Location</string>
     <string name="lock_all_title">Lock all apps</string>
+    <string name="lock_app_input_invalid_car">"Some symbols aren't supported"</string>
     <string name="lock_mode_title">Lock settings</string>
     <string name="lock_screen_business_hongbao_message">来自%1$s</string>
     <string name="lock_screen_hongbao_message">来自“%1$s”</string>
@@ -3182,17 +3235,21 @@ to respond"</string>
     <string name="malicious_access_pay">调起支付</string>
     <string name="malicious_access_wakelock">使用WakeLock</string>
     <string name="malicious_activity_too_many">频繁前台</string>
+    <string name="malicious_add_account">添加同步账号</string>
     <string name="malicious_auto_start">自启动</string>
     <string name="malicious_bg_start">后台弹出</string>
     <string name="malicious_chain">链式调起</string>
     <string name="malicious_cold_start">冷启动</string>
     <string name="malicious_hot_start">热启动</string>
     <string name="malicious_keyguard_show">锁屏显示</string>
+    <string name="malicious_media_projection">录屏</string>
+    <string name="malicious_no_launcher">无桌面图标</string>
     <string name="malicious_push_notification">通知栏PUSH</string>
     <string name="malicious_read_calendar">读取日历</string>
     <string name="malicious_read_contacts">读取联系人</string>
     <string name="malicious_read_phone_info">获取手机信息</string>
     <string name="malicious_read_sms">读取短信</string>
+    <string name="malicious_record_audio">录音</string>
     <string name="malicious_run_long">运行时间过长</string>
     <string name="malicious_set_android_widget">高危场景-安卓原生小部件</string>
     <string name="malicious_system_grant_third_uri">系统授权三方Uri</string>
@@ -3312,6 +3369,7 @@ Your device is %s faster now."</string>
     <string name="menu_show_work_profile_text">Show Work space apps</string>
     <string name="menu_sms">Send message</string>
     <string name="menu_summary_antispam">Block calls and messages</string>
+    <string name="menu_summary_antispam_calls">Block spam calls</string>
     <string name="menu_summary_antivirus">Search for viruses on your device</string>
     <string name="menu_summary_app_manager">Manage app settings</string>
     <string name="menu_summary_garbage_cleanup">No trash found</string>
@@ -3524,6 +3582,8 @@ You can turn off the \"Auto adjust data usage stats\" option at any time."</stri
     <string name="net_boostering">Boosting network speed…</string>
     <string name="net_boosting">Boosting speed…</string>
     <string name="net_delay_title">Delay</string>
+    <string name="net_free_booster_new_user_tip">Get a free game booster and enter to win a Xiaomi phone!</string>
+    <string name="net_free_booster_new_user_title">New user gift</string>
     <string name="net_overdue">Session ended</string>
     <string name="network_assistant_privacy">To keep track of data usage by app, we collect information such as package names, Wi-Fi and mobile data usage, peak and off-peak data usage, and when Wi-Fi and mobile data is on. This information is stored locally on your device.</string>
     <string name="network_assistant_privacy_title">Send app and network usage and diagnostic data</string>
@@ -3899,7 +3959,18 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_battery_history_total_consumption_title">Total power consumption</string>
     <string name="pc_battery_history_usetime_title">Active</string>
     <string name="pc_battery_low_health_reminder">"It's time to replace your battery"</string>
+    <string name="pc_berserk_mode_dialog_title">Turn on Ultimate mode</string>
+    <string name="pc_berserk_mode_noti_summary">Ultimate mode might increase power consumption and lead to overheating issues</string>
+    <string name="pc_berserk_mode_performance_title">Ultimate mode</string>
     <string name="pc_button_go_to_setting">Settings</string>
+    <string name="pc_camera_printer_dialog_battery_full">Fully charged</string>
+    <string name="pc_camera_printer_dialog_battery_low">Low battery</string>
+    <string name="pc_camera_printer_dialog_negative_button">Got it</string>
+    <string name="pc_camera_printer_dialog_positive_button">Open Camera</string>
+    <string name="pc_camera_printer_dialog_should_charge">Connect charger</string>
+    <string name="pc_camera_printer_notify_button">Open Camera</string>
+    <string name="pc_camera_printer_notify_subtitle">Connected</string>
+    <string name="pc_camera_printer_title">Photo Printer Kit</string>
     <string name="pc_category_charge_settings">Charging settings</string>
     <string name="pc_charged_auto_close_summary">Turn off when battery is ​%1$s or fully charged</string>
     <string name="pc_charged_auto_close_title">Turn off when charged</string>
@@ -3958,6 +4029,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_install_manager">Install via USB</string>
     <string name="pc_intellect_charge_protect_summary">Adjust charging based on usage scenarios</string>
     <string name="pc_intellect_charge_protect_title">Optimized charging</string>
+    <string name="pc_is_exiting_super_power">"Turning off
+Ultra battery saver"</string>
     <string name="pc_keywords_fast_charge">Quick charge</string>
     <string name="pc_keywords_low_power_consumption_save">Battery saver</string>
     <string name="pc_keywords_low_power_mode">Low power mode</string>
@@ -4002,11 +4075,13 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_phone_battery_level">Phone</string>
     <string name="pc_power_consume_check">Battery check-up</string>
     <string name="pc_power_consume_check_ing">Checking…</string>
+    <string name="pc_power_mode_has_berserk">Ultimate mode is on</string>
     <string name="pc_power_mode_has_performance">Performance mode is on</string>
     <string name="pc_power_save_settings_new">Battery saver settings</string>
     <string name="pc_remind_close_cover_to_charge_summary">Fold the device before charging for a faster and more stable charging experience.</string>
     <string name="pc_remind_close_cover_to_charge_title">Fold to charge</string>
     <string name="pc_reminder_always_protect_summary">Switch to limited charging to reduce battery aging</string>
+    <string name="pc_satellite_auto_enter_super_power">Turned on Ultra battery saver to ensure satellite communications</string>
     <string name="pc_save_charge">Charging</string>
     <string name="pc_save_other_setting">Other settings</string>
     <string name="pc_save_power">Battery saver</string>
@@ -4040,7 +4115,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_wireless_charging_special_stand_summary2">Install your device on the stand that came with your wireless charger for best charging performance</string>
     <string name="pc_wireless_charging_special_stand_title">Use supplied charging stand</string>
     <string name="pc_wireless_handle_connected">Device connected</string>
-    <string name="pc_wireless_handle_title">Camera grip</string>
+    <string name="pc_wireless_handle_title">Professional camera grip</string>
     <string name="pc_work_in_save_mode">Battery saver</string>
     <string name="pc_work_in_super_save_mode">Ultra battery saver</string>
     <string name="pc_xiaoai_create_auto_task">New task from Mi AI</string>
@@ -4313,7 +4388,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pm_root_success_notification_title">Allowed root access</string>
     <string name="popular_action_anti_spam_summary">短信与电话</string>
     <string name="popular_action_anti_spam_title">拦截骚扰</string>
-    <string name="popular_action_anti_spam_title_global">Block calls and messages</string>
+    <string name="popular_action_anti_spam_title_global">Block spam calls</string>
     <string name="popular_action_app_lock_summary">隐私更安全</string>
     <string name="popular_action_app_lock_title">给应用加密</string>
     <string name="popular_action_app_lock_title_global">Protect apps with App lock</string>
@@ -5227,6 +5302,8 @@ Withdraw consent now?"</string>
     <string name="result_sms_title_auth">Financial SMS leak risk exists</string>
     <string name="result_wifi_header">Wi-Fi risks detected</string>
     <string name="resume">Restore</string>
+    <string name="revoke_not_allow_net_summary">Allow Security to connect to the internet to be able to withdraw your consent to its Privacy Policy.</string>
+    <string name="revoke_not_allow_net_title">Attention</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Trust this app</string>
     <string name="risk_app_install_agree_checkbox">"I'm willing to take all possible risks."</string>
@@ -5571,6 +5648,7 @@ Withdraw consent now?"</string>
     <string name="sp_abnormal_scan_title">Solve problems</string>
     <string name="sp_antispam_scan_summary">Protect yourself from fraud</string>
     <string name="sp_antispam_scan_title">Blocklist</string>
+    <string name="sp_app_install_protect_title">App installation protection</string>
     <string name="sp_background_risk_dialog_summary">, check and fix payment issues.</string>
     <string name="sp_background_risk_dialog_summary_new">Current payment environment might pose security risks. Take a moment to learn more.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">You are connected to a public Wi-Fi network which may be unsecure. Make sure your payment is protected before you complete it.</string>
@@ -6735,7 +6813,7 @@ Turning on one will turn off the other."</string>
     <string name="vb_video_effects_spatial_summary_new">Experience enhanced sense of space and direction for supported audio when using headphones</string>
     <string name="vb_video_effects_srs_premium_sound">Sound</string>
     <string name="vb_video_super_division">Upscale</string>
-    <string name="vb_video_super_division_desc">"Upscale resolution automatically when it's ≤720p.
+    <string name="vb_video_super_division_desc">"Upscale resolution automatically when it's ≤720P.
 
 Using this feature increases power consumption.
 
