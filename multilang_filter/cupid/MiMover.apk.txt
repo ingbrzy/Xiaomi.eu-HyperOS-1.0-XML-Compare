@@ -1,2 +1,4 @@
+Removed: [es-rUS] strings.xml: string/update_now (duplicate)
+Removed: [es] strings.xml: string/update_now (duplicate)
 Removed: [it] arrays.xml: array/document_default_extensions (item mismatch)
 Removed: [it] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
