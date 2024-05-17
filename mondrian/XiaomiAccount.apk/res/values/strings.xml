@@ -1104,7 +1104,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
 %2$d. If you can't reset your password or somebody locked your device, go to i.mi.com to unlock it.
 %3$d. Your unlock number: %4$s"</string>
     <string name="update_apk_version_later">Not now</string>
-    <string name="update_apk_version_now">Update</string>
+    <string name="update_apk_version_now">Install</string>
     <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
     <string name="update_email_address_dialog_title">Update Email</string>
     <string name="update_phone_notice">Change security settings</string>
