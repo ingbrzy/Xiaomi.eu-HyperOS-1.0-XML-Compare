@@ -1,3 +1,2 @@
 Removed: [it] strings.xml: string/privacy_detail (format mismatch)
-Removed: [pt-rBR] strings.xml: string/connect_settings_summary_global (duplicate)
 Removed: [ro] strings.xml: string/privacy_detail (format mismatch)
