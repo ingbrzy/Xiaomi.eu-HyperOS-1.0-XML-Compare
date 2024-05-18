@@ -85,8 +85,12 @@
     <string name="ai_confirm_delete_image_title">Delete AI image?</string>
     <string name="ai_continue_create_btn">Continue</string>
     <string name="ai_continue_update_image_btn">Continue</string>
+    <string name="ai_continue_upload_photo">Continue</string>
     <string name="ai_create_ai_image">Create AI image</string>
     <string name="ai_create_image_fail">"Couldn't create AI image due to a server error. Try again."</string>
+    <string name="ai_create_image_fail_by_illegal_photo">"Looks like the photos you uploaded violate our community standards.
+Try creating the AI image with different photos."</string>
+    <string name="ai_create_image_fail_by_net">"Couldn't create AI image. Our servers are too busy now. Try again."</string>
     <string name="ai_create_image_photo_tip">Photos will be deleted from our servers after the AI image is created</string>
     <string name="ai_create_image_queue_time">%1$s | %2$s</string>
     <string name="ai_create_image_tip">Photos will be deleted from our servers after the AI image is created</string>
@@ -99,10 +103,15 @@
     <string name="ai_creation_count_limit_msg">"Can't create more portraits today. Come back tomorrow!"</string>
     <string name="ai_creation_delete_msg">Delete this history record now?</string>
     <string name="ai_creation_delete_title">Attention</string>
+    <string name="ai_creation_record_footer_tips">You can only view items created on this device. They will be deleted after you sign out of your Xiaomi Account.</string>
     <string name="ai_creation_recreate_button">Start over</string>
     <string name="ai_creation_save_failed_msg">"Couldn't save. Try again."</string>
     <string name="ai_creation_save_success_msg">Saved successfully</string>
     <string name="ai_creation_wait_message">Creating… | %1$s | %2$s</string>
+    <string name="ai_cta_agree_btn">Allow</string>
+    <string name="ai_cta_dialog_message">Allow Gallery to connect to the internet to be able to create AI portraits.</string>
+    <string name="ai_cta_dialog_title">Permissions required</string>
+    <string name="ai_cta_refuse_btn">No thanks</string>
     <string name="ai_deal_file_tip">"Don't leave this page"</string>
     <string name="ai_deal_file_title">Processing photos…</string>
     <string name="ai_deal_tile_text">Calculating required time…</string>
@@ -110,6 +119,10 @@
     <string name="ai_delete_image_progress_message">Deleting…</string>
     <string name="ai_delete_image_success">Deleted AI image successfully</string>
     <string name="ai_download_filter_photo_so_confirm_btn">Download</string>
+    <string name="ai_download_filter_photo_so_downloading">Downloading plug-in…</string>
+    <string name="ai_download_filter_photo_so_message">To be able to use all AI portrait features, download the plug-in first.</string>
+    <string name="ai_download_filter_photo_so_title">Download plug-in</string>
+    <string name="ai_download_filter_so_fail_toast">"Couldn't download plug-in. Try again."</string>
     <string name="ai_enhance_bar_default">Generate HD image</string>
     <string name="ai_enhance_bar_failed">"Couldn't generate HD image"</string>
     <string name="ai_ensure_exit_select_message">"You'll have to select photos again next time."</string>
@@ -121,6 +134,7 @@
     <string name="ai_free_creation_button">Create</string>
     <string name="ai_free_creation_container_msg">For example: A walk on the beach</string>
     <string name="ai_free_creation_container_title">Enter description</string>
+    <string name="ai_free_creation_illegal_text_toast">This text violates our community standards. Rewrite your message.</string>
     <string name="ai_free_creation_random_button">Random</string>
     <string name="ai_free_creation_text_container_tips">"Our AI image generator is constantly improving. If you aren't satisfied with the results, you can always try again a bit later!"</string>
     <string name="ai_free_creation_text_count_exceed_limit">The text you entered is too long</string>
@@ -136,12 +150,18 @@ Select other photos instead and try again."</string>
     <string name="ai_image_count_limit_msg">"Can't create more AI images today. Come back tomorrow!"</string>
     <string name="ai_image_creating_failed_msg">"Couldn't create image for %s"</string>
     <string name="ai_image_creating_msg">Creating image for %s</string>
+    <string name="ai_image_creation_over_limit_title">"Can't create more portraits"</string>
+    <string name="ai_image_invalid">"Deleted %s's AI image successfully"</string>
+    <string name="ai_image_invalid_in_update">"Updating %s's AI image now. Wait until it's updated and try again."</string>
+    <string name="ai_image_manager_empty_msg">"Can't view photos used for creating AI images in older versions of this service on another device"</string>
+    <string name="ai_image_manager_empty_msg_net">No photos here</string>
     <string name="ai_image_manager_re_create_tip">Add or delete photos to update your AI image</string>
     <string name="ai_image_manager_title">Manage AI image</string>
     <string name="ai_image_not_creatable">"AI image is being updated now. Try again after it's done."</string>
     <string name="ai_image_over_limit_button_cancel">Got it</string>
     <string name="ai_image_over_limit_button_create">Continue</string>
     <string name="ai_image_over_limit_title">"Can't create AI image"</string>
+    <string name="ai_image_over_limit_title_update">"Can't update AI images now"</string>
     <string name="ai_image_privacy_message"><Data>"Welcome to AI portraits!&lt;br/>To be able to provide services to you, we need to collect the necessary personal information:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. To create AI portraits, you'll have to upload &lt;b>photos of people&lt;/b> to our servers. We'll collect and process the information about their &lt;b>faces&lt;/b> to generate an AI model.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. When you upload &lt;b>photos of people&lt;/b>, we'll sync &lt;b>their names and profile photos&lt;/b> from the corresponding albums and associate this information with AI images.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. When you create AI images based on text, we'll collect the &lt;b>description&lt;/b> you provide in order to generate images.&lt;br/>We only collect personal information that is necessary for the specific features of our products and services that you use. You can learn how we collect and process personal information in the &lt;a href=\"%4$s\">AI Portraits Privacy Policy&lt;/a>.&lt;br/>Read and agree to &lt;a href=\"%5$s\">AI Portraits User Agreement&lt;/a> and &lt;a href=\"%6$s\">AI Portraits Privacy Policy&lt;/a> before you continue."</Data></string>
     <string name="ai_input_name_hint">Enter name</string>
     <string name="ai_loading">Just a sec…</string>
@@ -153,6 +173,7 @@ Select other photos instead and try again."</string>
     <string name="ai_no_net_toast">"Couldn't connect to the network. Try again."</string>
     <string name="ai_normal_theme_button">Create</string>
     <string name="ai_photo_upload_fail">"Couldn't upload. Try again."</string>
+    <string name="ai_photos_upload_fail_tip">"%s's photos haven't been uploaded yet. You can continue uploading photos now."</string>
     <string name="ai_plugin_install_msg">Download the plug-in to be able to create AI portraits.</string>
     <string name="ai_plugin_install_title">Download plug-in</string>
     <string name="ai_plugin_installing_tip">Downloading plug-in…</string>
@@ -163,6 +184,10 @@ Select other photos instead and try again."</string>
     <string name="ai_privacy_title">Privacy statement</string>
     <string name="ai_re_create_image">Try again</string>
     <string name="ai_ready_to_have_try">Start</string>
+    <string name="ai_recreate_image_cancel_text_btn">Continue</string>
+    <string name="ai_recreate_image_confirm_text_btn">Select</string>
+    <string name="ai_recreate_image_dialog_msg">You can continue uploading photos or select new ones.</string>
+    <string name="ai_recreate_image_dialog_title">"%s's photos haven't been uploaded"</string>
     <string name="ai_refuse_update_toast">Select new photos to be able to update this AI image</string>
     <string name="ai_select_people_sub_title" formatted="false">%1d–%2d best photos will be selected automatically</string>
     <string name="ai_select_people_title">Select a person to create their AI image</string>
@@ -180,6 +205,7 @@ Best shots were selected automatically. You can add more photos manually."</stri
     <string name="ai_select_photo_manual">Select manually</string>
     <string name="ai_select_photo_need_select_manual">Not enough photos. Add more.</string>
     <string name="ai_select_photo_next_step">Next</string>
+    <string name="ai_select_photo_no_result_toast">"Can't create an AI image based on these photos. Select other photos instead."</string>
     <string name="ai_select_photo_over_time_toast">Best shots were selected automatically. Add more photos manually.</string>
     <string name="ai_select_photo_right_guide_face">Front facing</string>
     <string name="ai_select_photo_right_guide_multi_bg">Diverse backgrounds</string>
@@ -1051,6 +1077,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="clear_dup_medias">Clean up duplicate photos</string>
     <string name="clear_dup_success">Clean up successfully</string>
     <string name="clear_dup_tip">Clearing duplicate photos</string>
+    <string name="clear_gallery_disk_cache_img">Clean up gallery disk cache image</string>
     <string name="clear_thumbnails_ending_dialog_cancer">Cancel</string>
     <string name="clear_thumbnails_ending_dialog_content">"Sync with the cloud is no longer available in this version of Gallery. You will no longer be able to view items that haven't been downloaded to this device. You can still view and download them on i.mi.com."</string>
     <string name="clear_thumbnails_ending_dialog_title">Sync with the cloud is no longer available</string>
@@ -1447,6 +1474,7 @@ Take more photos of your friends!"</string>
     <string name="fancy_color_desc">Colors</string>
     <string name="fast_share_auto_render">Beautify</string>
     <string name="fast_share_auto_render_finish">Beautified</string>
+    <string name="father_day">"Mother's Day"</string>
     <string name="feature_guidance_photo_effects">"New photo effects
 are available"</string>
     <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
@@ -1593,6 +1621,7 @@ are available"</string>
     <string name="group_header_title_media_group">Media types</string>
     <string name="group_header_title_third_album">More albums</string>
     <string name="group_header_title_user_create_album">My albums</string>
+    <string name="halloween">Halloween</string>
     <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
     <string name="have_known">Got it</string>
     <string name="hdr_show_hint">Adjust the display to show more details in the shadows and highlights on items with high dynamic range</string>
@@ -1825,6 +1854,7 @@ to personalize Gallery"</string>
     <string name="mark_operation_succeeded">Added successfully</string>
     <string name="mark_people_ignore_info_message">Press and hold photos of people to add them to groups</string>
     <string name="marketSdkVersion">3.2.22</string>
+    <string name="mather_day">"Father's Day"</string>
     <string name="media_type_burst_photo">Burst</string>
     <string name="media_type_cinematic">Movie mode</string>
     <string name="media_type_clone_photo">Clones</string>
@@ -2013,6 +2043,7 @@ to personalize Gallery"</string>
     <string name="new_relation_invalid_char">"Group names can't contain “%s”. Use letters, numbers, or characters."</string>
     <string name="new_relation_invalid_name">“%s” group already exists, rename this group.</string>
     <string name="new_relation_invalid_prefix">"Can't start group names with “.” or “_”"</string>
+    <string name="new_year_eve">"New Year's Eve"</string>
     <string name="next">Next</string>
     <string name="night">Evening</string>
     <string name="no">No</string>
@@ -2968,8 +2999,8 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="solar_new_year_eve_title_two">Last moments of %1$s</string>
     <string name="solar_new_year_title">New Year</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
-    <string name="solar_term_autumn_equinox">Autumn equinox</string>
-    <string name="solar_term_clear_and_bright">Clear and bright</string>
+    <string name="solar_term_autumn_equinox">Autumnal equinox</string>
+    <string name="solar_term_clear_and_bright">Qingming Festival</string>
     <string name="solar_term_cold_dews">Cold dews</string>
     <string name="solar_term_grain_buds">Creatures plenish</string>
     <string name="solar_term_grain_in_ear">Seeding millet</string>
@@ -2987,7 +3018,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="solar_term_summer_begins">Summer begins</string>
     <string name="solar_term_summer_solstice">Summer solstice</string>
     <string name="solar_term_the_rains">Spring showers</string>
-    <string name="solar_term_vernal_equinox">Vernal equinox</string>
+    <string name="solar_term_vernal_equinox">Spring equinox</string>
     <string name="solar_term_white_dews">Dews</string>
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
@@ -3103,6 +3134,7 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="terabyteShort">TB</string>
     <string name="text_recognition">Recognize text</string>
     <string name="text_segment">Photo cutout</string>
+    <string name="thanksgiving_day">Thanksgiving</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -3110,11 +3142,12 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="the_armys_day">PLA Day</string>
     <string name="the_childrens_day">"Children's Day"</string>
     <string name="the_chinese_youth_day">Youth Day</string>
-    <string name="the_christmas_day">Christmas</string>
+    <string name="the_christmas_day">Christmas Day</string>
+    <string name="the_christmas_eve">Christmas Eve</string>
     <string name="the_double_ninth_festival">Double Ninth Festival</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
     <string name="the_easter_day">Easter</string>
-    <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
+    <string name="the_eve_of_the_spring_festival">"Chinese New Year's Eve"</string>
     <string name="the_fifth_day">Fifth day of Chinese New Year</string>
     <string name="the_fools_day">"April Fool's Day"</string>
     <string name="the_forth_day">Fourth day of Chinese New Year</string>
@@ -3126,7 +3159,7 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
     <string name="the_national_day">National Day</string>
     <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
-    <string name="the_new_years_day">New Year</string>
+    <string name="the_new_years_day">"New Year's Day"</string>
     <string name="the_night_of_sevens">Qixi Festival</string>
     <string name="the_partys_day">CPC Day</string>
     <string name="the_peace_day">Remembrance Day</string>

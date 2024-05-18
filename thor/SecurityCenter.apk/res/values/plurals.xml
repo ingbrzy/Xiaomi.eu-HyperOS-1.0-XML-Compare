@@ -946,6 +946,10 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">times</item>
         <item quantity="one">time</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d times</item>
+        <item quantity="one">%d time</item>
+    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d items with high power consumption</item>
         <item quantity="one">%d item with high power consumption</item>
