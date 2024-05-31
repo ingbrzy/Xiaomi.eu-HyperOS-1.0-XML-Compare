@@ -335,24 +335,6 @@
     <array name="config_ambientDarkeningThresholdsFourth" />
     <array name="config_ambientDarkeningThresholdsSecond" />
     <array name="config_ambientDarkeningThresholdsThird" />
-    <array name="config_ambientLuxMaxNitPoints">
-        <item>34</item>
-        <item>34</item>
-        <item>150</item>
-        <item>185</item>
-        <item>287</item>
-        <item>691.28</item>
-        <item>1400</item>
-    </array>
-    <integer-array name="config_ambientLuxMinNitPoints">
-        <item>0</item>
-        <item>0</item>
-        <item>23</item>
-        <item>26</item>
-        <item>45</item>
-        <item>200</item>
-        <item>500</item>
-    </integer-array>
     <array name="config_bcbc_brt_change_node">
         <item>0.048852</item>
         <item>0.073278</item>
@@ -606,15 +588,6 @@
         <item>0</item>
         <item>0</item>
         <item>0</item>
-    </integer-array>
-    <integer-array name="config_userAmbientLux">
-        <item>0</item>
-        <item>2</item>
-        <item>30</item>
-        <item>100</item>
-        <item>1000</item>
-        <item>3000</item>
-        <item>20000</item>
     </integer-array>
     <array name="config_virtualKeyUpPattern" />
     <string-array name="country_codes_hid_sap_5GHz_band">
