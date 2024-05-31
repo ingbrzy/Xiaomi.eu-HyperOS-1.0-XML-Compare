@@ -532,6 +532,7 @@ One-year and five-year LPRs will be quoted on the 20th of each month (delays mig
     <string name="preference_check_update_title">Check for updates</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="preference_feedback_title">FAQ</string>
+    <string name="preference_filing_number">ICP备案号：京ICP备10046444号-114A</string>
     <string name="preference_follow_qq_group">QQ Group:523274279</string>
     <string name="preference_get_device_address">Access location</string>
     <string name="preference_get_local_tax_info">For providing relevant info about loans and taxes</string>
