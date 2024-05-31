@@ -12,7 +12,7 @@
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
     <string name="weather_type_null">'Ni podatkov'</string>
-    <string name="weather_type_0">Vedro</string>
+    <string name="weather_type_0">Jasno</string>
     <string name="weather_type_1">Oblačno</string>
     <string name="weather_type_2">Megleno</string>
     <string name="weather_type_3">Megla</string>
@@ -36,6 +36,6 @@
     <string name="weather_type_21">Peščena nevihta</string>
     <string name="weather_type_22">Toča</string>
     <string name="weather_type_23">Prah</string>
-    <string name="weather_type_24">Leden dež</string>
-    <string name="weather_type_25">Freezing rain</string>
+    <string name="weather_type_24">Meglica</string>
+    <string name="weather_type_25">Leden dež</string>
 </resources>

@@ -234,6 +234,12 @@
         <item>#26d9d9d9</item>
         <item>3</item>
     </array>
+    <array name="mi_go_to_new_habit_blend_colors">
+        <item>#80b9b9b9</item>
+        <item>19</item>
+        <item>#4d2a2a2a</item>
+        <item>3</item>
+    </array>
     <string-array name="months">
         <item>@string/month_january</item>
         <item>@string/month_february</item>
