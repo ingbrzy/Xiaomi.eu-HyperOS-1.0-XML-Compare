@@ -1,0 +1,2 @@
+Removed: [cs] strings.xml: string/screenshot succeed (invalid name)
+Removed: [it] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
