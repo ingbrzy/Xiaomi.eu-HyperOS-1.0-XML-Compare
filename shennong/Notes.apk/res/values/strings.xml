@@ -46,8 +46,12 @@
     <string name="actionbar_close_description">Close</string>
     <string name="actionbar_home_description">Back</string>
     <string name="add_account_desc">Sync your notes with your Xiaomi Account?</string>
+    <string name="add_excerpt_summary">Add summary list</string>
     <string name="added_to_clipboard">Copied successfully</string>
     <string name="afternoon">Afternoon</string>
+    <string name="ai_chat_declare_double_link"><Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before you continue.</Data></string>
+    <string name="ai_chat_dlg_content">For various information sources in different scenarios (such as links or text appearing in apps like browsers, WeChat, and Feishu), the function of quickly collecting and summarizing information, as well as automatically generating and presenting it in a unified entry for archiving, can be achieved.</string>
+    <string name="ai_watermark">Generate by AI:</string>
     <string name="alarm_bar_title">Reminder</string>
     <string name="alert_action_edit_anyway">Keep editing</string>
     <string name="alert_message_delete">Delete %1$s?</string>
@@ -293,8 +297,13 @@
     <string name="evening">Afternoon</string>
     <string name="exceed_todo_text_limitation">Task description is too long.</string>
     <string name="excerpt">Excerpts</string>
+    <string name="excerpt_ares_limit">We appreciate your enthusiasm, but we are currently experiencing high traffic. Please click the original link to view or try again later.</string>
     <string name="excerpt_bubble_tips">Copied text and saved images will be saved to Notes</string>
     <string name="excerpt_link_bubble_tips">Tap to save to Notes</string>
+    <string name="excerpt_original_text">Original Text：</string>
+    <string name="excerpt_summary_fail">Content parsing failed. Please click the original link to view or try again later.</string>
+    <string name="excerpt_summary_huangfan">Content is sensitive. Please click the original link to view.</string>
+    <string name="excerpt_summary_link_bubble_tips">Tap to save summary to Notes.</string>
     <string name="excerpted_to_note">Saved excerpt to Notes</string>
     <string name="excerpting">Creating an excerpt…</string>
     <string name="expand_button_title">Advanced</string>
@@ -764,6 +773,7 @@
     <string name="pm">PM</string>
     <string name="pref_category_title_quick_func">Quick features</string>
     <string name="pref_excerpt_link_float">Receive a reminder to create an excerpt whenever a URL is copied</string>
+    <string name="pref_excerpt_summary_link_float">Every time the link is copied, the shorthand bar will provide a pending summary reminder, click to extract the summary.</string>
     <string name="pref_permission_allowed">Granted</string>
     <string name="pref_permission_manage">Permissions details</string>
     <string name="pref_permission_manage_key_contact">Access contacts</string>
@@ -777,6 +787,7 @@
     <string name="pref_title_cloud_trash_bin">Deleted notes in the cloud</string>
     <string name="pref_title_common">Additional settings</string>
     <string name="pref_title_excerpt_remind">Excerpt reminders</string>
+    <string name="pref_title_excerpt_summary_remind">SummaryList</string>
     <string name="pref_title_font_size">Font size</string>
     <string name="pref_title_note_style">Style</string>
     <string name="pref_title_quick_note">Quick notes</string>
@@ -864,6 +875,7 @@
     <string name="setting_other">OTHER</string>
     <string name="setting_privacy">Privacy Policy</string>
     <string name="single_link_excerpt_saving">Saving items…</string>
+    <string name="single_link_excerpt_summary_saving">Generating summary list.</string>
     <string name="single_new_excerpt_title">Excerpts</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -982,6 +994,9 @@
     <string name="time_picker_dialog_title">Set time</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="to_be_read_bubble_tips">Copied link and text will directly extract the abstract to the notes.</string>
+    <string name="to_be_read_link_bubble_tips">Tap to save summary to Notes</string>
+    <string name="to_be_read_list">SummaryList</string>
     <string name="to_view_alarm_content">Tap to view</string>
     <string name="toast_cancel_to_insert_image">"Couldn't add image."</string>
     <string name="toast_excerpt_end">Created excerpt successfully</string>
@@ -1007,6 +1022,8 @@ Allow Notes to read the contents of your SD card."</string>
     <string name="toast_refuse_to_use_record_audio">"Microphone permissions are restricted.
 Allow Notes to record audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Allow Notes to access storage to be able to add images to your notes</string>
+    <string name="toast_show_no_network">Please connect to the network and try again.</string>
+    <string name="toast_show_xiaomi_account">Login your Xiaomi account and try again.</string>
     <string name="today">Today</string>
     <string name="todo_alert_title_delete">Delete completed tasks</string>
     <string name="todo_audio_default_content">"[Voice task] "</string>
