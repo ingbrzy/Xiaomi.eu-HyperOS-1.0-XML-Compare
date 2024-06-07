@@ -287,7 +287,7 @@
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.crashlytics.android.build_id">892a26ac8b2645ca8931223af42f0734</string>
+    <string name="com.crashlytics.android.build_id">40d4a38888fc467580759ab5e2d1c107</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -447,6 +447,8 @@ Mi Video needs to collect necessary personal information to provide you with bas
     <string name="download_unable_tip">"Can't download this item"</string>
     <string name="download_video">Downloading video</string>
     <string name="downloading">Downloading…</string>
+    <string name="draw_ad_button_click_text">Shake or tap to open</string>
+    <string name="draw_ad_button_slide_text">Slide for details</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -551,14 +553,10 @@ Mi Video needs to collect necessary personal information to provide you with bas
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Enter your contact info</string>
     <string name="feedback_contact_title">Contact info</string>
-    <string name="feedback_detail_input_hint">Enter your message</string>
-    <string name="feedback_hint">"Describe the issue you've encountered."</string>
     <string name="feedback_hint_contact">Phone/QQ/Email</string>
     <string name="feedback_hint_text">"Describe the issue you've encountered."</string>
-    <string name="feedback_input_tip">You can describe issues or provide suggestions here.</string>
     <string name="feedback_net_error">"Couldn't submit. Check your network settings and try again."</string>
     <string name="feedback_sent">Submit</string>
-    <string name="feedback_success">Submitted successfully</string>
     <string name="feedback_success_toast">Submitted successfully. Thanks for your feedback!</string>
     <string name="feedback_tag_title">Category</string>
     <string name="feedback_text_empty_toast">Enter your feedback first.</string>
@@ -859,7 +857,6 @@ This operation won't affect your gallery pictures."</string>
     <string name="inline_mute_click_tip">Tap to unmute</string>
     <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
     <string name="input_new_pwd">Enter new password</string>
-    <string name="input_size_tips_new">You can enter up to %d characters</string>
     <string name="isornot_your_mi_account">Is this your Mi Account?</string>
     <string name="item_card_all_replies">All replies</string>
     <string name="item_card_continue_play">Autoplay</string>
@@ -976,7 +973,6 @@ for videos"</string>
     <string name="local_zoom_adjust_button">Switch display mode</string>
     <string name="lock_screen">Lock screen</string>
     <string name="login">Sign in</string>
-    <string name="login_tip">Sign in to be able to receive our replies to your feedback.</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">Sign out</string>
     <string name="logout_account">Sign out</string>
@@ -1089,6 +1085,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="manager_request_continue">Allow</string>
     <string name="manager_request_tip">"Don't show again"</string>
     <string name="manager_request_title">"Can't access this file"</string>
+    <string name="mangotv_episode">Episode %d</string>
     <string name="mangotv_feature_list_title3">Added episode %s</string>
     <string name="mangotv_feature_more">More</string>
     <string name="mangotv_feature_title1">Episodes</string>
@@ -1309,7 +1306,6 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="music_new_user_dialog_got_it">Got it</string>
     <string name="music_new_user_dialog_tip">Welcome to Mi Video! This app provides a local video player and online music and video streaming services.</string>
     <string name="my_favorite_channels">My favorite channels</string>
-    <string name="my_feedback_title">My feedback</string>
     <string name="native_body">Body</string>
     <string name="native_headline">Headline</string>
     <string name="native_media_view">Media View</string>
@@ -1519,6 +1515,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Update to the latest system version to be able to use picture-in-picture.</string>
     <string name="play_at_normal_speed">Playing at 1X speed</string>
+    <string name="play_at_speed">Playing at %.1fX speed</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Create playlist</string>
     <string name="play_list_save_dialog_title">Add to playlist</string>
@@ -1844,7 +1841,6 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD card</string>
     <string name="storage_internal_sdcard">Internal storage</string>
-    <string name="submit">Submit</string>
     <string name="subscribe">SUBSCRIBE</string>
     <string name="subscribe_author_recommend_btn">Subscribe</string>
     <string name="subscribe_author_recommend_title">Subscribe to see the newest videos from these creators</string>
@@ -1997,7 +1993,6 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">This reward is currently unavailable. Try again later.</string>
     <string name="toast_m3u8_download_path_tip">"Can't change the download path for content in m3u8 format"</string>
     <string name="toast_play_error_tip">"Can't play this file"</string>
-    <string name="toast_request_too_frequently">Not so fast!</string>
     <string name="toast_share_failed">"Couldn't share. Wait a minute or two and try again."</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
@@ -2156,9 +2151,6 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
-    <string name="type_content">Content</string>
-    <string name="type_issue">Issue</string>
-    <string name="type_suggestion">Suggestion</string>
     <string name="ugc_no_net">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="ui_common_title_back">Back</string>
     <string name="unknow">Unknown</string>
