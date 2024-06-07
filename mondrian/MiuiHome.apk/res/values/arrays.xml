@@ -491,7 +491,6 @@
         <item>默认布局</item>
         <item>主动添加</item>
         <item>运营强插</item>
-        <item>卡片替换</item>
     </string-array>
     <string-array name="widget_drag_type_name">
         <item>桌面内</item>
