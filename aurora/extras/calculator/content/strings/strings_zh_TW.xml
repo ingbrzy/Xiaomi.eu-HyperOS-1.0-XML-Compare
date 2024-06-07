@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">計算機</string>
+    <string name="clear">清除</string>
+    <string name="delete">退格</string>
+    <string name="percent">百分號</string>
+    <string name="add">加</string>
+    <string name="subtract">減</string>
+    <string name="multiply">乘</string>
+    <string name="divide">除</string>
+    <string name="equals">等於</string>
+    <string name="point">小數點</string>
+</resources>

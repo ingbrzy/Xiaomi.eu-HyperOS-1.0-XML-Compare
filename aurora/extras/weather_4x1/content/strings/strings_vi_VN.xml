@@ -1,0 +1,37 @@
+<resources>
+    <string name="air_quality0">'AQI '+#aqi</string>
+    <string name="air_quality1">'AQI '+#aqi</string>
+    <string name="air_quality2">'AQI '+#aqi</string>
+    <string name="air_quality3">'AQI '+#aqi</string>
+    <string name="air_quality4">'AQI '+#aqi</string>
+    <string name="air_quality5">'AQI '+#aqi</string>
+    <string name="weather_null">Chạm để nhận thông tin thời tiết</string>
+    <string name="weather_location_null">Không có thông tin vị trí</string>
+    <string name="desc_weather_aqi">@weather_description+' '+ @air_quality</string>
+    <string name="weather_type_0">Thông thoáng</string>
+    <string name="weather_type_1">Nhiều mây</string>
+    <string name="weather_type_2">U ám</string>
+    <string name="weather_type_3">Sương mù</string>
+    <string name="weather_type_4">Mưa bão lớn</string>
+    <string name="weather_type_5">Mưa rào</string>
+    <string name="weather_type_6">Mưa bão</string>
+    <string name="weather_type_7">Dông</string>
+    <string name="weather_type_8">Mưa</string>
+    <string name="weather_type_9">Mưa nặng hạt</string>
+    <string name="weather_type_10">Mưa vừa</string>
+    <string name="weather_type_11">Mưa nhỏ</string>
+    <string name="weather_type_12">Mưa tuyết</string>
+    <string name="weather_type_13">Bão tuyết</string>
+    <string name="weather_type_14">Tuyết</string>
+    <string name="weather_type_15">Tuyết rơi dày đặc</string>
+    <string name="weather_type_16">Tuyết vừa phải</string>
+    <string name="weather_type_17">Tuyết nhẹ</string>
+    <string name="weather_type_18">Bão cát lớn</string>
+    <string name="weather_type_19">Bão cát</string>
+    <string name="weather_type_20">Cát</string>
+    <string name="weather_type_21">Bão bụi</string>
+    <string name="weather_type_22">Mưa đá</string>
+    <string name="weather_type_23">Bụi</string>
+    <string name="weather_type_24">Sương mù</string>
+    <string name="weather_type_25">Mưa lạnh</string>
+</resources>
