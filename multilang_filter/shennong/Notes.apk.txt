@@ -1,0 +1,1 @@
+Removed: [pl] strings.xml: string/to_view_alarm_content (duplicate)
