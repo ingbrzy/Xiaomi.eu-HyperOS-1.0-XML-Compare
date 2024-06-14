@@ -1,4 +1,3 @@
-Removed: [az-rAZ] arrays.xml: array/widget_component_source (item mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [it] strings.xml: string/no_space_toast_fold (duplicate)
