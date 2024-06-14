@@ -1,3 +1,4 @@
+Removed: [az-rAZ] arrays.xml: array/wifitrackerlib_wifi_status (item mismatch)
 Removed: [cs] strings.xml: string/kg_invalid_sim_puk_hint (format mismatch)
 Removed: [cs] strings.xml: string/notification_app_settings (format mismatch)
 Removed: [it] strings.xml: string/accessibility_quick_settings_collapse (duplicate)
