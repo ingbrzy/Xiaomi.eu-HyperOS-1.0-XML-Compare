@@ -1,0 +1,2 @@
+Removed: [az-rAZ] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
+Removed: [sk] strings.xml: string/freeform_recom   mend_open_switch_title (invalid name)
