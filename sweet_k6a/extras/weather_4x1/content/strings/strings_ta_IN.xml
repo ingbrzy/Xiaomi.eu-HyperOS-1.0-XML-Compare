@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'AQI \'+#aqi</string>
+    <string name="air_quality1">\'AQI \'+#aqi</string>
+    <string name="air_quality2">\'AQI \'+#aqi</string>
+    <string name="air_quality3">\'AQI \'+#aqi</string>
+    <string name="air_quality4">\'AQI \'+#aqi</string>
+    <string name="air_quality5">\'AQI \'+#aqi</string>
+    <string name="weather_null">வானிலை விவரத்தைப் பெற தட்டவும்</string>
+    <string name="weather_location_null">இருப்பிடத் தகவல் இல்லை</string>
+    <string name="weather_type_0">தெளிவானது</string>
+    <string name="weather_type_1">மேக மூட்டம்</string>
+    <string name="weather_type_2">அதிமேகமூட்டம்</string>
+    <string name="weather_type_3">மூடுபனியான</string>
+    <string name="weather_type_4">கன மழை</string>
+    <string name="weather_type_5">மழை</string>
+    <string name="weather_type_6">புயல்மழை</string>
+    <string name="weather_type_7">இடியுடன் கூடிய மழை</string>
+    <string name="weather_type_8">மழை</string>
+    <string name="weather_type_9">கன மழை</string>
+    <string name="weather_type_10">மிதமான மழை</string>
+    <string name="weather_type_11">லேசான மழை</string>
+    <string name="weather_type_12">பனி கலந்த மழை</string>
+    <string name="weather_type_13">பனிப்புயல்</string>
+    <string name="weather_type_14">பனி</string>
+    <string name="weather_type_15">கடும் பனி</string>
+    <string name="weather_type_16">மிதமான பனி</string>
+    <string name="weather_type_17">லேசான பனி</string>
+    <string name="weather_type_18">வலுவான மணற்புயல்</string>
+    <string name="weather_type_19">மணல் புயல்</string>
+    <string name="weather_type_20">மணல்</string>
+    <string name="weather_type_21">தூசு புயல்</string>
+    <string name="weather_type_22">ஆலங்கட்டி மழை</string>
+    <string name="weather_type_23">தூசு</string>
+    <string name="weather_type_24">தெளிவற்றது</string>
+    <string name="weather_type_25">உறைபனி மழை</string>
+</resources>

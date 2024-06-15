@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">ಹವಾಮಾನ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="today">ಇಂದು</string>
+    <string name="tomorrow">ನಾಳೆ</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'ಡೇಟಾ ಇಲ್ಲ'</string>
+    <string name="weather_type_0">ನಿಚ್ಛಳ</string>
+    <string name="weather_type_1">ಮೋಡ ಕವಿದ ವಾತಾವರಣ</string>
+    <string name="weather_type_2">ಮೋಡ ಕವಿದ ವಾತಾವರಣ</string>
+    <string name="weather_type_3">ಮಂಜು ಮುಸುಕಿದ ವಾತಾವರಣ</string>
+    <string name="weather_type_4">ಬಿರುಗಾಳಿ-ಮಳೆ</string>
+    <string name="weather_type_5">ಬಿರುಮಳೆ</string>
+    <string name="weather_type_6">ಮಳೆ-ಗಾಳಿ</string>
+    <string name="weather_type_7">ಗುಡುಗು-ಮಳೆ</string>
+    <string name="weather_type_8">ಮಳೆ</string>
+    <string name="weather_type_9">ಭಾರೀ ಮಳೆ</string>
+    <string name="weather_type_10">ಮಧ್ಯಮ ಮಳೆ</string>
+    <string name="weather_type_11">ಹಗುರ ಮಳೆ</string>
+    <string name="weather_type_12">ಮಳೆ ಮತ್ತು ಹಿಮ ಮಿಶ್ರ</string>
+    <string name="weather_type_13">ಹಿಮಪಾತ</string>
+    <string name="weather_type_14">ಹಿಮ</string>
+    <string name="weather_type_15">ಭಾರಿ ಹಿಮ</string>
+    <string name="weather_type_16">ಮಧ್ಯಮ ಹಿಮ</string>
+    <string name="weather_type_17">ಹಗುರ ಹಿಮ</string>
+    <string name="weather_type_18">ಬಲವಾದ ಮರುಳುಗಾಳಿ</string>
+    <string name="weather_type_19">ಮರಳು-ಬಿರುಗಾಳಿ</string>
+    <string name="weather_type_20">ಮರಳು</string>
+    <string name="weather_type_21">ಧೂಳಿನ ಬಿರುಗಾಳಿ</string>
+    <string name="weather_type_22">ಆಲಿಕಲ್ಲು</string>
+    <string name="weather_type_23">ಧೂಳು</string>
+    <string name="weather_type_24">ಮಂಜುಮುಸುಕು</string>
+    <string name="weather_type_25">ಘನೀಕರಿಸುವ ಮಳೆ</string>
+</resources>
