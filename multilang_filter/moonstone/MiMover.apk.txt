@@ -1,0 +1,2 @@
+Removed: [it] arrays.xml: array/document_default_extensions (item mismatch)
+Removed: [it] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
