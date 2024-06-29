@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">കാലാവസ്ഥ വിവരം ലഭിക്കാൻ ടാപ്പുചെയ്യുക</string>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="today">ഇന്ന്</string>
+    <string name="tomorrow">നാളെ</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'ഡാറ്റ ഇല്ല'</string>
+    <string name="weather_type_0">തെളിഞ്ഞ ആകാശം</string>
+    <string name="weather_type_1">മേഘാവൃതമായ</string>
+    <string name="weather_type_2">ഇരുള്‍ മൂടിയ</string>
+    <string name="weather_type_3">മൂടിക്കെട്ടിയ</string>
+    <string name="weather_type_4">ശക്തമായ കാറ്റും മഴയും</string>
+    <string name="weather_type_5">പേമാരി</string>
+    <string name="weather_type_6">കാറ്റോടു കൂടിയ മഴ</string>
+    <string name="weather_type_7">ഇടിയും മിന്നലുമുള്ള കൊടുംങ്കാറ്റ്‌</string>
+    <string name="weather_type_8">മഴ</string>
+    <string name="weather_type_9">കനത്ത മഴ</string>
+    <string name="weather_type_10">മിതമായ മഴ</string>
+    <string name="weather_type_11">ശക്തമല്ലാത്ത മഴ</string>
+    <string name="weather_type_12">മഞ്ഞും മഴയും കലര്‍ന്ന്</string>
+    <string name="weather_type_13">ഹിമവാതം</string>
+    <string name="weather_type_14">മഞ്ഞ്</string>
+    <string name="weather_type_15">കടുത്ത മഞ്ഞ്</string>
+    <string name="weather_type_16">മിതമായ മഞ്ഞ്</string>
+    <string name="weather_type_17">ശക്തികുറഞ്ഞ മഞ്ഞ്</string>
+    <string name="weather_type_18">കടുത്ത പൊടിക്കാറ്റ്</string>
+    <string name="weather_type_19">പൊടിക്കാറ്റ്</string>
+    <string name="weather_type_20">മണല്‍</string>
+    <string name="weather_type_21">പൊടിക്കാറ്റ്</string>
+    <string name="weather_type_22">ആലിപ്പഴം</string>
+    <string name="weather_type_23">പൊടി</string>
+    <string name="weather_type_24">തെളിച്ചമില്ലാത്ത</string>
+    <string name="weather_type_25">മരവിപ്പിക്കുന്ന മഴ</string>
+</resources>

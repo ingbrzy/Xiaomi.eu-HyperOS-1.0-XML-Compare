@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="notification_element_blend_headsUp_colors">
+        <item>#ff777777</item>
+        <item>107</item>
+        <item>#ff1a7300</item>
+        <item>106</item>
+    </array>
+    <array name="notification_element_blend_keyguard_colors">
+        <item>#ff777777</item>
+        <item>107</item>
+        <item>#ff265900</item>
+        <item>106</item>
+    </array>
+    <array name="notification_element_blend_shade_colors">
+        <item>#80474747</item>
+        <item>107</item>
+        <item>#ff0fcc00</item>
+        <item>106</item>
+    </array>
+    <array name="notification_modal_cancel_btn_blend_colors">
+        <item>#47606060</item>
+        <item>18</item>
+        <item>#17ffffff</item>
+        <item>3</item>
+    </array>
+    <array name="notification_modal_ok_btn_blend_color">
+        <item>#ff277af7</item>
+        <item>3</item>
+    </array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'AQI \'+#aqi</string>
+    <string name="air_quality1">\'AQI \'+#aqi</string>
+    <string name="air_quality2">\'AQI \'+#aqi</string>
+    <string name="air_quality3">\'AQI \'+#aqi</string>
+    <string name="air_quality4">\'AQI \'+#aqi</string>
+    <string name="air_quality5">\'AQI \'+#aqi</string>
+    <string name="weather_null">Հպեք, եղանակի մասին տեղեկություններ ստանալու համար</string>
+    <string name="weather_location_null">Գտնվելու վայրի մասին տեղեկություններ չկան</string>
+    <string name="weather_type_0">Պարզ</string>
+    <string name="weather_type_1">Ամպամած</string>
+    <string name="weather_type_2">Մռայլ</string>
+    <string name="weather_type_3">Մառախլապատ</string>
+    <string name="weather_type_4">Ուժեղ անձրևամրրիկ</string>
+    <string name="weather_type_5">Հորդառատ անձրև</string>
+    <string name="weather_type_6">Անձրևամրրիկ</string>
+    <string name="weather_type_7">Ամպրոպ</string>
+    <string name="weather_type_8">Անձրև</string>
+    <string name="weather_type_9">Ուժեղ անձրև</string>
+    <string name="weather_type_10">Միջին ուժգնության անձրև</string>
+    <string name="weather_type_11">Թեթև անձրև</string>
+    <string name="weather_type_12">Ձյունախառն անձրև</string>
+    <string name="weather_type_13">Ձնաբուք</string>
+    <string name="weather_type_14">Ձյուն</string>
+    <string name="weather_type_15">Առատ ձյուն</string>
+    <string name="weather_type_16">Միջին ուժգնության ձյուն</string>
+    <string name="weather_type_17">Թեթև ձյուն</string>
+    <string name="weather_type_18">Ուժեղ ավազային փոթորիկ</string>
+    <string name="weather_type_19">Ավազային փոթորիկ</string>
+    <string name="weather_type_20">Ավազ</string>
+    <string name="weather_type_21">Փոշու փոթորիկ</string>
+    <string name="weather_type_22">Կարկուտ</string>
+    <string name="weather_type_23">Փոշի</string>
+    <string name="weather_type_24">Մշուշ</string>
+    <string name="weather_type_25">Սառցե անձրև</string>
+</resources>

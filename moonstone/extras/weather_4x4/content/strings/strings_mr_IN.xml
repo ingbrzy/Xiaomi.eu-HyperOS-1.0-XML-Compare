@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">हवामान माहिती मिळवण्यासाठी टॅप करा</string>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="today">आज</string>
+    <string name="tomorrow">उद्या</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'डेटा नाही'</string>
+    <string name="weather_type_0">स्वच्छ</string>
+    <string name="weather_type_1">ढगाळ</string>
+    <string name="weather_type_2">अभ्राच्छादित</string>
+    <string name="weather_type_3">धुके असलेले</string>
+    <string name="weather_type_4">जोराचे वादळवारे</string>
+    <string name="weather_type_5">मुसळधार</string>
+    <string name="weather_type_6">वादळवारे</string>
+    <string name="weather_type_7">वादळी पाऊस</string>
+    <string name="weather_type_8">पाऊस</string>
+    <string name="weather_type_9">जोरदार पाऊस</string>
+    <string name="weather_type_10">मध्यम पाऊस</string>
+    <string name="weather_type_11">अत्यल्प पाऊस</string>
+    <string name="weather_type_12">पाऊस आणि हिम मिश्रीत</string>
+    <string name="weather_type_13">हिम वादळ</string>
+    <string name="weather_type_14">बर्फवृष्टी</string>
+    <string name="weather_type_15">जोरदार बर्फवृष्टी</string>
+    <string name="weather_type_16">मध्यम बर्फवृष्टी</string>
+    <string name="weather_type_17">अत्यल्प बर्फवृष्टी</string>
+    <string name="weather_type_18">जोरात धूलिकावादळ</string>
+    <string name="weather_type_19">धूलिका वादळ</string>
+    <string name="weather_type_20">धूळ</string>
+    <string name="weather_type_21">धुळीचे वादळ</string>
+    <string name="weather_type_22">गारा</string>
+    <string name="weather_type_23">धुळ</string>
+    <string name="weather_type_24">धुकट</string>
+    <string name="weather_type_25">थंड पाऊस</string>
+</resources>

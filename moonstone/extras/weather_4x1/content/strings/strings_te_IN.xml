@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'AQI \'+#aqi</string>
+    <string name="air_quality1">\'AQI \'+#aqi</string>
+    <string name="air_quality2">\'AQI \'+#aqi</string>
+    <string name="air_quality3">\'AQI \'+#aqi</string>
+    <string name="air_quality4">\'AQI \'+#aqi</string>
+    <string name="air_quality5">\'AQI \'+#aqi</string>
+    <string name="weather_null">వాతావరణ సమాచారాన్ని పొందేందుకు ట్యాప్ చేయండి</string>
+    <string name="weather_location_null">ప్రదేశ సమాచారం లేదు</string>
+    <string name="weather_type_0">నిర్మలంగా ఉంటుంది</string>
+    <string name="weather_type_1">మేఘావృతంగా ఉంటుంది</string>
+    <string name="weather_type_2">దట్టమైన మబ్బులు పట్టి ఉంటుంది</string>
+    <string name="weather_type_3">పొగమంచుతో నిండి ఉంటుంది</string>
+    <string name="weather_type_4">భారీ వర్షం</string>
+    <string name="weather_type_5">కుంభవృష్టి</string>
+    <string name="weather_type_6">గాలివాన</string>
+    <string name="weather_type_7">ఉరుములతో కూడిన గాలివాన</string>
+    <string name="weather_type_8">వర్షం</string>
+    <string name="weather_type_9">భారీ వర్షపాతం</string>
+    <string name="weather_type_10">కొద్దిపాటి వర్షం</string>
+    <string name="weather_type_11">తేలికపాటి వర్షం</string>
+    <string name="weather_type_12">వర్షం మరియు మంచు కలయిక</string>
+    <string name="weather_type_13">మంచు తుఫాను</string>
+    <string name="weather_type_14">మంచు</string>
+    <string name="weather_type_15">అధిక మంచు</string>
+    <string name="weather_type_16">కొద్దిపాటి మంచు</string>
+    <string name="weather_type_17">తేలికపాటి మంచు</string>
+    <string name="weather_type_18">బలమైన ఇసుక తుఫాను</string>
+    <string name="weather_type_19">ఇసుక తుఫాను</string>
+    <string name="weather_type_20">ఇసుక</string>
+    <string name="weather_type_21">ధూళి తుఫాను</string>
+    <string name="weather_type_22">వడగళ్లు</string>
+    <string name="weather_type_23">ధూళి</string>
+    <string name="weather_type_24">పొగమంచు</string>
+    <string name="weather_type_25">మంచుగడ్డల వర్షం</string>
+</resources>

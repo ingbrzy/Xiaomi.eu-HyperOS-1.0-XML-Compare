@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'AQI \'+#aqi</string>
+    <string name="air_quality1">\'AQI \'+#aqi</string>
+    <string name="air_quality2">\'AQI \'+#aqi</string>
+    <string name="air_quality3">\'AQI \'+#aqi</string>
+    <string name="air_quality4">\'AQI \'+#aqi</string>
+    <string name="air_quality5">\'AQI \'+#aqi</string>
+    <string name="weather_null">ចុច ដើម្បីទទួលពត៌មានឧតុនិយម</string>
+    <string name="weather_location_null">គ្មានព័ត៌មានទីតាំង</string>
+    <string name="weather_type_0">ស្រឡះ</string>
+    <string name="weather_type_1">មេឃស្រទំ</string>
+    <string name="weather_type_2">ស្រទំ</string>
+    <string name="weather_type_3">ចុះអ័ភ្រ</string>
+    <string name="weather_type_4">ព្យុះភ្លៀង​ខ្លាំង</string>
+    <string name="weather_type_5">ភ្លៀងខ្លាំង</string>
+    <string name="weather_type_6">ព្យុះភ្លៀង</string>
+    <string name="weather_type_7">ព្យុះមានផ្គររន្ទះ</string>
+    <string name="weather_type_8">ភ្លៀង</string>
+    <string name="weather_type_9">ភ្លៀងធ្លាក់​ខ្លាំង</string>
+    <string name="weather_type_10">ភ្លៀងធ្លាក់ជាមធ្យម</string>
+    <string name="weather_type_11">ភ្លៀងតិចៗ</string>
+    <string name="weather_type_12">ភ្លៀងនិងព្រិលលាយគ្នា</string>
+    <string name="weather_type_13">ព្យុះទឹកកក</string>
+    <string name="weather_type_14">ព្រិល</string>
+    <string name="weather_type_15">ធ្លាក់ព្រិលខ្លាំង</string>
+    <string name="weather_type_16">ព្រិលធ្លាក់​មធ្យម</string>
+    <string name="weather_type_17">ព្រិលធ្លាក់​តិចៗ</string>
+    <string name="weather_type_18">ព្យុះខ្សាច់​ខ្លាំង</string>
+    <string name="weather_type_19">ព្យុះ​ខ្សាច់</string>
+    <string name="weather_type_20">ដីខ្សាច់</string>
+    <string name="weather_type_21">ព្យុះធូលី</string>
+    <string name="weather_type_22">ធ្លាក់ព្រិល</string>
+    <string name="weather_type_23">ធូលី</string>
+    <string name="weather_type_24">ចុះអ័ភ្រ</string>
+    <string name="weather_type_25">ភ្លៀងបង្កក</string>
+</resources>
