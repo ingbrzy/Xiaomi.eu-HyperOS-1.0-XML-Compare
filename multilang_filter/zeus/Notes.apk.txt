@@ -1,2 +1,1 @@
 Removed: [cs] strings.xml: string/ai_chat_declare_double_link (format mismatch)
-Removed: [cs] strings.xml: string/excerpt_original_text (duplicate)
