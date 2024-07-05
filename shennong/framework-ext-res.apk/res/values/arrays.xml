@@ -8071,6 +8071,7 @@
         <item>com.miui.aod</item>
         <item>com.miui.voiceassist:core</item>
         <item>com.mfashiongallery.emag</item>
+        <item>com.google.android.googlequicksearchbox</item>
     </string-array>
     <string-array name="process_static_white_list_lite">
         <item>com.android.mms:mms_service</item>
@@ -8203,8 +8204,8 @@
         <item>com.dewmobile.kuaiya.play</item>
     </string-array>
     <string-array name="screen_key_long_press_default_action">
-        <item>voice_assistant</item>
-        <item>none</item>
+        <item>recent_panel</item>
+        <item>google_now</item>
         <item>none</item>
         <item>show_menu</item>
     </string-array>

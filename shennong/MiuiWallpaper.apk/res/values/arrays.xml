@@ -104,65 +104,7 @@
         <item>@string/earthly_branches_xu</item>
         <item>@string/earthly_branches_hai</item>
     </string-array>
-    <string-array name="enable_super_wallpaper_device">
-        <item>cmi</item>
-        <item>umi</item>
-        <item>lmiin</item>
-        <item>lmiinpro</item>
-        <item>lmi</item>
-        <item>lmipro</item>
-        <item>cepheus</item>
-        <item>crux</item>
-        <item>raphaelin</item>
-        <item>raphael</item>
-        <item>dipper</item>
-        <item>equuleus</item>
-        <item>perseus</item>
-        <item>ursa</item>
-        <item>monetin</item>
-        <item>monet</item>
-        <item>vangogh</item>
-        <item>atom</item>
-        <item>bomb</item>
-        <item>cas</item>
-        <item>klein</item>
-        <item>cezanne</item>
-        <item>venus</item>
-        <item>haydn</item>
-        <item>haydnin</item>
-        <item>star</item>
-        <item>mars</item>
-        <item>renoir</item>
-        <item>alioth</item>
-        <item>aliothin</item>
-        <item>thyme</item>
-        <item>ares</item>
-        <item>aresin</item>
-        <item>odin</item>
-        <item>vili</item>
-        <item>agate</item>
-        <item>agatein</item>
-        <item>amber</item>
-        <item>zeus</item>
-        <item>psyche</item>
-        <item>cupid</item>
-        <item>ingres</item>
-        <item>poussin</item>
-        <item>matisse</item>
-        <item>rubens</item>
-        <item>munch</item>
-        <item>unicorn</item>
-        <item>thor</item>
-        <item>mayfly</item>
-        <item>diting</item>
-        <item>ditingp</item>
-        <item>plato</item>
-        <item>nuwa</item>
-        <item>fuxi</item>
-        <item>mondrian</item>
-        <item>socrates</item>
-        <item>rembrandt</item>
-    </string-array>
+    <array name="enable_super_wallpaper_device" />
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
