@@ -247,6 +247,7 @@
         <item>com.android.htmlviewer</item>
         <item>com.google.android.packageinstaller</item>
         <item>com.miui.core</item>
+        <item>com.miui.gallery</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -2134,6 +2135,7 @@
         <item>@string/layout_size_extral_small</item>
         <item>@string/layout_size_small</item>
         <item>@string/layout_size_normal</item>
+        <item>@string/layout_size_medium</item>
         <item>@string/layout_size_large</item>
         <item>@string/layout_size_huge</item>
         <item>@string/layout_size_exhuge</item>
