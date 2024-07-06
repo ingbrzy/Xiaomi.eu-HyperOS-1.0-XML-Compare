@@ -71,6 +71,15 @@
         <item>com.google.android.apps.messaging</item>
         <item>com.whatsapp</item>
         <item>com.tencent.tim</item>
+        <item>com.discord</item>
+        <item>com.facebook.orca</item>
+        <item>com.instagram.android</item>
+        <item>com.pushbullet.android</item>
+        <item>org.telegram.messenger</item>
+        <item>org.telegram.messenger.web</item>
+        <item>org.thunderdog.challegram</item>
+        <item>tw.nekomimi.nekogram</item>
+        <item>xyz.nextalone.nagram</item>
     </string-array>
     <string-array name="video_scene_packages">
         <item>com.tencent.qqlive</item>
