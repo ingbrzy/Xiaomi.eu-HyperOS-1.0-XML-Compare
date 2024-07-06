@@ -227,6 +227,13 @@ Toggle off to stop syncing."</string>
     <string name="btn_copy">Copy</string>
     <string name="btn_open">Open</string>
     <string name="business_num">%d</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
     <string name="camera_permission_name">Use camera</string>
     <string name="can_not_send_with_too_many">"Can't send that many items at once"</string>
     <string name="cancel">Cancel</string>
@@ -398,7 +405,7 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">c2d5afe531c5431aa6b4b69c88fccc95</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">79dab52b26684e5b9d08c3593702ccd5</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -785,6 +792,10 @@ Pages you view won't appear in history."</string>
     <string name="experience_improve">User Experience Program</string>
     <string name="exported">Exported</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="external_app_leave_incognito_leave">Turn off</string>
+    <string name="external_app_leave_incognito_stay">Keep on</string>
+    <string name="external_app_leave_incognito_warning">This website is trying to share information with an app outside of Incognito mode. Turn off now?</string>
+    <string name="external_app_leave_incognito_warning_title">Turn off Incognito mode?</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
