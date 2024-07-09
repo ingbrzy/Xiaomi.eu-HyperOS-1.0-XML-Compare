@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">ھېسابلىغۇچ</string>
+    <string name="clear">تازىلاش</string>
+    <string name="delete">چېكىنىش</string>
+    <string name="percent">پىرسەنت بەلگىسى</string>
+    <string name="add">قوشۇش</string>
+    <string name="subtract">ئېلىش</string>
+    <string name="multiply">كۆپەيتىش</string>
+    <string name="divide">بۆلۈش</string>
+    <string name="equals">تەڭ</string>
+    <string name="point">ئونلۇق كەسىر چېكىتى</string>
+</resources>
