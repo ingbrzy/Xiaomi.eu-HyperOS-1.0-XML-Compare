@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">Tryck för att få väderinformation</string>
+    <string name="date_format">EEEE d MMMM</string>
+    <string name="today">Idag</string>
+    <string name="tomorrow">Imorgon</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'Ingen data'</string>
+    <string name="weather_type_0">Klart</string>
+    <string name="weather_type_1">Molnigt</string>
+    <string name="weather_type_2">Mulet</string>
+    <string name="weather_type_3">Dimmigt</string>
+    <string name="weather_type_4">Tung regnstorm</string>
+    <string name="weather_type_5">Skyfall</string>
+    <string name="weather_type_6">Regnstorm</string>
+    <string name="weather_type_7">Åskväder</string>
+    <string name="weather_type_8">Regn</string>
+    <string name="weather_type_9">Kraftigt regnfall</string>
+    <string name="weather_type_10">Måttligt regn</string>
+    <string name="weather_type_11">Duggregn</string>
+    <string name="weather_type_12">Snöblandat regn</string>
+    <string name="weather_type_13">Snöstorm</string>
+    <string name="weather_type_14">Snö</string>
+    <string name="weather_type_15">Tung snö</string>
+    <string name="weather_type_16">Måttligt snö</string>
+    <string name="weather_type_17">Lätt snö</string>
+    <string name="weather_type_18">Kraftig sandstorm</string>
+    <string name="weather_type_19">Sand storm</string>
+    <string name="weather_type_20">Sand</string>
+    <string name="weather_type_21">Sandstorm</string>
+    <string name="weather_type_22">Hagel</string>
+    <string name="weather_type_23">Damm</string>
+    <string name="weather_type_24">Dis</string>
+    <string name="weather_type_25">Nedkylt regn</string>
+</resources>

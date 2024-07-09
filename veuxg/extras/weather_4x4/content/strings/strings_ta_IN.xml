@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">வானிலை விவரத்தைப் பெற தட்டவும்</string>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="today">இன்று</string>
+    <string name="tomorrow">நாளை</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'தரவு இல்லை'</string>
+   <string name="weather_type_0">தெளிவானது</string>
+    <string name="weather_type_1">மேக மூட்டம்</string>
+    <string name="weather_type_2">அதிமேகமூட்டம்</string>
+    <string name="weather_type_3">மூடுபனியான</string>
+    <string name="weather_type_4">கன மழை</string>
+    <string name="weather_type_5">மழை</string>
+    <string name="weather_type_6">புயல்மழை</string>
+    <string name="weather_type_7">இடியுடன் கூடிய மழை</string>
+    <string name="weather_type_8">மழை</string>
+    <string name="weather_type_9">கன மழை</string>
+    <string name="weather_type_10">மிதமான மழை</string>
+    <string name="weather_type_11">லேசான மழை</string>
+    <string name="weather_type_12">பனி கலந்த மழை</string>
+    <string name="weather_type_13">பனிப்புயல்</string>
+    <string name="weather_type_14">பனி</string>
+    <string name="weather_type_15">கடும் பனி</string>
+    <string name="weather_type_16">மிதமான பனி</string>
+    <string name="weather_type_17">லேசான பனி</string>
+    <string name="weather_type_18">வலுவான மணற்புயல்</string>
+    <string name="weather_type_19">மணல் புயல்</string>
+    <string name="weather_type_20">மணல்</string>
+    <string name="weather_type_21">தூசு புயல்</string>
+    <string name="weather_type_22">ஆலங்கட்டி மழை</string>
+    <string name="weather_type_23">தூசு</string>
+    <string name="weather_type_24">தெளிவற்றது</string>
+    <string name="weather_type_25">உறைபனி மழை</string>
+</resources>

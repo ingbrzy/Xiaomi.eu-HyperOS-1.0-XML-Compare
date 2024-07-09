@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'ÕKI \'+#aqi</string>
+    <string name="air_quality1">\'ÕKI \'+#aqi</string>
+    <string name="air_quality2">\'ÕKI \'+#aqi</string>
+    <string name="air_quality3">\'ÕKI \'+#aqi</string>
+    <string name="air_quality4">\'ÕKI \'+#aqi</string>
+    <string name="air_quality5">\'ÕKI \'+#aqi</string>
+    <string name="weather_null">Toksa ilmainfo saamiseks</string>
+    <string name="weather_location_null">Asukohaandmed puuduvad</string>
+    <string name="weather_type_0">Selge</string>
+    <string name="weather_type_1">Pilvine</string>
+    <string name="weather_type_2">Lauspilves</string>
+    <string name="weather_type_3">Udune</string>
+    <string name="weather_type_4">Tugev vihmatorm</string>
+    <string name="weather_type_5">Paduvihm</string>
+    <string name="weather_type_6">Vihmatorm</string>
+    <string name="weather_type_7">Äikesetorm</string>
+    <string name="weather_type_8">Vihm</string>
+    <string name="weather_type_9">Tugev sadu</string>
+    <string name="weather_type_10">Mõõdukas vihm</string>
+    <string name="weather_type_11">Kerge vihm</string>
+    <string name="weather_type_12">Lörts</string>
+    <string name="weather_type_13">Lumetorm</string>
+    <string name="weather_type_14">Lumi</string>
+    <string name="weather_type_15">Rohke lumi</string>
+    <string name="weather_type_16">Kesmine lumesadu</string>
+    <string name="weather_type_17">Kerge lumesadu</string>
+    <string name="weather_type_18">Tugev liivatorm</string>
+    <string name="weather_type_19">Liivatorm</string>
+    <string name="weather_type_20">Liiv</string>
+    <string name="weather_type_21">Tolmutorm</string>
+    <string name="weather_type_22">Rahe</string>
+    <string name="weather_type_23">Tolm</string>
+    <string name="weather_type_24">Hägu</string>
+    <string name="weather_type_25">Jäävihm</string>
+</resources>
