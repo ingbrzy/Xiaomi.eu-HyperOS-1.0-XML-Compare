@@ -1,0 +1,6 @@
+Removed: [pl] strings.xml: string/durationDayHours (format mismatch)
+Removed: [pl] strings.xml: string/durationHourMinutes (format mismatch)
+Removed: [pl] strings.xml: string/durationMinuteSeconds (format mismatch)
+Removed: [vi] strings.xml: string/durationDayHours (format mismatch)
+Removed: [vi] strings.xml: string/durationHourMinutes (format mismatch)
+Removed: [vi] strings.xml: string/durationMinuteSeconds (format mismatch)
