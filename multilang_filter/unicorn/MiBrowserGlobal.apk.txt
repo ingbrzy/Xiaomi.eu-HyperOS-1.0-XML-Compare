@@ -1,7 +1,5 @@
 Removed: [pt-rBR] plurals.xml: plurals/festival_game_task_tips (format mismatch)
 Removed: [pt-rBR] plurals.xml: plurals/festival_news_task_tips (format mismatch)
-Removed: [pt-rBR] strings.xml: string/content_collection_done (duplicate)
-Removed: [pt-rBR] strings.xml: string/enter_bookmark (duplicate)
 Removed: [sl] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [vi] arrays.xml: array/nf_feedback_reason (item mismatch)
 Removed: [vi] plurals.xml: plurals/le_notification_download_completed (format mismatch)
