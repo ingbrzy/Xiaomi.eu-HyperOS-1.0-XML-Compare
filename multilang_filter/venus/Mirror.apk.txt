@@ -1,0 +1,3 @@
+Removed: [az-rAZ] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
+Removed: [fr] strings.xml: string/low_battery_notification_content (format mismatch)
+Removed: [it] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
