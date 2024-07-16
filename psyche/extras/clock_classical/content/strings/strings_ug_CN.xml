@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">M -ئاينىڭ d -كۈنى E</string>
+    <string name="date_time_12">M-ئاينىڭ d-كۈنى Eaa</string>
+    <string name="desc_date_format">M ـ ئاينىڭ d ـ كۈنى EEEE</string>
+    <string name="desc_date_format_12">M-ئاينىڭ d-كۈنى Eaa</string>
+    <string name="desc_time">#hour+\'دىن\'+ifelse(#minute,#minute+\'مىنۇت\',\'ئۆتتى\')+\', \'+int(#month+1)+\'-ئاينىڭ\'+#date+\'-كۈنى\'+\', \'+\'ھەپتىگە\'+int(#day_of_week-1)+\', \'+#weather_temperature+\'سېلسىيە گرادۇس\'+\', \'+@weather_description</string>
+</resources>
