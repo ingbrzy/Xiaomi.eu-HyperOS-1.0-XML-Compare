@@ -71,6 +71,7 @@
     <string name="app_info_version_replace">Version: %1$s -> %2$s</string>
     <string name="app_installing_not_allow">"You blocked installation of %1$s. "</string>
     <string name="app_installing_not_allow_1">"Blocked %1$s from installing an app. "</string>
+    <string name="app_installing_not_allow_2">Installation was blocked. Search \"Install unknown apps\" in Settings to change your preferences.</string>
     <string name="app_name">Package installer</string>
     <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
     <string name="app_not_found_dlg_title">App not found</string>
