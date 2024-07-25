@@ -2,6 +2,8 @@ Removed: [ar] strings.xml: string/cloud_backup_detail_state_summary_china (forma
 Removed: [bg] strings.xml: string/cloud_backup_detail_state_summary_china (format mismatch)
 Removed: [da] strings.xml: string/cloud_backup_detail_state_summary_china (format mismatch)
 Removed: [el] strings.xml: string/cloud_backup_detail_state_summary_china (format mismatch)
+Removed: [en-rAU] strings.xml: string/cloud_backup_detail_state_summary_china (format mismatch)
+Removed: [en-rGB] strings.xml: string/cloud_backup_detail_state_summary_china (format mismatch)
 Removed: [fa-rIR] strings.xml: string/cloud_backup_detail_state_summary_china (format mismatch)
 Removed: [fi] strings.xml: string/cloud_backup_detail_state_summary_china (format mismatch)
 Removed: [hu] strings.xml: string/cloud_backup_detail_state_summary_china (format mismatch)
