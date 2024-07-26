@@ -1417,7 +1417,6 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
-    <string name="cs_close_vt_camera_first_tips">"Can't use this feature while using cross-device camera"</string>
     <string name="cs_color_sense">Color temperature</string>
     <string name="cs_conversation_record_using">Recording</string>
     <string name="cs_func_toast_headset">Disconnect your headset to be able to use this feature</string>
@@ -1426,7 +1425,6 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cs_func_unavailable_tips">Use this feature during calls</string>
     <string name="cs_light_enhance_physical_options">Color temperature</string>
     <string name="cs_light_enhance_physical_title">Brightness</string>
-    <string name="cs_open_camera_first_tips">Open Camera to use this feature</string>
     <string name="cs_pickup_denoise_desc">Reduce noise of incoming audio while using speakers or earphones</string>
     <string name="cs_pickup_denoise_title">Noise reduction</string>
     <string name="cs_pickup_multi_desc">%d degree audio pickup</string>
@@ -4355,8 +4353,6 @@ Ultra battery saver"</string>
     <string name="permission_precise_location">Precise location</string>
     <string name="permission_precise_location_sumary">When this feature is turned off, apps will only be able to access your approximate location</string>
     <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\">%2$s&lt;/a></Data></string>
-    <string name="permission_risk_app_for_desc">This app might pose security risks. Grant permissions anyway?</string>
-    <string name="permission_risk_app_for_title">Risks detected</string>
     <string name="permission_share_uid">Precise location</string>
     <string name="permission_upgrade_more">More privacy protection features</string>
     <string name="permission_upgrade_privacy_title">"The permissions to record audio and access contacts now have an option which allows you to give such permissions only while you're using corresponding apps. To protect the privacy of your personal information, the apps won't perform these actions in the background."</string>
@@ -4440,9 +4436,6 @@ Ultra battery saver"</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | This app returned an empty contact</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | This app returned an empty call status</string>
     <string name="permission_usage_virtual_sms_once">%1$s | This app returned an empty SMS</string>
-    <string name="permission_warning_for_cancel">Cancel</string>
-    <string name="permission_warning_for_ensure">Grant</string>
-    <string name="permission_warning_for_risk">If you decide to grant permissions, blank messages will be returned to the app to protect your privacy.</string>
     <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
     <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call history.</string>
     <string name="permission_with_read_write_clipboard">Allow apps to access and save items to the clipboard</string>
@@ -7002,16 +6995,8 @@ This feature won't work when Battery saver or Ultra battery saver is on."</strin
     <string name="wakepath_delete_all_tips">"If you continue, you'll have to grant each app permission to open other apps. Continue anyway?"</string>
     <string name="wakepath_delete_app_start_all">"If you continue, you'll have to grant %s permission again to open any other apps. Continue anyway?"</string>
     <string name="wakepath_delete_app_start_other_app">"If you continue, you'll have to grant %1$s permission again to open %2$s. Continue anyway?"</string>
-    <string name="wakepath_manager_allow_list">Allowed</string>
-    <string name="wakepath_manager_allow_start">Allowed</string>
-    <string name="wakepath_manager_checkbox_desc">Allow %1$s to launch other apps</string>
-    <string name="wakepath_manager_checkbox_title">Allow chain start</string>
-    <string name="wakepath_manager_empty_list">No apps are allowed to launch</string>
-    <string name="wakepath_manager_reject_list">Restricted</string>
-    <string name="wakepath_manager_reject_toast">Search \"Manage chain start\" in Settings to allow this app to launch other apps</string>
     <string name="wakepath_manager_title">Manage chain start</string>
     <string name="warn_function_no_work">&lt;u>来红包时无法正常提醒？&lt;/u></string>
-    <string name="warningcenter_accurate_area_title">Affected area</string>
     <string name="warningcenter_action_check">View</string>
     <string name="warningcenter_alert_home">Location</string>
     <string name="warningcenter_alert_room">Room</string>
@@ -7041,7 +7026,7 @@ This feature won't work when Battery saver or Ultra battery saver is on."</strin
     <string name="warningcenter_disaster_hailang">海浪</string>
     <string name="warningcenter_disaster_hanchao">寒潮</string>
     <string name="warningcenter_disaster_icon_title">Demo warning</string>
-    <string name="warningcenter_disaster_info">Receive disaster warnings to stay safe and minimize risks</string>
+    <string name="warningcenter_disaster_info">"Published by CMA's Warning Center"</string>
     <string name="warningcenter_disaster_info_from">预警中心 | 国家预警信息发布中心权威发布</string>
     <string name="warningcenter_disaster_info_title">About warnings</string>
     <string name="warningcenter_disaster_leiyudafeng">雷雨大风</string>
@@ -7082,7 +7067,6 @@ This feature won't work when Battery saver or Ultra battery saver is on."</strin
     <string name="warningcenter_disaster_search_hint">Warning type/region/issuing agency</string>
     <string name="warningcenter_disaster_search_keywords">Weather alerts</string>
     <string name="warningcenter_disaster_senlinhuoxian">森林火险</string>
-    <string name="warningcenter_disaster_service_area">Scope of the service</string>
     <string name="warningcenter_disaster_taifeng">台风</string>
     <string name="warningcenter_disaster_title">Disaster warning</string>
     <string name="warningcenter_disaster_type_all">All types</string>
