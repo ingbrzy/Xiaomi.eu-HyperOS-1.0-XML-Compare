@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'AQI \'+#aqi</string>
+    <string name="air_quality1">\'AQI \'+#aqi</string>
+    <string name="air_quality2">\'AQI \'+#aqi</string>
+    <string name="air_quality3">\'AQI \'+#aqi</string>
+    <string name="air_quality4">\'AQI \'+#aqi</string>
+    <string name="air_quality5">\'AQI \'+#aqi</string>
+    <string name="weather_null">ਮੌਸਮ ਦੀ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="weather_location_null">ਕੋਈ ਟਿਕਾਣਾ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਨਹੀਂ</string>
+    <string name="weather_type_0">ਸਾਫ਼</string>
+    <string name="weather_type_1">ਝੜ</string>
+    <string name="weather_type_2">ਸੰਘਣੇ ਬੱਦਲ</string>
+    <string name="weather_type_3">ਧੁੰਦ ਵਾਲਾ</string>
+    <string name="weather_type_4">ਭਾਰੀ ਬਾਰਸ਼ ਦੇ ਨਾਲ ਤੁਫ਼ਾਨ</string>
+    <string name="weather_type_5">ਬਾਰਸ਼</string>
+    <string name="weather_type_6">ਤੂਫ਼ਾਨੀ ਬਾਰਸ਼</string>
+    <string name="weather_type_7">ਗਰਜ ਦੇ ਨਾਲ ਤੁਫ਼ਾਨ</string>
+    <string name="weather_type_8">ਬਾਰਸ਼</string>
+    <string name="weather_type_9">ਭਾਰੀ ਬਾਰਸ਼</string>
+    <string name="weather_type_10">ਦਰਮਿਆਨੀ ਬਾਰਸ਼</string>
+    <string name="weather_type_11">ਹਲਕੀ ਬਾਰਸ਼</string>
+    <string name="weather_type_12">ਬਾਰਸ਼ ਅਤੇ ਬਰਫ਼ ਰਲਵੀਂ-ਮਿਲਵੀਂ</string>
+    <string name="weather_type_13">ਬਰਫ਼ਾਨੀ ਤੂਫ਼ਾਨ</string>
+    <string name="weather_type_14">ਬਰਫ਼</string>
+    <string name="weather_type_15">ਭਾਰੀ ਬਰਫ਼</string>
+    <string name="weather_type_16">ਦਰਮਿਆਨੀ ਬਰਫ਼</string>
+    <string name="weather_type_17">ਹਲਕੀ ਬਰਫ਼</string>
+    <string name="weather_type_18">ਭਾਰੀ ਰੇਤਲੀ ਹਨੇਰੀ</string>
+    <string name="weather_type_19">ਰੇਤਲਾ ਤੂਫ਼ਾਨ</string>
+    <string name="weather_type_20">ਰੇਤ</string>
+    <string name="weather_type_21">ਧੂੜ ਵਾਲਾ ਤੂਫ਼ਾਨ</string>
+    <string name="weather_type_22">ਗੜੇ</string>
+    <string name="weather_type_23">ਧੂੜ</string>
+    <string name="weather_type_24">ਧੁੰਦ</string>
+    <string name="weather_type_25">ਠੰਡੀ ਬਾਰਸ਼</string>
+</resources>

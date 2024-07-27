@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">MMMM dd, EEEE</string>
+    <string name="date_time_12">MMMM dd, EEEE</string>
+    <string name="desc_date_format">MMM dd, EEEE</string>
+    <string name="desc_date_format_12">MMM dd, EEEE</string>
+    <string name="desc_time">'ordua\' + #hour12+\' \'+ifelse(#minute,#minute,\'puntuan\')+\', ukitu bi aldiz ordulari aplikazioan sartzeko'</string>
+    <string name="weather_type_null">'Daturik ez'</string>
+    <string name="weather_type_0">Garbia</string>
+    <string name="weather_type_1">Hodeitsua</string>
+    <string name="weather_type_2">Nahiko Lainotsua</string>
+    <string name="weather_type_3">Behe-lainoa</string>
+    <string name="weather_type_4">Euri ekaitz gogorra</string>
+    <string name="weather_type_5">Eurijasa</string>
+    <string name="weather_type_6">Zaparrada</string>
+    <string name="weather_type_7">Ekaitza</string>
+    <string name="weather_type_8">Euria</string>
+    <string name="weather_type_9">Euri asko</string>
+    <string name="weather_type_10">Euri moderatua</string>
+    <string name="weather_type_11">Zirimiria</string>
+    <string name="weather_type_12">Euria eta elurra nahastuta</string>
+    <string name="weather_type_13">Lausoa</string>
+    <string name="weather_type_14">Elurra</string>
+    <string name="weather_type_15">Elur ugari</string>
+    <string name="weather_type_16">Elur moderatua</string>
+    <string name="weather_type_17">Elur apur bat</string>
+    <string name="weather_type_18">Harea-ekaitz gogorra</string>
+    <string name="weather_type_19">Harea-ekaitza</string>
+    <string name="weather_type_20">Hondarra</string>
+    <string name="weather_type_21">Hauts-ekaitza</string>
+    <string name="weather_type_22">Kazkabarra</string>
+    <string name="weather_type_23">Hautsa</string>
+    <string name="weather_type_24">Lanbroa</string>
+    <string name="weather_type_25">Euri izoztea</string>
+</resources>

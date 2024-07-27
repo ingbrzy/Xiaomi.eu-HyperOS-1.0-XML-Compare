@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">Klik untuk mendapatkan info cuaca</string>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="today">Hari ini</string>
+    <string name="tomorrow">Esok</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'Tiada data'</string>
+    <string name="weather_type_0">Cerah</string>
+    <string name="weather_type_1">Mendung</string>
+    <string name="weather_type_2">Mendung</string>
+    <string name="weather_type_3">Berkabus</string>
+    <string name="weather_type_4">Hujan lebat</string>
+    <string name="weather_type_5">hujan</string>
+    <string name="weather_type_6">Hujan kilat</string>
+    <string name="weather_type_7">Ribut petir</string>
+    <string name="weather_type_8">Hujan</string>
+    <string name="weather_type_9">Hujan lebat</string>
+    <string name="weather_type_10">Hujan yang sederhana</string>
+    <string name="weather_type_11">Hujan renyai</string>
+    <string name="weather_type_12">Hujan bersalji</string>
+    <string name="weather_type_13">Ribut salji</string>
+    <string name="weather_type_14">Salji</string>
+    <string name="weather_type_15">Salji lebat</string>
+    <string name="weather_type_16">Salji yang sederhana</string>
+    <string name="weather_type_17">Salji ringan</string>
+    <string name="weather_type_18">Ribut pasir yang kuat</string>
+    <string name="weather_type_19">Ribut Pasir</string>
+    <string name="weather_type_20">Pasir</string>
+    <string name="weather_type_21">Ribut pasir</string>
+    <string name="weather_type_22">Hujan batu</string>
+    <string name="weather_type_23">Habuk</string>
+    <string name="weather_type_24">Jerebu</string>
+    <string name="weather_type_25">Hujan beku</string>
+</resources>

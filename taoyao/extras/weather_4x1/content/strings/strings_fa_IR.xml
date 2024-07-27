@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'شاخص کیفیت هوا \'+#aqi</string>
+    <string name="air_quality1">\'شاخص کیفیت هوا \'+#aqi</string>
+    <string name="air_quality2">\'شاخص کیفیت هوا \'+#aqi</string>
+    <string name="air_quality3">\'شاخص کیفیت هوا \'+#aqi</string>
+    <string name="air_quality4">\'شاخص کیفیت هوا \'+#aqi</string>
+    <string name="air_quality5">\'شاخص کیفیت هوا \'+#aqi</string>
+    <string name="weather_null">برای دریافت اطلاعات آب و هوا ضربه بزنید</string>
+    <string name="weather_location_null">بدون اطلاعات موقعیت</string>
+    <string name="weather_type_0">صاف</string>
+    <string name="weather_type_1">ابری</string>
+    <string name="weather_type_2">ابری</string>
+    <string name="weather_type_3">مه‌آلود</string>
+    <string name="weather_type_4">رگبار شدید</string>
+    <string name="weather_type_5">باران سنگین</string>
+    <string name="weather_type_6">رگبار باران</string>
+    <string name="weather_type_7">طوفان رعد و برق</string>
+    <string name="weather_type_8">بارانی</string>
+    <string name="weather_type_9">بارش سنگین باران‌</string>
+    <string name="weather_type_10">بارندگی متوسط</string>
+    <string name="weather_type_11">بارندگی کم</string>
+    <string name="weather_type_12">مخلوط برف و باران</string>
+    <string name="weather_type_13">کولاک</string>
+    <string name="weather_type_14">برف</string>
+    <string name="weather_type_15">برف شدید</string>
+    <string name="weather_type_16">بارش برف متوسط</string>
+    <string name="weather_type_17">بارش برف سبک</string>
+    <string name="weather_type_18">طوفان شدید شن</string>
+    <string name="weather_type_19">طوفان شن</string>
+    <string name="weather_type_20">شن</string>
+    <string name="weather_type_21">طوفان شن</string>
+    <string name="weather_type_22">تگرگ</string>
+    <string name="weather_type_23">گرد و خاک</string>
+    <string name="weather_type_24">مه</string>
+    <string name="weather_type_25">باران یخی</string>
+</resources>
