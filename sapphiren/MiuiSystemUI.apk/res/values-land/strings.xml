@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_navBarLayoutHandle">back[40AC];home_handle[242AC];ime_switcher[40AC]</string>
+    <string name="num_pad_key_ratio">1.51</string>
+</resources>

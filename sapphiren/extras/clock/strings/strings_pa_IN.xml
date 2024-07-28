@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">EEE, dd MMMM</string>
+    <string name="date_time_12">EEE, dd MMMM</string>
+    <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_date_format_12">EEEE, dd MMM</string>
+    <string name="desc_time">'ਵਰਤਮਾਨ ਸਮਾਂ\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', ਘੜੀ ਐਪ ਵਿੱਚ ਦਾਖਲ ਹੋਣ ਲਈ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ'</string>
+    <string name="weather_type_null">'ਕੋਈ ਡਾਟਾ ਨਹੀਂ'</string>
+    <string name="weather_type_0">ਸਾਫ਼</string>
+    <string name="weather_type_1">ਝੜ</string>
+    <string name="weather_type_2">ਸੰਘਣੇ ਬੱਦਲ</string>
+    <string name="weather_type_3">ਧੁੰਦ ਵਾਲਾ</string>
+    <string name="weather_type_4">ਭਾਰੀ ਬਾਰਸ਼ ਦੇ ਨਾਲ ਤੁਫ਼ਾਨ</string>
+    <string name="weather_type_5">ਬਾਰਸ਼</string>
+    <string name="weather_type_6">ਤੂਫ਼ਾਨੀ ਬਾਰਸ਼</string>
+    <string name="weather_type_7">ਗਰਜ ਦੇ ਨਾਲ ਤੁਫ਼ਾਨ</string>
+    <string name="weather_type_8">ਬਾਰਸ਼</string>
+    <string name="weather_type_9">ਭਾਰੀ ਬਾਰਸ਼</string>
+    <string name="weather_type_10">ਦਰਮਿਆਨੀ ਬਾਰਸ਼</string>
+    <string name="weather_type_11">ਹਲਕੀ ਬਾਰਸ਼</string>
+    <string name="weather_type_12">ਬਾਰਸ਼ ਅਤੇ ਬਰਫ਼ ਰਲਵੀਂ-ਮਿਲਵੀਂ</string>
+    <string name="weather_type_13">ਬਰਫ਼ਾਨੀ ਤੂਫ਼ਾਨ</string>
+    <string name="weather_type_14">ਬਰਫ਼</string>
+    <string name="weather_type_15">ਭਾਰੀ ਬਰਫ਼</string>
+    <string name="weather_type_16">ਦਰਮਿਆਨੀ ਬਰਫ਼</string>
+    <string name="weather_type_17">ਹਲਕੀ ਬਰਫ਼</string>
+    <string name="weather_type_18">ਭਾਰੀ ਰੇਤਲੀ ਹਨੇਰੀ</string>
+    <string name="weather_type_19">ਰੇਤਲਾ ਤੂਫ਼ਾਨ</string>
+    <string name="weather_type_20">ਰੇਤ</string>
+    <string name="weather_type_21">ਧੂੜ ਵਾਲਾ ਤੂਫ਼ਾਨ</string>
+    <string name="weather_type_22">ਗੜੇ</string>
+    <string name="weather_type_23">ਧੂੜ</string>
+    <string name="weather_type_24">ਧੁੰਦ</string>
+    <string name="weather_type_25">ਠੰਡੀ ਬਾਰਸ਼</string>
+</resources>

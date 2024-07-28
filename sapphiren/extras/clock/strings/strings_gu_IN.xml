@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">EEE, dd MMMM</string>
+    <string name="date_time_12">EEE, dd MMMM</string>
+    <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_date_format_12">EEEE, dd MMM</string>
+    <string name="desc_time">'ઘડિયાળ ઍપ્લિકેશનમાં દાખલ થવા માટે વર્તમાન સમય\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', ને બેવાર ટૅપ કરો'</string>
+    <string name="weather_type_null">'કોઇ ડેટા નથી'</string>
+    <string name="weather_type_0">સાફ</string>
+    <string name="weather_type_1">વાદળછાયું</string>
+    <string name="weather_type_2">ઓવરકાસ્ટ</string>
+    <string name="weather_type_3">ધુમ્મસભર્યું</string>
+    <string name="weather_type_4">ભારે વરસાદી તોફાન</string>
+    <string name="weather_type_5">ધોધમાર વરસાદ</string>
+    <string name="weather_type_6">વર્ષા સાથેનું વાવાઝોડું</string>
+    <string name="weather_type_7">વાવાઝોડું</string>
+    <string name="weather_type_8">વરસાદ</string>
+    <string name="weather_type_9">ભારે વરસાદ</string>
+    <string name="weather_type_10">મધ્યમસરનો વરસાદ</string>
+    <string name="weather_type_11">હળવો વરસાદ</string>
+    <string name="weather_type_12">વરસાદ અને હિમ મિશ્રિત</string>
+    <string name="weather_type_13">બરફવર્ષા</string>
+    <string name="weather_type_14">હિમવર્ષા</string>
+    <string name="weather_type_15">ભારે હિમવર્ષા</string>
+    <string name="weather_type_16">મધ્યમસરની હિમવર્ષા</string>
+    <string name="weather_type_17">હળવી હિમવર્ષા</string>
+    <string name="weather_type_18">જોરદાર આંધી</string>
+    <string name="weather_type_19">રેતીનું તોફાન</string>
+    <string name="weather_type_20">રેતી</string>
+    <string name="weather_type_21">આંધી</string>
+    <string name="weather_type_22">કરા</string>
+    <string name="weather_type_23">ધૂળ</string>
+    <string name="weather_type_24">ધુમ્મસ</string>
+    <string name="weather_type_25">ઠારતો વરસાદ</string>
+</resources>
