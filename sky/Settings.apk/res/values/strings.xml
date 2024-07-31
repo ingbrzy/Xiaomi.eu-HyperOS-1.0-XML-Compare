@@ -2629,7 +2629,7 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="config_bt_slice_extra_pending_intent" />
     <string name="config_bt_slice_intent_action" />
     <string name="config_bt_slice_pending_intent_action" />
-    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver.module</string>
+    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver</string>
     <string name="config_charging_function_name">charging</string>
     <string name="config_contextual_card_feedback_email" />
     <string name="config_documents_and_other_storage_category_uri">content://com.android.providers.media.documents/root/documents_root</string>
@@ -5385,7 +5385,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
-    <string name="location_agps_def_supl_host">221.176.0.55</string>
+    <string name="location_agps_def_supl_host">supl.google.com</string>
     <string name="location_agps_def_supl_port">7275</string>
     <string name="location_agps_params_settings_title">A-GPS settings</string>
     <string name="location_agps_pref_apn_title">Preferred APN</string>
@@ -8048,9 +8048,9 @@ Restart your device and try again."</string>
     <string name="resetting_second_space_passwd">Resetting Second space password</string>
     <string name="resident_timezone_summary">Second clock</string>
     <string name="resolution_fhd">FHD+</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (saves battery)</string>
+    <string formatted="false" name="resolution_fhd_summary">%d×%d (saves battery)</string>
     <string name="resolution_qhd">WQHD+</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (adds clarity)</string>
+    <string formatted="false" name="resolution_qhd_summary">%d×%d (adds clarity)</string>
     <string name="resolution_sub_title">The system might close the apps running in the background while switching resolution</string>
     <string name="resolver_settings_label">Sort</string>
     <string name="restore_default_apn">Restoring default APN settings.</string>
@@ -10179,7 +10179,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="today">Today</string>
     <string name="tof_gesture_cue_tone_summary">Play confirmation sound whenever your palm is detected</string>
     <string name="tof_gesture_cue_tone_title">Play confirmation sound</string>
-    <string name="tofgesture_description_summary" formatted="false">When the device is in landscape mode, hold your hand %d to %d cm from the camera and perform gestures after the hand icon appears at the top of the screen.</string>
+    <string formatted="false" name="tofgesture_description_summary">When the device is in landscape mode, hold your hand %d to %d cm from the camera and perform gestures after the hand icon appears at the top of the screen.</string>
     <string name="tofgesture_enable_title">Contactless gestures (Beta)</string>
     <string name="tofgesture_settings">Contactless gestures (Beta)</string>
     <string name="toggle_auto_speaker_preference_summary">Device will switch to speaker when you move it away from your ear during calls. This feature works only when TalkBack is on.</string>
