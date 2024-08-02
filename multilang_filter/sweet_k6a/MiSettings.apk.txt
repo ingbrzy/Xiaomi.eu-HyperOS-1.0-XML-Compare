@@ -16,6 +16,7 @@ Removed: [ne-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format 
 Removed: [ne-rNP] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
 Removed: [or-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
 Removed: [pa-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
+Removed: [ru] plurals.xml: plurals/pcl_set_unlock_pin_summary_new (format mismatch)
 Removed: [sw] plurals.xml: plurals/usage_new_home_avg_unlockc (format mismatch)
 Removed: [ta-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
 Removed: [te-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
