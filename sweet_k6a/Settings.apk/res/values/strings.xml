@@ -2599,7 +2599,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="config_backup_settings_intent" />
     <string name="config_backup_settings_label" />
     <string name="config_battery_prediction_authority" />
-    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver.module</string>
+    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver</string>
     <string name="config_charging_function_name">charging</string>
     <string name="config_contextual_card_feedback_email" />
     <string name="config_deletion_helper_class">com.android.storagemanager.deletionhelper.DeletionHelperActivity</string>
@@ -4805,6 +4805,8 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="ignore_optimizations_on">Don’t optimize</string>
     <string name="ignore_optimizations_on_desc">May drain your battery more quickly. App will no longer be restricted from using background battery.</string>
     <string name="ignore_optimizations_title">Allow %s to ignore battery optimizations?</string>
+    <string name="illegal_device_name_modification_notification">Rename your device</string>
+    <string name="illegal_hotspot_name_modification_notification">Rename your hotspot</string>
     <string name="ime_security_warning">%1$s might record everything you type, including passwords, credit card numbers, and other personal data.</string>
     <string name="ime_security_warning_global">Input methods may be able to collect all the text you type, including personal data like password and credit card numbers. Use %1$s?</string>
     <string name="ime_security_warning_title_global">Turning on keyboard</string>
@@ -5342,7 +5344,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
-    <string name="location_agps_def_supl_host">221.176.0.55</string>
+    <string name="location_agps_def_supl_host">supl.google.com</string>
     <string name="location_agps_def_supl_port">7275</string>
     <string name="location_agps_params_settings_title">A-GPS settings</string>
     <string name="location_agps_pref_apn_title">Preferred APN</string>
@@ -6646,6 +6648,7 @@ Select your operating system:"</string>
     <string name="my_device_info_legal_category_title">Legal &amp; regulatory</string>
     <string name="my_device_real_camera">后置摄像头</string>
     <string name="n_cacrts">%d CA certificates</string>
+    <string name="name_modification_no_network_notification">Connect to the network and try again</string>
     <string name="natural_haptic">Natural touch</string>
     <string name="natural_haptic_summary">New haptic feedback patterns bring an additional dimension to everything you see and touch on your screen.</string>
     <string name="natural_scroll">Natural scroll</string>
@@ -8008,9 +8011,9 @@ Restart your device and try again."</string>
     <string name="resetting_second_space_passwd">Resetting Second space password</string>
     <string name="resident_timezone_summary">Second clock</string>
     <string name="resolution_fhd">FHD+</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (saves battery)</string>
+    <string formatted="false" name="resolution_fhd_summary">%d×%d (saves battery)</string>
     <string name="resolution_qhd">WQHD+</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (adds clarity)</string>
+    <string formatted="false" name="resolution_qhd_summary">%d×%d (adds clarity)</string>
     <string name="resolution_sub_title">The system might close the apps running in the background while switching resolution</string>
     <string name="resolver_settings_label">Sort</string>
     <string name="restore_default_apn">Restoring default APN settings.</string>
@@ -8128,6 +8131,7 @@ This setting affects all users on this phone."</string>
     <string name="save">Save</string>
     <string name="save_battery_mode">Save battery with WQHD+</string>
     <string name="save_battery_mode_summary">Switch resolution automatically to save power</string>
+    <string name="save_device_name_progress_message">Saving…</string>
     <string name="saved_network">Saved by %1$s</string>
     <string name="saved_wifi">Manage saved networks</string>
     <string name="saved_wifi_delete">Delete</string>

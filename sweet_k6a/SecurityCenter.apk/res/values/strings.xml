@@ -215,6 +215,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">When the screen is off, the app will work in the background without interrupting the casting process. Press the Power button to turn the screen back on.</string>
     <string name="all_address_choose_hint">All numbers in this province</string>
     <string name="allow_all">Allow all</string>
+    <string name="allow_device_id_access">Select apps that can use device ID</string>
     <string name="allow_notify">allow_notify</string>
     <string name="allow_onetime">Allow once</string>
     <string name="allow_tips_smart_task">allow_tips_smart_task</string>
@@ -694,6 +695,7 @@ You will not lose any app data."</string>
     <string name="apps_list_header_title_sms_access">Restrict access to verification codes</string>
     <string name="ask_create_shortcut">Create a Home screen shortcut?</string>
     <string name="audio_optimization_summary">Enhance audio and reduce ambient noise in conversations</string>
+    <string name="audio_optimization_summary_new">Optimize earphones sound quality while gaming and reduce noise during calls</string>
     <string name="audio_optimization_title">Enhanced audio</string>
     <string name="auto_atsk_condition_battery_level_text_down">When battery reaches %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">When battery is charged to %s</string>
@@ -1417,9 +1419,14 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
     <string name="cs_color_sense">Color temperature</string>
+    <string name="cs_conversation_record_using">Recording</string>
+    <string name="cs_func_toast_bluetooth_headset">Disconnect Bluetooth earphones to be able to use this feature</string>
     <string name="cs_func_toast_headset">Disconnect your headset to be able to use this feature</string>
     <string name="cs_func_toast_light">Switch to the front camera to be able to use this feature</string>
     <string name="cs_func_toast_pickup">Switch to a video call to be able to use this feature</string>
+    <string name="cs_func_unavailable_tips">Use this feature during calls</string>
+    <string name="cs_light_enhance_physical_options">Color temperature</string>
+    <string name="cs_light_enhance_physical_title">Brightness</string>
     <string name="cs_pickup_denoise_desc">Reduce noise of incoming audio while using speakers or earphones</string>
     <string name="cs_pickup_denoise_title">Noise reduction</string>
     <string name="cs_pickup_multi_desc">%d degree audio pickup</string>
@@ -1433,12 +1440,20 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cs_pickup_vioce_print_unsupport_tips">Record voiceprint before selecting \"Single participant\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Disconnect external devices and try again</string>
     <string name="cs_pickup_voice_print_desc">Pick up sound only from one person</string>
+    <string name="cs_privacy_camera_global_settings_title">Call privacy</string>
     <string name="cs_screen_translation_title">Screen translation</string>
     <string name="cs_simultaneous_interpretation_title">Interpret</string>
     <string name="cs_title_pickup">Noise reduction</string>
     <string name="cs_title_smart_subtitle">Subtitle transcription</string>
     <string name="cs_title_ultraclear">Ultra HD mode</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Try simultaneous interpretation and other conference call tools in the new Call toolbox</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Try out a range of conference call features in the new Call toolbox</string>
+    <string name="cs_tool_box_phone_guide_case_1">Try simultaneous interpretation and other features in the new Call toolbox</string>
+    <string name="cs_tool_box_phone_guide_case_2">Try out a range of features in the new Call toolbox</string>
     <string name="cs_voice_print">Record voiceprint</string>
+    <string name="cs_voice_search">voiceprint</string>
+    <string name="cs_vt_camera_toast_case1">Open camera in the current app</string>
+    <string name="cs_vt_camera_toast_case2">No compatible devices nearby</string>
     <string name="cta_HIPS_Perm_Location_Desc">For providing the features relevant to your location in Warning Center, Emergency SOS, App battery saver, payment security scanner, and approximate location service</string>
     <string name="cta_agree_desc">To be able to use our services, allow this app to connect to the internet and grant the permissions listed above.</string>
     <string name="cta_close_dialog_cancel">Cancel</string>
@@ -1538,15 +1553,31 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="delete_input">Delete</string>
     <string name="deleted_apps">Deleted apps</string>
     <string name="demo_number">241</string>
-    <string name="desc_share_uid_sec" formatted="false">%1s. %2s</string>
+    <string formatted="false" name="desc_share_uid_sec">%1s. %2s</string>
     <string name="descx_quick_scan_cancel">Scan canceled</string>
     <string name="descx_quick_scan_preparation">Just a sec…</string>
     <string name="detail_app_button">App info</string>
     <string name="details_subtitle">Usage details</string>
+    <string name="device_id">Device ID for personalized recommendations</string>
+    <string name="device_id_app_manager_dialog_continue">"Don't stop"</string>
+    <string name="device_id_app_manager_dialog_message">You allowed some apps to track your activities. You can stop tracking now.</string>
+    <string name="device_id_app_manager_dialog_stop">Stop</string>
+    <string name="device_id_app_manager_switch_sub_title">When this feature is off, all new tracking requests will be rejected automatically</string>
+    <string name="device_id_app_manager_switch_title">Allow apps to request tracking</string>
+    <string name="device_id_app_manager_tips">Apps can track your activities across different apps and websites using tracking identifiers to provide personalized ad recommendations and other features</string>
+    <string name="device_id_app_manager_title">Manage app tracking</string>
+    <string name="device_id_manager_tips">The system provides resettable tracking identifiers (OAID) to apps instead of device identifiers to protect your privacy</string>
+    <string name="device_id_manager_title">Manage tracking identifier</string>
+    <string name="device_id_reset">Reset tracking identifier</string>
+    <string name="device_id_reset_msg">After reset, a new identifier will be associated with this device.</string>
+    <string name="device_id_str">Current tracking identifier: %s</string>
     <string name="device_manager_apply_step_1">Activate device administrator for this app?</string>
     <string name="device_manager_apply_step_2">"Activating device administrator for this app might lead to the exposure of your personal data.
 All data on your device might be erased and your Lock screen password might be reset."</string>
     <string name="device_manager_apply_step_3">Make sure you understand all the possible risks before you proceed. Activate device administrator for this app now?</string>
+    <string name="device_oaid">Manage virtual ID</string>
+    <string name="device_oaid_desc">Instead of your unique identifier, the system will provide a virtual ID (OAID) to installed apps. It prevents apps from tracking your behavior and preferences and protects your privacy.</string>
+    <string name="device_oaid_title">Virtual ID</string>
     <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming overseas, only apps you've added to exceptions can use mobile data."</string>
     <string name="dialog_app_roaming_title">"Overseas roaming isn't enabled for %1$s"</string>
     <string name="dialog_btn_delete_icon">Remove</string>
@@ -1906,6 +1937,7 @@ You must understand that this feature is provided for your reference only. The w
     <string name="ew_monitor_exit_title">Attention</string>
     <string name="ew_monitor_have_been">"I'm proud to be an "</string>
     <string name="ew_monitor_info_title">How does it work?</string>
+    <string name="ew_monitor_join">Join earthquake monitoring program</string>
     <string name="ew_monitor_join_number">Number of volunteers</string>
     <string name="ew_monitor_join_path">Join the program using a Xiaomi device: Security > Earthquake warning > Earthquake monitoring volunteer.</string>
     <string name="ew_monitor_my_content">My mobile device is part of the earthquake early warning network. After its sensors detect seismic waves, the data will be analyzed by the AI algorithm and early warnings will be issued to the people in the affected areas.</string>
@@ -2069,7 +2101,7 @@ volunteer"</string>
     <string name="fast_open_list_open_title">允许在%s个应用中速抢</string>
     <string name="fast_open_noti_summary">%s给你发来一个红包</string>
     <string name="fast_open_summary">开启速抢模式后，收到红包新消息将打断当前使用应用切换到抢红包窗口。</string>
-    <string name="fbo_search_path" formatted="false">%s/%s/%s</string>
+    <string formatted="false" name="fbo_search_path">%s/%s/%s</string>
     <string name="file_confirm_start_activity">"%s isn't allowed to access your Gallery and social media apps. This app wants to access files stored on this device to share items. Allow?"</string>
     <string name="finger_remind_message">Add your fingerprint first. Tap to open Settings.</string>
     <string name="fingerprint_identify_msg">Turn on fingerprint unlock</string>
@@ -2442,6 +2474,8 @@ volunteer"</string>
     <string name="gb_audition_play_instruction">Use earphones for best effect</string>
     <string name="gb_award_noti_message">Turn on Game for Peace background updates in Game Turbo to get rewards</string>
     <string name="gb_award_noti_title">Game for Peace rewards are here!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Can't switch to Balanced mode in Game Turbo when system-wide Ultimate mode is on. You can change battery settings in Security.&lt;br>&lt;a href=\"#\">Open Security&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Can't switch to Balanced mode in Game Turbo when system-wide Ultimate mode is on. You can change battery settings in Security. &lt;br>&lt;a href=\"#\">Open Security&lt;/a>"</Data></string>
     <string name="gb_bar_high">High</string>
     <string name="gb_bar_low">Low</string>
     <string name="gb_bar_mid">Medium</string>
@@ -2484,7 +2518,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_dialog_record_way_ai_new">AI recordings are saved in the gamebox and stored there for %d days.</string>
     <string name="gb_dialog_record_way_finish">Done</string>
     <string name="gb_dialog_record_way_manual">Record videos up to 30 seconds long manually</string>
-    <string name="gb_dialog_record_way_manual_desc" formatted="false">Record %d-%d seconds of video during gaming session manually.</string>
+    <string formatted="false" name="gb_dialog_record_way_manual_desc">Record %d-%d seconds of video during gaming session manually.</string>
     <string name="gb_dialog_record_way_manual_new">Record videos up to %d seconds long manually</string>
     <string name="gb_dialog_record_way_setting_tip_one">Increased power consumption and lag</string>
     <string name="gb_dialog_record_way_setting_tip_title">This feature might cause the following issues:</string>
@@ -2599,6 +2633,8 @@ but also increases power consumption and allows your device to overheat"</string
     <string name="gb_predownload_receive_tips">Turn on background updates to get rewards</string>
     <string name="gb_predownload_receiving">Receiving…</string>
     <string name="gb_predownload_title">Background updates</string>
+    <string name="gb_setting_dock_toast">Front camera assistant features are available in Call toolbox now</string>
+    <string name="gb_setting_dock_toast_2">Front camera assistant features are available in Call toolbox now</string>
     <string name="gb_shortcut_pref_title">Home screen shortcut</string>
     <string name="gb_shoulder_guide_message1">Move [L] to any functional position to use it via the pop-up trigger</string>
     <string name="gb_shoulder_guide_message2">Action [1] is activated by pressing the button. Action [2] is activated by releasing the button.</string>
@@ -2670,6 +2706,8 @@ but also increases power consumption and allows your device to overheat"</string
     <string name="gb_turbo_wonder_subtitle">Record key moments</string>
     <string name="gb_vision_enhance">Enhanced visuals</string>
     <string name="gb_vision_enhance_desc">Improve picture quality and performance</string>
+    <string name="gb_vision_enhance_frme_insertion_new_tips">"Enhanced frame rate
+%dFPS"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Smart frame rate
 %dFPS"</string>
     <string name="gb_vision_enhance_smart_frame_enhance">Enhance frame rate</string>
@@ -2742,9 +2780,21 @@ of your gaming sessions"</string>
     <string name="gd_dock_shortcut_splitescreen">Split screen</string>
     <string name="gd_setting_conversation">Conference tools</string>
     <string name="gd_setting_conversation_desc">Provides a variety of features for use in full-screen audio and video calls</string>
+    <string name="gd_setting_dock_activity_title">Side toolbox</string>
+    <string name="gd_setting_dock_call_summary">Features for voice and video calls (e.g. fill light)</string>
+    <string name="gd_setting_dock_call_title">Call toolbox</string>
+    <string name="gd_setting_dock_game_summary">Enhance display and performance while playing games</string>
+    <string name="gd_setting_dock_game_summary_new">Enhance display and performance while playing games</string>
+    <string name="gd_setting_dock_summary">Open other apps in floating windows while using an app fullscreen</string>
+    <string name="gd_setting_dock_title">Sidebar</string>
+    <string name="gd_setting_dock_video_summary">Use effects such as Dolby Atmos while watching videos</string>
+    <string name="gd_setting_dock_video_summary_new">Use tools and effects while watching videos</string>
+    <string name="gd_setting_group_custom_conversation_apps">Record voiceprint for calls</string>
     <string name="gd_setting_group_custom_gtb_apps">Games</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Manage gaming apps</string>
     <string name="gd_setting_group_custom_settings">Personalization</string>
     <string name="gd_setting_group_custom_vtb_apps">Video apps</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Manage video apps</string>
     <string name="gd_setting_group_title_switch">Scenes</string>
     <string name="gd_setting_gtb">Show while playing games</string>
     <string name="gd_setting_gtb_desc">Special features for gaming</string>
@@ -2765,11 +2815,17 @@ of your gaming sessions"</string>
     <string name="get_phone_num_fail">Unknown phone number</string>
     <string name="get_sys_info">Getting info…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Press and hold the indicator to move the window around</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Tap an app on the sidebar to open it in a floating window.
+· Drag an app to the center of the screen to open it in a floating window or to the side to use Split screen.
+· Press and hold the indicator to move the window around."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· Tap an app on the sidebar to open it in a floating window.
 · Drag an app to the center of the screen to open it in a floating window or to the side to use Split screen.
 · Press and hold the indicator to move the window around."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Tap an app on the sidebar to open it in a floating window.
 · Press and hold the indicator to move the window around."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Swipe to open sidebar and tap an app to open it in a floating window.
+Press and hold the indicator to move the window around."</string>
     <string name="global_satisfaction_notification_button">Rate</string>
     <string name="global_satisfaction_notification_channel">User satisfaction survey</string>
     <string name="global_satisfaction_notification_subhead">Tell us about your experience</string>
@@ -2909,7 +2965,7 @@ of your gaming sessions"</string>
     <string name="gtb_setting">Settings</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Block all communication services on secondary SIM during gaming sessions to keep connection stable and avoid switching between networks. Secondary SIM will be unblocked when you stop playing.</string>
     <string name="gtb_setting_item_summary_smart_5g">Whenever Game Turbo detects a 5G network, it can connect your device to the best network available to reduce network delay</string>
-    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Increase connection speed by 10%-20% when connected to Mi/Redmi routers</string>
+    <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Increase connection speed by 10%-20% when connected to Mi/Redmi routers</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Increase connection speed by %1$s-%2$s when connected to Mi/Redmi routers</string>
     <string name="gtb_setting_item_title_brightness">Lower screen brightness automatically</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">Block secondary SIM</string>
@@ -3010,7 +3066,7 @@ to join our egg hunt!"</string>
     <string name="ime_security_warning">%1$s may record everything you type, including passwords and other sensitive information. Use it anyway?</string>
     <string name="in_delete">Deleting…</string>
     <string name="in_recover">Restoring…</string>
-    <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
+    <string formatted="false" name="infinite_daily_package_usage_summary">%1s (%2s)</string>
     <string name="infinite_remind_warning_text_tips">Warn when monthly limit is reached</string>
     <string name="info_and_call">Calls and messaging</string>
     <string name="info_antispam_close">Blocklist is off</string>
@@ -3107,7 +3163,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
     <string name="list_empty_text">Empty</string>
     <string name="load_only_under_wlan">Load using only Wi-Fi</string>
     <string name="loading">Just a sec…</string>
-    <string name="loading_text_format" formatted="false">Checking whether photos contain private info %d/%d</string>
+    <string formatted="false" name="loading_text_format">Checking whether photos contain private info %d/%d</string>
     <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue, go to the Feedback app and send a log from your device."</string>
     <string name="location">Location</string>
     <string name="lock_all_title">Lock all apps</string>
@@ -3322,7 +3378,7 @@ to respond"</string>
     <string name="memory_check_content">Freed %s</string>
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Everything looks good</string>
-    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Freed up %s.
+    <string formatted="false" name="memory_clean_no_need_clean_1_new">"Freed up %s.
 Your device is %s faster now."</string>
     <string name="memory_clear_unused">Clear cache (%s)</string>
     <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
@@ -3442,6 +3498,17 @@ Your device is %s faster now."</string>
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+    <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+    <string name="miuix_font_style_misans_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+    <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+    <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">Selected %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
@@ -3663,10 +3730,10 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="no_sim_card_by_tips">To be able to set phone balance and data usage warnings, insert a SIM card first.</string>
     <string name="noon">Midday</string>
     <string name="normal1">Restricted permissions: %1s. Tap to change.</string>
-    <string name="normal2" formatted="false">Restricted permissions: %1s, %2s. Tap to change.</string>
-    <string name="normal3" formatted="false">Restricted permissions: %1s, %2s, %3s. Tap to change.</string>
-    <string name="normal4" formatted="false">%1s, %2s, %3s, %4s. Tap to change.</string>
-    <string name="normal_package_usage_summary" formatted="false">%2s of %1s (%3s)</string>
+    <string formatted="false" name="normal2">Restricted permissions: %1s, %2s. Tap to change.</string>
+    <string formatted="false" name="normal3">Restricted permissions: %1s, %2s, %3s. Tap to change.</string>
+    <string formatted="false" name="normal4">%1s, %2s, %3s, %4s. Tap to change.</string>
+    <string formatted="false" name="normal_package_usage_summary">%2s of %1s (%3s)</string>
     <string name="not_closed">Keep on</string>
     <string name="not_limited_brand">Unlimited</string>
     <string name="not_set">Tap to set</string>
@@ -3776,9 +3843,12 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="numeric_recording_intro_header">Enter password</string>
     <string name="numeric_retry_button_text">Cancel</string>
     <string name="numeric_settings_help_how_to_record">How to set PIN</string>
+    <string name="oaid_apps_summary">Allow or restrict access for individual apps</string>
     <string name="oaid_apps_title">Manage virtual ID</string>
     <string name="oaid_reset_content_tip">If you turn off virtual ID now, some apps might stop working properly, a part of your app data might be lost or become unusable.</string>
     <string name="oaid_reset_final_tip">Turn off virtual ID anyway?</string>
+    <string name="oaid_string">"Current virtual ID:
+%1s"</string>
     <string name="oaid_tips_content">Virtual IDs (OAID) can be used for tracking your behavior and personalizing ads for you. You can select which apps are allowed to access your virtual ID. Note that if you restrict access, ad recommendations might become irrelevant or apps might not be able to work normally.</string>
     <string name="offline_voice_input">Offline voice input</string>
     <string name="offline_voice_input_detail">"You won't need the internet for voice input."</string>
@@ -4029,6 +4099,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_fast_charge_switch_summary_new">Remind to boost charging speed when the supplied charger is connected and the battery goes below set level</string>
     <string name="pc_fast_charge_switch_title">Boost charging speed</string>
     <string name="pc_fast_charge_switch_toast_message">Changes will be applied next time you charge this device</string>
+    <string name="pc_fast_charge_temp_remider">"Turn on to regulate charging speed automatically. This feature works only with Xiaomi's supplied chargers. Your device might heat up during charging."</string>
     <string name="pc_fast_charge_title">Boost charging speed</string>
     <string name="pc_going_to_exit_extreme_mode">Exiting Hibernation mode</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Your device is charging. Hibernation mode is off.</string>
@@ -4117,6 +4188,16 @@ Ultra battery saver"</string>
     <string name="pc_search_keywords_capacity">Battery capacity</string>
     <string name="pc_search_keywords_property">Performance</string>
     <string name="pc_settings_title">Battery</string>
+    <string name="pc_smart_charge_button_summary">To extend battery life span, the system will learn how you charge your device and stop charging when battery level reaches %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Your device heated up. Charging will be stopped when battery level reaches %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigating… Charging will be stopped when battery level reaches %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Charging will stop at %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">"To extend battery life span, this device's battery won't go above the current level while connected to the car."</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Don't show again"</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Battery protection</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">"To extend battery life span, this device's battery won't go above the current level while connected to the car"</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Battery protection</string>
+    <string name="pc_smart_charge_title">Smart charging</string>
     <string name="pc_smart_discharge_checkbox_summary">When using navigation features, charging will stop automatically at a specified percentage. Battery saver will be turned off.</string>
     <string name="pc_smart_discharge_checkbox_title">Charging auto-disconnect</string>
     <string name="pc_smart_discharge_drop_down_title">Auto-disconnect settings</string>
@@ -4129,6 +4210,8 @@ Ultra battery saver"</string>
     <string name="pc_statistics_battery_use_title">Battery usage</string>
     <string name="pc_suggest_open_fast_charge">Turn on %dW quick charge</string>
     <string name="pc_temperature_too_high">Device overheated</string>
+    <string name="pc_this_time_charge_full">Charge fully this time</string>
+    <string name="pc_this_time_charge_full_work">Almost fully charged</string>
     <string name="pc_timely_charging_summary">Battery is below %1$s. If the device overheats while battery is low, this may damage the battery.</string>
     <string name="pc_timely_charging_title">Charge your device</string>
     <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
@@ -4152,6 +4235,7 @@ Ultra battery saver"</string>
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Avoid overheating and hardware-related issues</string>
     <string name="perfermance_optimization_title">Performance optimization</string>
+    <string name="performance_frame_enhance_super_display_tips">"Enhanced frame rate and super resolution can't work at the same time. Turning on one of them will turn off the other."</string>
     <string name="performance_frame_insert_super_display_tips">"Smart frame rate and super resolution can't be in effect at the same time. Turning on one will turn off the other."</string>
     <string name="perm_intercept_content">Give this app the following permission: %1s?</string>
     <string name="perm_intercept_notification_title">Allowing %1s to use notifications will let this app perform the following actions:</string>
@@ -4286,6 +4370,7 @@ Ultra battery saver"</string>
     <string name="permission_instruction_write_contacts">This permission allows apps to add, delete, and edit contacts.</string>
     <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">Access photos, videos, audio, and files</string>
+    <string name="permission_oaid_desc">Allow %1$s to track your activities on other apps and websites?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Permission manager</string>
     <string name="permission_precise_location">Precise location</string>
@@ -4642,7 +4727,7 @@ Ultra battery saver"</string>
     <string name="power_optimize_loading">Loading</string>
     <string name="power_optimize_open_hide_mode">Turn on Battery saver</string>
     <string name="power_optimize_power_save_extend_time">Add %s</string>
-    <string name="power_optimize_power_save_extend_time_new" formatted="false">Extend for %1s %2s</string>
+    <string formatted="false" name="power_optimize_power_save_extend_time_new">Extend for %1s %2s</string>
     <string name="power_optimize_power_save_summary">Turn on Battery saver to apply multiple system optimizations that limit background activity</string>
     <string name="power_optimize_prohibit_app_autostart">"Don't allow apps to autostart"</string>
     <string name="power_optimize_reduce_fps">Lower screen refresh rate to %d Hz</string>
@@ -5027,6 +5112,8 @@ Ultra battery saver"</string>
     <string name="privacy_empty_location">"Didn't access location today"</string>
     <string name="privacy_empty_record">"Didn't record audio today"</string>
     <string name="privacy_empty_storage">"Didn't access storage today"</string>
+    <string name="privacy_extra_provision_positive_btn">Agree</string>
+    <string name="privacy_extra_provision_title">Extension services</string>
     <string name="privacy_flares_behavior_recent">App behavior</string>
     <string name="privacy_flares_capsule_current">%1s | Now</string>
     <string name="privacy_flares_capsule_recent">%1s | Recently</string>
@@ -5106,6 +5193,7 @@ Ultra battery saver"</string>
     <string name="privacy_provision_summary">Privacy protection is the commitment behind the design of our products</string>
     <string name="privacy_provision_text">We are committed to respecting and protecting your privacy. Prioritizing research and development in the field of information security, Xiaomi constantly works on improving the methods, practices, and technical solutions that safeguard your data. We also share our latest achievements with our partners in order to ensure your privacy across the board.</string>
     <string name="privacy_provision_title">Privacy</string>
+    <string name="privacy_provison_no_network">Connect to the network first.</string>
     <string name="privacy_recommend_category">Personalization</string>
     <string name="privacy_recommend_summary">Receive personalized content recommendations</string>
     <string name="privacy_recommend_title">Personalized recommendations</string>
@@ -5318,6 +5406,16 @@ Withdraw consent now?"</string>
     <string name="reset_data_dialog_message">"This device isn't associated with your Xiaomi Account. Can't restore or reset password. Back up all important items and perform a factory reset. All data will be permanently deleted and your SD card will be formatted during the factory reset."</string>
     <string name="reset_data_dialog_ok">Factory reset</string>
     <string name="reset_data_title">"Can't restore password"</string>
+    <string name="restore_device_id_content">Personalized recommendations will be reset</string>
+    <string name="restore_device_id_title">Reset device ID</string>
+    <string name="restore_dialog_content">Resetting your current device ID will also reset personalized recommendations. Reset now?</string>
+    <string name="restore_dialog_positive">Reset</string>
+    <string name="restore_dialog_title">Attention</string>
+    <string name="restore_oaid_content">Reset your virtual ID to clear your behavior and preference records</string>
+    <string name="restore_oaid_dialog_content">Multiple apps are using your virtual ID. If you reset it now, a part of your app data might be lost or become unusable. Reset virtual ID anyway?</string>
+    <string name="restore_oaid_positive">Reset</string>
+    <string name="restore_oaid_positive_step">Reset (%1$d)</string>
+    <string name="restore_oaid_title">Reset virtual ID</string>
     <string name="result_autoscan_header">Payment monitoring</string>
     <string name="result_autoscan_info">Automatically monitor system environment when payment apps are started</string>
     <string name="result_sms_header">Messaging risks detected</string>
@@ -5412,6 +5510,13 @@ Withdraw consent now?"</string>
     <string name="sd_mount">Mount SD card</string>
     <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">App</string>
+    <string name="search_keyword_applybar">App dock</string>
+    <string name="search_keyword_call">Call</string>
+    <string name="search_keyword_sidebar">Sidebar</string>
+    <string name="search_keyword_tool">Tools</string>
+    <string name="search_keyword_tools">Toolbox</string>
+    <string name="search_keyword_voice">Voice</string>
     <string name="search_menu_title">Search</string>
     <string name="search_result_text">"Couldn't find any apps"</string>
     <string name="secondart_setting_title">红包提醒设置</string>
@@ -5539,7 +5644,7 @@ Withdraw consent now?"</string>
     <string name="sim_lock_done_disable">"Your SIM card isn't protected"</string>
     <string name="sim_lock_done_enable">Your SIM card is protected</string>
     <string name="sim_lock_done_title">SIM security</string>
-    <string name="sim_lock_enable_done_message">"Your SIM card is now associated with this device. SIM PIN will be verified automatically. You'll still have to enter PIN manually when you're using this SIM card with other devices."</string>
+    <string name="sim_lock_enable_done_message">"Your SIM card is associated with this device. You'll have to verify your PIN when you use the SIM card or insert it into another device."</string>
     <string name="sim_lock_guide_button">Settings</string>
     <string name="sim_lock_guide_message">Associate your SIM card with this device to make it less vulnerable to security risks</string>
     <string name="sim_lock_guide_title">Protect your SIM card</string>
@@ -5550,7 +5655,7 @@ Withdraw consent now?"</string>
     <string name="sim_lock_lockscreen_notification_message">"Can't verify PIN without a screen lock"</string>
     <string name="sim_lock_lockscreen_notification_title">"SIM card isn't protected"</string>
     <string name="sim_lock_new_pin_different_error">"The PINs you entered don't match. Try again."</string>
-    <string name="sim_lock_new_pin_hint" formatted="false">Enter %d-%d digits</string>
+    <string formatted="false" name="sim_lock_new_pin_hint">Enter %d-%d digits</string>
     <string name="sim_lock_new_pin_message">"Remember your new PIN. If you forget it, you'll have to contact your carrier's customer support to be able to restore it."</string>
     <string name="sim_lock_new_pin_title">Set a new PIN</string>
     <string name="sim_lock_no_sim_notification_message">Tap to check SIM PIN</string>
@@ -5561,7 +5666,7 @@ Withdraw consent now?"</string>
     <string name="sim_lock_pin_dialog_message">"You've entered an incorrect PIN multiple times. Now there's only %d left. If you enter another incorrect PIN, your SIM card will be locked. Continue anyway?"</string>
     <string name="sim_lock_pin_dialog_title">Last attempt</string>
     <string name="sim_lock_pin_hint">Enter SIM PIN</string>
-    <string name="sim_lock_pin_message" formatted="false">"If you haven't set a PIN for your SIM card, try the default PIN of your carrier (%s): %d."</string>
+    <string formatted="false" name="sim_lock_pin_message">"If you haven't set a PIN for your SIM card, try the default PIN of your carrier (%s): %d."</string>
     <string name="sim_lock_pin_success">Verified PIN successfully</string>
     <string name="sim_lock_pin_title">Verify SIM PIN</string>
     <string name="sim_lock_puk_dialog_title">Running out of attempts</string>
@@ -5575,7 +5680,7 @@ Withdraw consent now?"</string>
     <string name="sim_lock_query_new_pin">Set a new PIN</string>
     <string name="sim_lock_query_pin">PIN</string>
     <string name="sim_lock_query_pin_error">"Couldn't change PIN"</string>
-    <string name="sim_lock_query_pin_length_error" formatted="false">PIN must contain %d-%d digits</string>
+    <string formatted="false" name="sim_lock_query_pin_length_error">PIN must contain %d-%d digits</string>
     <string name="sim_lock_query_pin_mismatch_error">"The PINs you entered don't match"</string>
     <string name="sim_lock_query_pin_same_error">Your new PIN is the same as the old one</string>
     <string name="sim_lock_query_title">Check PIN</string>
@@ -6210,7 +6315,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="system_permission_declare_analytics_declare">"We invite you to enroll in our User Experience Program. This app needs to connect to the Internet and use the following permissions or features to collect stats in order to improve the services we provide to you. We collect data here only for statistical purposes, and we can't identify you personally based on the data we collect."</string>
     <string name="system_permission_declare_disagree">Disagree</string>
     <string name="system_permission_declare_double_link"><Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before you continue.</Data></string>
-    <string name="system_permission_declare_main_purpose" formatted="false">Welcome to %1s! This app allows you to use the following feature: %2s.</string>
+    <string formatted="false" name="system_permission_declare_main_purpose">Welcome to %1s! This app allows you to use the following feature: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link"><Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before you continue.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Read and agree to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before you continue.</Data></string>
     <string name="system_permission_declare_meanwhile_user_agreement"><Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> before you continue.</Data></string>
@@ -6556,6 +6661,8 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
     <string name="toast_dark_mode_fixed">Fixed successfully. Leave this page to apply changes.</string>
     <string name="toast_flow_notification">Turned on data usage notifications</string>
+    <string name="toast_gamembox_unenable_pad">Turn on Game Turbo in Security first</string>
+    <string name="toast_gamembox_unenable_phone">Turn on Game Turbo in Security first</string>
     <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
     <string name="toast_keyword_blank">You need to enter a keyword</string>
     <string name="toast_keyword_exist">Keyword added</string>
