@@ -207,12 +207,12 @@
         <item>android.os.lib.app</item>
         <item>android.permissionpolicy.cts</item>
     </string-array>
-    <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
-    <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
-    <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
-    <item type="array" name="android_config_virtualKeyVibePattern">@android:array/config_virtualKeyVibePattern</item>
-    <item type="array" name="android_special_locale_codes">@android:array/special_locale_codes</item>
-    <item type="array" name="android_special_locale_names">@android:array/special_locale_names</item>
+    <item name="android_common_nicknames" type="array" />
+    <item name="android_config_longPressVibePattern" type="array" />
+    <item name="android_config_mobile_hotspot_provision_app" type="array" />
+    <item name="android_config_virtualKeyVibePattern" type="array" />
+    <item name="android_special_locale_codes" type="array" />
+    <item name="android_special_locale_names" type="array" />
     <string-array name="app_javaheap_list">
         <item>com.example.memleaktesttool,256000</item>
         <item>com.miui.miwallpaper,150000</item>
