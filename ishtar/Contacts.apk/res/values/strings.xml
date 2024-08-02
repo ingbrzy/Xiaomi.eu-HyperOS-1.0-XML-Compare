@@ -1404,9 +1404,9 @@ To begin, tap \"Merge\" at the bottom of your screen."</string>
     <string name="t9_search_empty_send_sms">Send message</string>
     <string name="t9_search_empty_video_call">Video call</string>
     <string name="t9_search_guide_pinyin_title1">Enter numbers to find contacts</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter %d and %d to search for Debbie Smith</string>
+    <string formatted="false" name="t9_search_guide_pinyin_title2">Enter %d and %d to search for Debbie Smith</string>
     <string name="t9_search_guide_zhuyin_title1">Enter numbers to find contacts</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter %d and %d to search for Jeff Max</string>
+    <string formatted="false" name="t9_search_guide_zhuyin_title2">Enter %d and %d to search for Jeff Max</string>
     <string name="take_new_photo">Take new photo</string>
     <string name="take_photo">Take photo</string>
     <string name="text_msim_balance">Used today</string>

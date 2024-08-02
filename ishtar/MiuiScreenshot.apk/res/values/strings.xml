@@ -261,7 +261,7 @@
     <string name="image_not_found">"Couldn't find image"</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="loading_text_format" formatted="false">Removing private info from photos (%d/%d)…</string>
+    <string formatted="false" name="loading_text_format">Removing private info from photos (%d/%d)…</string>
     <string name="long_screenshot_content_auto">Taking screenshot…</string>
     <string name="long_screenshot_content_loading">Just a sec…</string>
     <string name="long_screenshot_content_manual">Manually adjust the endpoint of the screenshot, then tap \"Done\".</string>
