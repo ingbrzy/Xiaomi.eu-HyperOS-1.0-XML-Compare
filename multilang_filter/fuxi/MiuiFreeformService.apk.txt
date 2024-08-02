@@ -1,1 +1,0 @@
-Removed: [sk] strings.xml: string/freeform_recom   mend_open_switch_title (invalid name)
