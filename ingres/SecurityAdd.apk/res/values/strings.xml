@@ -683,7 +683,7 @@ monitoring program"</string>
     <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
     <string name="privacy_title">隐私政策</string>
     <string name="privacy_update">隐私政策更新</string>
-    <string name="privacy_update_content" formatted="false">"儿童空间的隐私政策发生如下更新
+    <string formatted="false" name="privacy_update_content">"儿童空间的隐私政策发生如下更新
 %s
 请您阅读并同意更新后的%s。"</string>
     <string name="project_id">securityadd-adf33</string>

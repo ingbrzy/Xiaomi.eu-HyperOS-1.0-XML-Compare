@@ -188,9 +188,9 @@
     <string name="close_camera_failed">"Couldn't turn off camera…"</string>
     <string name="close_camera_requesting">Turning off camera…</string>
     <string name="cloud_video_conference">Cloud video conference</string>
-    <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
+    <string formatted="false" name="conference_call_description">%s,%s etc. total %s</string>
     <string name="conference_call_recorder_title">Conference call</string>
-    <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
+    <string formatted="false" name="conference_call_single_description">%s etc. total %s</string>
     <string name="conference_caller_info_name">"%1$s's conference call"</string>
     <string name="conference_callers_exceeded">"Can't add more people"</string>
     <string name="contacts_icon_label">Contacts</string>
