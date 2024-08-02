@@ -143,7 +143,7 @@
     <string name="dialog_content_limit0">Restrict downloads</string>
     <string name="dialog_content_limit_max">Unlimited</string>
     <string name="dialog_delete_positive">Delete</string>
-    <string name="dialog_download_dir_content" formatted="false">The default destination folder for your downloads has been changed from \"%s\" to \"%s/DLManager\".</string>
+    <string formatted="false" name="dialog_download_dir_content">The default destination folder for your downloads has been changed from \"%s\" to \"%s/DLManager\".</string>
     <string name="dialog_download_dir_title">New destination folder</string>
     <string name="dialog_file_missing_body">"Couldn't find file, looks like it's been deleted."</string>
     <string name="dialog_file_missing_title">"Can't open file"</string>
