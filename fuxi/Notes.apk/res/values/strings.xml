@@ -257,7 +257,7 @@
     <string name="doodle_guide_dialog_confirm">OK</string>
     <string name="doodle_guide_dialog_skip">Skip</string>
     <string name="doodle_guide_dialog_title">Sketching</string>
-    <string name="doodle_guide_quick_shape_hint" formatted="false">Press and hold the sketch for %d–%d seconds to adjust strokes automatically</string>
+    <string formatted="false" name="doodle_guide_quick_shape_hint">Press and hold the sketch for %d–%d seconds to adjust strokes automatically</string>
     <string name="doodle_palette">Color palette</string>
     <string name="doodle_saving">Saving</string>
     <string name="doodle_tool_background">Change canvas</string>
