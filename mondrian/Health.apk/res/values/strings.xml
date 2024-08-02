@@ -1643,7 +1643,7 @@ sleep data"</string>
     <string name="sport_outdoor_running">Running</string>
     <string name="sport_pace_chart_last_km">Less than 1 km</string>
     <string name="sport_pace_step_unit">SPM</string>
-    <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
+    <string formatted="false" name="sport_pace_time_format">"%d'%d\""</string>
     <string name="sport_pref_category_voice">Audio</string>
     <string name="sport_pref_gps_voice_title">GPS signal voice prompts</string>
     <string name="sport_pref_voice_assist_summary">Listen to info and suggestions during workouts</string>
@@ -1854,7 +1854,7 @@ sleep data"</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
     <string name="tb_month_dialog_go_today">Selected today</string>
     <string name="tb_month_dialog_select_date">Selected %1$s</string>
-    <string name="tb_month_dialog_select_date_with_snore" formatted="false">Selected %1$s, %s</string>
+    <string formatted="false" name="tb_month_dialog_select_date_with_snore">Selected %1$s, %s</string>
     <string name="tb_multiple_selecte_all">Select all</string>
     <string name="tb_not_add_list">Not added</string>
     <string name="tb_pause_detection">Pause</string>
@@ -1888,7 +1888,7 @@ sleep data"</string>
     <string name="tb_stand_day_ring">Stand up breaks today: %1$s. You need to make at least 12 today.</string>
     <string name="tb_stand_wm_column_chart">Stand up breaks between %1$s and %2$s. Swipe horizontally to switch between time periods. Tap to view details.</string>
     <string name="tb_stand_wm_column_click">%1$s. Stand up breaks: %2$d. %3$s.</string>
-    <string name="tb_step_widget" formatted="false">Today. %1$s. Progress: %2$d%</string>
+    <string formatted="false" name="tb_step_widget">Today. %1$s. Progress: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Deselect all</string>
     <string name="tb_user_account_signed">Mi Account: %1$s.</string>
     <string name="tb_user_account_unsigned">Tap to sign in to Mi Account</string>
