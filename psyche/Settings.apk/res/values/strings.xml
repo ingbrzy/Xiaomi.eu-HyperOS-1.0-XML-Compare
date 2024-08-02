@@ -8007,9 +8007,9 @@ Restart your device and try again."</string>
     <string name="resetting_second_space_passwd">Resetting Second space password</string>
     <string name="resident_timezone_summary">Second clock</string>
     <string name="resolution_fhd">FHD+</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (saves battery)</string>
+    <string formatted="false" name="resolution_fhd_summary">%d×%d (saves battery)</string>
     <string name="resolution_qhd">WQHD+</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (adds clarity)</string>
+    <string formatted="false" name="resolution_qhd_summary">%d×%d (adds clarity)</string>
     <string name="resolution_sub_title">The system might close the apps running in the background while switching resolution</string>
     <string name="resolver_settings_label">Sort</string>
     <string name="restore_default_apn">Restoring default APN settings.</string>
