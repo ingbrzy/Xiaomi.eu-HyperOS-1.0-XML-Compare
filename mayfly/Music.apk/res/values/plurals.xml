@@ -238,6 +238,14 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">Earn %1$d coins today</item>
         <item quantity="one">Earn %1$d coin today</item>
     </plurals>
+    <plurals name="temp_range_c">
+        <item quantity="other">%1$d to %2$d degrees Celsius</item>
+        <item quantity="one">%1$d to %2$d degree Celsius</item>
+    </plurals>
+    <plurals name="temp_range_f">
+        <item quantity="other">%1$d to %2$d degrees Fahrenheit</item>
+        <item quantity="one">%1$d to %2$d degree Fahrenheit</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Videos</item>
         <item quantity="one">Video</item>

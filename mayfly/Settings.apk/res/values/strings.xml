@@ -8045,9 +8045,9 @@ Restart your device and try again."</string>
     <string name="resetting_second_space_passwd">Resetting Second space password</string>
     <string name="resident_timezone_summary">Second clock</string>
     <string name="resolution_fhd">FHD+</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (saves battery)</string>
+    <string formatted="false" name="resolution_fhd_summary">%d×%d (saves battery)</string>
     <string name="resolution_qhd">WQHD+</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (adds clarity)</string>
+    <string formatted="false" name="resolution_qhd_summary">%d×%d (adds clarity)</string>
     <string name="resolution_sub_title">The system might close the apps running in the background while switching resolution</string>
     <string name="resolver_settings_label">Sort</string>
     <string name="restore_default_apn">Restoring default APN settings.</string>
@@ -10175,7 +10175,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="today">Today</string>
     <string name="tof_gesture_cue_tone_summary">Play confirmation sound whenever your palm is detected</string>
     <string name="tof_gesture_cue_tone_title">Play confirmation sound</string>
-    <string name="tofgesture_description_summary" formatted="false">When the device is in landscape mode, hold your hand %d to %d cm from the camera and perform gestures after the hand icon appears at the top of the screen.</string>
+    <string formatted="false" name="tofgesture_description_summary">When the device is in landscape mode, hold your hand %d to %d cm from the camera and perform gestures after the hand icon appears at the top of the screen.</string>
     <string name="tofgesture_enable_title">Contactless gestures (Beta)</string>
     <string name="tofgesture_settings">Contactless gestures (Beta)</string>
     <string name="toggle_auto_speaker_preference_summary">Device will switch to speaker when you move it away from your ear during calls. This feature works only when TalkBack is on.</string>
