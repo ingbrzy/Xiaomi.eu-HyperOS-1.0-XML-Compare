@@ -426,7 +426,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
     <string name="com.google.firebase.crashlytics.mapping_file_id">6cd5c4eb8b09408ea9c2b7eecaf73e09</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
+    <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
     <string name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -591,7 +591,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloading…</string>
     <string name="download_progress">%d%%</string>
-    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
+    <string formatted="false" name="download_progress_detail">%.1fM/%.1fM</string>
     <string name="download_quality">Download quality</string>
     <string name="download_quality_summary">Additional settings for songs that you download</string>
     <string name="download_queued">Queued</string>
@@ -1443,7 +1443,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="online_apk_install_completed">Loaded online content successfully. Tap %s to view.</string>
     <string name="online_apk_install_error_no_enough_space">"Couldn't install due to insufficient storage space."</string>
     <string name="online_apk_install_error_with_reason">"Couldn't install (Error %d)"</string>
-    <string name="online_apk_install_failed_with_reason" formatted="false">"Couldn't load online content. Tap %s to try again. Error code: %d."</string>
+    <string formatted="false" name="online_apk_install_failed_with_reason">"Couldn't load online content. Tap %s to try again. Error code: %d."</string>
     <string name="online_apk_install_in_background">Loading online content in the background…</string>
     <string name="online_apk_install_network_change_paused">"You're using mobile data. Paused loading items for now. Tap %s to view."</string>
     <string name="online_apk_install_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
@@ -1973,7 +1973,7 @@ Be Happy"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Try crossfading songs during playback</string>
     <string name="sound_off">声音关</string>
     <string name="sound_on">声音开</string>
-    <string name="srl_component_falsify" formatted="false">"%s falsify area,
+    <string formatted="false" name="srl_component_falsify">"%s falsify area,
  Represents the height[%.1fdp] of drag at run time,
  It does not show anything."</string>
     <string name="srl_content_empty">The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?</string>
@@ -2408,7 +2408,7 @@ Be Happy"</string>
     <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
     <string name="whitelist_title">File exceptions</string>
     <string name="widget_small_text_separator">-</string>
-    <string name="wifi_required_body" formatted="false">"Connect to Wi-Fi to complete this %s download. 
+    <string formatted="false" name="wifi_required_body">"Connect to Wi-Fi to complete this %s download. 
 
 Tap %s to start this download the next time you're connected to a Wi-Fi network."</string>
     <string name="wifi_required_title">You should connect to Wi-Fi to download this file</string>
