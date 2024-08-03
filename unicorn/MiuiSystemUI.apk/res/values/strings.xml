@@ -1088,7 +1088,7 @@ Tap for more info"</string>
     <string name="keyboard_shortcut_search_list_title">Shortcuts</string>
     <string name="keyboardview_keycode_enter">Enter</string>
     <string name="keyguard_accessibility_pin_area">PIN area</string>
-    <string name="keyguard_carrier_name_with_sim_locked_template" formatted="false">%s (%s)</string>
+    <string formatted="false" name="keyguard_carrier_name_with_sim_locked_template">%s (%s)</string>
     <string name="keyguard_charged">Charged</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Boosting charging speed %s</string>
