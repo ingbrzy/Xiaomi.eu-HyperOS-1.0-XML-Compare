@@ -636,7 +636,7 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pause">Pause</string>
-    <string name="percent" formatted="false">{value, plural, =1 {1%} other {#%}}</string>
+    <string formatted="false" name="percent">{value, plural, =1 {1%} other {#%}}</string>
     <string name="percent_long">{value, plural, =1 {1 percent} other {# percent}}</string>
     <string name="period_day">Period day %1$d of %2$d</string>
     <string name="permdesc_readCaloriesBurned">Allows the app to read the calories burned</string>
