@@ -1,4 +1,2 @@
-Removed: [fr] strings.xml: string/arriérés_sim_title (invalid name)
 Removed: [ha-rNG] strings.xml: string/disable_esim_progress_activating_message (format mismatch)
 Removed: [ha-rNG] strings.xml: string/enable_esim_progress_activating_message (format mismatch)
-Removed: [vi] strings.xml: string/ hide_error_from_network_text (invalid name)
