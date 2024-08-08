@@ -1,2 +1,3 @@
 Removed: [az-rAZ] arrays.xml: array/suggest_lock_app (item mismatch)
 Removed: [it] plurals.xml: plurals/wechat_empty_files (format mismatch)
+Removed: [pl] plurals.xml: plurals/resutl_function_install_app_summary (format mismatch)

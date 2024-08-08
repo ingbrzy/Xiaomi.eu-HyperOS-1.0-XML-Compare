@@ -17,7 +17,6 @@ Removed: [cs-rCZ] arrays.xml: array/bluetooth_a2dp_codec_summaries (item mismatc
 Removed: [cs-rCZ] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
 Removed: [cs-rCZ] arrays.xml: array/bt_hci_snoop_log_entries (item mismatch)
 Removed: [cs-rCZ] arrays.xml: array/mvno_type_entries (item mismatch)
-Removed: [cs-rCZ] strings.xml: string/bluetooth_pairing_pin_error_message (format mismatch)
 Removed: [cs-rCZ] strings.xml: string/enable_service_title (format mismatch)
 Removed: [cs] arrays.xml: array/alarm_repeat_type (item mismatch)
 Removed: [cs] arrays.xml: array/app_ops_labels (item mismatch)
