@@ -562,7 +562,7 @@
     <string name="miui_install_fail_reason">Reason</string>
     <string name="miui_install_failed_reason">"This app isn't compatible with your device"</string>
     <string name="miui_install_failed_suggestion">Use a compatible version of this app</string>
-    <string name="miui_install_source_unkown">unknown</string>
+    <string name="miui_install_source_unkown">Unknown</string>
     <string name="miui_no_perms">No permissions required</string>
     <string name="miui_not_uninstall_system_app">"Can't uninstall system apps"</string>
     <string name="miui_other_permission">Other</string>
