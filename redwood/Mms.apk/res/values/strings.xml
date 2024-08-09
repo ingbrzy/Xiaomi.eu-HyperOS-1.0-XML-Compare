@@ -862,8 +862,8 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="priority_normal">Normal</string>
     <string name="privacy_dialog_error_service">A server error occurred. Wait a minute or two and try again.</string>
     <string name="privacy_dialog_text_policy_link">Privacy Policy</string>
-    <string name="privacy_dialog_tips_revoke" formatted="false">"If you continue, you'll withdraw your consent to the Privacy Policy of %s. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As %s provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept %s services. Withdraw consent now?"</string>
-    <string name="privacy_dialog_tips_update" formatted="false">"%s Privacy Policy was updated:
+    <string formatted="false" name="privacy_dialog_tips_revoke">"If you continue, you'll withdraw your consent to the Privacy Policy of %s. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As %s provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept %s services. Withdraw consent now?"</string>
+    <string formatted="false" name="privacy_dialog_tips_update">"%s Privacy Policy was updated:
 %s
 Read and agree to the new version of Privacy Policy before you continue."</string>
     <string name="privacy_dialog_title_update">Updated Privacy Policy</string>
@@ -1297,9 +1297,9 @@ Check out recommended chatbots!"</string>
     <string name="switch_to_editor">Editor mode</string>
     <string name="switch_to_menu">Menu mode</string>
     <string name="system_permission_declare_disagree">Cancel</string>
-    <string name="system_permission_declare_double_link" formatted="false">Read and agree to our %1s and %2s before using this feature.</string>
+    <string formatted="false" name="system_permission_declare_double_link">Read and agree to our %1s and %2s before using this feature.</string>
     <string name="system_permission_declare_exit">Exit</string>
-    <string name="system_permission_declare_main_purpose" formatted="false">Welcome to %1s! %2s</string>
+    <string formatted="false" name="system_permission_declare_main_purpose">Welcome to %1s! %2s</string>
     <string name="system_permission_declare_mi_message">Welcome to Mi Message!</string>
     <string name="system_permission_declare_no_say_no">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
 If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app."</string>
