@@ -1,6 +1,6 @@
 [![HyperOS](https://i.imgur.com/DBEfanq.png)](https://xiaomi.eu/)
 
-# HyperOS Weekly XML changes by xiaomi.eu / hyperos.mi.com
+# HyperOS XML changes by xiaomi.eu / hyperos.mi.com
 
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
