@@ -1,1 +1,2 @@
-Removed: [ru] strings.xml: string/controls_error_removed_message (format mismatch)
+Removed: [ru] dimens.xml: dimen/miui_volume_ringer_text_size (wrong value unit)
+Removed: [ru] strings.xml: string/controls_error_removed_message (wrong format)
