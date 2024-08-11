@@ -2764,7 +2764,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>@string/display_notification_icon_0</item>
         <item>@string/display_notification_icon_1</item>
         <item>@string/display_notification_icon_3</item>
-        <item>@string/display_notification_icon_5</item>
+        <item>@string/display_notification_icon_3</item>
     </string-array>
     <string-array name="notification_icon_counts_values">
         <item>0</item>
