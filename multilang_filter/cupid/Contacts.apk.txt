@@ -7,8 +7,6 @@ Removed: [cs] strings.xml: string/sim_indexed_contact_not_exist (wrong attribute
 Removed: [cs] strings.xml: string/t9_search_guide_pinyin_title2 (wrong attributes)
 Removed: [cs] strings.xml: string/t9_search_guide_zhuyin_title2 (wrong attributes)
 Removed: [mcc460-mnc01-ro] strings.xml: string/delete_sim_entries_finish (wrong format)
-Removed: [pl] strings.xml: string/t9_search_guide_pinyin_title2 (wrong attributes)
-Removed: [pl] strings.xml: string/t9_search_guide_zhuyin_title2 (wrong attributes)
 Removed: [sk] strings.xml: string/fail_reason_could_not_open_file (wrong attributes)
 Removed: [sk] strings.xml: string/sim_capacity_content (wrong attributes)
 Removed: [sk] strings.xml: string/t9_search_guide_pinyin_title2 (wrong attributes)
