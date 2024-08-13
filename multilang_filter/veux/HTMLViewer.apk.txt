@@ -1,0 +1,6 @@
+Removed: [cs] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
+Removed: [cs] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
+Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
+Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
+Removed: [sk] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
+Removed: [sk] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)

@@ -1,0 +1,2 @@
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
+Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)

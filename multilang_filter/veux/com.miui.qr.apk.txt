@@ -1,0 +1,1 @@
+Removed: [pt-rBR] strings.xml: string/template_percent (wrong format)
