@@ -449,7 +449,7 @@
     <string name="install_hint_risk_detail">Details</string>
     <string name="install_hint_risk_found">Risks detected</string>
     <string name="install_hint_risk_found_description">"Installing this app might pose security risks. "</string>
-    <string name="install_hint_risk_unregistered">"The developer hasn't provided this app's listing to the regulatory authorities. It might contain viruses, access your personal information, and pose other security rusks. If you've already provided this app's listing to the regulatory authorities as a developer, you can submit an appeal. Submit now"</string>
+    <string name="install_hint_risk_unregistered">"The developer hasn't provided this app's listing to the regulatory authorities. It might contain viruses, access your personal information, and pose other security risks. If you've already provided this app's listing to the regulatory authorities as a developer, you can submit an appeal. Submit now"</string>
     <string name="install_hint_risk_unregistered_clickable">Submit now</string>
     <string name="install_package_error">"This app isn't compatible with your system"</string>
     <string name="install_package_error_des">Contact the developer or install a compatible version from a trusted source.</string>
@@ -1219,6 +1219,8 @@ come from"</string>
     <string name="sure_close_enhance_safe_guard_des">为了保护手机安全，增强防护能过滤掉没有经过小米应用商店安全检测的应用，守护您的每一次安装！</string>
     <string name="sure_install">Install this app now?</string>
     <string name="sure_ok">Got it</string>
+    <string name="tango_dialog_content">Turn on App compatibility mode to be able to install %1$d-bit apps.</string>
+    <string name="tango_dialog_title">App compatibility mode</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>

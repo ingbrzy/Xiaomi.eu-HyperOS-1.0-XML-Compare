@@ -8070,7 +8070,6 @@
         <item>com.miui.greenguard</item>
         <item>com.miui.aod</item>
         <item>com.miui.voiceassist:core</item>
-        <item>com.mfashiongallery.emag</item>
         <item>com.google.android.googlequicksearchbox</item>
     </string-array>
     <string-array name="process_static_white_list_lite">
