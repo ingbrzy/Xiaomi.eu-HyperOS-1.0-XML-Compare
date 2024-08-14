@@ -352,7 +352,7 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="bugreport_option_interactive_title">Interactive report</string>
     <string name="bugreport_screenshot_failure_toast">Failed to take screenshot with bug report</string>
     <string name="bugreport_screenshot_success_toast">Screenshot taken with bug report</string>
-    <string name="bugreport_status" formatted="false">%s (%s)</string>
+    <string formatted="false" name="bugreport_status">%s (%s)</string>
     <string name="bugreport_title">Bug report</string>
     <string name="byteShort">B</string>
     <string name="call_notification_answer_action">Answer</string>
@@ -540,8 +540,8 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="config_feedbackIntentNameKey" />
     <string name="config_foldedArea" />
     <string name="config_forceVoiceInteractionServicePackage" />
-    <string name="config_fusedLocationProviderPackageName">com.xiaomi.location.fused</string>
-    <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
+    <string name="config_fusedLocationProviderPackageName">@null</string>
+    <string name="config_geocoderProviderPackageName">@null</string>
     <string name="config_geofenceProviderPackageName">@null</string>
     <string name="config_globalAppSearchDataQuerierPackage" />
     <string name="config_gnssLocationProviderPackageName">@null</string>
@@ -597,7 +597,7 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="config_rawContactsLocalAccountName">default</string>
     <string name="config_rawContactsLocalAccountType">com.android.contacts.default</string>
     <string name="config_rearDisplayPhysicalAddress" />
-    <string name="config_recentsComponentName">com.android.launcher3/com.android.quickstep.RecentsActivity</string>
+    <string name="config_recentsComponentName">com.miui.home/com.miui.home.recents.RecentsActivity</string>
     <string name="config_retailDemoPackage" />
     <string name="config_retailDemoPackageSignature" />
     <string name="config_satellite_gateway_service_package" />
@@ -610,7 +610,7 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="config_secondaryBuiltInDisplayCutout" />
     <string name="config_secondaryBuiltInDisplayCutoutRectApproximation">@string/config_secondaryBuiltInDisplayCutout</string>
     <string name="config_secondaryDisplayShape" />
-    <string name="config_secondaryHomePackage">com.android.launcher3</string>
+    <string name="config_secondaryHomePackage">com.miui.home</string>
     <string name="config_secondaryLocationTimeZoneProviderPackageName" />
     <string name="config_sensorStateChangedActivity" />
     <string name="config_sensorUseStartedActivity">com.android.systemui/com.android.systemui.sensorprivacy.SensorUseStartedActivity</string>
@@ -634,7 +634,7 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="config_systemCompanionDeviceProvider" />
     <string name="config_systemContacts">com.android.contacts</string>
     <string name="config_systemFinancedDeviceController">com.android.devicelockcontroller</string>
-    <string name="config_systemGallery">com.android.fileexplorer</string>
+    <string name="config_systemGallery">com.miui.gallery</string>
     <string name="config_systemGameService" />
     <string name="config_systemImageEditor" />
     <string name="config_systemNotificationIntelligence" />
@@ -728,7 +728,7 @@ Headphone volume has been higher than recommended, which can damage your hearing
     <string name="data_usage_warning_title">Data warning</string>
     <string name="data_usage_wifi_limit_snoozed_title">Over your Wi-Fi data limit</string>
     <string name="data_usage_wifi_limit_title">Wi-Fi data limit reached</string>
-    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string formatted="false" name="date_and_time">%b %-e, %Y, %-l:%M:%S %p</string>
     <string name="date_picker_day_of_week_typeface">sans-serif-medium</string>
     <string name="date_picker_day_typeface">sans-serif-medium</string>
     <string name="date_picker_decrement_day_button">Decrease day</string>
@@ -761,7 +761,7 @@ Headphone volume has been higher than recommended, which can damage your hearing
     <string name="default_audio_route_name_external_device">External Device</string>
     <string name="default_audio_route_name_headphones">Headphones</string>
     <string name="default_audio_route_name_usb">USB</string>
-    <string name="default_browser" />
+    <string name="default_browser">com.mi.globalbrowser</string>
     <string name="default_card_name">CARD %d</string>
     <string name="default_notification_channel_label">Uncategorized</string>
     <string name="default_sms_application">com.android.mms</string>
@@ -1519,7 +1519,7 @@ Try again in %2$d seconds."</string>
     <string name="mobile_no_internet">Mobile network has no internet access</string>
     <string name="mobile_provisioning_apn" />
     <string name="mobile_provisioning_url" />
-    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string formatted="false" name="month_day_year">%B %-e, %Y</string>
     <string name="more_item_label">More</string>
     <string name="move_button_text">Tap the frame button to be able to move the whole window</string>
     <string name="mte_override_notification_message">Performance and stability might be impacted. Reboot to disable. If enabled using arm64.memtag.bootctl, set it to none beforehand.</string>
@@ -2367,7 +2367,7 @@ Listening at high volume for long periods may damage your hearing."</string>
     <string name="tethered_notification_one_device_message">%1$s connected device</string>
     <string name="tethered_notification_title">Tethering or hotspot active</string>
     <string name="textSelectionCABTitle">Text selection</string>
-    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string formatted="false" name="time_of_day">%-l:%M:%S %p</string>
     <string name="time_picker_decrement_hour_button">Decrease hour</string>
     <string name="time_picker_decrement_minute_button">Decrease minute</string>
     <string name="time_picker_decrement_set_am_button">Set AM</string>
