@@ -1885,7 +1885,7 @@ look larger on photos"</string>
     <string name="module_name_super_moon">Supermoon</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">VLOG</string>
-    <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps videos can be up to %2d seconds long</string>
+    <string formatted="false" name="moiton_detection_960_fps_video_tip">%1dfps videos can be up to %2d seconds long</string>
     <string name="moiton_detection_tip">Detecting motion… Keep device steady.</string>
     <string name="moiton_detection_video_3840fps_3840">%dFPS</string>
     <string name="moiton_detection_video_electric_quantity_tip">Charge your device to be able to use this feature</string>
@@ -1998,7 +1998,7 @@ look larger on photos"</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="multi_window_mode_not_supported">"Camera can't be used in multi-window mode"</string>
     <string name="music_hint_tt">服务来源爱听卓乐</string>
-    <string name="mutex_hdr_quality" formatted="false">"HDR isn't supported for %1s %2sFPS"</string>
+    <string formatted="false" name="mutex_hdr_quality">"HDR isn't supported for %1s %2sFPS"</string>
     <string name="network_access_user_notice_agree">Agree</string>
     <string name="network_access_user_notice_message_live_video"><Data>"Camera needs to connect to the internet to provide effects, music, and other features for short videos.&lt;br/>&lt;br/>By tapping \"Agree\" below, you're agreeing to our &lt;a href =%1$s>User Agreement&lt;/a> and &lt;a href =%2$s>Privacy Policy&lt;/a>, and allowing Camera to connect to the internet."</Data></string>
     <string name="network_access_user_notice_message_mi_live_video"><Data>Welcome to short videos! Our service needs to connect to the network to provide you with music and other features. &lt;br/>&lt;br/>Before using our service, you need to read and agree to our &lt;a href =%1$s>User Agreement&lt;/a> and &lt;a href =%2$s>Privacy Policy&lt;/a>, as well as allow the app to connect to the internet.</Data></string>
@@ -3474,7 +3474,7 @@ to record and edit videos on the go"</string>
     <string name="warm_prompt">温馨提示</string>
     <string name="watermark_choose_one_tip">You can apply only one watermark to each photo.</string>
     <string name="watermark_choose_one_tip_film">You can apply only one watermark to each photo.</string>
-    <string name="watermark_count_format" formatted="false">%d/%d</string>
+    <string formatted="false" name="watermark_count_format">%d/%d</string>
     <string name="watermark_function_description">About watermarks</string>
     <string name="watermark_keep_at_least_one">Select at least one option</string>
     <string name="watermark_tab_city">City</string>

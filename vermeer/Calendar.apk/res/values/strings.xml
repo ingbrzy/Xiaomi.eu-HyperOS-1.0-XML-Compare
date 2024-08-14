@@ -317,7 +317,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
+    <string formatted="false" name="date_time_fmt">%s, %s</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="date_today">" (today)"</string>
     <string name="date_view">Date</string>
@@ -379,7 +379,7 @@
     <string name="edit_event_reminder_3_days_before_time">Also remind %d days before</string>
     <string name="edit_event_reminder_summary">On that day at %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d days in advance and on that day at %1$s</string>
-    <string name="edit_event_reminder_summary_3_days_before_today">%1$d days before and at %1$s on set day</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%2$d days before and at %1$s on set day</string>
     <string name="edit_event_reminder_text">On %1$s at %2$s</string>
     <string name="edit_event_reminder_time">Reminder time</string>
     <string name="edit_event_reminder_with_another_day_text">On %1$s, %2$s at %3$s</string>

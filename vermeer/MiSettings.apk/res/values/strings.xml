@@ -391,7 +391,7 @@ aren't generated in Second space"</string>
     <string name="focus_mode_timer_add_limit">You can add up to %d custom timers</string>
     <string name="focus_mode_timer_delete">Delete</string>
     <string name="focus_mode_timer_exist">This session already exists</string>
-    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d to %d minutes</string>
+    <string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d to %d minutes</string>
     <string name="focus_mode_timer_pick_dialog_title">Enter duration</string>
     <string name="focus_time_exception_tip">Looks like system time changed. Turned off Focus mode.</string>
     <string name="follow_apps_settings">Based on app settings</string>
@@ -400,7 +400,7 @@ aren't generated in Second space"</string>
 %1$d. When you turn on Performance mode, the refresh rate will be switched to the system maximum of %2$d Hz. High refresh rate app settings will be temporarily unavailable."</string>
     <string name="footer_global_fps_new">"
 %1$d. %2$s raises refresh rate to the system maximum of %3$d Hz. High refresh rate app settings will be temporarily unavailable."</string>
-    <string name="footer_max_fps" formatted="false">"
+    <string formatted="false" name="footer_max_fps">"
 %d. Refresh rate can be adjusted to up to %s Hz for supported apps and games."</string>
     <string name="force_rest">Use session breaks</string>
     <string name="force_rest_summary">Take mandatory breaks when sessions reach set limit</string>
@@ -1002,7 +1002,7 @@ for today"</string>
     <string name="usage_app_limit_reach_summay">%s remaining</string>
     <string name="usage_app_limit_reach_summay_new">Tap to add %d mins</string>
     <string name="usage_app_limit_reach_title">%s is reaching its screen time limit</string>
-    <string name="usage_app_limit_reach_title_new" formatted="false">Remaining screen time for %1s: %2s</string>
+    <string formatted="false" name="usage_app_limit_reach_title_new">Remaining screen time for %1s: %2s</string>
     <string name="usage_app_limit_summary">"Selected apps won't be available when the limit is reached"</string>
     <string name="usage_app_limit_title">Limit screen time</string>
     <string name="usage_app_other_settings">Additional settings</string>
@@ -1058,7 +1058,7 @@ To be able to work normally, this app needs to collect screen time info: the num
 This app also needs to connect to the internet and requires the following permissions in order to collect your personal information:"</string>
     <string name="usage_home_premission_second_summary">To be able to work normally, this app needs to collect your personal information. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorization in Screen time > Settings > Turn off Screen time."</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Before using this app, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>."</Data></string>
+    <string formatted="false" name="usage_home_premission_second_summary_double_link_suffix"><Data>"Before using this app, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>."</Data></string>
     <string name="usage_home_premission_second_summary_new">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorization in Screen time > Settings > Turn off Screen time. If you have more questions about privacy, you can contact us at privacy@xiaomi.com."</string>
     <string name="usage_new_category_limit_summary">Set daily usage limits for all apps in this category</string>
     <string name="usage_new_category_limit_title">Restrict usage for app category</string>
@@ -1106,7 +1106,7 @@ This app also needs to connect to the internet and requires the following permis
     <string name="usage_optional_title">Optional permissions</string>
     <string name="usage_permisison_agree_desc_o">To provide Screen time stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration.</string>
     <string name="usage_permisison_agree_desc_p">To provide Screen time and Focus mode stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration, the number of times your screen lights up, and Focus mode settings.</string>
-    <string name="usage_permission_double_link" formatted="false"><Data>"This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>."</Data></string>
+    <string formatted="false" name="usage_permission_double_link"><Data>"This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>."</Data></string>
     <string name="usage_permission_main_desc">"Welcome to Screen time!
 This app needs to connect to the internet and requires the following permissions to be able to work normally:"</string>
     <string name="usage_permission_title">Attention</string>

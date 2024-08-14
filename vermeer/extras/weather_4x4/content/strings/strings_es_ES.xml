@@ -1,16 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weather_null">Tap to get weather info</string>
     <string name="date_format">EEEE, d \'de\' MMMM</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
-    <string name="aqi_pure"/>
-    <string name="aqi_good"/>
-    <string name="aqi_moderate"/>
-    <string name="aqi_pollution"/>
-    <string name="aqi_unhealthy"/>
-    <string name="aqi_dangerous"/>
-    <string name="aqi_hazardous"/>
-    <string name="aqi_break"/>
+    <string name="aqi_pure" />
+    <string name="aqi_good" />
+    <string name="aqi_moderate" />
+    <string name="aqi_pollution" />
+    <string name="aqi_unhealthy" />
+    <string name="aqi_dangerous" />
+    <string name="aqi_hazardous" />
+    <string name="aqi_break" />
     <string name="weather_type_null">'No data'</string>
     <string name="weather_type_0">Despejado</string>
     <string name="weather_type_1">Nublado</string>
