@@ -212,12 +212,12 @@
         <item>android.permissionpolicy.cts</item>
         <item>android.permission3.cts</item>
     </string-array>
-    <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
-    <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
-    <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
-    <item type="array" name="android_config_virtualKeyVibePattern">@android:array/config_virtualKeyVibePattern</item>
-    <item type="array" name="android_special_locale_codes">@android:array/special_locale_codes</item>
-    <item type="array" name="android_special_locale_names">@android:array/special_locale_names</item>
+    <item name="android_common_nicknames" type="array" />
+    <item name="android_config_longPressVibePattern" type="array" />
+    <item name="android_config_mobile_hotspot_provision_app" type="array" />
+    <item name="android_config_virtualKeyVibePattern" type="array" />
+    <item name="android_special_locale_codes" type="array" />
+    <item name="android_special_locale_names" type="array" />
     <string-array name="app_javaheap_list">
         <item>com.example.memleaktesttool,256000</item>
         <item>com.miui.miwallpaper,150000</item>
@@ -7910,6 +7910,7 @@
         <item>com.miui.greenguard</item>
         <item>com.miui.aod</item>
         <item>com.miui.voiceassist:core</item>
+        <item>com.google.android.googlequicksearchbox</item>
     </string-array>
     <string-array name="process_static_white_list_lite">
         <item>com.android.mms:mms_service</item>
@@ -8042,8 +8043,8 @@
         <item>com.dewmobile.kuaiya.play</item>
     </string-array>
     <string-array name="screen_key_long_press_default_action">
-        <item>voice_assistant</item>
-        <item>none</item>
+        <item>recent_panel</item>
+        <item>google_now</item>
         <item>none</item>
         <item>show_menu</item>
     </string-array>
