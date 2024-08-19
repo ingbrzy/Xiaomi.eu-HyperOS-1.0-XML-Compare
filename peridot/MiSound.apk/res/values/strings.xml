@@ -552,7 +552,7 @@
     <string name="music_sound_num">Custom preset %s</string>
     <string name="music_sound_sample">System presets</string>
     <string name="music_sure_to_delete_sound_msg">Delete selected presets now?</string>
-    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d years old</string>
+    <string formatted="false" name="music_thirty_to_sixty_years">%d-%d years old</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"USB headsets aren't supported"</string>
     <string name="music_upper_sixty_years">More than %d years old</string>
@@ -768,7 +768,7 @@
     <string name="voice_print_finish">Done</string>
     <string name="voice_print_name_change">Change voiceprint name</string>
     <string name="voice_print_new">Record new voiceprint</string>
-    <string name="voice_print_note_description" formatted="false">Voiceprint optimization is a technology powered by AI that utilizes the unique vocal characteristics of users for noise reduction. This technology relies on individual acoustic attributes such as intonation, pitch, and speech rate. Before using this technology, you need to record approximately %d to %d seconds of your voice. The system will learn from your voice, preserving only your voice during calls while filtering out any background noise and other voices.</string>
+    <string formatted="false" name="voice_print_note_description">Voiceprint optimization is a technology powered by AI that utilizes the unique vocal characteristics of users for noise reduction. This technology relies on individual acoustic attributes such as intonation, pitch, and speech rate. Before using this technology, you need to record approximately %d to %d seconds of your voice. The system will learn from your voice, preserving only your voice during calls while filtering out any background noise and other voices.</string>
     <string name="voice_print_note_device">Disconnect external devices before recording</string>
     <string name="voice_print_note_environment">In a quiet environment, press and hold the button below and read the following text at a steady pace</string>
     <string name="voice_print_note_in_call">通话过程中不能进行声纹录制</string>
