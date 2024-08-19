@@ -34,8 +34,8 @@
         <item quantity="one">Delete %d download?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Deleted %1$d downloads successfully</item>
-        <item quantity="one">Deleted %1$d download successfully</item>
+        <item quantity="other">Deleted %d downloads successfully</item>
+        <item quantity="one">Deleted %d download successfully</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d days</item>
@@ -81,7 +81,7 @@
         <item quantity="one">1 minute ago</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%1$d items</item>
-        <item quantity="one">%1$d item</item>
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
     </plurals>
 </resources>
