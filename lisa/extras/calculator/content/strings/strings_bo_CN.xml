@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">རྩིས་ཆས།</string>
+    <string name="clear">སུབ་པ།</string>
+    <string name="delete">ཕྱིར་བགྲོས།</string>
+    <string name="percent">བརྒྱ་ཆའི་རྟགས།</string>
+    <string name="add">བསྡོམས།</string>
+    <string name="subtract">འཐེན།</string>
+    <string name="multiply">སྒྱུར།</string>
+    <string name="divide">བགོས།</string>
+    <string name="equals">མཚུངས།</string>
+    <string name="point">གྲངས་ཆུང་ཚེག་ཐིག</string>
+</resources>
