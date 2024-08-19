@@ -1,0 +1,2 @@
+Removed: [it] arrays.xml: array/device_need_operating_mode (wrong item count)
+Removed: [it] arrays.xml: array/get_frame_nonsequence (wrong item count)
