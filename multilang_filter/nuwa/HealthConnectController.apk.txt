@@ -1,0 +1,1 @@
+Removed: [fa] strings.xml: string/percent (wrong attributes)
