@@ -1,0 +1,2 @@
+Removed: [zh-rCN] strings.xml: string/error_data_in_transfer (wrong format)
+Removed: [zh-rCN] strings.xml: string/error_title (wrong format)
