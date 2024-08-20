@@ -1,2 +1,2 @@
-Removed: [gu-rIN] strings.xml: string/label_pages (format mismatch)
-Removed: [pa-rIN] strings.xml: string/label_pages (format mismatch)
+Removed: [gu-rIN] strings.xml: string/label_pages (wrong format)
+Removed: [pa-rIN] strings.xml: string/label_pages (wrong format)
