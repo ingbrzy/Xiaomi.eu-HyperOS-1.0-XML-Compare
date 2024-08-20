@@ -17,8 +17,6 @@ Removed: [cs-rCZ] strings.xml: string/lockscreen_too_many_failed_attempts_dialog
 Removed: [cs-rCZ] strings.xml: string/lockscreen_too_many_failed_password_attempts_dialog_message (wrong attributes)
 Removed: [cs-rCZ] strings.xml: string/lockscreen_too_many_failed_pin_attempts_dialog_message (wrong attributes)
 Removed: [fr] strings.xml: string/ext_media_unsupported_notification_message (wrong format)
-Removed: [hr-rHR] strings.xml: string/lockscreen_failed_attempts_almost_at_wipe (wrong attributes)
-Removed: [hr-rHR] strings.xml: string/lockscreen_failed_attempts_almost_glogin (wrong attributes)
 Removed: [it-rIT] strings.xml: string/ext_media_unsupported_notification_message (wrong format)
 Removed: [pt-rPT] strings.xml: string/kg_failed_attempts_almost_at_login (wrong attributes)
 Removed: [pt-rPT] strings.xml: string/kg_failed_attempts_almost_at_wipe (wrong attributes)
