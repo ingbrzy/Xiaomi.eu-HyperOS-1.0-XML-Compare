@@ -126,6 +126,7 @@
         <item>com.miui</item>
         <item>com.google.android.packageinstaller</item>
         <item>com.miui.core</item>
+        <item>com.miui.gallery</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
