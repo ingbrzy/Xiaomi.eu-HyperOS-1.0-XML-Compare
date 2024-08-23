@@ -1,0 +1,2 @@
+Removed: [it] strings.xml: string/privacy_detail (wrong format)
+Removed: [ro] strings.xml: string/privacy_detail (wrong format)
