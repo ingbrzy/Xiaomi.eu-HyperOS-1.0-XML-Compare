@@ -228,6 +228,12 @@
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
     </string-array>
+    <array name="hm2_new_card_blend_colors">
+        <item>#87515151</item>
+        <item>19</item>
+        <item>#26000000</item>
+        <item>3</item>
+    </array>
     <array name="mi_default_blend_colors">
         <item>#804d4d4d</item>
         <item>18</item>
@@ -297,6 +303,39 @@
     <string-array name="non_preemption_list">
         <item>milink://com.milink.service/circulate_world?showPage=TV&amp;doAction=input</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
     <string-array name="settings_search_connect_car">
         <item>Combine apps</item>
         <item>Interconnectivity/Combine apps</item>
@@ -330,7 +369,17 @@
     <string-array name="settings_search_relay_network">
         <item>Network assistance</item>
         <item>Interconnectivity/Network assistance</item>
-        <item>Network assistance, tethering, hotspot sharing</item>
+        <item>Network assistance, tethering, hotspot sharing, wireless tethering</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Wireless tethering</item>
+        <item>Interconnectivity/Wireless tethering</item>
+        <item>Network assistance, tethering, hotspot sharing, wireless tethering</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Network sync</item>
+        <item>Interconnectivity/Network sync</item>
+        <item>Network assistance, tethering, hotspot sharing, Network sync</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Home screen+</item>

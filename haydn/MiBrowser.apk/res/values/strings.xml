@@ -227,6 +227,13 @@ Toggle off to stop syncing."</string>
     <string name="btn_copy">Copy</string>
     <string name="btn_open">Open</string>
     <string name="business_num">%d</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
     <string name="camera_permission_name">Use camera</string>
     <string name="can_not_send_with_too_many">"Can't send that many items at once"</string>
     <string name="cancel">Cancel</string>
@@ -398,7 +405,7 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">c2d5afe531c5431aa6b4b69c88fccc95</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">6d497e3683554cd3aa2ef262f6b6f7ff</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -785,6 +792,10 @@ Pages you view won't appear in history."</string>
     <string name="experience_improve">User Experience Program</string>
     <string name="exported">Exported</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="external_app_leave_incognito_leave">Turn off</string>
+    <string name="external_app_leave_incognito_stay">Keep on</string>
+    <string name="external_app_leave_incognito_warning">This website is trying to share information with an app outside of Incognito mode. Turn off now?</string>
+    <string name="external_app_leave_incognito_warning_title">Turn off Incognito mode?</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
@@ -1451,16 +1462,18 @@ Pages you view won't appear in history."</string>
     <string name="mw_accessibility_date_picker_year">Year</string>
     <string name="mw_accessibility_datetime_picker_date">Date</string>
     <string name="mw_accessibility_datetime_picker_time">Time</string>
+    <string name="mw_accessibility_list_menu_button">%1$s Options</string>
     <string name="mw_accessibility_time_picker_ampm">AM/PM</string>
     <string name="mw_accessibility_time_picker_hour">Hour</string>
     <string name="mw_accessibility_time_picker_milli">Millisecond</string>
     <string name="mw_accessibility_time_picker_minute">Minute</string>
     <string name="mw_accessibility_time_picker_second">Second</string>
+    <string name="mw_accessibility_toolbar_btn_menu">Customize and control Google Chrome</string>
+    <string name="mw_actionbar_manage_apps">Manage apps</string>
     <string name="mw_actionbar_share">Share</string>
     <string name="mw_actionbar_textselection_title">Select text</string>
     <string name="mw_actionbar_web_search">Web search</string>
     <string name="mw_add_to_dictionary">Add to dictionary</string>
-    <string name="mw_androidx_startup">androidx.startup</string>
     <string name="mw_autofill_popup_content_description">Showing autofill popup</string>
     <string name="mw_call_notification_answer_action">Answer</string>
     <string name="mw_call_notification_answer_video_action">Video</string>
@@ -1501,6 +1514,7 @@ Pages you view won't appear in history."</string>
     <string name="mw_elided_url_text_view_url_truncated">Url truncated</string>
     <string name="mw_find_next">Find next</string>
     <string name="mw_find_previous">Find previous</string>
+    <string name="mw_image_copied">Image copied</string>
     <string name="mw_js_dialog_before_unload">"%s
 
 Leave this page now?"</string>
@@ -1528,7 +1542,7 @@ Leave this page now?"</string>
     <string name="mw_miuichromium_error_page_btn_close">Close</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Refresh</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Report issue</string>
-    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
+    <string formatted="false" name="mw_miuichromium_error_page_description_no_connection">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
     <string name="mw_miuichromium_error_page_diagnose">Network diagnostics</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Network diagnostics</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
@@ -1583,9 +1597,9 @@ Leave this page now?"</string>
     <string name="mw_miuichromium_error_page_server_error">Too many devices are trying to connect</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobile data) Reset your %s1APN settings%s2.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Mobile data) Reset your %s1APN settings%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Check your %s1proxy settings%s2.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Check your %s1proxy settings%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Clear cache.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Clear cache and cookies (your account info may be lost).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
@@ -2322,7 +2336,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="sign_in_by_others">Other ways to sign in</string>
     <string name="sign_in_by_xiaommi">Sign in with Xiaomi Account</string>
     <string name="sign_in_failed">"Couldn't sign in"</string>
-    <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
+    <string formatted="false" name="sign_in_to">Sign in to %s1 \"%s2\"</string>
     <string name="sign_message">http://%s needs your username and password.</string>
     <string name="sign_out">Sign out</string>
     <string name="simple_page_toast">You can switch to default in Settings > Start page settings</string>
@@ -2382,7 +2396,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="sports_card_match_status_2">In progress</string>
     <string name="sports_card_match_status_3">Finished</string>
     <string name="ssl_bad_clock_date_settings">Set date</string>
-    <string name="ssl_bad_clock_warning" formatted="false">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
+    <string formatted="false" name="ssl_bad_clock_warning">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
     <string name="ssl_bad_expired_warning">"This channel is provided by %1$s. However, the date and time set on your device (%2$s) don't allow to establish a secure connection with %1$s. You can set the correct date and time or tap \"Continue\" if you still want to use this channel."</string>
     <string name="ssl_bad_warning">"This channel is provided by %1$s. However, Mi Browser can't verify that this server belongs to %1$s because its cerificate is invalid or has been revoked. This problem may be caused by incorrect configurations or blocked connection. Tap \"Continue\" if you still want to use this channel."</string>
     <string name="ssl_certificate">Security certificate</string>
@@ -2431,6 +2445,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="sunday_shortest">Sun</string>
     <string name="support_pwa">PWA</string>
     <string name="survey_feedback_general">Okay</string>
+    <string name="swipe_exit_browser_toast">Swipe again to exit Browser</string>
     <string name="switchText">YES</string>
     <string name="sync_alert_checkbox_bookmark">Bookmarks</string>
     <string name="sync_alert_checkbox_history">Browsing history</string>
