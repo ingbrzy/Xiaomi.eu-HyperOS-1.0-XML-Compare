@@ -4822,7 +4822,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="importance_default">Default</string>
     <string name="importance_high">High</string>
     <string name="importance_low">Low</string>
-    <string name="importance_min">Minimal</string>
+    <string name="importance_min">Trivial</string>
     <string name="importance_title">Importance</string>
     <string name="important_bubble">Bubble priority conversations</string>
     <string name="important_conversation_behavior_summary">Priority conversations show at the top of the pull-down shade. You can also set them to bubble and interrupt Do Not Disturb.</string>
@@ -7028,7 +7028,7 @@ Enhanced notifications can access notification content, including personal infor
     <string name="notification_importance_low_title">Medium</string>
     <string name="notification_importance_min">Show silently and minimize</string>
     <string name="notification_importance_min_title">Minimize</string>
-    <string name="notification_importance_title">Importance</string>
+    <string name="notification_importance_title">Behavior</string>
     <string name="notification_importance_unspecified">Allow sound</string>
     <string name="notification_listener_allowed">Allowed</string>
     <string name="notification_listener_disable_warning_cancel">Cancel</string>
