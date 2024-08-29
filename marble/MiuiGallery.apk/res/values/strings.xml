@@ -189,6 +189,8 @@ Select other photos instead and try again."</string>
     <string name="ai_recreate_image_dialog_msg">You can continue uploading photos or select new ones.</string>
     <string name="ai_recreate_image_dialog_title">"%s's photos haven't been uploaded"</string>
     <string name="ai_refuse_update_toast">Select new photos to be able to update this AI image</string>
+    <string name="ai_search_picker_next_step">Next</string>
+    <string name="ai_search_picker_title">Select segment</string>
     <string formatted="false" name="ai_select_people_sub_title">%1d–%2d best photos will be selected automatically</string>
     <string name="ai_select_people_title">Select a person to create their AI image</string>
     <string formatted="false" name="ai_select_photo_complete_description">"Select %1d–%2d face or half body shots.
@@ -1225,16 +1227,21 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="delete_album_msg_format_cloud">Delete %1$s %2$s from Xiaomi Cloud and all synced devices?</string>
     <string name="delete_album_msg_format_local">Delete %1$s %2$s?</string>
     <string name="delete_album_success">Album deleted</string>
+    <string name="delete_all_photos">"You're about to delete all photos on this device. This may cause you to lose important data. Delete anyway?"</string>
     <string name="delete_from_all_devices_and_cloud">from all devices and Xiaomi Cloud</string>
     <string name="delete_from_cloud">Delete from the cloud as well</string>
     <string name="delete_from_this_album_and_cloud">from this album and Xiaomi Cloud</string>
     <string name="delete_in_album">Selected items will be deleted from the cloud and all connected devices and stored among recently deleted items for %d days if you have a free cloud storage plan. Delete anyway?</string>
     <string name="delete_in_home_page">Selected items will be deleted from the cloud and all connected devices and stored among recently deleted items for %d days if you have a free cloud storage plan. Delete anyway?</string>
     <string name="delete_in_process">Deleting…</string>
+    <string name="delete_media_dialog_comment">These items will first be moved to \"Deleted items\". From there, you can recover them or permanently delete them.</string>
     <string name="delete_media_for_cloud">Selected items will be removed from the cloud and all synced devices to Recently deleted items.</string>
+    <string name="delete_media_from_cloud">Selected items will be deleted from all devices and the cloud. Delete anyway?</string>
     <string name="delete_origin">Delete items from original album</string>
     <string name="delete_other_shared_images">"Can't delete photos shared by others"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
+    <string name="delete_risk_alert_message">"You've selected a large number of items to delete. If you continue, these items will be moved to \"Deleted items\". Delete items now?"</string>
+    <string name="delete_risk_alert_title">Attention</string>
     <string name="delete_third_party_photo">Delete this photo?</string>
     <string name="delete_third_party_video">Delete this video?</string>
     <string name="deny">Reject</string>
@@ -1446,6 +1453,8 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="ext_sdcard_permission_request_title">Allow Gallery to access SD card</string>
     <string name="ext_sdcard_request_failed_button_text">OK</string>
     <string name="ext_sdcard_request_succeed_toast_text">"You're ready to rock!"</string>
+    <string name="external_delete_notification_content">Tap to view recently deleted items to make sure nothing important is lost</string>
+    <string name="external_delete_notification_title">Items deleted from Gallery</string>
     <string name="face_album_empty">"Not enough photos to recognize people.
 Take more photos of your friends!"</string>
     <string name="face_album_empty_syncing">Syncing data, come back in a while</string>
@@ -1543,7 +1552,7 @@ are available"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="foods_people_title">"Tastebuds' paradise"</string>
+    <string name="foods_people_title">Long time no see</string>
     <string name="foods_people_travel_title">Eating our way through %2$s with %1$s</string>
     <string name="foods_travel_title_one">A taste of %1$s</string>
     <string name="foods_travel_title_three">"Foodie's %1$s"</string>
@@ -1579,13 +1588,19 @@ are available"</string>
     <string name="google_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
     <string name="google_app_id">1:184486664684:android:f43ea4abe65a1a6b7008c9</string>
     <string name="google_application_id" />
+    <string name="google_banner_back_stop">Backup has stopped</string>
+    <string name="google_banner_back_stop_des">"You're out of Google Account storage. To resume backing up your photos, get more storage, or clean up space."</string>
     <string name="google_banner_backup_des">Start now and keep your photos and videos safe in Google Photos.</string>
     <string name="google_banner_backup_left_btn_text">Not now</string>
     <string name="google_banner_backup_right_btn_text">Turn on backup</string>
     <string name="google_banner_backup_title">Back up your items to Google Photos</string>
     <string name="google_banner_upgrade_des">You can buy more cloud storage for your Google Account.</string>
+    <string name="google_banner_upgrade_left_btn_clean_space">Clean up space</string>
     <string name="google_banner_upgrade_left_btn_text">View details</string>
+    <string name="google_banner_upgrade_right_btn_get_storage">Get storage</string>
     <string name="google_banner_upgrade_right_btn_text">Buy storage</string>
+    <string name="google_banner_upgrade_space_low_des">"Soon you won't be able to back up new photos and videos"</string>
+    <string name="google_banner_upgrade_space_low_title">Your storage is %s full</string>
     <string name="google_banner_upgrade_title">Cloud storage is full</string>
     <string name="google_crash_reporting_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
     <string name="google_open_backup_error">"Couldn't connect to Google Photos"</string>
@@ -1660,6 +1675,7 @@ are available"</string>
     <string name="home_menu_magic_matting">Cutout</string>
     <string name="home_menu_photo_movie">Clip</string>
     <string name="home_menu_print">Print photos</string>
+    <string name="home_menu_trash">@string/trash_bin</string>
     <string name="home_menu_video_post">Video effects</string>
     <string name="home_page_all_photos">All</string>
     <string name="home_page_camera">Camera</string>
@@ -2034,6 +2050,7 @@ to personalize Gallery"</string>
     <string name="multi_view_tip_button_text">Got it</string>
     <string name="multi_view_tip_sub_title">Spread two fingers apart or move them toward each other to adjust the size of displayed items.</string>
     <string name="multi_view_tip_title">Zooming in and out</string>
+    <string name="multiwindow_not_support_camera">"Camera can't be used in multi-window mode"</string>
     <string name="must_pick_file">Select a photo</string>
     <string name="my_family">My home</string>
     <string name="name_split">, </string>
@@ -3268,7 +3285,9 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="today_of_year_function_closed_btn_tip">Turn on</string>
     <string name="today_of_year_function_closed_tip">"You haven't turned on \"On this day\" yet"</string>
     <string name="today_of_year_location_num">Locations</string>
+    <string name="today_of_year_next_day">Next day</string>
     <string name="today_of_year_photo_num">Photos</string>
+    <string name="today_of_year_pre_day">Previous day</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="too_many_recipients">"Can't add more than %2$s recipients (You've currently added %1$s)."</string>
     <string name="tran_notification_complete_title">Transfer complete</string>
@@ -3405,10 +3424,10 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="video_compress_save_stop_tips">Tap again to stop compression</string>
     <string name="video_compress_size">≈%s after compression</string>
     <string name="video_edit_file_not_exits_tip">Download the video first</string>
-    <string name="video_editor_component_delete_btn_content_description">Remove video %d</string>
+    <string name="video_editor_component_delete_btn_content_description">Remove segment %d</string>
     <string name="video_editor_component_next_step">Next %1$d/%2$d</string>
     <string name="video_editor_component_next_step_enabled_content_description">Next</string>
-    <string name="video_editor_component_picked_imageview_content_description">Added video slot %d</string>
+    <string name="video_editor_component_picked_imageview_content_description">Added segment to slot %d</string>
     <string name="video_editor_not_support_8k_tips">"Can't edit %dK videos"</string>
     <string name="video_editor_picker_duration_too_short">Video is too short</string>
     <string name="video_err">"Can't play video"</string>
