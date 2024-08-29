@@ -356,8 +356,8 @@
     <string name="description_version">Version</string>
     <string name="description_version_szie">Version: %1$s Size: %2$s</string>
     <string name="desk_loop_will_change">Attention</string>
-    <string name="desktop_effects">Live wallpapers</string>
-    <string name="desktop_wallpaper">Wallpaper</string>
+    <string name="desktop_effects">Home screen effects</string>
+    <string name="desktop_wallpaper">Home screen</string>
     <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
     <string name="detail_author_fans">"Followers: "</string>
     <string name="detail_author_works">"Items: "</string>
@@ -738,7 +738,7 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="large_icon_warning_not_install">Install %s</string>
     <string name="large_icon_warning_not_install_msg">Install %s to be able to use a Super icon. Install now?</string>
     <string name="like_list">My likes</string>
-    <string name="live_wallpaper">Dynamic wallpapers</string>
+    <string name="live_wallpaper">Dynamic wallpaper</string>
     <string name="load_from_local_photos">Gallery</string>
     <string name="loading">Just a sec…</string>
     <string name="loading_picture">Loading image…</string>
@@ -747,7 +747,7 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="local_mode">Offline mode</string>
     <string name="local_mode_close">Turn off offline mode?</string>
     <string name="local_mode_close_desc">Turn off offline mode if you wish to use online services. Turn off now?</string>
-    <string name="local_mode_close_tip">Internet connection is required to set this wallpaper. If you want to use the internet service, you need to turn off the local mode. Confirm to turn it off?</string>
+    <string name="local_mode_close_tip">Internet connection is required to set this wallpaper. If you need to use the internet service, you need to turn off the local mode. Confirm to turn it off?</string>
     <string name="local_mode_desc">"Offline mode only uses local content and doesn't use online services"</string>
     <string name="local_mode_hint">"You're using offline mode.
 Tap to turn off."</string>
@@ -1623,7 +1623,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="sunrise_time_format_tomorrow_desc">"Tomorrow's sunrise: %s"</string>
     <string name="sunset_time_format">Sunset %s</string>
     <string name="sunset_time_format_desc">Sunset time: %s</string>
-    <string name="super_wallpaper">Super wallpapers</string>
+    <string name="super_wallpaper">Super Wallpapers</string>
     <string name="super_wallpaper_dialog_content">Battery saver will turn off the dynamic features of wallpapers.</string>
     <string name="super_wallpaper_download_progress">%1$d%%</string>
     <string name="super_wallpaper_list_footer_text">Stay tuned for our new releases!</string>
@@ -1749,7 +1749,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="theme_component_title_photo_frame">Image frames</string>
     <string name="theme_component_title_ringtone">Ringtone</string>
     <string name="theme_component_title_statusbar">Status bar</string>
-    <string name="theme_component_title_wallpaper">Wallpaper</string>
+    <string name="theme_component_title_wallpaper">Home screen</string>
     <string name="theme_component_video_wallpaper">Dynamic wallpapers</string>
     <string name="theme_current_using_has_update">Theme update available</string>
     <string name="theme_description_title_customized">Custom</string>
@@ -1810,7 +1810,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="tips_theme_gate_transfer_fail">"Couldn't open this page. Wait a minute or two and try again."</string>
     <string name="title_component">Theme components</string>
     <string name="title_my_audio_resource">My ringtones</string>
-    <string name="title_my_miwallpaper_desktop_effects">Live wallpapers</string>
+    <string name="title_my_miwallpaper_desktop_effects">Home screen effects</string>
     <string name="title_my_miwallpaper_resource">My dynamic wallpapers</string>
     <string name="title_my_miwallpaper_video_file_resource">My wallpaper movies</string>
     <string name="title_my_wallpaper">My wallpapers</string>

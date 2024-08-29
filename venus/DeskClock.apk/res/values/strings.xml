@@ -62,13 +62,13 @@
     <string name="app_name">SplitLib</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auto_silence_entries1">Never</string>
-    <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> minute</string>
-    <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> minutes</string>
-    <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> minutes</string>
-    <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> minutes</string>
-    <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> minutes</string>
-    <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> minutes</string>
-    <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> minutes</string>
+    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minute</string>
+    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minutes</string>
+    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minutes</string>
+    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minutes</string>
+    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> minutes</string>
+    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minutes</string>
+    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minutes</string>
     <string name="auto_silence_summary">Set time after which alarms and timers will be silenced</string>
     <string name="auto_silence_title">Auto-silence</string>
     <string name="back">Exit</string>
@@ -379,7 +379,7 @@
     <string name="minute_spinner_fifteen">%d</string>
     <string name="minute_spinner_fifty">%d</string>
     <string name="minute_spinner_fifty_five">%d</string>
-    <string name="minute_spinner_five" formatted="false">%d%d</string>
+    <string formatted="false" name="minute_spinner_five">%d%d</string>
     <string name="minute_spinner_forty">%d</string>
     <string name="minute_spinner_forty_five">%d</string>
     <string name="minute_spinner_ten">%d</string>
@@ -387,7 +387,7 @@
     <string name="minute_spinner_thirty_five">%d</string>
     <string name="minute_spinner_twenty">%d</string>
     <string name="minute_spinner_twenty_five">%d</string>
-    <string name="minute_spinner_zero" formatted="false">%d%d</string>
+    <string formatted="false" name="minute_spinner_zero">%d%d</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
@@ -443,20 +443,20 @@
     <string name="module_unzipping">Unpacking audio…</string>
     <string name="module_update_success_control">Got it</string>
     <string name="module_weather_ringtone_download_data_new">Weather alarm selects different ringtones according to the current weather. Clock needs to download ≈%d MB of audio to make it work. Download now?</string>
-    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB of audio. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+    <string formatted="false" name="module_weather_ringtone_download_data_privacy_new"><Data>Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB of audio. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="module_weather_ringtone_download_wifi">Weather alarm selects different ringtones according to the current weather. Clock needs to download audio to make it work. Download now?</string>
     <string name="module_weather_ringtone_download_wifi_privacy"><Data>Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="module_weather_ringtone_introduce">Weather alarm selects different ringtones according to the current weather. It also allows you to listen to the current weather info in the morning.</string>
     <string name="module_weather_ringtone_introduce_global">Weather alarm selects different ringtones according to the current weather.</string>
     <string name="module_weather_ringtone_update_data_new">Weather alarm now comes with background music and better voice announcements. Clock needs to download ≈%d MB of audio to make it work. Download now?</string>
     <string name="module_week_ringtone_download_data_new">Nature alarm plays different sounds depending on the date. Clock needs to download ≈%d MB of audio to make it work. Download now?</string>
-    <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Nature alarm plays different sounds depending on the date. Clock needs to connect to the internet to download ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB of audio. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+    <string formatted="false" name="module_week_ringtone_download_data_privacy_new"><Data>Nature alarm plays different sounds depending on the date. Clock needs to connect to the internet to download ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB of audio. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="module_week_ringtone_download_wifi">Nature alarm plays different sounds depending on the date. Clock needs to download audio to make it work. Download now?</string>
     <string name="module_week_ringtone_download_wifi_privacy"><Data>Nature alarm plays different sounds depending on the date. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="module_week_ringtone_introduce">Nature alarm plays different sounds depending on the date.</string>
     <string name="module_week_ringtone_update_data_new">Nature alarm plays different sounds depending on the date. Clock needs to download ≈%d MB of audio to make it work. Download now?</string>
     <string name="module_white_noise_download_data_new">Clock needs to download audio files for ambient noise timers. ≈%d MB of your mobile data will be required for this download. Download now?</string>
-    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"In order to download audio files for ambient noise timers (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. You're using mobile data now. Agree?"</Data></string>
+    <string formatted="false" name="module_white_noise_download_data_privacy_new"><Data>"In order to download audio files for ambient noise timers (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. You're using mobile data now. Agree?"</Data></string>
     <string name="module_white_noise_download_wifi">Clock needs to download audio files for ambient noise timers. Download now?</string>
     <string name="module_white_noise_download_wifi_privacy"><Data>In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="monday">Monday</string>
@@ -554,9 +554,9 @@
     <string name="not_set_temporarily">No thanks</string>
     <string name="not_update">Not now</string>
     <string name="notification_adv_time_entries1">At set time</string>
-    <string name="notification_adv_time_entries2"><xliff refersto="15" id="MINUTES">%d</xliff> minutes in advance</string>
-    <string name="notification_adv_time_entries3"><xliff refersto="30" id="MINUTES">%d</xliff> minutes in advance</string>
-    <string name="notification_adv_time_entries4"><xliff refersto="1" id="HOUR">%d</xliff> hour in advance</string>
+    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minutes in advance</string>
+    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minutes in advance</string>
+    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hour in advance</string>
     <string name="notification_adv_time_entries5">None</string>
     <string name="notification_permission_desc">"If you don't grant Notification permissions, you won't be able to turn off alarms when they ring. Grant permission now?"</string>
     <string name="notification_permission_dialog_content">Allow this app to send notifications in order to receive alarm notifications. You can grant this permission in Settings.</string>
@@ -603,7 +603,7 @@
     <string name="ringtone_firefly">Fireflies</string>
     <string name="ringtone_weather">Weather alarm</string>
     <string name="ringtone_week">Nature alarm</string>
-    <string name="ruler_view_text" formatted="false">%d%d</string>
+    <string formatted="false" name="ruler_view_text">%d%d</string>
     <string name="ruler_view_text_one">%d</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
@@ -633,11 +633,11 @@
     <string name="skip_alarm_once_hint">Turn off once on %s</string>
     <string name="sleep_analysis">Stats</string>
     <string name="sleep_analysis_chart_date_format">MM/dd</string>
-    <string name="sleep_date_provider_text_new">Sleep data is provided by Mi Fitness</string>
+    <string name="sleep_date_provider_text_new">Sleep data is provided by Xiaomi Health</string>
     <string name="sleep_duration">"Sleep duration: "</string>
     <string name="sleep_duration_avg_text_diff">Average sleep duration (%1$s-%2$s)</string>
     <string name="sleep_duration_no_data">Not enough data yet</string>
-    <string name="sleep_duration_recommendation_new" formatted="false">Most people need %d to %d hours of sleep per night</string>
+    <string formatted="false" name="sleep_duration_recommendation_new">Most people need %d to %d hours of sleep per night</string>
     <string name="sleep_duration_text">%1$s %2$s</string>
     <string name="sleep_duration_text_avg">%1$s %2$s</string>
     <string name="sleep_no_disturbance">DND mode</string>
@@ -647,8 +647,7 @@
     <string name="sleep_notification_title">Time to go to bed</string>
     <string name="sleep_record">Track sleep</string>
     <string name="sleep_record_desc">Turn on to start recording sleep data</string>
-    <string name="sleep_record_desc_detailed">Sleep tracking functionality is provided by Xiaomi Health. Once turned on, Xiaomi Health automatically records your sleep based on your phone usage, activity stats, and the bedtime and wake-up times you set, showing you stats in the form of charts. To track sleep more accurately, allow Xiaomi Health to autostart. All related data will be stored locally on your device for easy management.</string>
-    <string name="sleep_record_desc_detailed_new">Sleep tracking is provided by the Mi Fitness Sleep feature. If you turn this feature on, Mi Fitness will automatically collect and display data on your sleep based on your phone usage, activity, and the bedtime and wake-up time you set. To track sleep more accurately, allow Mi Fitness to autostart.</string>
+    <string name="sleep_record_desc_detailed_new">Sleep tracking is provided by the Xiaomi Health Sleep feature. If you turn this feature on, Xiaomi Health will automatically collect and display data on your sleep based on your phone usage, activity, and the bedtime and wake-up time you set. To track sleep more accurately, allow Xiaomi Health to autostart.</string>
     <string name="sleep_record_no_data">Your stats will appear here after Xiaomi Health analyzes enough data</string>
     <string name="sleep_remind">Bedtime reminder</string>
     <string name="sleep_time">Fall asleep</string>
@@ -756,10 +755,10 @@
     <string name="time_picker_label_minute">M</string>
     <string name="time_picker_label_second">S</string>
     <string name="time_settings">Clock settings</string>
-    <string name="time_view" formatted="false">%02d:%02d.%02d</string>
-    <string name="time_view_with_hour" formatted="false">%02d:%02d:%02d.%02d</string>
-    <string name="time_view_with_hour_span" formatted="false">%02d:%02d:%02d%02d</string>
-    <string name="time_view_with_span" formatted="false">%02d:%02d%02d</string>
+    <string formatted="false" name="time_view">%02d:%02d.%02d</string>
+    <string formatted="false" name="time_view_with_hour">%02d:%02d:%02d.%02d</string>
+    <string formatted="false" name="time_view_with_hour_span">%02d:%02d:%02d%02d</string>
+    <string formatted="false" name="time_view_with_span">%02d:%02d%02d</string>
     <string name="timer_alert_mute_off">Alarm will sound when timer stops</string>
     <string name="timer_alert_mute_on">"Alarm won't sound when timer stops"</string>
     <string name="timer_alert_mute_switch">Switch for muting timer alarms</string>
@@ -774,7 +773,7 @@
     <string name="timer_desc_use_brush_teeth">Brush teeth</string>
     <string name="timer_desc_use_facial_mask">Face mask</string>
     <string name="timer_desc_use_sleep">Nap</string>
-    <string name="timer_display" formatted="false">%02d:%02d:%02d</string>
+    <string formatted="false" name="timer_display">%02d:%02d:%02d</string>
     <string name="timer_end_time">Timer will stop at %s</string>
     <string name="timer_end_time_format">HH:mm MMM dd</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -801,8 +800,8 @@
     <string name="upcoming_alarm">Upcoming alarm: %s</string>
     <string name="upcoming_alarm_hint">You can turn off this alarm now</string>
     <string name="upcoming_alarm_new">Upcoming alarm: %s</string>
-    <string name="update_health_app_desc_new">The sleep tracking feature is provided by Mi Fitness. Update Mi Fitness to its latest version to access related features.</string>
-    <string name="update_health_app_new">Update Mi Fitness</string>
+    <string name="update_health_app_desc_new">The sleep tracking feature is provided by Xiaomi Health. Update Xiaomi Health to its latest version to access related features.</string>
+    <string name="update_health_app_new">Update Xiaomi Health</string>
     <string name="update_it">Update</string>
     <string name="update_notification_info">Updating data in the background…</string>
     <string name="usage_start">Start</string>

@@ -405,7 +405,7 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">38c4176aadb64029b3615a95580c3ca8</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">6d497e3683554cd3aa2ef262f6b6f7ff</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -1542,7 +1542,7 @@ Leave this page now?"</string>
     <string name="mw_miuichromium_error_page_btn_close">Close</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Refresh</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Report issue</string>
-    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
+    <string formatted="false" name="mw_miuichromium_error_page_description_no_connection">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
     <string name="mw_miuichromium_error_page_diagnose">Network diagnostics</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Network diagnostics</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
@@ -1597,9 +1597,9 @@ Leave this page now?"</string>
     <string name="mw_miuichromium_error_page_server_error">Too many devices are trying to connect</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobile data) Reset your %s1APN settings%s2.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Mobile data) Reset your %s1APN settings%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Check your %s1proxy settings%s2.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Check your %s1proxy settings%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Clear cache.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Clear cache and cookies (your account info may be lost).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
@@ -2336,7 +2336,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="sign_in_by_others">Other ways to sign in</string>
     <string name="sign_in_by_xiaommi">Sign in with Xiaomi Account</string>
     <string name="sign_in_failed">"Couldn't sign in"</string>
-    <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
+    <string formatted="false" name="sign_in_to">Sign in to %s1 \"%s2\"</string>
     <string name="sign_message">http://%s needs your username and password.</string>
     <string name="sign_out">Sign out</string>
     <string name="simple_page_toast">You can switch to default in Settings > Start page settings</string>
@@ -2396,7 +2396,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="sports_card_match_status_2">In progress</string>
     <string name="sports_card_match_status_3">Finished</string>
     <string name="ssl_bad_clock_date_settings">Set date</string>
-    <string name="ssl_bad_clock_warning" formatted="false">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
+    <string formatted="false" name="ssl_bad_clock_warning">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
     <string name="ssl_bad_expired_warning">"This channel is provided by %1$s. However, the date and time set on your device (%2$s) don't allow to establish a secure connection with %1$s. You can set the correct date and time or tap \"Continue\" if you still want to use this channel."</string>
     <string name="ssl_bad_warning">"This channel is provided by %1$s. However, Mi Browser can't verify that this server belongs to %1$s because its cerificate is invalid or has been revoked. This problem may be caused by incorrect configurations or blocked connection. Tap \"Continue\" if you still want to use this channel."</string>
     <string name="ssl_certificate">Security certificate</string>
