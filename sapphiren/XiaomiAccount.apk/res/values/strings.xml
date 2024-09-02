@@ -92,7 +92,7 @@
     <string name="bind_sns_description">Sign in with %s</string>
     <string name="bind_weixin">Connect your WeChat Account</string>
     <string name="binded">Connected</string>
-    <string name="binded_description" formatted="false">"%s has been connected to your Xiaomi Account.
+    <string formatted="false" name="binded_description">"%s has been connected to your Xiaomi Account.
 You can sign in to your Xiaomi Account using %s now."</string>
     <string name="button_agree">Agree</string>
     <string name="button_close">Close</string>
@@ -328,8 +328,8 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="find_device_interrupted">Action was interrupted, wait a minute or two and try again</string>
     <string name="find_device_io_error">"Can't connect to the network"</string>
     <string name="find_device_location">Locate</string>
-    <string name="find_device_locked_account_email" formatted="false">%s, associated email address: %s</string>
-    <string name="find_device_locked_account_phone" formatted="false">%s, associated phone number: %s</string>
+    <string formatted="false" name="find_device_locked_account_email">%s, associated email address: %s</string>
+    <string formatted="false" name="find_device_locked_account_phone">%s, associated phone number: %s</string>
     <string name="find_device_message">Device is locked. Message: %1$s. Call %2$s.</string>
     <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
     <string name="find_device_open">On</string>
