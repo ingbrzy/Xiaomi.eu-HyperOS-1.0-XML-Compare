@@ -1,1 +1,4 @@
-Removed: [az-rAZ] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
+Removed: [az-rAZ] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
+Removed: [zh-rCN] strings.xml: string/dialog_verify_fingerprint_retry (wrong format)
+Removed: [zh-rHK] strings.xml: string/dialog_verify_fingerprint_retry (wrong format)
+Removed: [zh-rTW] strings.xml: string/dialog_verify_fingerprint_retry (wrong format)
