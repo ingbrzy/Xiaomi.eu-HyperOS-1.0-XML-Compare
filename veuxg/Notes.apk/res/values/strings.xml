@@ -37,24 +37,33 @@
     <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
     <string name="access_photos_and_videos">Access photos and videos</string>
     <string name="action_collapse">Hide</string>
+    <string name="action_copy">Copy</string>
     <string name="action_expand">Show more</string>
+    <string name="action_insert">Insert summary</string>
     <string name="action_mode_switcher_grid_description">Grid view</string>
     <string name="action_mode_switcher_list_description">List view</string>
+    <string name="action_replace">Replace original</string>
+    <string name="action_retry">Regenerate</string>
     <string name="action_settings_description">Settings</string>
     <string name="action_to_link">Open URL</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="actionbar_close_description">Close</string>
     <string name="actionbar_home_description">Back</string>
     <string name="add_account_desc">Sync your notes with your Xiaomi Account?</string>
-    <string name="add_excerpt_summary">Add to summary list</string>
-    <string name="add_pic_excerpt_summary">Add image summary</string>
-    <string name="add_text_excerpt_summary">Add text summary</string>
+    <string name="add_modifications">Suggestion: Add \"%1$s\"</string>
     <string name="added_to_clipboard">Copied successfully</string>
+    <string name="adopt">Use</string>
     <string name="afternoon">Afternoon</string>
-    <string name="ai_chat_declare_double_link"><Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before you continue.</Data></string>
-    <string name="ai_chat_dlg_content">For various information sources in different scenarios (such as links or text appearing in apps like browsers, WeChat, and Feishu), the function of quickly collecting and summarizing information, as well as automatically generating and presenting it in a unified entry for archiving, can be achieved.</string>
-    <string name="ai_createing_text">AI Generating...</string>
-    <string name="ai_watermark">Generate by AI:</string>
+    <string name="ai_check">AI proofreading</string>
+    <string name="ai_failed">"Couldn't generate. Try again."</string>
+    <string name="ai_feature_disabled">You violated our community standards multiple times. This feature is no longer available.</string>
+    <string name="ai_label">AI features</string>
+    <string name="ai_layout">AI layout</string>
+    <string name="ai_result_warn">The content above is AI-generated. Accuracy may vary.</string>
+    <string name="ai_sensitive_content_warn">"Can't use AI features for sensitive or inappropriate content"</string>
+    <string name="ai_summary">AI summary</string>
+    <string name="ai_translate">AI translate</string>
+    <string name="ai_watermark">AI-generated content is provided for your reference only</string>
     <string name="alarm_bar_title">Reminder</string>
     <string name="alert_action_edit_anyway">Keep editing</string>
     <string name="alert_message_delete">Delete %1$s?</string>
@@ -95,6 +104,7 @@
     <string name="audio_toast_file_invalid">Audio file is invalid</string>
     <string name="audio_toast_file_undownload">"Audio file isn't fully downloaded or missing"</string>
     <string name="audio_toast_network_is_not_available">"Couldn't connect to the network"</string>
+    <string name="auto_detected">Auto detect</string>
     <string name="blackboard_note">Smart blackboard</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
@@ -185,6 +195,7 @@
     <string name="continuous_default_hint">Copy text, save images and screenshots as excerpts</string>
     <string name="continuous_new_excerpt_title">New excerpt</string>
     <string name="copy">Copy</string>
+    <string name="copy_toast_text">Copied successfully</string>
     <string name="cta_agree_desc">Allow this app to connect to the internet and grant the optional permissions to be able to use all its features.</string>
     <string name="cta_confirm_cancel">"Don't allow"</string>
     <string name="cta_confirm_ok">Allow</string>
@@ -257,7 +268,7 @@
     <string name="doodle_guide_dialog_confirm">OK</string>
     <string name="doodle_guide_dialog_skip">Skip</string>
     <string name="doodle_guide_dialog_title">Sketching</string>
-    <string name="doodle_guide_quick_shape_hint" formatted="false">Press and hold the sketch for %d–%d seconds to adjust strokes automatically</string>
+    <string formatted="false" name="doodle_guide_quick_shape_hint">Press and hold the sketch for %d–%d seconds to adjust strokes automatically</string>
     <string name="doodle_palette">Color palette</string>
     <string name="doodle_saving">Saving</string>
     <string name="doodle_tool_background">Change canvas</string>
@@ -286,6 +297,7 @@
     <string name="empty" />
     <string name="enable_sync">Sync</string>
     <string name="enable_sync_desc">Sync your notes with your Xiaomi Account (%1$s)?</string>
+    <string name="enter_content">Enter content first</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_contact_not_exist">"Contact doesn't exist"</string>
@@ -300,20 +312,8 @@
     <string name="evening">Afternoon</string>
     <string name="exceed_todo_text_limitation">Task description is too long.</string>
     <string name="excerpt">Excerpts</string>
-    <string name="excerpt_ares_block">Multiple violations and functionality has been disabled.</string>
-    <string name="excerpt_ares_block_tmp">Multiple violations, the function is temporarily disabled.</string>
-    <string name="excerpt_ares_limit">We appreciate your enthusiasm, but we are currently experiencing high traffic. Please click the original link to view or try again later.</string>
     <string name="excerpt_bubble_tips">Copied text and saved images will be saved to Notes</string>
-    <string name="excerpt_image_ares_limit">We appreciate your enthusiasm, but we are currently experiencing high traffic. Please refer to the original image or try again later.</string>
-    <string name="excerpt_image_summary_fail">Content parsing failed. Please review the original image or try again later.</string>
-    <string name="excerpt_image_summary_huangfan">The content is sensitive, please refer to the original image.</string>
     <string name="excerpt_link_bubble_tips">Tap to save to Notes</string>
-    <string name="excerpt_original_image">Original Image:</string>
-    <string name="excerpt_original_text">Original Text:</string>
-    <string name="excerpt_summary_fail">Content parsing failed. Please click the original link to view or try again later.</string>
-    <string name="excerpt_summary_huangfan">Content is sensitive. Please click the original link to view.</string>
-    <string name="excerpt_summary_link_bubble_tips">Tap to save summary to Notes.</string>
-    <string name="excerpt_text_min">There is too little text to generate a summary. Please refer to the original image.</string>
     <string name="excerpted_to_note">Saved excerpt to Notes</string>
     <string name="excerpting">Creating an excerpt…</string>
     <string name="expand_button_title">Advanced</string>
@@ -384,6 +384,7 @@
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
+    <string name="generating">Just a sec…</string>
     <string name="gesture_guide_cancel">Skip</string>
     <string name="gesture_guide_title">Gestures</string>
     <string name="hand_write_only_support_tablet_editing">Handwritten notes can only be edited on tablets</string>
@@ -442,6 +443,7 @@
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading_text">Just a sec…</string>
     <string name="login_sync">Sign in &amp; sync</string>
+    <string name="main_body">Full text</string>
     <string name="manage_folders">Manage folders</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="material_clock_display_divider">:</string>
@@ -675,6 +677,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="net_error">A network error occurred</string>
     <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
     <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="new_alert_title_delete">Delete notes</string>
@@ -721,6 +724,8 @@
     <string name="option_menu_save_as">Save as</string>
     <string name="option_menu_save_as_pic">Save as image</string>
     <string name="option_menu_share">Share</string>
+    <string name="original_empty_content">No content in original version</string>
+    <string name="original_text">Original: \"%1$s\"</string>
     <string name="pad_collpase_navigation">Hide navigation panel</string>
     <string name="pad_dialog_take_photo_by_device">Taking photo with %1$s</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Using camera…</string>
@@ -765,6 +770,8 @@
     <string name="pc_todo_fast_create_hint">Enter text and press \"Enter\" to add an unfinished task</string>
     <string name="pc_todo_set_remind_time_hint">Set time</string>
     <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
+    <string name="permission_ai_desc_n">&lt;Data>In order to provide you with Notes AI services, Notes will collect the text you enter to generate summaries and optimize text. Read and agree to our &lt;a href=\"%1$s\">Privacy Policy and Third Party Data Sharing Statement&lt;/a> before you continue.&lt;/Data></string>
+    <string name="permission_ai_title">Notes AI services</string>
     <string name="permission_data_shared_desc">Notes Third Party Data Sharing Statement</string>
     <string name="permission_intro_contact">For marking notes taken during calls</string>
     <string name="permission_intro_microphone">For recording voice notes</string>
@@ -783,7 +790,6 @@
     <string name="pm">PM</string>
     <string name="pref_category_title_quick_func">Quick features</string>
     <string name="pref_excerpt_link_float">Receive a reminder to create an excerpt whenever a URL is copied</string>
-    <string name="pref_excerpt_summary_link_float">Every time the link is copied, the shorthand bar will provide a pending summary reminder, click to extract the summary.</string>
     <string name="pref_permission_allowed">Granted</string>
     <string name="pref_permission_manage">Permissions details</string>
     <string name="pref_permission_manage_key_contact">Access contacts</string>
@@ -797,7 +803,6 @@
     <string name="pref_title_cloud_trash_bin">Deleted notes in the cloud</string>
     <string name="pref_title_common">Additional settings</string>
     <string name="pref_title_excerpt_remind">Excerpt reminders</string>
-    <string name="pref_title_excerpt_summary_remind">SummaryList</string>
     <string name="pref_title_font_size">Font size</string>
     <string name="pref_title_note_style">Style</string>
     <string name="pref_title_quick_note">Quick notes</string>
@@ -837,6 +842,8 @@
     <string name="repeat_mode_week">Every week</string>
     <string name="repeat_mode_year">Every year</string>
     <string name="required_permissions">;</string>
+    <string name="retry">Try again</string>
+    <string name="revoke_modifications">Undo</string>
     <string name="rich_text_bold_description">Bold</string>
     <string name="rich_text_bulleted_list_description">Checkbox</string>
     <string name="rich_text_center_description">Center</string>
@@ -874,6 +881,7 @@
     <string name="select_account_prompt">Sync notes</string>
     <string name="send">Send</string>
     <string name="send_notifications_for_reminder">For sending reminders</string>
+    <string name="sensitive_content_warn">"Can't create AI summary for sensitive content"</string>
     <string name="set_alarm_description">Set alarm</string>
     <string name="setting_big_screen_layout_columns">Sidebar</string>
     <string name="setting_big_screen_layout_flat">Tiles</string>
@@ -885,8 +893,6 @@
     <string name="setting_other">OTHER</string>
     <string name="setting_privacy">Privacy Policy</string>
     <string name="single_link_excerpt_saving">Saving items…</string>
-    <string name="single_link_excerpt_summary_saving">Generating summary list.</string>
-    <string name="single_link_pic_excerpt_summary_saving">Image summary generation in progress</string>
     <string name="single_new_excerpt_title">Excerpts</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -928,6 +934,9 @@
     <string name="splash_note">Stylus</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stealth_mode_tip">"You're incognito. Can't use microphone now."</string>
+    <string name="suggested_delete">Suggestion: Delete \"%1$s\"</string>
+    <string name="suggested_modifications">Suggestion: Change \"%1$s\" to \"%2$s\"</string>
+    <string name="summary">Summary</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
@@ -1005,11 +1014,6 @@
     <string name="time_picker_dialog_title">Set time</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="to_be_read_bubble_tips">Copied link and text will directly extract the abstract to the notes.</string>
-    <string name="to_be_read_image_list">Image Summary</string>
-    <string name="to_be_read_link_bubble_tips">Tap to save summary to Notes</string>
-    <string name="to_be_read_list">SummaryList</string>
-    <string name="to_be_read_text_list">Text Summary</string>
     <string name="to_view_alarm_content">Tap to view</string>
     <string name="toast_cancel_to_insert_image">"Couldn't add image."</string>
     <string name="toast_excerpt_end">Created excerpt successfully</string>
@@ -1035,8 +1039,6 @@ Allow Notes to read the contents of your SD card."</string>
     <string name="toast_refuse_to_use_record_audio">"Microphone permissions are restricted.
 Allow Notes to record audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Allow Notes to access storage to be able to add images to your notes</string>
-    <string name="toast_show_no_network">Please connect to the network and try again.</string>
-    <string name="toast_show_xiaomi_account">Login your Xiaomi account and try again.</string>
     <string name="today">Today</string>
     <string name="todo_alert_title_delete">Delete completed tasks</string>
     <string name="todo_audio_default_content">"[Voice task] "</string>
