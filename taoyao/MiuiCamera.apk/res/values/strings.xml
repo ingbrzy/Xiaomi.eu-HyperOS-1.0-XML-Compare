@@ -1515,7 +1515,7 @@ look larger on photos"</string>
     <string name="module_name_super_moon">Supermoon</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">VLOG</string>
-    <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps videos can be up to %2d seconds long</string>
+    <string formatted="false" name="moiton_detection_960_fps_video_tip">%1dfps videos can be up to %2d seconds long</string>
     <string name="moiton_detection_tip">Detecting motion… Keep device steady.</string>
     <string name="moiton_detection_video_3840fps_3840">%dFPS</string>
     <string name="moiton_detection_video_electric_quantity_tip">Charge your device to be able to use this feature</string>
@@ -2713,7 +2713,7 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
     <string name="video_prompter_edit_tip_dialog_message">xxxxx</string>
     <string name="video_prompter_edit_tip_dialog_ok">xxxxxxx</string>
     <string name="video_prompter_edit_tip_dialog_title">xxxxx</string>
-    <string name="video_prompter_edit_total_words" formatted="false">%d/%d xxx</string>
+    <string formatted="false" name="video_prompter_edit_total_words">%d/%d xxx</string>
     <string name="video_reach_size_limit">Size limit reached.</string>
     <string name="video_shortcut_short">Video</string>
     <string name="video_tag_flag_title">Tag</string>
@@ -2740,7 +2740,7 @@ to record and edit videos on the go"</string>
     <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">Just a sec…</string>
     <string name="warm_prompt">温馨提示</string>
-    <string name="watermark_count_format" formatted="false">%d/%d</string>
+    <string formatted="false" name="watermark_count_format">%d/%d</string>
     <string name="watermark_tab_city">City</string>
     <string name="watermark_tab_festival">Holiday</string>
     <string name="watermark_tab_general">General</string>
