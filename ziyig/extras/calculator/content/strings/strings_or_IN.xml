@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">କାଲକୁଲେଟର୍</string>
+    <string name="clear">ଖାଲି କରନ୍ତୁ</string>
+    <string name="delete">ବ୍ୟାକସ୍ପେସ୍‌</string>
+    <string name="percent">ପ୍ରତିଶତ</string>
+    <string name="add">ଯୋଗ</string>
+    <string name="subtract">ବିଯୋଗ</string>
+    <string name="multiply">ଗୁଣନ</string>
+    <string name="divide">ହରଣ</string>
+    <string name="equals">ସମାନ</string>
+    <string name="point">ଦଶମିକ</string>
+</resources>

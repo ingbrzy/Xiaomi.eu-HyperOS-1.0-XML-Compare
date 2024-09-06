@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">കാൽക്കുലേറ്റർ</string>
+    <string name="clear">മായ്ക്കുക</string>
+    <string name="delete">ബാക്ക്‌സ്പേസ്</string>
+    <string name="percent">ശതമാനം</string>
+    <string name="add">കൂട്ടുക</string>
+    <string name="subtract">കുറയ്ക്കുക</string>
+    <string name="multiply">ഗുണിക്കുക</string>
+    <string name="divide">ഹരിക്കുക</string>
+    <string name="equals">സമം</string>
+    <string name="point">ഡെസിമൽ</string>
+</resources>

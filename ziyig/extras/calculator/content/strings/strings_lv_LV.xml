@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulators</string>
+    <string name="clear">Notīrīt visu</string>
+    <string name="delete">Dzēst pēdējo</string>
+    <string name="percent">Procenti</string>
+    <string name="add">Pluss</string>
+    <string name="subtract">Mīnuss</string>
+    <string name="multiply">Reizināt</string>
+    <string name="divide">Dalīt</string>
+    <string name="equals">Vienāds ar</string>
+    <string name="point">Komats</string>
+</resources>

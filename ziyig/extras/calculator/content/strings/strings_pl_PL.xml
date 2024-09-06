@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulator</string>
+    <string name="clear">Wyczyść</string>
+    <string name="delete">Skasuj</string>
+    <string name="percent">Procent</string>
+    <string name="add">Dodaj</string>
+    <string name="subtract">Odejmij</string>
+    <string name="multiply">Pomnóż</string>
+    <string name="divide">Podziel</string>
+    <string name="equals">Równa się</string>
+    <string name="point">Dziesiętne</string>
+</resources>

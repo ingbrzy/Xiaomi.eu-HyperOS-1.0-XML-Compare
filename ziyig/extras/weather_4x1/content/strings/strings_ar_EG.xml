@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'AQI \'+#aqi</string>
+    <string name="air_quality1">\'AQI \'+#aqi</string>
+    <string name="air_quality2">\'AQI \'+#aqi</string>
+    <string name="air_quality3">\'AQI \'+#aqi</string>
+    <string name="air_quality4">\'AQI \'+#aqi</string>
+    <string name="air_quality5">\'AQI \'+#aqi</string>
+    <string name="weather_null">انقر للحصول على معلومات الطقس</string>
+    <string name="weather_location_null">لا توجد معلومات حول الموقع</string>
+    <string name="weather_type_0">صافٍ</string>
+    <string name="weather_type_1">غائم</string>
+    <string name="weather_type_2">غائم جزئيا</string>
+    <string name="weather_type_3">ضبابي</string>
+    <string name="weather_type_4">عاصفة ممطرة</string>
+    <string name="weather_type_5">مطر غزير</string>
+    <string name="weather_type_6">عاصفة ممطرة</string>
+    <string name="weather_type_7">عاصفة رعدية</string>
+    <string name="weather_type_8">مطر</string>
+    <string name="weather_type_9">أمطار غزيرة</string>
+    <string name="weather_type_10">أمطار متوسطة</string>
+    <string name="weather_type_11">أمطار خفيفة</string>
+    <string name="weather_type_12">أمطار وثلوج</string>
+    <string name="weather_type_13">عاصفة ثلجية عنيفة</string>
+    <string name="weather_type_14">ثلج</string>
+    <string name="weather_type_15">ثلج كثيف</string>
+    <string name="weather_type_16">ثلوج متوسطة</string>
+    <string name="weather_type_17">ثلوج خفيفة</string>
+    <string name="weather_type_18">عاصفة رملية قوية</string>
+    <string name="weather_type_19">عاصفة رملية</string>
+    <string name="weather_type_20">رمل</string>
+    <string name="weather_type_21">عاصفة ترابية</string>
+    <string name="weather_type_22">برد</string>
+    <string name="weather_type_23">غبار</string>
+    <string name="weather_type_24">ضباب</string>
+    <string name="weather_type_25">امطار متجمدة</string>
+</resources>

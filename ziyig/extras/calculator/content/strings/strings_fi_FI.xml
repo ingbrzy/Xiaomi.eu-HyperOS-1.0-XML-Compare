@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Laskin</string>
+    <string name="clear">Tyhjennä</string>
+    <string name="delete">Poista</string>
+    <string name="percent">Prosentti</string>
+    <string name="add">Lisää</string>
+    <string name="subtract">Vähennä</string>
+    <string name="multiply">Kerro</string>
+    <string name="divide">Jaa</string>
+    <string name="equals">Yhtäkuin</string>
+    <string name="point">Desimaali</string>
+</resources>

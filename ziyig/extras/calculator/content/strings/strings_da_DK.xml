@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Lommeregner</string>
+    <string name="clear">Clear</string>
+    <string name="delete">Slet</string>
+    <string name="percent">Procent</string>
+    <string name="add">Plus</string>
+    <string name="subtract">Minus</string>
+    <string name="multiply">Gange</string>
+    <string name="divide">Divider</string>
+    <string name="equals">Lig med</string>
+    <string name="point">Komma</string>
+</resources>

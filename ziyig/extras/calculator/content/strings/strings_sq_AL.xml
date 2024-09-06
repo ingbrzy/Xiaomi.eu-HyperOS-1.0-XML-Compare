@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Llogaritësi</string>
+    <string name="clear">Pastro</string>
+    <string name="delete">Hapësirë</string>
+    <string name="percent">Për qind</string>
+    <string name="add">Shto</string>
+    <string name="subtract">Zbrit</string>
+    <string name="multiply">Shumëzo</string>
+    <string name="divide">Pjesëto</string>
+    <string name="equals">Barazim</string>
+    <string name="point">Decimel</string>
+</resources>

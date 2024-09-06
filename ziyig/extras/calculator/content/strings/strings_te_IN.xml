@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">కాలిక్యులేటర్</string>
+    <string name="clear">తీసివేయి</string>
+    <string name="delete">బ్యాక్‌స్పేస్</string>
+    <string name="percent">శాతం</string>
+    <string name="add">కూడండి</string>
+    <string name="subtract">తీసివేయండి</string>
+    <string name="multiply">గుణించండి</string>
+    <string name="divide">విభజించండి</string>
+    <string name="equals">సమానం</string>
+    <string name="point">డెసిమల్</string>
+</resources>

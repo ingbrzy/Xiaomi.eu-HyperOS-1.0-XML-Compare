@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Máy tính</string>
+    <string name="clear">Xóa hết</string>
+    <string name="delete">Xóa</string>
+    <string name="percent">Phần trăm</string>
+    <string name="add">Cộng</string>
+    <string name="subtract">Trừ</string>
+    <string name="multiply">Nhân</string>
+    <string name="divide">Chia</string>
+    <string name="equals">Bằng</string>
+    <string name="point">Phẩy</string>
+</resources>

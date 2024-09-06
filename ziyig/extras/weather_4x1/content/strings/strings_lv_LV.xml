@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="air_quality0">\'GKI \'+#aqi</string>
+    <string name="air_quality1">\'GKI \'+#aqi</string>
+    <string name="air_quality2">\'GKI \'+#aqi</string>
+    <string name="air_quality3">\'GKI \'+#aqi</string>
+    <string name="air_quality4">\'GKI \'+#aqi</string>
+    <string name="air_quality5">\'GKI \'+#aqi</string>
+    <string name="weather_null">Pieskarieties, lai iegūtu laikapstākļu informāciju</string>
+    <string name="weather_location_null">Nav atrašanās vietas informācijas</string>
+    <string name="weather_type_0">Skaidrs</string>
+    <string name="weather_type_1">Mākoņains</string>
+    <string name="weather_type_2">Apmācies</string>
+    <string name="weather_type_3">Miglains</string>
+    <string name="weather_type_4">Spēcīgas lietusgāzes</string>
+    <string name="weather_type_5">Lietusgāzes</string>
+    <string name="weather_type_6">Lietusgāze</string>
+    <string name="weather_type_7">Pērkona negaiss</string>
+    <string name="weather_type_8">Lietus</string>
+    <string name="weather_type_9">Spēcīgas lietusgāzes</string>
+    <string name="weather_type_10">Mērens lietus</string>
+    <string name="weather_type_11">Viegls lietus</string>
+    <string name="weather_type_12">Slapjš sniegs</string>
+    <string name="weather_type_13">Putenis</string>
+    <string name="weather_type_14">Sniegs</string>
+    <string name="weather_type_15">Stipri snieg</string>
+    <string name="weather_type_16">Mērens sniegs</string>
+    <string name="weather_type_17">Neliels sniegs</string>
+    <string name="weather_type_18">Spēcīga smilšu vētra</string>
+    <string name="weather_type_19">Smilšu vētra</string>
+    <string name="weather_type_20">Smiltis</string>
+    <string name="weather_type_21">Putekļu vētra</string>
+    <string name="weather_type_22">Krusa</string>
+    <string name="weather_type_23">Putekļi</string>
+    <string name="weather_type_24">Dūmaka</string>
+    <string name="weather_type_25">Ledus lietus</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">کیلکولیٹر</string>
+    <string name="clear">مٹائیں</string>
+    <string name="delete">بیک اسپیس</string>
+    <string name="percent">فیصد</string>
+    <string name="add">شامل کریں</string>
+    <string name="subtract">گھٹائیں</string>
+    <string name="multiply">ضرب دیں</string>
+    <string name="divide">تقسیم کریں</string>
+    <string name="equals">مساوی</string>
+    <string name="point">اعشاریہ</string>
+</resources>

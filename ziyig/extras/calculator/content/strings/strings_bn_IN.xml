@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">ক্যালকুলেটর</string>
+    <string name="clear">পরিষ্কার করুন</string>
+    <string name="delete">ব্যাকস্পেস</string>
+    <string name="percent">শতাংশ</string>
+    <string name="add">যোগ করুন</string>
+    <string name="subtract">বিয়োগ করুন</string>
+    <string name="multiply">গুণ করুন</string>
+    <string name="divide">ভাগ করুন</string>
+    <string name="equals">সমান সমান</string>
+    <string name="point">ডেসিমাল</string>
+</resources>

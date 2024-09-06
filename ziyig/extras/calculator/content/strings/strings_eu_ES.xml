@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulagailua</string>
+    <string name="clear">Garbitu</string>
+    <string name="delete">Ezabatu</string>
+    <string name="percent">Ehunekoa</string>
+    <string name="add">Gehitu</string>
+    <string name="subtract">Kendu</string>
+    <string name="multiply">Biderkatu</string>
+    <string name="divide">Zatitu</string>
+    <string name="equals">Berdin</string>
+    <string name="point">Hamartarra</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Skaičiuotuvas</string>
+    <string name="clear">Išvalyti</string>
+    <string name="delete">Trinti</string>
+    <string name="percent">Procentai</string>
+    <string name="add">Sudėti</string>
+    <string name="subtract">Atimti</string>
+    <string name="multiply">Dauginti</string>
+    <string name="divide">Dalinti</string>
+    <string name="equals">Lygu</string>
+    <string name="point">Kablelis</string>
+</resources>

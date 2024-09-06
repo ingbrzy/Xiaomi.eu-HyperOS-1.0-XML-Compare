@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">מחשבון</string>
+    <string name="clear">איפוס</string>
+    <string name="delete">רווח אחורי</string>
+    <string name="percent">אחוז</string>
+    <string name="add">הוספה</string>
+    <string name="subtract">חיסור</string>
+    <string name="multiply">כפל</string>
+    <string name="divide">חילוק</string>
+    <string name="equals">שווה</string>
+    <string name="point">נקודה עשרונית</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Калькулятор</string>
+    <string name="clear">Тазарту</string>
+    <string name="delete">Өшіру</string>
+    <string name="percent">Пайыз</string>
+    <string name="add">Қосу</string>
+    <string name="subtract">Алу</string>
+    <string name="multiply">Көбейту</string>
+    <string name="divide">Бөлу</string>
+    <string name="equals">Тең</string>
+    <string name="point">Ондық</string>
+</resources>

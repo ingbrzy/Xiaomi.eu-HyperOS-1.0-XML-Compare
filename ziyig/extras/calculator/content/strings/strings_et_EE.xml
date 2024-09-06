@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulaator</string>
+    <string name="clear">Puhasta</string>
+    <string name="delete">Tagasilükkeklahv</string>
+    <string name="percent">Protsent</string>
+    <string name="add">Lisa</string>
+    <string name="subtract">Lahuta</string>
+    <string name="multiply">Korruta</string>
+    <string name="divide">Jaga</string>
+    <string name="equals">Võrdub</string>
+    <string name="point">Kümnend</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Հաշվիչ</string>
+    <string name="clear">Պարզ</string>
+    <string name="delete">Հետ քայլ</string>
+    <string name="percent">Տոկոս</string>
+    <string name="add">Ավելացնել</string>
+    <string name="subtract">Հանել</string>
+    <string name="multiply">Բազմապատկել</string>
+    <string name="divide">Բաժանել</string>
+    <string name="equals">Հավասար է</string>
+    <string name="point">Տասնորդական</string>
+</resources>

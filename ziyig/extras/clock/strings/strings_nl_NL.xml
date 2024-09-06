@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">EEE dd MMMM</string>
+    <string name="date_time_12">EEE dd MMMM</string>
+    <string name="desc_date_format">EEEE dd MMM</string>
+    <string name="desc_date_format_12">EEEE dd MMM</string>
+    <string name="desc_time">'huidige tijd\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', dubbelklik om klokapp te openen'</string>
+    <string name="weather_type_null">'Geen data'</string>
+    <string name="weather_type_0">Helder</string>
+    <string name="weather_type_1">Bewolkt</string>
+    <string name="weather_type_2">Zwaar bewolkt</string>
+    <string name="weather_type_3">Mistig</string>
+    <string name="weather_type_4">Hevige regenval</string>
+    <string name="weather_type_5">Stortbui</string>
+    <string name="weather_type_6">Regenstorm</string>
+    <string name="weather_type_7">Onweersbui</string>
+    <string name="weather_type_8">Regenbui</string>
+    <string name="weather_type_9">Zware regenval</string>
+    <string name="weather_type_10">Matige regenval</string>
+    <string name="weather_type_11">Lichte regenval</string>
+    <string name="weather_type_12">Buien met sneeuw</string>
+    <string name="weather_type_13">Sneeuwstorm</string>
+    <string name="weather_type_14">Sneeuw</string>
+    <string name="weather_type_15">Zware sneeuwval</string>
+    <string name="weather_type_16">Matige sneeuwval</string>
+    <string name="weather_type_17">Lichte sneeuw</string>
+    <string name="weather_type_18">Sterke zandstorm</string>
+    <string name="weather_type_19">Matige zandstorm</string>
+    <string name="weather_type_20">Zandstorm</string>
+    <string name="weather_type_21">Stofstorm</string>
+    <string name="weather_type_22">Hagel</string>
+    <string name="weather_type_23">Smog</string>
+    <string name="weather_type_24">Nevel</string>
+    <string name="weather_type_25">IJzel</string>
+</resources>

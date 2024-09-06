@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Számológép</string>
+    <string name="clear">Törlés</string>
+    <string name="delete">Backspace</string>
+    <string name="percent">Százalék</string>
+    <string name="add">Hozzáadás</string>
+    <string name="subtract">Kivonás</string>
+    <string name="multiply">Szorzás</string>
+    <string name="divide">Osztás</string>
+    <string name="equals">Egyenlő</string>
+    <string name="point">Tizedes</string>
+</resources>

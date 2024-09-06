@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">เครื่องคิดเลข</string>
+    <string name="clear">ล้าง</string>
+    <string name="delete">ลบ</string>
+    <string name="percent">เปอร์เซ็นต์</string>
+    <string name="add">บวก</string>
+    <string name="subtract">ลบ</string>
+    <string name="multiply">คูณ</string>
+    <string name="divide">หาร</string>
+    <string name="equals">เท่ากับ</string>
+    <string name="point">ทศนิยม</string>
+</resources>

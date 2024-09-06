@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">कॅल्क्युलेटर</string>
+    <string name="clear">पुसा</string>
+    <string name="delete">बॅकस्पेस</string>
+    <string name="percent">टक्के</string>
+    <string name="add">अधिक</string>
+    <string name="subtract">वजा</string>
+    <string name="multiply">गुणाकार</string>
+    <string name="divide">भागाकार</string>
+    <string name="equals">बरोबर</string>
+    <string name="point">डेसिमल</string>
+</resources>

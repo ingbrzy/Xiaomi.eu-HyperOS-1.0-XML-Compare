@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Rechner</string>
+    <string name="clear">Löschen</string>
+    <string name="delete">Rücktaste</string>
+    <string name="percent">Prozent</string>
+    <string name="add">Hinzufügen</string>
+    <string name="subtract">Abziehen</string>
+    <string name="multiply">Multiplizieren</string>
+    <string name="divide">Teilen</string>
+    <string name="equals">Ist gleich</string>
+    <string name="point">Dezimal</string>
+</resources>

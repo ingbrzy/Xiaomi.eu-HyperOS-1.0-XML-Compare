@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">ಕ್ಯಾಲ್ಕ್ಯುಲೇಟರ್‌</string>
+    <string name="clear">ಅಳಿಸಿ</string>
+    <string name="delete">ಬ್ಯಾಕ್‌ಸ್ಪೇಸ್‌</string>
+    <string name="percent">ಪರ್ಸೆಂಟ್‌</string>
+    <string name="add">ಸೇರಿಸು</string>
+    <string name="subtract">ಕಳೆಯುವುದು</string>
+    <string name="multiply">ಗುಣಿಸು</string>
+    <string name="divide">ಭಾಗಿಸು</string>
+    <string name="equals">ಸಮ</string>
+    <string name="point">ಡೆಸಿಮಲ್</string>
+</resources>

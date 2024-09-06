@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">Kliko për të marr informacionet e motit</string>
+    <string name="date_format">EEEE d MMMM</string>
+    <string name="today">Sot</string>
+    <string name="tomorrow">Nesër</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'Nuk ka të dhëna'</string>
+    <string name="weather_type_0">Kthjellët</string>
+    <string name="weather_type_1">Me re</string>
+    <string name="weather_type_2">Me vranësira</string>
+    <string name="weather_type_3">Me mjegull</string>
+    <string name="weather_type_4">Shi i stuhishëm</string>
+    <string name="weather_type_5">Shi i rrëmbyer</string>
+    <string name="weather_type_6">Stuhi shiu</string>
+    <string name="weather_type_7">Stuhi me bubullima</string>
+    <string name="weather_type_8">Shi</string>
+    <string name="weather_type_9">Shira të rënda</string>
+    <string name="weather_type_10">Shi i butë</string>
+    <string name="weather_type_11">Shi i lehtë</string>
+    <string name="weather_type_12">Shi i përzier me borë</string>
+    <string name="weather_type_13">Stuhi dëbore</string>
+    <string name="weather_type_14">Dëborë</string>
+    <string name="weather_type_15">Dëborë e rëndë</string>
+    <string name="weather_type_16">Dëborë e butë</string>
+    <string name="weather_type_17">Dëborë e lehtë</string>
+    <string name="weather_type_18">Stuhi e fortë rëre</string>
+    <string name="weather_type_19">Stuhi rëre</string>
+    <string name="weather_type_20">Rërë</string>
+    <string name="weather_type_21">Stuhi Rere</string>
+    <string name="weather_type_22">Breshër</string>
+    <string name="weather_type_23">Pluhur</string>
+    <string name="weather_type_24">Mjegullim</string>
+    <string name="weather_type_25">Shi i akullt</string>
+</resources>

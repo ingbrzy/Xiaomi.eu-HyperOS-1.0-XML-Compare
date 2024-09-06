@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Calculadora</string>
+    <string name="clear">Esborra tot</string>
+    <string name="delete">Eliminar</string>
+    <string name="percent">Percentatge</string>
+    <string name="add">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+    <string name="equals">Igual a</string>
+    <string name="point">Decimal</string>
+</resources>

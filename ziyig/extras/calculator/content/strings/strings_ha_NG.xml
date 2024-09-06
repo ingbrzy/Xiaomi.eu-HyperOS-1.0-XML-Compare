@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkuleta</string>
+    <string name="clear">Goge duka</string>
+    <string name="delete">Goge</string>
+    <string name="percent">Fasent</string>
+    <string name="add">Kara</string>
+    <string name="subtract">Rage</string>
+    <string name="multiply">Ninka</string>
+    <string name="divide">Rab</string>
+    <string name="equals">Daida da</string>
+    <string name="point">Desimal</string>
+</resources>

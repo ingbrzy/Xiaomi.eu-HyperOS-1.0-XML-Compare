@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Hesaplayıcı</string>
+    <string name="clear">Temizle</string>
+    <string name="delete">Sil</string>
+    <string name="percent">Yüzde</string>
+    <string name="add">Ekle</string>
+    <string name="subtract">Çıkar</string>
+    <string name="multiply">Çarp</string>
+    <string name="divide">Böl</string>
+    <string name="equals">Eşittir</string>
+    <string name="point">Ondalık</string>
+</resources>

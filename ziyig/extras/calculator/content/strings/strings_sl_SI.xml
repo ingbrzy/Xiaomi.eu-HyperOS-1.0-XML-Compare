@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulator</string>
+    <string name="clear">Počisti vse</string>
+    <string name="delete">Brisanje nazaj</string>
+    <string name="percent">Odstotek</string>
+    <string name="add">Dodaj</string>
+    <string name="subtract">Odštej</string>
+    <string name="multiply">Pomnoži</string>
+    <string name="divide">Deli</string>
+    <string name="equals">Je enako</string>
+    <string name="point">Decimalno ločilo</string>
+</resources>

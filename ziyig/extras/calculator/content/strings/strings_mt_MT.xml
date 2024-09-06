@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkolatriċi</string>
+    <string name="clear">Neħħi</string>
+    <string name="delete">Spazju lura</string>
+    <string name="percent">Perċentwali</string>
+    <string name="add">Żid</string>
+    <string name="subtract">Naqqas</string>
+    <string name="multiply">Immultiplika</string>
+    <string name="divide">Aqsam</string>
+    <string name="equals">Daqs</string>
+    <string name="point">Deċimali</string>
+</resources>

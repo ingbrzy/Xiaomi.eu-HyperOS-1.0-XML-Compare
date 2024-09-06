@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">계산기</string>
+    <string name="clear">지우기</string>
+    <string name="delete">백스페이스</string>
+    <string name="percent">백분율</string>
+    <string name="add">더하기</string>
+    <string name="subtract">빼기</string>
+    <string name="multiply">곱하기</string>
+    <string name="divide">나누기</string>
+    <string name="equals">등호</string>
+    <string name="point">소수점</string>
+</resources>

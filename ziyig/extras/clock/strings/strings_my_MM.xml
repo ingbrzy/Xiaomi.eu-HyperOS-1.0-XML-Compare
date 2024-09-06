@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">EEE, MMMM dd</string>
+    <string name="date_time_12">EEE, MMMM dd</string>
+    <string name="desc_date_format">EEEE, MMM dd</string>
+    <string name="desc_date_format_12">EEEE, MMM dd</string>
+    <string name="desc_time">'လက်ရှိအချိန်\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', နာရီအက်ပ်သို့ ဝင်ရန် နှစ်ချက်ထိနှိပ်ပါ'</string>
+    <string name="weather_type_null">'ဒေတာ မရှိပါ'</string>
+    <string name="weather_type_0">နေသာသည်</string>
+    <string name="weather_type_1">မိုးအုံ့</string>
+    <string name="weather_type_2">တိမ်ထူထပ်</string>
+    <string name="weather_type_3">မြူဆိုင်း</string>
+    <string name="weather_type_4">မုန်တိုင်းကြီး</string>
+    <string name="weather_type_5">မိုးသည်းထန်စွာရွာသွန်း</string>
+    <string name="weather_type_6">မုန်တိုင်း</string>
+    <string name="weather_type_7">မိုးကြိုးမုန်တိုင်း</string>
+    <string name="weather_type_8">မိုး</string>
+    <string name="weather_type_9">မိုးသည်းထန်စွာရွာသွန်း</string>
+    <string name="weather_type_10">မိုးအသင့်အတင့်ရွာသွန်း</string>
+    <string name="weather_type_11">မိုးအနည်းငယ်ရွာသွန်း</string>
+    <string name="weather_type_12">ဆီးနှင်းရွာသွန်း</string>
+    <string name="weather_type_13">နှင်းမုန်တိုင်း</string>
+    <string name="weather_type_14">နှင်းကျ</string>
+    <string name="weather_type_15">နှင်းသည်းထန်စွာကျ</string>
+    <string name="weather_type_16">နှင်းအသင့်အတင့်</string>
+    <string name="weather_type_17">နှင့်အနည်းငယ်ကျ</string>
+    <string name="weather_type_18">သဲမုန်တိုင်းကြီး</string>
+    <string name="weather_type_19">သဲမုန်တိုင်း</string>
+    <string name="weather_type_20">သဲ</string>
+    <string name="weather_type_21">ဖုန်မုန်တိုင်း</string>
+    <string name="weather_type_22">မိုးသီး</string>
+    <string name="weather_type_23">ဖုန်ထူ</string>
+    <string name="weather_type_24">မြူဆိုင်း</string>
+    <string name="weather_type_25">ရေခဲမိုး</string>
+</resources>

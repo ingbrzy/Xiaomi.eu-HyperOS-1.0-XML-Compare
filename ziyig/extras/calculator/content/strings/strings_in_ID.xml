@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulator</string>
+    <string name="clear">Hapus semua</string>
+    <string name="delete">Hapus</string>
+    <string name="percent">Persen</string>
+    <string name="add">Tambah</string>
+    <string name="subtract">Kurang</string>
+    <string name="multiply">Kali</string>
+    <string name="divide">Bagi</string>
+    <string name="equals">Sama dengan</string>
+    <string name="point">Desimal</string>
+</resources>

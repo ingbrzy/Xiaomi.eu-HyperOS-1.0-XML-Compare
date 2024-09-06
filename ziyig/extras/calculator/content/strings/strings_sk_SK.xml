@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulačka</string>
+    <string name="clear">Vymazať</string>
+    <string name="delete">Späť</string>
+    <string name="percent">Percento</string>
+    <string name="add">Pridať</string>
+    <string name="subtract">Odpočítavanie</string>
+    <string name="multiply">Násobenie</string>
+    <string name="divide">Delenie</string>
+    <string name="equals">Rovná sa</string>
+    <string name="point">Desatinné</string>
+</resources>

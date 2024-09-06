@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">ਕੈਲਕੁਲੇਟਰ</string>
+    <string name="clear">ਸਾਰੇ ਸਾਫ਼ ਕਰੋੋ</string>
+    <string name="delete">ਬੈਕਸਪੇਸ</string>
+    <string name="percent">ਪ੍ਰਤੀਸ਼ਤ</string>
+    <string name="add">ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="subtract">ਘਟਾਓ</string>
+    <string name="multiply">ਗੁਣਾ ਕਰੋ</string>
+    <string name="divide">ਤਕਸੀਮ ਕਰੋ</string>
+    <string name="equals">ਬਰਾਬਰ</string>
+    <string name="point">ਦਸ਼ਮਲਵ</string>
+</resources>

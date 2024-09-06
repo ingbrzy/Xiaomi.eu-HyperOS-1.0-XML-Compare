@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">ဂဏန်းတွက်စက်</string>
+    <string name="clear">ရှင်းရန်</string>
+    <string name="delete">နောက်ပြန်ခလုတ်</string>
+    <string name="percent">ရာခိုင်နှုန်း</string>
+    <string name="add">ပေါင်း</string>
+    <string name="subtract">နုတ်</string>
+    <string name="multiply">မြှောက်</string>
+    <string name="divide">စား</string>
+    <string name="equals">ညီမျှခြင်း</string>
+    <string name="point">ဒသမ</string>
+</resources>

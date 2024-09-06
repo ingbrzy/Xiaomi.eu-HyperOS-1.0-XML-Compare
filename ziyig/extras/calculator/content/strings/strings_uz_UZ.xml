@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulyator</string>
+    <string name="clear">Tozalash</string>
+    <string name="delete">O‘chirish</string>
+    <string name="percent">Foiz</string>
+    <string name="add">Qo‘shish</string>
+    <string name="subtract">Ayirish</string>
+    <string name="multiply">Ko‘paytirish</string>
+    <string name="divide">Bo‘lish</string>
+    <string name="equals">Teng</string>
+    <string name="point">O‘nlik</string>
+</resources>

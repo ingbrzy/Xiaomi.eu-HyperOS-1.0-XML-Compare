@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">কেলকুলেটৰ</string>
+    <string name="clear">পৰিষ্কাৰ</string>
+    <string name="delete">বেকস্পেচ</string>
+    <string name="percent">শতাংশ</string>
+    <string name="add">যোগ</string>
+    <string name="subtract">বিয়োগ</string>
+    <string name="multiply">পুৰণ</string>
+    <string name="divide">হৰণ</string>
+    <string name="equals">সমতুল্য</string>
+    <string name="point">দশমিক</string>
+</resources>

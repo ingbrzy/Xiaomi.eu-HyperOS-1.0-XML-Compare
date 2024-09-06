@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">Πατήστε για να λάβετε πληροφορίες σχετικά με τον καιρό</string>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="today">Σήμερα</string>
+    <string name="tomorrow">Αύριο</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'Δεν υπάρχουν δεδομένα'</string>
+    <string name="weather_type_0">Αίθριος</string>
+    <string name="weather_type_1">Συνvεφιασμένος</string>
+    <string name="weather_type_2">Νεφελώδης</string>
+    <string name="weather_type_3">Ομιχλώδης</string>
+    <string name="weather_type_4">Έντονη νεροποντή</string>
+    <string name="weather_type_5">Νεροποντή</string>
+    <string name="weather_type_6">Καταιγίδα</string>
+    <string name="weather_type_7">Καταιγίδα με κεραυνούς</string>
+    <string name="weather_type_8">Βροχή</string>
+    <string name="weather_type_9">Έντονη βροχόπτωση</string>
+    <string name="weather_type_10">Μέτρια βροχή</string>
+    <string name="weather_type_11">Ασθενής βροχή</string>
+    <string name="weather_type_12">Χιονόνερο</string>
+    <string name="weather_type_13">Χιονοθύελλα</string>
+    <string name="weather_type_14">Χιονόπτωση</string>
+    <string name="weather_type_15">Έντονη χιονόπτωση</string>
+    <string name="weather_type_16">Μέτρια χιονόπτωση</string>
+    <string name="weather_type_17">Ασθενής χιονόπτωση</string>
+    <string name="weather_type_18">Ισχυρή αμμοθύελλα</string>
+    <string name="weather_type_19">Αμμοθύελλα</string>
+    <string name="weather_type_20">Άμμος</string>
+    <string name="weather_type_21">Αμμοθύελλα</string>
+    <string name="weather_type_22">Χαλάζι</string>
+    <string name="weather_type_23">Σκόνη</string>
+    <string name="weather_type_24">Καταχνιά</string>
+    <string name="weather_type_25">Παγωμένη βροχή</string>
+</resources>

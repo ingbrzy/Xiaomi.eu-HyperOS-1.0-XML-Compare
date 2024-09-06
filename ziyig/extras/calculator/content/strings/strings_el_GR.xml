@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Αριθμομηχανή</string>
+    <string name="clear">Εκκαθάριση</string>
+    <string name="delete">Πίσω διαγραφή</string>
+    <string name="percent">Τοις εκατό</string>
+    <string name="add">Πρόσθεση</string>
+    <string name="subtract">Αφαίρεση</string>
+    <string name="multiply">Πολλαπλασιασμός</string>
+    <string name="divide">Διαίρεση</string>
+    <string name="equals">Ίσον</string>
+    <string name="point">Δεκαδικό</string>
+</resources>

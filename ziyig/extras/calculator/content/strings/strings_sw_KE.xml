@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kikokotoo</string>
+    <string name="clear">Futa</string>
+    <string name="delete">Rudisha nyuma</string>
+    <string name="percent">Asilimia</string>
+    <string name="add">Ongeza</string>
+    <string name="subtract">Ondoa</string>
+    <string name="multiply">Zidisha</string>
+    <string name="divide">Gawanya</string>
+    <string name="equals">Sawa na</string>
+    <string name="point">Desimali</string>
+</resources>

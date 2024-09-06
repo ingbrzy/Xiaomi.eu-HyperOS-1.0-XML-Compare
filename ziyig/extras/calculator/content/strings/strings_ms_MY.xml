@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulator</string>
+    <string name="clear">Padam</string>
+    <string name="delete">Undur</string>
+    <string name="percent">Peratus</string>
+    <string name="add">Tambah</string>
+    <string name="subtract">Tolak</string>
+    <string name="multiply">Darab</string>
+    <string name="divide">Bahagi</string>
+    <string name="equals">Sama dengan</string>
+    <string name="point">Perpuluhan</string>
+</resources>

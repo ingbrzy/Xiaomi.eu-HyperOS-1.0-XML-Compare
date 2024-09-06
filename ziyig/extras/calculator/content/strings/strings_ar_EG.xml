@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">الآلة الحاسبة</string>
+    <string name="clear">مسح الكل</string>
+    <string name="delete">مسح</string>
+    <string name="percent">نسبه مئويه</string>
+    <string name="add">زائد</string>
+    <string name="subtract">ناقص</string>
+    <string name="multiply">ضرب</string>
+    <string name="divide">قسمة</string>
+    <string name="equals">يساوي</string>
+    <string name="point">فاصلة عشرية</string>
+</resources>

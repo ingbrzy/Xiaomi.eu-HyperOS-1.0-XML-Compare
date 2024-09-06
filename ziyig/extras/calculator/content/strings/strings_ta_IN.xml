@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">கணிப்பான்</string>
+    <string name="clear">அழி</string>
+    <string name="delete">பேக்ஸ்பேஸ்</string>
+    <string name="percent">சதவீதம்</string>
+    <string name="add">கூட்டு</string>
+    <string name="subtract">கழி</string>
+    <string name="multiply">பெருக்கு</string>
+    <string name="divide">வகு</string>
+    <string name="equals">சமம்</string>
+    <string name="point">டெசிமல்</string>
+</resources>

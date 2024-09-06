@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">ماشین حساب</string>
+    <string name="clear">پاک کردن</string>
+    <string name="delete">پس‌برد</string>
+    <string name="percent">درصد</string>
+    <string name="add">افزودن</string>
+    <string name="subtract">تفریق</string>
+    <string name="multiply">ضرب</string>
+    <string name="divide">تقسیم</string>
+    <string name="equals">برابر</string>
+    <string name="point">دسیمال</string>
+</resources>

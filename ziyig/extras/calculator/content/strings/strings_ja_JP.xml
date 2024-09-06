@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">電卓</string>
+    <string name="clear">オールクリア</string>
+    <string name="delete">桁下げ</string>
+    <string name="percent">パーセント</string>
+    <string name="add">加算</string>
+    <string name="subtract">減算</string>
+    <string name="multiply">乗算</string>
+    <string name="divide">除算</string>
+    <string name="equals">イコール</string>
+    <string name="point">小数点</string>
+</resources>

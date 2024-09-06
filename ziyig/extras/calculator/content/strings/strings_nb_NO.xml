@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkulator</string>
+    <string name="clear">Tøm</string>
+    <string name="delete">Tilbaketast</string>
+    <string name="percent">Prosent</string>
+    <string name="add">Legg til</string>
+    <string name="subtract">Trekk fra</string>
+    <string name="multiply">Gange</string>
+    <string name="divide">Del</string>
+    <string name="equals">Er lik</string>
+    <string name="point">Desimal</string>
+</resources>

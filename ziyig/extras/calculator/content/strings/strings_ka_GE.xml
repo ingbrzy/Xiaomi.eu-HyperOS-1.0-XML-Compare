@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">კალკულიატორი</string>
+    <string name="clear">გასუფთავება</string>
+    <string name="delete">წაშლა</string>
+    <string name="percent">Პროცენტი</string>
+    <string name="add">დაამატეთ</string>
+    <string name="subtract">გამოკლება</string>
+    <string name="multiply">გამრავლება</string>
+    <string name="divide">გაყოფა</string>
+    <string name="equals">ტოლობა</string>
+    <string name="point">ათწილადი</string>
+</resources>

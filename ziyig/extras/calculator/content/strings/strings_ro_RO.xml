@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Calculator</string>
+    <string name="clear">Șterge tot</string>
+    <string name="delete">Elimină</string>
+    <string name="percent">Procent</string>
+    <string name="add">Plus</string>
+    <string name="subtract">Minus</string>
+    <string name="multiply">Înmulțește</string>
+    <string name="divide">Împarte</string>
+    <string name="equals">Egal</string>
+    <string name="point">Decimal</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Kalkylator</string>
+    <string name="clear">Ta bort</string>
+    <string name="delete">Radera senaste</string>
+    <string name="percent">Procent</string>
+    <string name="add">Lägg till</string>
+    <string name="subtract">Minska</string>
+    <string name="multiply">Multiplicera</string>
+    <string name="divide">Dela</string>
+    <string name="equals">Är lika med</string>
+    <string name="point">Decimal</string>
+</resources>

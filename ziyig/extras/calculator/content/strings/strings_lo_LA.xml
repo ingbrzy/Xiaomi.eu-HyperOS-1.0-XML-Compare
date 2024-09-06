@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">ເຄື່ອງຄິດເລກ</string>
+    <string name="clear">​​ລົບ​ລ້າງ</string>
+    <string name="delete">ລົບ</string>
+    <string name="percent">ເປີເຊັນ</string>
+    <string name="add">ເພີ່ມ</string>
+    <string name="subtract">ລົບ</string>
+    <string name="multiply">ຄູນ</string>
+    <string name="divide">ຫານ</string>
+    <string name="equals">ເທົ່າກັບ</string>
+    <string name="point">ທົດສະນິຍົມ</string>
+</resources>

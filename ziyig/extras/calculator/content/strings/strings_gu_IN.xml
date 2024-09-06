@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">કેલ્ક્યુલેટર</string>
+    <string name="clear">સાફ કરો</string>
+    <string name="delete">બેકસ્પેસ</string>
+    <string name="percent">ટકા</string>
+    <string name="add">ઉમેરો</string>
+    <string name="subtract">બાદબાકી કરો</string>
+    <string name="multiply">ગુણાકાર</string>
+    <string name="divide">ભાગાકાર</string>
+    <string name="equals">બરાબર</string>
+    <string name="point">દશાંકી</string>
+</resources>

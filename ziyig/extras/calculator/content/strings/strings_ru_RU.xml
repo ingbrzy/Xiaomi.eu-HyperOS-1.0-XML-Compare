@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Калькулятор</string>
+    <string name="clear">Очистить все</string>
+    <string name="delete">Стереть</string>
+    <string name="percent">Процент</string>
+    <string name="add">Добавить</string>
+    <string name="subtract">Вычесть</string>
+    <string name="multiply">Умножить</string>
+    <string name="divide">Разделить</string>
+    <string name="equals">Равно</string>
+    <string name="point">Десятичная</string>
+</resources>

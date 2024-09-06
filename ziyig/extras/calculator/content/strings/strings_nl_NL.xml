@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">Rekenmachine</string>
+    <string name="clear">Wissen</string>
+    <string name="delete">Backspace</string>
+    <string name="percent">Procent</string>
+    <string name="add">Plus</string>
+    <string name="subtract">Aftrekken</string>
+    <string name="multiply">Vermenigvuldigen</string>
+    <string name="divide">Delen</string>
+    <string name="equals">Is gelijk aan</string>
+    <string name="point">Decimaal</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">ម៉ាស៊ីនគិតលេខ</string>
+    <string name="clear">​សម្អាត</string>
+    <string name="delete">លុបថយក្រោយ</string>
+    <string name="percent">ភាគរយ</string>
+    <string name="add">បន្ថែម</string>
+    <string name="subtract">ដក</string>
+    <string name="multiply">គុណ</string>
+    <string name="divide">ចែក</string>
+    <string name="equals">ស្មើ</string>
+    <string name="point">លេខ​ទសភាគ</string>
+</resources>

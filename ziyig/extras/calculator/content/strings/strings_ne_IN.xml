@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name">क्यालकुलेटर</string>
+    <string name="clear">मेटाउनुहोस्</string>
+    <string name="delete">ब्याकस्पेस</string>
+    <string name="percent">प्रतिशत</string>
+    <string name="add">योग</string>
+    <string name="subtract">घटाउनु</string>
+    <string name="multiply">गुणा गर्नुहोस्</string>
+    <string name="divide">भाग गर्नुहोस्</string>
+    <string name="equals">बराबर</string>
+    <string name="point">दशमलव</string>
+</resources>
