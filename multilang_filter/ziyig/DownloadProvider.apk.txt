@@ -1,0 +1,3 @@
+Removed: [fr] strings.xml: string/download_running_percent (wrong format)
+Removed: [pl] strings.xml: string/download_running_percent (wrong format)
+Removed: [ru] strings.xml: string/download_running_percent (wrong format)

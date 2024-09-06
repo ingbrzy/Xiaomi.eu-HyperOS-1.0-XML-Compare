@@ -1,0 +1,3 @@
+Removed: [vi] strings.xml: string/durationDayHours (wrong format)
+Removed: [vi] strings.xml: string/durationHourMinutes (wrong format)
+Removed: [vi] strings.xml: string/durationMinuteSeconds (wrong format)
