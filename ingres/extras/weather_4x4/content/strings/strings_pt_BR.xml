@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weather_null">Toque para obter informação do clima</string>
     <string name="date_format">EEE, d 'de' MMMM</string>
