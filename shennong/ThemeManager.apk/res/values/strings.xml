@@ -747,7 +747,7 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="local_mode">Offline mode</string>
     <string name="local_mode_close">Turn off offline mode?</string>
     <string name="local_mode_close_desc">Turn off offline mode if you wish to use online services. Turn off now?</string>
-    <string name="local_mode_close_tip">Internet connection is required to set this wallpaper. If you want to use the internet service, you need to turn off the local mode. Confirm to turn it off?</string>
+    <string name="local_mode_close_tip">Internet connection is required to set this wallpaper. If you need to use the internet service, you need to turn off the local mode. Confirm to turn it off?</string>
     <string name="local_mode_desc">"Offline mode only uses local content and doesn't use online services"</string>
     <string name="local_mode_hint">"You're using offline mode.
 Tap to turn off."</string>
