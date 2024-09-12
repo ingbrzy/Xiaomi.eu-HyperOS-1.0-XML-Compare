@@ -1,5 +1,4 @@
 Removed: [az-rAZ] arrays.xml: array/wifitrackerlib_wifi_status (wrong item count)
-Removed: [be] strings.xml: string/kg_failed_attempts_almost_at_wipe (wrong attributes)
 Removed: [bo-rCN] strings.xml: string/kg_invalid_sim_puk_hint (wrong format)
 Removed: [cs] strings.xml: string/kg_invalid_sim_puk_hint (wrong format)
 Removed: [cs] strings.xml: string/notification_app_settings (wrong format)
