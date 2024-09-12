@@ -960,6 +960,7 @@
     <string name="permission_name_write_calendar">Add and edit calendar events</string>
     <string name="permission_name_write_external_storage">Save items to device storage</string>
     <string name="permission_num">%1$s</string>
+    <string name="permissoion_management">权限管理</string>
     <string name="please_input_install_app_name">Enter app name</string>
     <string name="please_input_phone_password">Enter screen lock</string>
     <string name="please_input_phone_password_short">Enter screen lock</string>
