@@ -3383,6 +3383,7 @@ Please send this code to the technician."</string>
     <string name="display_notification_icon_0">None</string>
     <string name="display_notification_icon_1">%d icon</string>
     <string name="display_notification_icon_3">%d icons</string>
+    <string name="display_notification_icon_5">%d icons</string>
     <string name="display_prompt_confirm">Got it</string>
     <string name="display_settings">Display</string>
     <string name="display_settings_new">Display &amp; brightness</string>
