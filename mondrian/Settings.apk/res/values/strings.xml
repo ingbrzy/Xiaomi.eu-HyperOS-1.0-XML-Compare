@@ -3383,6 +3383,7 @@ Please send this code to the technician."</string>
     <string name="display_notification_icon_0">None</string>
     <string name="display_notification_icon_1">%d icon</string>
     <string name="display_notification_icon_3">%d icons</string>
+    <string name="display_notification_icon_5">%d icons</string>
     <string name="display_prompt_confirm">Got it</string>
     <string name="display_settings">Display</string>
     <string name="display_settings_new">Display &amp; brightness</string>
@@ -11749,9 +11750,12 @@ you can use other users' networks, too."</string>
     <string name="winscope_trace_quick_settings_title">Winscope Trace</string>
     <string name="wireless_connected">Connected</string>
     <string name="wireless_debugging_main_switch_title">Use wireless debugging</string>
+    <string name="wireless_display">Wireless display</string>
     <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
     <string name="wireless_off">Off</string>
     <string name="wireless_on">On</string>
+    <string name="wireless_secondary_display">Wireless display extension</string>
+    <string name="wireless_secondary_display_description">Use your tablet as a wireless display extension for a nearby computer</string>
     <string name="wizard_back">Back</string>
     <string name="wizard_back_adoptable">Format another way</string>
     <string name="wizard_next">Next</string>
