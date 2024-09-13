@@ -1,7 +1,6 @@
 Removed: [az-rAZ] arrays.xml: array/suggest_lock_app (wrong item count)
 Removed: [bo-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
 Removed: [it] plurals.xml: plurals/wechat_empty_files (wrong item format)
-Removed: [pl] plurals.xml: plurals/resutl_function_install_app_summary (wrong item format)
 Removed: [ug-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
 Removed: [zh-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
 Removed: [zh-rHK] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
