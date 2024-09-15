@@ -1,5 +1,0 @@
-Removed: [bo-rCN] arrays.xml: array/unit_data_order_currency_ (wrong item count)
-Removed: [ug-rCN] arrays.xml: array/unit_data_order_currency_ (wrong item count)
-Removed: [zh-rCN] arrays.xml: array/unit_data_order_currency_ (wrong item count)
-Removed: [zh-rHK] arrays.xml: array/unit_data_order_currency_ (wrong item count)
-Removed: [zh-rTW] arrays.xml: array/unit_data_order_currency_ (wrong item count)
