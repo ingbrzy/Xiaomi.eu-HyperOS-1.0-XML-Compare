@@ -908,6 +908,8 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="tab_call">Calls</string>
     <string name="tab_fm">FM</string>
     <string name="tab_record">@string/app_name</string>
+    <string name="talkback_traslation">Translate</string>
+    <string name="talkback_traslation_close">Stop translating</string>
     <string name="temporary_not_available">"This feature isn't available yet"</string>
     <string name="text_btn_backward_3_seconds">%d seconds back</string>
     <string name="text_btn_complete">Stop</string>
