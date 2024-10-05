@@ -1,0 +1,2 @@
+Removed: [cs] plurals.xml: plurals/text_group_count (wrong item attributes)
+Removed: [cs] plurals.xml: plurals/view_all (wrong item attributes)
