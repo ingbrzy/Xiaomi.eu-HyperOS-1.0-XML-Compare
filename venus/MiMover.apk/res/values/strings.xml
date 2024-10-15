@@ -211,8 +211,9 @@ Visit https://appleid.apple.com/#!&amp;page=signin to turn off"</string>
     <string name="collect_content">Collected content</string>
     <string name="collect_situation">Collection status</string>
     <string name="collected">Collected</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">46ab667b784e43c2b8fd14f97dfdd324</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">775525ede9854a5e8c5952e3c49ea1aa</string>
     <string name="comma_seperator">", "</string>
+    <string name="compatibility32Bit_mode_toast">"Can't transfer items. Change your selections and try again."</string>
     <string name="connect_icloud_fail">"Couldn't connect to iCloud"</string>
     <string name="connect_icloud_fail_tips">Make sure that your iCloud account has been activated. If not, go to icloud.com and follow the instructions in order to activate your account.</string>
     <string name="connect_wifi">Connect to Wi-Fi</string>
@@ -709,6 +710,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
     <string name="old_task_cleared">Removed old tasks successfully</string>
     <string name="old_wait_link">Select the items to transfer on the old device</string>
     <string name="old_wait_link_extra">Tap \"Transfer\"</string>
+    <string name="open_compatibility_mode">Turn on</string>
     <string name="open_photo_and_contacts_cloud_sync_complete">Start</string>
     <string name="open_photo_and_contacts_cloud_sync_content1">%d. Turn on sync for contacts and Gallery items.</string>
     <string name="open_photo_and_contacts_cloud_sync_content2">%d. Tap \"Sync now\".</string>
@@ -919,6 +921,7 @@ Free up at least %s."</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_compatibility_mode">Not now</string>
     <string name="skip_transfer">Skip</string>
     <string name="skip_underline">Skip this step</string>
     <string name="sms">SMS</string>
@@ -951,6 +954,7 @@ Free up at least %s."</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="ssid_name">SSID/Wi-Fi name</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="subtitle_compatibility_mode">"The following apps aren't compatible with %d-bit architecture. Turn on App compatibility mode to be able to transfer them."</string>
     <string name="succ_description">Done</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_open_wlan">Mi Mover needs this permission to ensure the stability of the transfer process.</string>
@@ -1040,6 +1044,7 @@ Free up at least %s."</string>
     <string name="tips_secret_note">notes</string>
     <string name="tips_secret_title">"%d. Some private items can't be transferred."</string>
     <string name="tips_subtitle">Read and confirm the following reminders before you continue.</string>
+    <string name="title_compatibility_mode">Turn on App compatibility mode</string>
     <string name="title_open_wlan">Turn on Wi-Fi</string>
     <string name="title_request_alert_window_perm">Allow floating windows</string>
     <string name="title_request_manage_external_storage_perm">Permissions required</string>
@@ -1058,6 +1063,7 @@ Free up at least %s."</string>
     <string name="trans_apple_hint_1_title">%d. Install Mi Mover</string>
     <string name="trans_apple_hint_2_content">Open Mi Mover on your iPhone, tap \"Tap to send items\", and scan the QR code.</string>
     <string name="trans_apple_hint_2_title">%d. Connect devices</string>
+    <string name="trans_apple_hint_china">"Don't leave this page or use Wi-Fi until the transfer is complete."</string>
     <string name="trans_apple_interrupt_sub">Tap below to connect again.</string>
     <string name="trans_apple_interrupt_title">Transfer was interrupted</string>
     <string name="trans_detail_item_app_data_skip_data">"Can't transfer app data"</string>
