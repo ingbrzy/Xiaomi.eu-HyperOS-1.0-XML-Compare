@@ -880,6 +880,10 @@ If you need to turn on Miracast, press the [MENU] button and select My apps > Ca
     <string name="hm2_migration_tips">Xiaomi HyperMind（内测版）带来了更强大的感知和学习能力。但由于技术升级，你的部分习惯将会失效</string>
     <string name="hm2_migration_title">数据迁移</string>
     <string name="hm2_network_cta_tip">在使用本应用的过程中，我们将联网提供必要服务。</string>
+    <string name="hm2_network_err_crash">网络请求过程中触发崩溃</string>
+    <string name="hm2_network_err_invald_param">网络数据未知错误</string>
+    <string name="hm2_network_err_net_invald_req">网络数据格式无法解析</string>
+    <string name="hm2_network_err_net_jsonerr">网络数据格式无法解析</string>
     <string name="hm2_network_err_retry_btn">重试</string>
     <string name="hm2_network_err_tips">网络不可用，请确认连接后重试</string>
     <string name="hm2_no_activate_tips">让设备基于你的习惯来运行</string>
@@ -963,8 +967,10 @@ so Xiaomi HyperMind can learn and refine patterns"</string>
     <string name="hm_xiaomi_hyper_mind_tips">recommend by how you use devices</string>
     <string name="hmind_cancel">取消</string>
     <string name="hmind_download">下载米家</string>
-    <string name="hmind_mj_download_hint">请下载米家后，查看详情</string>
-    <string name="hmind_mj_version_low">当前米家版本过低，请升级后查看详情</string>
+    <string name="hmind_mj_download_hint">请下载后查看详情</string>
+    <string name="hmind_mj_download_hint_title">未安装米家</string>
+    <string name="hmind_mj_version_low">请升级后查看详情</string>
+    <string name="hmind_mj_version_low_title">当前米家版本过低</string>
     <string name="hmind_network_disable">网络不可用，请连接后重试</string>
     <string name="hmind_update">升级</string>
     <string name="hyper_mind">HyperMind</string>
