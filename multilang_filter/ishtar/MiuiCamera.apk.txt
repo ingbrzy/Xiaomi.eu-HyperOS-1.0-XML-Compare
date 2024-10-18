@@ -6,8 +6,6 @@ Removed: [bo-rCN] strings.xml: string/friend_mode_intro_3_content (wrong attribu
 Removed: [ca] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
 Removed: [ca] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
 Removed: [cs] strings.xml: string/street_tip_near (wrong format)
-Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
-Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
 Removed: [es] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
 Removed: [es] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
 Removed: [es] strings.xml: string/dolly_zoom_capture_tip1 (wrong format)
