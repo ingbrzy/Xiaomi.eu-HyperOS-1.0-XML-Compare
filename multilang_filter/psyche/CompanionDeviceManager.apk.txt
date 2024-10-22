@@ -1,5 +1,7 @@
 Removed: [az-rAZ] strings.xml: string/permission_sync_confirmation_title (wrong format)
 Removed: [az-rAZ] strings.xml: string/permission_sync_summary (wrong format)
+Removed: [be] strings.xml: string/permission_sync_confirmation_title (wrong format)
+Removed: [be] strings.xml: string/permission_sync_summary (wrong format)
 Removed: [de] strings.xml: string/permission_sync_confirmation_title (wrong format)
 Removed: [de] strings.xml: string/permission_sync_summary (wrong format)
 Removed: [hr] strings.xml: string/permission_sync_confirmation_title (wrong format)
