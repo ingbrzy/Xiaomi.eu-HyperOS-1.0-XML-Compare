@@ -288,7 +288,7 @@
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.crashlytics.android.build_id">fff61038e7b1430ba97e6727929522e9</string>
+    <string name="com.crashlytics.android.build_id">f82fef3c885c4b62811c044d89509a37</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -430,6 +430,7 @@ Mi Video needs to collect necessary personal information to provide you with bas
     <string name="dialog_video_medium">Medium</string>
     <string name="dialog_ytb_content">"You're about to leave Mi Video and open YouTube. Continue?"</string>
     <string name="disagree">"Don't agree"</string>
+    <string name="diversion_online_button">Watch more videos</string>
     <string name="diy_channels_tips">You can customize the list of your channels now.</string>
     <string name="do_not_show_again">"Don't show again"</string>
     <string name="download">Downloads</string>
@@ -2242,6 +2243,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="vip_pay_refunded">Refunded</string>
     <string name="vip_pay_success">Purchased</string>
     <string name="vip_pay_waiting">Just a sec…</string>
+    <string name="vip_permission">By purchasing, you agree to the &lt;a href=%1$s>MangoTV Terms of Service&lt;/a>. If you have any questions, view our &lt;a href=%2$s>FAQ and feedback&lt;/a>.</string>
     <string name="vip_purchase_history">Purchase history</string>
     <string name="vip_qa">Need help? View &lt;a href=%1$s>FAQ and feedback&lt;/a></string>
     <string name="vip_qa_title">FAQ and feedback</string>
