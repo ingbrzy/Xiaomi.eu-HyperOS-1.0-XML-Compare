@@ -405,7 +405,7 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">b0ea71aa42d444e4917b7494cc659ef5</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">ad1c21a58d7c4ac28e2a5a405fb8b8bb</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -1030,7 +1030,7 @@ Pages you view won't appear in history."</string>
     <string name="home_nf_recommend_on">Recommended for you</string>
     <string name="home_page_simple">Simple</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-    <string name="homepage_default">Default</string>
+    <string name="homepage_currency">Regular</string>
     <string name="homepage_delete_card_menu">Delete</string>
     <string name="homepage_get_location">Get location</string>
     <string name="homepage_get_location_failed">"Couldn't get info, choose a city"</string>
@@ -1234,6 +1234,7 @@ Pages you view won't appear in history."</string>
     <string name="mggc_feedback_send_email_body_extra_info">"Don't delete the following info. It'll help us locate the issue."</string>
     <string name="mggc_game_play">Play</string>
     <string name="mggc_game_played">Recent</string>
+    <string name="mggc_game_recommend_guide_button">Play</string>
     <string name="mggc_game_recommend_guide_title">Play for free</string>
     <string name="mggc_home_page_title">GAME CENTER</string>
     <string name="mggc_home_recommend_tip">Random</string>
@@ -1246,11 +1247,17 @@ Pages you view won't appear in history."</string>
     <string name="mggc_load_overtime_confirm">Back Home</string>
     <string name="mggc_load_overtime_tip">There are some problems in loading. Do you need to return to the game list?</string>
     <string name="mggc_menu_privacy_policy">Privacy Policy</string>
+    <string name="mggc_more_games">More Games</string>
     <string name="mggc_news_load_failed">Tap to try again</string>
     <string name="mggc_news_loading">Just a sec…</string>
     <string name="mggc_no_more_games">No more games</string>
     <string name="mggc_ranking_page_title">Charts</string>
     <string name="mggc_request_error">"Couldn't complete request"</string>
+    <string name="mggc_shortcut_bottom_add_tip">Add</string>
+    <string name="mggc_shortcut_bottom_tip">Tap to add Game Center to your mobile desktop to play exciting game content anytime!</string>
+    <string name="mggc_shortcut_title_games">Add to Desktop to Find Me Faster Next Time</string>
+    <string name="mggc_toast_shortcut_add_fail">"Couldn't add"</string>
+    <string name="mggc_toast_shortcut_add_success">Added successfully</string>
     <string name="mi_browser">@string/application_name</string>
     <string name="mi_browser_clean_up_garbage">Mi Browser is clearing trash…</string>
     <string name="mi_browser_is_scanning">Mi Browser is scanning</string>
@@ -1759,10 +1766,12 @@ Leave this page now?"</string>
     <string name="novel_continue_read_popup">Read</string>
     <string name="novel_tab_popup">View your newest books here</string>
     <string name="novel_tab_popup_ok">OK</string>
-    <string name="offline_notification_text">Tap to open ad</string>
-    <string name="offline_notification_title">View the ad you saved when you were offline</string>
+    <string name="offline_dialog_image_description">Icon</string>
+    <string name="offline_dialog_text">"Thanks for your interest.
+We will share more once you're back online."</string>
+    <string name="offline_notification_title">"You are back online! Let's pick up where we left off"</string>
+    <string name="offline_notification_title_with_advertiser">You are back online! Continue learning about %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">"You'll get a notification with the link when you're back online"</string>
     <string name="offline_opt_in_decline">No thanks</string>
     <string name="offline_opt_in_message">"We'll send you a notification with a link to the advertiser site."</string>
     <string name="offline_opt_in_title">"Open ad when you're back online."</string>
@@ -2572,7 +2581,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="trash_cleaner_unit_tb">TB</string>
     <string name="trending_apps_more">More</string>
     <string name="tt_00_00">00:00</string>
-    <string name="tt_ad">Ad</string>
     <string name="tt_ad_clicked_text">Ad shown</string>
     <string name="tt_ad_close_text">Ad closed</string>
     <string name="tt_ad_data_error">Response data error</string>
@@ -2644,8 +2652,9 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_load_success_text">Load success</string>
     <string name="tt_loading_language">Landing page loading……</string>
     <string name="tt_logo_cn">AD</string>
-    <string name="tt_logo_en">AD</string>
+    <string name="tt_logo_en">Ad</string>
     <string name="tt_msgPlayable">Finish playing to get rewards</string>
+    <string name="tt_multiple_ad_indicator">ad %1$d of %2$d</string>
     <string name="tt_negtiveBtnBtnText">Leave</string>
     <string name="tt_negtive_txt">Cancel</string>
     <string name="tt_net_error">Network error</string>
