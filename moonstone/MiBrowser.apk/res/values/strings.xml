@@ -405,7 +405,7 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">1674ccd79ec6497c87b13fffe41c8890</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">ad1c21a58d7c4ac28e2a5a405fb8b8bb</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -1031,7 +1031,6 @@ Pages you view won't appear in history."</string>
     <string name="home_page_simple">Simple</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_currency">Regular</string>
-    <string name="homepage_default">Default</string>
     <string name="homepage_delete_card_menu">Delete</string>
     <string name="homepage_get_location">Get location</string>
     <string name="homepage_get_location_failed">"Couldn't get info, choose a city"</string>
