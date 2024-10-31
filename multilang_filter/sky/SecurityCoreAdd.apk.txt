@@ -1,0 +1,7 @@
+Removed: [bo-rCN] strings.xml: string/dialog_verify_fingerprint_retry (wrong format)
+Removed: [de] strings.xml: string/long_press_power_key_half_of_second (wrong format)
+Removed: [pt-rBR] strings.xml: string/long_press_power_key_half_of_second (wrong format)
+Removed: [ug-rCN] strings.xml: string/dialog_verify_fingerprint_retry (wrong format)
+Removed: [zh-rCN] strings.xml: string/dialog_verify_fingerprint_retry (wrong format)
+Removed: [zh-rHK] strings.xml: string/dialog_verify_fingerprint_retry (wrong format)
+Removed: [zh-rTW] strings.xml: string/dialog_verify_fingerprint_retry (wrong format)
