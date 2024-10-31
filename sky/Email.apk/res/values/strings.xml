@@ -210,7 +210,7 @@ path prefix"</string>
     <string name="add_pre_message_attachments_yes">Add</string>
     <string name="add_star">Star</string>
     <string name="afternoon">Afternoon</string>
-    <string formatted="false" name="agreement_url">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;lang=%2s</string>
+    <string name="agreement_url">https://terms.miui.com/doc/eula/%2$s.html</string>
     <string name="all_purpose">Welcome to Mail, an email client custom-made for Xiaomi by Kingsoft. You can use this app to compose, send, and receive emails.</string>
     <string name="allow_notify">Allow notifications</string>
     <string name="always_bcc_myself">Always Bcc self</string>
@@ -767,6 +767,7 @@ path prefix"</string>
     <string name="icloud_official_url">https://appleid.apple.com/</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="icoud_login_pw_hint">Enter password</string>
+    <string name="icp_version_code">ICP备案号：京ICP备14035597号-15A</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_password_error">Password for incoming mail server is incorrect</string>
     <string name="info_item_hide">Delete</string>
@@ -787,6 +788,7 @@ path prefix"</string>
     <string name="invoice_card_save">Save</string>
     <string name="invoice_card_seller">Consignor</string>
     <string name="invoice_card_title">Electronic invoice</string>
+    <string name="ipc_link_url">https://beian.miit.gov.cn</string>
     <string name="item_view_role_description">Tab</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker">%1$s: %2$s</string>
@@ -1186,7 +1188,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="privacy_and_private_permission_key">privacy_and_private_permission</string>
     <string name="privacy_des">"Logs contain debugging info of the email client and your device info. This information is used to locate problems faster. By tapping \"%1$s\" below, you're agreeing to our \"%2$s\"."</string>
     <string name="privacy_policy">Privacy Policy</string>
-    <string name="privacy_policy_url">https://xiaomi.wpsmail.net/policy.html</string>
+    <string name="privacy_policy_url">https://privacy.mi.com/all</string>
     <string name="privacy_setting_agree">Agree</string>
     <string name="progress">Progress:</string>
     <string name="prompt_title">Prompt</string>
