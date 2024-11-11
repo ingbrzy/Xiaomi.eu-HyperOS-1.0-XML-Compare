@@ -2,10 +2,7 @@
 <resources>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
     <string name="abc_action_mode_done">Done</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
     <string name="abc_capital_off">OFF</string>
     <string name="abc_capital_on">ON</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -20,12 +17,9 @@
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Search…</string>
     <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
     <string name="abc_searchview_description_search">Search</string>
     <string name="abc_searchview_description_submit">Submit query</string>
     <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="add">Add</string>
@@ -103,15 +97,12 @@
     <string name="chinese_symbol_animals_snake">蛇</string>
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Clear</string>
-    <string name="close">Close</string>
     <string name="confirm_reset">Confirm reset</string>
     <string name="confirm_reset_message">Reset to default applications?</string>
     <string name="contributors">Contributors</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Chinese Traditional Calendar</string>
-    <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="delete">Delete</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
@@ -200,36 +191,18 @@
     <string name="home_hide_apps">Hide app icons</string>
     <string name="home_search_bar_app">Search bar provider</string>
     <string name="home_search_gesture_app">Swipe up search provider</string>
-    <string name="loading">Just a sec…</string>
     <string name="lockscreen_side_apps">Side panel shortcuts</string>
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
-    <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
-    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
-    <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
-    <string name="miuix_appcompat_select_item">Select items</string>
-    <string name="miuix_indexer_collect">Collections</string>
-    <string name="miuix_indexer_selected">Selected %s</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
@@ -273,7 +246,6 @@
     <string name="morning">Morning</string>
     <string name="night">Evening</string>
     <string name="no_apps">No apps</string>
-    <string name="no_icons">No icons</string>
     <string name="noon">Midday</string>
     <string name="other_ime">Other keyboards</string>
     <string name="pm">PM</string>
@@ -281,10 +253,8 @@
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
-    <string name="search_menu_title">Search</string>
     <string name="select_app">Select an app</string>
     <string name="select_apps">Select apps</string>
-    <string name="send">Send</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
     <string name="solar_term_autumn_equinox">Autumn equinox</string>
     <string name="solar_term_clear_and_bright">Clear and bright</string>
@@ -310,7 +280,6 @@
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="status_bar_icons">Status bar icons</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
@@ -357,7 +326,6 @@
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
-    <string name="time_picker_dialog_title">Set time</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="today">Today</string>
@@ -369,5 +337,4 @@
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
     <string name="wifi_region">Wi-Fi region</string>
-    <string name="yesterday">Yesterday</string>
 </resources>
