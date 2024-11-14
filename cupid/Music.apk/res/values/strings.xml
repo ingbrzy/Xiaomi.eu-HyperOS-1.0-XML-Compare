@@ -171,6 +171,9 @@ All membership benefits and paid songs will be cleared. You won't be refunded fo
 Once you choose to permanently clear all data, you'll be signed out of the app. Clear all data now?"</string>
     <string name="asm_delete_data">Clear data</string>
     <string name="asm_delete_data_local_and_online">Clear offline and streaming service data</string>
+    <string name="asm_dialog_talk_one">"What's up?"</string>
+    <string name="asm_dialog_talk_three">"Here's a %d-month free trial to get you started"</string>
+    <string name="asm_dialog_talk_two">"Let's explore new music together!"</string>
     <string name="asm_dialog_title_tips">VIP membership</string>
     <string name="asm_dialog_vip_confirm_text">Join</string>
     <string name="asm_dialog_vip_message">Sign up for a VIP membership to listen to high-quality songs and download even more content.</string>
@@ -220,11 +223,14 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_message">Notifications</string>
     <string name="asm_network_error">Check your network connection</string>
     <string name="asm_new_song_title">New songs</string>
+    <string name="asm_no_copyright_or_expire">no copyright or expire</string>
     <string name="asm_no_need_download_songs">Song is in download queue</string>
     <string name="asm_no_network">"Couldn't connect to the network"</string>
+    <string name="asm_no_vip">non vip users</string>
     <string name="asm_not_action_is_local_music">"Can't perform this action on local files"</string>
     <string name="asm_notify_use_mobile_download">Downloading with mobile data</string>
     <string name="asm_online_service_switch">Turn on online services in the app settings</string>
+    <string name="asm_online_song_error">asm song load error</string>
     <string name="asm_page_empty_search">"Couldn't find results"</string>
     <string name="asm_page_error_airplane">Turn off Airplane mode to be able to connect</string>
     <string name="asm_page_error_data">An error occurred</string>
@@ -257,6 +263,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_unknow_album">Unknown album</string>
     <string name="asm_unknow_artist">Unknown artist</string>
     <string name="asm_unlock_tracks_ad_free">With a membership, you can enjoy high-quality music and downloads without ads or interruptions.</string>
+    <string name="asm_vip_center">Premium</string>
     <string name="audio_ad_countdown">Skip ad in %ss</string>
     <string name="audio_ad_pass">Skip ad</string>
     <string name="audio_add_equalizer">均衡器+</string>
@@ -442,7 +449,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">5d8e93dee4c9455699d516f0884d2773</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">05df1a44d93049818293b28cd5f154f0</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1384,6 +1391,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="need_to_show">Show more</string>
     <string name="network_disable">"Couldn't connect to the network"</string>
     <string name="network_error_and_retry">"Couldn't connect, tap to try again"</string>
+    <string name="network_not_available">no network</string>
     <string name="network_request_error">"Can't connect to the network"</string>
     <string name="network_settings_error">"Can't connect to the network"</string>
     <string name="network_tip_title">Stream a world of new music</string>
