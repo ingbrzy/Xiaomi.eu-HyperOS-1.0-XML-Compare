@@ -1609,7 +1609,7 @@ You haven’t connected to %2$s before."</string>
     <string name="bluetooth_connect_access_dialog_title">Connect to Bluetooth device?</string>
     <string name="bluetooth_connect_access_notification_content">A device wants to connect. Tap for details.</string>
     <string name="bluetooth_connect_access_notification_title">Bluetooth device available</string>
-    <string name="bluetooth_connect_battery_state">%1$s %2$s</string>
+    <string name="bluetooth_connect_battery_state">%1$s%2$s</string>
     <string name="bluetooth_connect_settings">Connection</string>
     <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
     <string name="bluetooth_connected">Connected %1$s</string>
