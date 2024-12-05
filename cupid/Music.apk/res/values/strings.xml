@@ -449,7 +449,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">05df1a44d93049818293b28cd5f154f0</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">952af1b1ea0f406b8c366a440ad070a6</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1017,6 +1017,8 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="info_system">System:</string>
     <string name="info_system_version">System version:</string>
     <string name="input_hint_prefix">Enter %1$s</string>
+    <string name="insight_detail_overview">概览</string>
+    <string name="insight_detail_search_and_play">搜索并播放</string>
     <string name="installing_apk">Installing…</string>
     <string name="insufficient_space">"Not enough space on your device's internal storage"</string>
     <string name="is_latest_version">Music is up to date.</string>
