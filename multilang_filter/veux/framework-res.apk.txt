@@ -21,7 +21,7 @@ Removed: [cs-rCZ] strings.xml: string/lockscreen_failed_attempts_almost_glogin (
 Removed: [cs-rCZ] strings.xml: string/lockscreen_too_many_failed_attempts_dialog_message (wrong attributes)
 Removed: [cs-rCZ] strings.xml: string/lockscreen_too_many_failed_password_attempts_dialog_message (wrong attributes)
 Removed: [cs-rCZ] strings.xml: string/lockscreen_too_many_failed_pin_attempts_dialog_message (wrong attributes)
-Removed: [de] strings.xml: string/select_keyboard_layout_notification_title (wrong format)
+Removed: [de] plurals.xml: plurals/file_count (wrong item format)
 Removed: [es-rES] strings.xml: string/select_keyboard_layout_notification_title (wrong format)
 Removed: [es-rUS] strings.xml: string/select_keyboard_layout_notification_title (wrong format)
 Removed: [pt-rBR] strings.xml: string/select_keyboard_layout_notification_title (wrong format)
