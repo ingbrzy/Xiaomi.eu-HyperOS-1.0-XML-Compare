@@ -1,6 +1,8 @@
 Removed: [az-rAZ] strings.xml: string/audio_track_mutex_truecolor_setting_tips (wrong format)
 Removed: [az-rAZ] strings.xml: string/update_loading (wrong format)
 Removed: [az-rAZ] strings.xml: string/video_quality_audio_track_conflict_toast (wrong format)
+Removed: [be] strings.xml: string/audio_track_mutex_truecolor_setting_tips (wrong format)
+Removed: [be] strings.xml: string/video_quality_audio_track_conflict_toast (wrong format)
 Removed: [bo-rCN] strings.xml: string/cinemaster_toast_monitor_all_disconnect (wrong format)
 Removed: [bo-rCN] strings.xml: string/friend_mode_intro_3_content (wrong attributes)
 Removed: [ca] strings.xml: string/audio_track_mutex_truecolor_setting_tips (wrong format)
