@@ -543,7 +543,7 @@ to adjust the dispersion area"</string>
     <string name="color_red">Red</string>
     <string name="color_white">White</string>
     <string name="color_yellow">Yellow</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">1dd92ef637ea4801b5d7da064cace884</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">28b81dc9034b4de7be3cf0554d08f25a</string>
     <string name="common_close_string">Off</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -642,6 +642,8 @@ to adjust the dispersion area"</string>
     <string name="ext_sdcard_permission_request_title">Allow Gallery to access SD card</string>
     <string name="ext_sdcard_request_failed_button_text">OK</string>
     <string name="ext_sdcard_request_succeed_toast_text">"You're ready to rock!"</string>
+    <string name="extra_photo_common_transition_image_view">tag_transition_view</string>
+    <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="face_beauty">face beauty</string>
@@ -683,6 +685,7 @@ to adjust the dispersion area"</string>
     <string name="filter_diy_tip_dialog_content">You can import up to %d CUBE color lookup tables.</string>
     <string name="filter_diy_tip_dialog_title">Import filters</string>
     <string name="filter_film_600f">600F</string>
+    <string name="filter_film_besson">Parkour</string>
     <string name="filter_film_bf_70">BF70</string>
     <string name="filter_film_c_50d">C-50D</string>
     <string name="filter_film_c_64">KC64</string>
@@ -690,17 +693,28 @@ to adjust the dispersion area"</string>
     <string name="filter_film_desert_brown">Hazelnut</string>
     <string name="filter_film_f_50">F-50</string>
     <string name="filter_film_flowers_dream">Glee</string>
+    <string name="filter_film_freehand">Freehand</string>
     <string name="filter_film_g_200">KG200</string>
     <string name="filter_film_h_400">H-400</string>
+    <string name="filter_film_korean_rubber">Orchid</string>
+    <string name="filter_film_kyoto">Old town</string>
+    <string name="filter_film_le_mans">Canals</string>
     <string name="filter_film_light_tea_green">Green tea</string>
+    <string name="filter_film_monsoon">Monsoon</string>
     <string name="filter_film_mountain_cyan">Teal mist</string>
+    <string name="filter_film_old_alley">Alley</string>
+    <string name="filter_film_old_style">Wistful</string>
     <string name="filter_film_p_100f">P100F</string>
     <string name="filter_film_p_160nc">KP160</string>
     <string name="filter_film_p_400h">FC400</string>
     <string name="filter_film_r_600">R600</string>
+    <string name="filter_film_relaxation">Lazy day</string>
+    <string name="filter_film_reversal">Reversal</string>
+    <string name="filter_film_seaside">Seascape</string>
     <string name="filter_film_sunset_red">Scarlet</string>
     <string name="filter_film_taichi_ink">Ink</string>
     <string name="filter_film_v_5207">V-250</string>
+    <string name="filter_film_zhi_xian">Poem</string>
     <string name="filter_general_blackice">Black ice</string>
     <string name="filter_general_blackwhite">B&amp;W</string>
     <string name="filter_general_delicious">Food</string>
@@ -1292,6 +1306,8 @@ to adjust the dispersion area"</string>
     <string name="motion_photo_video_reverse_effect">Reverse</string>
     <string name="motion_photo_video_reverse_ing">Reversing video…</string>
     <string name="motion_photo_video_reverse_on">Reversed</string>
+    <string name="motion_photo_watermark_off">Watermark is off</string>
+    <string name="motion_photo_watermark_on">Watermark is on</string>
     <string name="movie_add_disable">You can select up to %d photos</string>
     <string name="movie_audio_antiquity">Retro</string>
     <string name="movie_audio_custom">Local</string>
@@ -1351,6 +1367,7 @@ to adjust the dispersion area"</string>
     <string name="movie_template_xmas">Christmas</string>
     <string name="movie_video_long">Longer video</string>
     <string name="movie_video_short">%ds</string>
+    <string name="msg_initialize_failed_and_reenter">"Couldn't initialize plug-in. Close this page and start over."</string>
     <string name="mtrl_badge_numberless_content_description">New notification</string>
     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
     <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
@@ -1505,6 +1522,7 @@ to adjust the dispersion area"</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Download plug-in</string>
     <string name="photo_editor_confirm">Switch</string>
     <string name="photo_editor_crop">Crop</string>
+    <string name="photo_editor_crop_ai_outpaint_name">Expand</string>
     <string name="photo_editor_crop_and_rotate">Crop</string>
     <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
@@ -1546,6 +1564,7 @@ Keep the original aspect ratio, choose your own, or let AI decide."</string>
     <string name="photo_editor_gallery_frame_tab_leica">Leica</string>
     <string name="photo_editor_high">High</string>
     <string name="photo_editor_highest">Best</string>
+    <string name="photo_editor_inpaint_progress">Erasing…%s</string>
     <string name="photo_editor_intoutpaint_name">AI expansion/AI Erase 2.0</string>
     <string name="photo_editor_label">Edit</string>
     <string name="photo_editor_leica_frame">Leica watermark</string>
@@ -1585,8 +1604,10 @@ Keep the original aspect ratio, choose your own, or let AI decide."</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Looks like you aren't connected to Wi-Fi. Use %1$d MB of mobile data to download the plug-in?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Download plug-in</string>
     <string name="photo_editor_navigator_tab_title_ai">Create</string>
+    <string name="photo_editor_navigator_tab_title_ai_pro">AI</string>
     <string name="photo_editor_navigator_tab_title_basic">Basic</string>
     <string name="photo_editor_navigator_tab_title_beauty">Beautify</string>
+    <string name="photo_editor_outpaint_progress">Expanding…%s</string>
     <string name="photo_editor_perspective">Perspective</string>
     <string name="photo_editor_perspective_crop">Crop</string>
     <string name="photo_editor_perspective_distortion">Distort</string>
@@ -1599,12 +1620,15 @@ Keep the original aspect ratio, choose your own, or let AI decide."</string>
     <string name="photo_editor_privacy_negative">Exit</string>
     <string name="photo_editor_privacy_notice">Privacy notice</string>
     <string name="photo_editor_privacy_positive">Agree</string>
+    <string name="photo_editor_privacy_tip_ai">"Before using AI features, read and agree to the &lt;a href='%1$s'>Gallery Editor AI Features Privacy Policy&lt;/a> and &lt;a href='%2$s'>Gallery Editor AI Features User Agreement&lt;/a>."</string>
     <string name="photo_editor_privacy_tip_below">"&lt;br>&lt;br>&lt;small>*Due to algorithmic randomization, you'll get the best results when using images where the subject is displayed completely.&lt;/small>"</string>
     <string name="photo_editor_privacy_tip_outpaint">"Read and agree to the &lt;a href='%1$s'>AI Expansion Privacy Policy&lt;/a> and &lt;a href='%2$s'>AI Expansion User Agreement&lt;/a> before using AI expansion."</string>
     <string name="photo_editor_privacy_tip_rmpro">"Read and agree to the &lt;a href='%1$s'>AI Erase 2.0 Pro Features Privacy Policy&lt;/a> and &lt;a href='%2$s'>AI Erase 2.0 Pro Features User Agreement&lt;/a> before using AI Erase 2.0 pro features."</string>
     <string name="photo_editor_privacy_tip_virtualization">"Welcome to AI images and related services!&lt;br>In order to provide you with basic features and services, we need to collect and use some necessary personal information.&lt;br>When you use AI image features, you need to upload photos of a person. We'll process the facial information of the person in the photos on your device and use it to generate the AI image.&lt;br>We only collect the personal information necessary to provide our products and services. For details on how we collect and use your personal information, refer to the AI Image Privacy Policy.&lt;br>Read and agree to the &lt;a href='%1$s'>AI Image User Agreement&lt;/a> and &lt;a href='%2$s'>AI Image Privacy Policy&lt;/a> before you continue."</string>
     <string name="photo_editor_privacy_title">Attention</string>
     <string name="photo_editor_quality">Quality</string>
+    <string name="photo_editor_quality_improve">Enhance</string>
+    <string name="photo_editor_quality_improve_progress">Enhancing…%s</string>
     <string name="photo_editor_remove_watermark">Remove watermark</string>
     <string name="photo_editor_remove_watermark_on">Add watermark</string>
     <string name="photo_editor_remover">Erase</string>
@@ -2358,6 +2382,7 @@ Upload photos with clear facial features for best results."</string>
     <string name="vlog_auto_clip_delete_desc">Delete this clip now？</string>
     <string name="vlog_auto_clip_delete_ok">Delete</string>
     <string name="vlog_auto_complete">Done</string>
+    <string name="vlog_auto_compose_middle_close">Adjusting composition manually will remove previously applied smart effects. Adjust anyway?</string>
     <string name="vlog_auto_composition_close">Manually adjusting the aspect ratio will turn off Xiaomi ProCut. Adjust anyway?</string>
     <string name="vlog_auto_generate_complete">Create</string>
     <string name="vlog_auto_generate_composition">Xiaomi ProCut</string>
@@ -2492,6 +2517,7 @@ Upload photos with clear facial features for best results."</string>
     <string name="vlog_filter_nanfa">Garrigue</string>
     <string name="vlog_filter_no_support_nums">"Skipped videos that don't support editing (%1$d)"</string>
     <string name="vlog_filter_nuanyang">Sunshine</string>
+    <string name="vlog_filter_old_street">Stroll</string>
     <string name="vlog_filter_origin">None</string>
     <string name="vlog_filter_qianyin">Tender</string>
     <string name="vlog_filter_qihuan">Fantasy</string>
@@ -2499,6 +2525,7 @@ Upload photos with clear facial features for best results."</string>
     <string name="vlog_filter_qingye">Nocturne</string>
     <string name="vlog_filter_rixi">Pastel</string>
     <string name="vlog_filter_romantic">Charm</string>
+    <string name="vlog_filter_sea_breeze">Sea breeze</string>
     <string name="vlog_filter_senshan">Momiji</string>
     <string name="vlog_filter_shenmi">Mystery</string>
     <string name="vlog_filter_tag_atmosphere">Atmosphere</string>
@@ -2521,6 +2548,7 @@ Upload photos with clear facial features for best results."</string>
     <string name="vlog_fps">Frame rate</string>
     <string name="vlog_fps_x">%dfps</string>
     <string name="vlog_improt_encode_video_error">An encoding error occurred. Try again.</string>
+    <string name="vlog_load_data_empty">Select items first</string>
     <string name="vlog_load_data_fail">"Couldn't load data"</string>
     <string name="vlog_mi_clip">Video editor</string>
     <string name="vlog_mi_clip_cn">Video editor</string>
