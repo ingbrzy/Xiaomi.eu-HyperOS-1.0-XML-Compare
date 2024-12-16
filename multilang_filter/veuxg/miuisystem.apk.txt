@@ -1,5 +1,3 @@
-Removed: [de-rDE] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
-Removed: [de-rDE] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
 Removed: [zh-rCN] strings.xml: string/cta_message_license (wrong format)
 Removed: [zh-rHK] strings.xml: string/cta_message_license (wrong format)
 Removed: [zh-rTW] strings.xml: string/cta_message_license (wrong format)
