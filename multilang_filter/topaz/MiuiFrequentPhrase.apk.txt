@@ -1,0 +1,1 @@
+Removed: [be] strings.xml: string/input_method_clipboard_tips (wrong format)
