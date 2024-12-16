@@ -699,6 +699,7 @@ Widget: %2$s
     <string name="allow_sound_title">Sound</string>
     <string name="allow_turn_screen_on">Allow turning the screen on</string>
     <string name="allow_turn_screen_on_description">Allow an app to turn the screen on. If this permission is granted, the app may turn on the screen at any time without your explicit intent.</string>
+    <string name="allow_update_system_app">Allow updating system apps</string>
     <string name="allow_vibrate_title">Vibration</string>
     <string name="alpha_build">Alpha</string>
     <string name="already_delete_system_app">Uninstalled system apps</string>
@@ -1589,7 +1590,7 @@ You haven’t connected to %2$s before."</string>
     <string name="bluetooth_connect_access_dialog_title">Connect to Bluetooth device?</string>
     <string name="bluetooth_connect_access_notification_content">A device wants to connect. Tap for details.</string>
     <string name="bluetooth_connect_access_notification_title">Bluetooth device available</string>
-    <string name="bluetooth_connect_battery_state">%1$s %2$s</string>
+    <string name="bluetooth_connect_battery_state">%1$s%2$s</string>
     <string name="bluetooth_connect_settings">Connection</string>
     <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
     <string name="bluetooth_connected">Connected %1$s</string>
@@ -5763,6 +5764,8 @@ If this permission is denied, the system will limit how long the app can perform
     <string name="long_background_tasks_title">Long background tasks</string>
     <string name="long_press_back_key">Long press the Back button</string>
     <string name="long_press_buttom_key">Long press Home on the Lock screen</string>
+    <string name="long_press_editor_style_summary">Press and hold Lock screen to edit clock and wallpaper</string>
+    <string name="long_press_editor_style_title">Press and hold to edit</string>
     <string name="long_press_home_key">Long press the Home button</string>
     <string name="long_press_menu_key">Long press the Menu button</string>
     <string name="long_press_menu_key_when_lock">Long press Menu on the Lock screen</string>
@@ -11752,9 +11755,12 @@ you can use other users' networks, too."</string>
     <string name="winscope_trace_quick_settings_title">Winscope Trace</string>
     <string name="wireless_connected">Connected</string>
     <string name="wireless_debugging_main_switch_title">Use wireless debugging</string>
+    <string name="wireless_display">Wireless display</string>
     <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
     <string name="wireless_off">Off</string>
     <string name="wireless_on">On</string>
+    <string name="wireless_secondary_display">Wireless display extension</string>
+    <string name="wireless_secondary_display_description">Use your tablet as a wireless display extension for a nearby computer</string>
     <string name="wizard_back">Back</string>
     <string name="wizard_back_adoptable">Format another way</string>
     <string name="wizard_next">Next</string>

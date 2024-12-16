@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="health_connect_summary">Manage app access to health data</string>
+    <string name="health_connect_title">Health Connect</string>
+    <string name="location_settings">Location access</string>
+    <string name="location_settings_subtitle">For apps and services</string>
+    <string name="mic_toggle_description">For apps and services. If this setting is off, microphone data may still be shared when you call an emergency number</string>
+    <string name="privacy_subpage_controls_header">Controls</string>
+    <string name="security_privacy_brand_name">Security &amp; privacy</string>
+</resources>
