@@ -133,6 +133,7 @@
     <string name="apply_wallpaper_after_three_theme">"You're currently using a third party theme. If you change your Lock screen wallpaper, this may cause the Lock screen clock style to be restored to default. Apply now?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"You're currently using a Super wallpaper. If you select a new wallpaper, it'll be applied to both your Home and Lock screens, and Always-on display will be restored to its previous setting. Apply now?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"You're currently using a Super wallpaper. If you select a new wallpaper, it'll be applied to both your Home and Lock screens. Apply now?"</string>
+    <string name="apply_wallpaper_warning_when_use_super_wallpaper">Update Super wallpapers to the latest version to be able to keep using them.</string>
     <string name="apply_warning_get_device_dialog_message">To be able to use downloaded content, allow this feature to access your device ID first. You can grant this permission in Settings > Privacy.</string>
     <string name="apply_warning_tip_get_device_status">Allow this app to access your device ID in Profile > Settings first.</string>
     <string name="aqi_format">AQI %s</string>
@@ -747,7 +748,6 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="local_mode">Offline mode</string>
     <string name="local_mode_close">Turn off offline mode?</string>
     <string name="local_mode_close_desc">Turn off offline mode if you wish to use online services. Turn off now?</string>
-    <string name="local_mode_close_tip">Internet connection is required to set this wallpaper. If you need to use the internet service, you need to turn off the local mode. Confirm to turn it off?</string>
     <string name="local_mode_desc">"Offline mode only uses local content and doesn't use online services"</string>
     <string name="local_mode_hint">"You're using offline mode.
 Tap to turn off."</string>
@@ -1884,6 +1884,7 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="update_immediately">Update now</string>
     <string name="update_latest">Your app is up to date</string>
     <string name="update_no_net">A network error occurred. Try again.</string>
+    <string name="update_now">Update</string>
     <string name="update_title">NEW UPDATE AVAILABLE</string>
     <string name="use_hint">Attention</string>
     <string name="use_now">Add</string>
@@ -1998,6 +1999,7 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="warning_miui_optimization_closed_dialog_message">"It looks like you haven't turned on system optimization. Without it, this theme won't work properly when applied. You can apply it anyway or turn on system optimization in Settings."</string>
     <string name="warning_miui_optimization_closed_dialog_title">Attention</string>
     <string name="warning_subscribe_wallpaper_group_content">"You've turned on Home screen slideshow. %1$s will be applied to your Home screen."</string>
+    <string name="warning_update_super_wallpaper">Update Super wallpapers</string>
     <string name="weather_no_data">No weather data</string>
     <string name="wechat_not_found">Install WeChat first</string>
     <string name="wednesday">Wednesday</string>

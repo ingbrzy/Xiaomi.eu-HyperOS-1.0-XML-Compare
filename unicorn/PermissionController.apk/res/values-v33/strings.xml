@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Apps with this permission can access all files on this device</string>
+    <string name="role_dialer_request_description">This app will be allowed to send you Notifications, and will be given access to your Camera, Contacts, Microphone, Phone, and SMS</string>
+    <string name="role_sms_request_description">This app will be allowed to send you Notifications, and will be given access to your Camera, Contacts, Files, Microphone, Phone, and SMS</string>
+    <string name="safety_center_dismissed_issues_card_title">Dismissed alerts</string>
+    <string name="safety_center_entry_content_description">%1$s. %2$s</string>
+    <string name="safety_center_entry_group_collapse_action">Collapse list and hide settings</string>
+    <string name="safety_center_entry_group_content_description">List. %1$s. %2$s</string>
+    <string name="safety_center_entry_group_expand_action">Expand and show list</string>
+    <string name="safety_center_entry_group_item_content_description">List item. %1$s. %2$s</string>
+    <string name="safety_center_entry_group_with_actions_needed_content_description">List. %1$s. Actions needed. %2$s</string>
+    <string name="safety_center_gear_label">Settings</string>
+    <string name="safety_center_info_label">Information</string>
+    <string name="safety_center_issue_card_prefix_content_description">Alert. %1$s</string>
+    <string name="safety_center_more_issues_card_expand_action">{count, plural, =1 {Expand and see one more alert} other {Expand and see # more alerts} }</string>
+    <string name="safety_center_more_issues_card_title">More alerts</string>
+    <string name="safety_center_qs_close_button">Close</string>
+    <string name="safety_center_qs_collapse_action">Collapse</string>
+    <string name="safety_center_qs_expand_action">Expand and show options</string>
+    <string name="safety_center_qs_open_action">Open</string>
+    <string name="safety_center_qs_page_landing">Security and privacy quick settings</string>
+    <string name="safety_center_qs_privacy_control">Switch. %1$s. %2$s</string>
+    <string name="safety_center_qs_status_summary">Check settings that can add protection to your device</string>
+    <string name="safety_center_qs_toggle_action">Toggle</string>
+    <string name="safety_center_resolved_issue_fallback">Action complete</string>
+    <string name="safety_center_review_settings_button">Review settings</string>
+    <string name="work_policy_summary">Settings managed by your IT admin</string>
+    <string name="work_policy_title">Your work policy info</string>
+</resources>
