@@ -1,2 +1,3 @@
+Removed: [be] strings.xml: string/mi_home_device_find (wrong format)
 Removed: [ro] arrays.xml: array/bluetooth_a2dp_codec_titles (wrong item count)
 Removed: [vi] arrays.xml: array/bluetooth_a2dp_codec_titles (wrong item count)
