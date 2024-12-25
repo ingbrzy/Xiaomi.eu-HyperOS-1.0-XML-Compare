@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_title">Other settings</string>
+    <string name="app_data_sharing_updates_search_terms">Data, Data sharing, Data sharing updates, Data sharing updates for location, sharing</string>
+    <string name="app_data_sharing_updates_title">Data sharing updates for location</string>
+    <string name="biometrics_title_for_work">Biometrics for work</string>
+    <string name="config_same_task_safety_source_ids">AndroidAccessibility,AndroidBackgroundLocation,AndroidBiometrics,AndroidHealthConnect,AndroidLockScreen,AndroidMoreSettings,AndroidNotificationListener,AndroidPermissionAutoRevoke,AndroidPermissionManager,AndroidPermissionUsage,AndroidPrivacyAppDataSharingUpdates,AndroidPrivacyControls,AndroidWorkPolicyInfo</string>
+    <string name="config_useSettingsHomepageIntentExtra">AndroidMoreSettings,TestSource</string>
+    <string name="health_connect_search_terms">Health, Health Connect</string>
+    <string name="health_connect_title">Health Connect</string>
+    <string name="lock_screen_sources_title">Device unlock</string>
+    <string name="more_settings_search_terms" />
+    <string name="more_settings_summary">Autofill, notifications, and more</string>
+    <string name="more_settings_title">More security &amp; privacy</string>
+    <string name="privacy_sources_summary">Permissions, dashboard, controls</string>
+    <string name="work_policy_title">Your work policy info</string>
+</resources>
