@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settingslib_config_headlineFontFamily">@string/config_headlineFontFamily</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_search_terms" />
+    <string name="advanced_privacy_summary">Autofill, activity controls, and more</string>
+    <string name="advanced_privacy_title">More privacy settings</string>
+    <string name="advanced_security_search_terms" />
+    <string name="advanced_security_summary">Encryption, credentials, and more</string>
+    <string name="advanced_security_title">More security settings</string>
+    <string name="advanced_title">More settings</string>
+    <string name="biometrics_search_terms">Fingerprint, Finger, Add fingerprint, Face unlock, Face</string>
+    <string name="biometrics_title">Biometrics</string>
+    <string name="config_NotificationListenerServicePregrants" />
+    <string name="config_same_task_safety_source_ids">AndroidAccessibility,AndroidAdvancedPrivacy,AndroidAdvancedSecurity,AndroidBackgroundLocation,AndroidBiometrics,AndroidLockScreen,AndroidNotificationListener,AndroidPermissionAutoRevoke,AndroidPermissionManager,AndroidPermissionUsage,AndroidPrivacyControls,AndroidWorkPolicyInfo</string>
+    <string name="config_useSettingsHomepageIntentExtra">AndroidAdvancedPrivacy,AndroidAdvancedSecurity,TestSource</string>
+    <string name="group_unknown_summary">No info yet</string>
+    <string name="loading_summary">Checking device settings…</string>
+    <string name="lock_screen_search_terms">Device lock, Screen lock, Lock screen, Lockscreen, Password, Pin, Pattern</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Device lock</string>
+    <string name="lock_screen_summary_disabled">No info yet</string>
+    <string name="lock_screen_title">Screen lock</string>
+    <string name="notification_channel_group_name">Security &amp; privacy</string>
+    <string name="notification_channel_name_critical_warning">Critical warnings</string>
+    <string name="notification_channel_name_information">Recommendations</string>
+    <string name="notification_channel_name_recommendation">Warnings</string>
+    <string name="overall_severity_level_account_recommendation_title">Account may be at risk</string>
+    <string name="overall_severity_level_action_taken_summary">{count, plural, =1 {Action taken} other {Actions taken} }</string>
+    <string name="overall_severity_level_critical_account_warning_title">Account at risk</string>
+    <string name="overall_severity_level_critical_data_warning_title">Your data is at risk</string>
+    <string name="overall_severity_level_critical_device_warning_title">Device is at risk</string>
+    <string name="overall_severity_level_critical_passwords_warning_title">Passwords compromised (new)</string>
+    <string name="overall_severity_level_critical_personal_warning_title">You are at risk</string>
+    <string name="overall_severity_level_critical_safety_warning_title">Risks found</string>
+    <string name="overall_severity_level_data_recommendation_title">Your data may be at risk</string>
+    <string name="overall_severity_level_device_recommendation_title">Device may be at risk</string>
+    <string name="overall_severity_level_ok_review_summary">Check settings list</string>
+    <string name="overall_severity_level_ok_review_title">Review settings</string>
+    <string name="overall_severity_level_ok_summary">No issues found</string>
+    <string name="overall_severity_level_ok_title">Looks good</string>
+    <string name="overall_severity_level_passwords_recommendation_title">Passwords compromised (old)</string>
+    <string name="overall_severity_level_personal_recommendation_title">You may be at risk</string>
+    <string name="overall_severity_level_safety_recommendation_title">Potential risks found</string>
+    <string name="overall_severity_level_tip_summary">{count, plural, =1 {See recommendation} other {See recommendations} }</string>
+    <string name="overall_severity_n_alerts_summary">{count, plural, =1 {See alert} other {See alerts} }</string>
+    <string name="permission_manager_search_terms">Permissions, Permissions manager</string>
+    <string name="permission_manager_summary">Control app access to your data</string>
+    <string name="permission_manager_title">Permission manager</string>
+    <string name="permission_usage_search_terms">Privacy, Privacy dashboard</string>
+    <string name="permission_usage_summary">Show which apps recently used permissions</string>
+    <string name="permission_usage_title">Privacy dashboard</string>
+    <string name="privacy_controls_search_terms">Privacy, Privacy controls</string>
+    <string name="privacy_controls_summary">Control device access to microphone, camera, and more</string>
+    <string name="privacy_controls_title">Privacy controls</string>
+    <string name="privacy_sources_summary">Dashboard, permissions, controls</string>
+    <string name="privacy_sources_title">Privacy</string>
+    <string name="redirecting_error">Couldn’t open page</string>
+    <string name="refresh_error">{count, plural, =1 {Couldn’t check setting} other {Couldn’t check settings} }</string>
+    <string name="refresh_timeout">Couldn’t refresh settings</string>
+    <string name="resolving_action_error">Couldn’t resolve alert</string>
+    <string name="safetyCenterResourcesAppLabel">Safety Center Resources</string>
+    <string name="scanning_title">Scanning</string>
+    <string name="test_single_source_group_id_footer">Summary text for the footer</string>
+    <string name="work_profile_paused">Work profile is paused</string>
+</resources>
