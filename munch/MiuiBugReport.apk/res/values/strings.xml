@@ -209,7 +209,8 @@
     <string name="close">Close</string>
     <string name="close_feedback_main">Hide</string>
     <string name="collect_diagnosis_log">Collect logs</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">f590f6a70c334a76b6176f8241715476</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">6fb17767f81645a0a3ac465aab62d860</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="confirm_activate_email">Verified</string>
     <string name="copy">Copy</string>
     <string name="cta_cancel">Cancel</string>
