@@ -5,8 +5,6 @@ Removed: [az-rAZ] strings.xml: string/video_prompter_edit_total_words (wrong att
 Removed: [ca] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
 Removed: [ca] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
 Removed: [cs] strings.xml: string/video_prompter_edit_total_words (wrong attributes)
-Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
-Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
 Removed: [es] plurals.xml: plurals/abbrev_a_hour_ago (wrong item format)
 Removed: [es] plurals.xml: plurals/abbrev_in_a_hour (wrong item format)
 Removed: [es] strings.xml: string/dolly_zoom_capture_tip1 (wrong format)
