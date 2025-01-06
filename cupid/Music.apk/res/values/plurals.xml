@@ -93,6 +93,10 @@ total %2$d song"</item>
         <item quantity="other">%1$d songs</item>
         <item quantity="one">%1$d song</item>
     </plurals>
+    <plurals name="asm_tracks">
+        <item quantity="other">%1$s songs</item>
+        <item quantity="one">%1$s song</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d comments</item>
         <item quantity="one">%d comment</item>

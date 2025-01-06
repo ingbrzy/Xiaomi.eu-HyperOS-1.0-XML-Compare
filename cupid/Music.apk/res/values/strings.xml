@@ -179,6 +179,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_dialog_vip_confirm_text">Join</string>
     <string name="asm_dialog_vip_message">Sign up for a VIP membership to listen to high-quality songs and download even more content.</string>
     <string name="asm_disable_song_click_tip">"This song isn't available due to copyright issues"</string>
+    <string name="asm_discover_title">Discover</string>
     <string name="asm_download">Download</string>
     <string name="asm_download_all_start_label">Resume all</string>
     <string name="asm_download_all_stop_label">Pause all</string>
@@ -218,11 +219,23 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_gooleplay_notice">"Google Play services aren't installed"</string>
     <string name="asm_goto_online_music">View online music</string>
     <string name="asm_grab_coupon">You got a free %d-month subscription coupon</string>
+    <string name="asm_guide_enter">Start</string>
+    <string name="asm_guide_info_check">"For more details,
+tap "<font size="16"><b>here</b></font></string>
+    <string name="asm_guide_next">Next</string>
+    <string name="asm_guide_prev">Back</string>
+    <string name="asm_guide_swip_look">Swipe left to preview</string>
     <string name="asm_hate_ads">No ads, first month free</string>
     <string name="asm_hq">High quality</string>
     <string name="asm_item_not_available">item is not available</string>
     <string name="asm_loadstate_error_retry">Connect to the internet and tap to try again</string>
     <string name="asm_loadstate_not_more">"That's all for now"</string>
+    <string name="asm_main_section_best_sellers">Bestsellers</string>
+    <string name="asm_main_section_new_releases">New releases</string>
+    <string name="asm_main_section_playlist_by_category">Playlists by category</string>
+    <string name="asm_main_section_qobuz_playlists">Qobuz playlists</string>
+    <string name="asm_main_section_top_albums">Top albums</string>
+    <string name="asm_main_vip_subscribe_now">Subscribe</string>
     <string name="asm_message">Notifications</string>
     <string name="asm_mill_song_click">"Millions of amazing songs are just
 "<font size="38"><b>a tap away</b></font></string>
@@ -251,6 +264,14 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_privacy_tips_content">Agree to the <a href="/link/click">ASM Privacy Policy</a> to be able to use online music services.</string>
     <string name="asm_privacy_tips_title">ASM Privacy Policy</string>
     <string name="asm_pro_center">Membership</string>
+    <string name="asm_quality_hi_res_dialog_message">"Hi-Res files are very large and will take up space on your device. Not all devices are compatible with Hi-Res files. Loss of sound or distortion means that your device isn't compatible and you'll need to switch back to CD or MP3 quality. Continue?"</string>
+    <string name="asm_quality_hi_res_dialog_title">About Hi-Res files</string>
+    <string name="asm_quality_label_mobile">Mobile data</string>
+    <string name="asm_quality_label_wifi">Wi-Fi</string>
+    <string name="asm_quality_subscription">"Subscription: No streaming access for the Qobuz catalog.
+Purchase: Streaming up to CD quality (16-bit/44.1 kHz, depending on the quality you purchase).
+Streaming music over mobile data may incur charges from your carrier."</string>
+    <string name="asm_quality_title">Selected audio quality will be applied to the next song you play</string>
     <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
     <string name="asm_song_err_connect">"Couldn't connect to the server"</string>
     <string name="asm_song_err_not_exist">"The requested audio source doesn't exist"</string>
@@ -272,6 +293,11 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_unlock_tracks_ad_free">With a membership, you can enjoy high-quality music and downloads without ads or interruptions.</string>
     <string name="asm_vip_center">Premium</string>
     <string name="asm_vip_share_rights">Subscribe for these great perks</string>
+    <string name="asm_ws_now_playing_listen">Listen to full version</string>
+    <string name="asm_ws_song_quality_category">Audio quality</string>
+    <string name="asm_ws_vip_ads">No ads</string>
+    <string name="asm_ws_vip_get_premium">Get Premium</string>
+    <string name="asm_ws_vip_subscribe">Subscribe</string>
     <string name="audio_ad_countdown">Skip ad in %ss</string>
     <string name="audio_ad_pass">Skip ad</string>
     <string name="audio_add_equalizer">均衡器+</string>
@@ -457,7 +483,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">588fd0d3d3664601b5376e7e10b2ebf2</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">5c65eaed06d04ff9a771bba4a75a56b9</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1413,6 +1439,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="native_media_view">Media View</string>
     <string name="nav_app_bar_navigate_up_description">Navigate up</string>
     <string name="nav_app_bar_open_drawer_description">Open navigation drawer</string>
+    <string name="nct_song_joox">"Can't play due to copyright issues"</string>
     <string name="need_to_close">Show less</string>
     <string name="need_to_show">Show more</string>
     <string name="network_disable">"Couldn't connect to the network"</string>
