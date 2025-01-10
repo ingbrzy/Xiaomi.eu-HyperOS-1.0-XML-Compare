@@ -562,7 +562,7 @@
     <string name="notification_permission_dialog_not_open">Not now</string>
     <string name="notification_permission_dialog_open">Settings</string>
     <string name="notification_permission_dialog_title">Permissions required</string>
-    <string name="oneshot_alarm">Delete after goes off</string>
+    <string name="oneshot_alarm">Delete after alarm goes off</string>
     <string name="open_keep_screen">Screen will be kept on</string>
     <string name="open_notification_permission_remind">Allow notifications to be able to turn off alarms</string>
     <string name="open_sleep_record">Turn on</string>
