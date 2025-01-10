@@ -130,6 +130,8 @@ Try creating the AI image with different photos."</string>
     <string name="ai_entrance_description">Create an AI image based on photos of people and generate their portraits</string>
     <string name="ai_entrance_title">AI Portrait</string>
     <string name="ai_exit">Exit</string>
+    <string name="ai_film_description">Create stunning videos with the help of AI</string>
+    <string name="ai_film_title">Auto edit</string>
     <string name="ai_filter_album_tag">People with insufficient photos were filtered out</string>
     <string name="ai_free_creation_button">Create</string>
     <string name="ai_free_creation_container_msg">For example: A walk on the beach</string>
