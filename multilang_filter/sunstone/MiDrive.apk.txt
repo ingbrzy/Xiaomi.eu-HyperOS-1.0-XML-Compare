@@ -1,0 +1,8 @@
+Removed: [be] strings.xml: string/cancel_mi_drive_alert_description (wrong format)
+Removed: [be] strings.xml: string/cancel_mi_drive_alert_reminder_card_summary (wrong format)
+Removed: [be] strings.xml: string/cancel_mi_drive_confirm_reminder_card_summary (wrong format)
+Removed: [be] strings.xml: string/privacy_recall_alert_description (wrong format)
+Removed: [be] strings.xml: string/privacy_recall_alert_reminder_card_summary (wrong format)
+Removed: [be] strings.xml: string/privacy_recall_confirm_reminder_card_summary (wrong format)
+Removed: [cs] plurals.xml: plurals/text_group_count (wrong item attributes)
+Removed: [cs] plurals.xml: plurals/view_all (wrong item attributes)
