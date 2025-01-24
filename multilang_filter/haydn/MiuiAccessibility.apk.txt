@@ -1,0 +1,1 @@
+Removed: [lv] strings.xml: string/dialog_message_revoke_authorization_common (wrong attributes)
