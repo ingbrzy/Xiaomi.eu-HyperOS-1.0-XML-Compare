@@ -1992,7 +1992,7 @@ volunteer"</string>
     <string name="ew_settings_push_tips">Warnings about areas otside of your location will come in the form of notifications only.</string>
     <string name="ew_settings_set_level_summary">Receive warnings about earthquakes when their intensity is %s or higher</string>
     <string name="ew_settings_set_level_title">Set earthquake warning threshold</string>
-    <string name="ew_signature_default">成都高新减灾研究所 大陆地震预警中心</string>
+    <string name="ew_signature_default">中国地震预警网</string>
     <string name="ew_sleep_mode_alert_content">"To make sure you can receive earthquake early warnings, Sleep mode will be turned off. Background apps, NFC, Bluetooth, GPS, mobile data, and Wi-Fi will work normally even when you're sleeping."</string>
     <string name="ew_sleep_mode_alert_title">Important notice</string>
     <string name="ew_subscribe_area_title">Manage added areas</string>
