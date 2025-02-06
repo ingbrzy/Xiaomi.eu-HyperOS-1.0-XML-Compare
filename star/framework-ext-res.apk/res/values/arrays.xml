@@ -4734,6 +4734,8 @@
         <item>21670</item>
         <item>22210</item>
         <item>22235</item>
+        <item>22288</item>
+        <item>22299</item>
         <item>22601</item>
         <item>23402</item>
         <item>23411</item>
@@ -5898,6 +5900,7 @@
         <item>taro</item>
         <item>mt6983</item>
         <item>mt6895</item>
+        <item>mt6897</item>
         <item>pineapple</item>
         <item>mt6985</item>
     </string-array>
@@ -5909,6 +5912,7 @@
         <item>taro</item>
         <item>mt6983</item>
         <item>mt6895</item>
+        <item>mt6897</item>
         <item>pineapple</item>
         <item>mt6985</item>
     </string-array>
@@ -7202,7 +7206,6 @@
         <item>mt6893</item>
         <item>mt6877</item>
         <item>mt6789</item>
-        <item>mt6897</item>
         <item>mt6886</item>
     </string-array>
     <string-array name="middle_device_gpu_list">
@@ -7218,7 +7221,6 @@
         <item>mt6893</item>
         <item>mt6877</item>
         <item>mt6789</item>
-        <item>mt6897</item>
         <item>mt6886</item>
     </string-array>
     <string-array name="miui_multi_task_white_list">
