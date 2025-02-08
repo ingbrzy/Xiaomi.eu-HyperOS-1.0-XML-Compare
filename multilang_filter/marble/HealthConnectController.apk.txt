@@ -1,2 +1,1 @@
 Removed: [fa] strings.xml: string/percent (wrong attributes)
-Removed: [pt-rBR] strings.xml: string/data_point_action_content_description (wrong format)
