@@ -405,7 +405,7 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">aa6ed64565f946ffa1839788f41958b8</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">4d29bb6a13174dfc8b17fa50e32d2124</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -2884,6 +2884,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Delete</string>
     <string name="web_ad_clear_dialog_msg">Delete ad tags from \"%s\" now?</string>
     <string name="web_ad_clear_dialog_title">Delete ad tag</string>
+    <string name="web_ai_chat_guide">Ask me anything! Try something like \"&lt;font color=#39219C>&lt;b>%s&lt;/b>&lt;/font>\".</string>
+    <string name="web_ai_chat_guide_content">Summarize web page content</string>
     <string name="web_ai_close_translation">Turn off</string>
     <string name="web_ai_error">An error occurred</string>
     <string name="web_ai_gemini_name">Echo</string>
