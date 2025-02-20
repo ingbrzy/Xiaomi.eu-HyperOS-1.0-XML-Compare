@@ -157,6 +157,7 @@
     <string name="artist_name">Artist</string>
     <string name="asm_account_exception">An account error occurred</string>
     <string name="asm_ad_free">No ads</string>
+    <string name="asm_album_not_available">album is not available</string>
     <string name="asm_batch_download_failed">"Couldn't download"</string>
     <string name="asm_buy_member_success">Purchased VIP membership successfully</string>
     <string name="asm_check_video_playing">"Playing video. Can't add item to playlist."</string>
@@ -179,6 +180,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_dialog_vip_confirm_text">Join</string>
     <string name="asm_dialog_vip_message">Sign up for a VIP membership to listen to high-quality songs and download even more content.</string>
     <string name="asm_disable_song_click_tip">"This song isn't available due to copyright issues"</string>
+    <string name="asm_discover_title">Discover</string>
     <string name="asm_download">Download</string>
     <string name="asm_download_all_start_label">Resume all</string>
     <string name="asm_download_all_stop_label">Pause all</string>
@@ -218,11 +220,23 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_gooleplay_notice">"Google Play services aren't installed"</string>
     <string name="asm_goto_online_music">View online music</string>
     <string name="asm_grab_coupon">You got a free %d-month subscription coupon</string>
+    <string name="asm_guide_enter">Start</string>
+    <string name="asm_guide_info_check">"For more details,
+tap "<font size="16"><b>here</b></font></string>
+    <string name="asm_guide_next">Next</string>
+    <string name="asm_guide_prev">Back</string>
+    <string name="asm_guide_swip_look">Swipe left to preview</string>
     <string name="asm_hate_ads">No ads, first month free</string>
     <string name="asm_hq">High quality</string>
     <string name="asm_item_not_available">item is not available</string>
     <string name="asm_loadstate_error_retry">Connect to the internet and tap to try again</string>
     <string name="asm_loadstate_not_more">"That's all for now"</string>
+    <string name="asm_main_section_best_sellers">Bestsellers</string>
+    <string name="asm_main_section_new_releases">New releases</string>
+    <string name="asm_main_section_playlist_by_category">Playlists by category</string>
+    <string name="asm_main_section_qobuz_playlists">Qobuz playlists</string>
+    <string name="asm_main_section_top_albums">Top albums</string>
+    <string name="asm_main_vip_subscribe_now">Subscribe</string>
     <string name="asm_message">Notifications</string>
     <string name="asm_mill_song_click">"Millions of amazing songs are just
 "<font size="38"><b>a tap away</b></font></string>
@@ -241,6 +255,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_page_error_data">An error occurred</string>
     <string name="asm_page_error_no_network">"Couldn't connect to the network"</string>
     <string name="asm_page_local_empty_action">Discover new music</string>
+    <string name="asm_pay_in_progress_toast">You have an order in progress</string>
     <string name="asm_pay_info_deduction_failed">"Couldn't complete automatic payment. Check your payment method soon to avoid losing the benefits of your VIP membership."</string>
     <string name="asm_pay_info_upload_failed">"Couldn't upload order info"</string>
     <string name="asm_pay_order_generate">Generating order…</string>
@@ -251,6 +266,14 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_privacy_tips_content">Agree to the <a href="/link/click">ASM Privacy Policy</a> to be able to use online music services.</string>
     <string name="asm_privacy_tips_title">ASM Privacy Policy</string>
     <string name="asm_pro_center">Membership</string>
+    <string name="asm_quality_hi_res_dialog_message">"Hi-Res files are very large and will take up space on your device. Not all devices are compatible with Hi-Res files. Loss of sound or distortion means that your device isn't compatible and you'll need to switch back to CD or MP3 quality. Continue?"</string>
+    <string name="asm_quality_hi_res_dialog_title">About Hi-Res files</string>
+    <string name="asm_quality_label_mobile">Mobile data</string>
+    <string name="asm_quality_label_wifi">Wi-Fi</string>
+    <string name="asm_quality_subscription">"Subscription: No streaming access for the Qobuz catalog.
+Purchase: Streaming up to CD quality (16-bit/44.1 kHz, depending on the quality you purchase).
+Streaming music over mobile data may incur charges from your carrier."</string>
+    <string name="asm_quality_title">Selected audio quality will be applied to the next song you play</string>
     <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
     <string name="asm_song_err_connect">"Couldn't connect to the server"</string>
     <string name="asm_song_err_not_exist">"The requested audio source doesn't exist"</string>
@@ -261,6 +284,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
 "<font size="55"><b>hear every note</b></font></string>
     <string name="asm_songlist_all_genre_close">Collapse all</string>
     <string name="asm_songlist_all_genre_title">All categories</string>
+    <string name="asm_songlist_not_available">songlist is not available</string>
     <string name="asm_songs_is_downloading">Downloading song…</string>
     <string name="asm_stop_action_when_no_network">Connect to the network and try again</string>
     <string name="asm_subscribe_now">Get started</string>
@@ -272,6 +296,23 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_unlock_tracks_ad_free">With a membership, you can enjoy high-quality music and downloads without ads or interruptions.</string>
     <string name="asm_vip_center">Premium</string>
     <string name="asm_vip_share_rights">Subscribe for these great perks</string>
+    <string name="asm_ws_agree_privacy">Agree</string>
+    <string name="asm_ws_all_listen">Want to listen to the full song?</string>
+    <string name="asm_ws_give_up_rights">Subscribe for these great benefits</string>
+    <string name="asm_ws_hires_free_listen">Subscribe to unlock Hi-Res sound and millions of songs. Get started with your first month free!</string>
+    <string name="asm_ws_hires_listen">Unlock Hi-Res sound and millions of songs</string>
+    <string name="asm_ws_listen_now">Listen</string>
+    <string name="asm_ws_now_playing_listen">Listen to full version</string>
+    <string name="asm_ws_pre_listen">%d-second preview</string>
+    <string name="asm_ws_privacy_bottom_title">A world of music at your fingertips</string>
+    <string name="asm_ws_privacy_tips_content">Read and agree to the <font size="18"><a href="/link/click"><b>Vansound Privacy Policy</b></a></font> to start listening to online music.</string>
+    <string name="asm_ws_privacy_tips_title">We respect your privacy</string>
+    <string name="asm_ws_ready_exp">Ready for the full experience?</string>
+    <string name="asm_ws_song_quality_category">Audio quality</string>
+    <string name="asm_ws_try_free">Try %d month free</string>
+    <string name="asm_ws_vip_ads">No ads</string>
+    <string name="asm_ws_vip_get_premium">Get Premium</string>
+    <string name="asm_ws_vip_subscribe">Subscribe</string>
     <string name="audio_ad_countdown">Skip ad in %ss</string>
     <string name="audio_ad_pass">Skip ad</string>
     <string name="audio_add_equalizer">均衡器+</string>
@@ -457,7 +498,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">32ba5eef12da485dbc8e08c93cc1f1f1</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">cc7335e4151d4c1d87969bb62026f3ba</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1147,6 +1188,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="lrc_search_failed">"Couldn't find lyrics"</string>
     <string name="lrc_searching">Searching…</string>
     <string name="ludo_tab_guide">Check out our new Music rooms</string>
+    <string name="lyric_add_content">The above content is generated by automatic speech recognition technology</string>
     <string name="lyric_ai_apply_fail">"Couldn't use. Try again."</string>
     <string name="lyric_ai_button_text">AI lyrics</string>
     <string name="lyric_ai_dialog_one">"•You can tap to recognize lyrics, and we'll fill in the lyrics for you using AI voice recognition technology."</string>
@@ -1154,6 +1196,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="lyric_ai_dialog_two">"•Recognition will take a few minutes. Once it's complete, lyrics will be filled in automatically."</string>
     <string name="lyric_ai_fail_toast">File is too large to recognize</string>
     <string name="lyric_ai_identify_success">Recognized lyrics successfully</string>
+    <string name="lyric_ai_setting">Automatically recognize audio</string>
     <string name="lyric_ai_song">Current song</string>
     <string name="lyric_ai_song_list">Songs</string>
     <string name="lyric_ai_state_apply">Using lyrics</string>
@@ -1162,6 +1205,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="lyric_ai_state_identify">Recognize</string>
     <string name="lyric_ai_state_identifying">Just a sec…</string>
     <string name="lyric_ai_state_use">Use</string>
+    <string name="lyric_ai_success_toast">Content is generated by automatic speech recognition technology. You can turn it off in Settings > Advanced settings.</string>
     <string name="lyric_ai_title">AI lyrics recognition</string>
     <string name="lyric_feedback_inaccurate_timing">Lyrics are out of sync</string>
     <string name="lyric_feedback_lyrics_error">"Entire song's lyrics are wrong"</string>
@@ -1413,6 +1457,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="native_media_view">Media View</string>
     <string name="nav_app_bar_navigate_up_description">Navigate up</string>
     <string name="nav_app_bar_open_drawer_description">Open navigation drawer</string>
+    <string name="nct_song_joox">"Can't play due to copyright issues"</string>
     <string name="need_to_close">Show less</string>
     <string name="need_to_show">Show more</string>
     <string name="network_disable">"Couldn't connect to the network"</string>
@@ -1780,6 +1825,17 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="playerui_lyric_selected">Use these lyrics</string>
     <string name="playerui_playing_tilte_asm">No ads, first month free</string>
     <string name="playerui_playing_tilte_asm_already">Listen ad-free</string>
+    <string name="playerui_skin_cd">CD</string>
+    <string name="playerui_skin_color_vinyl_record">Modern vinyl</string>
+    <string name="playerui_skin_default">Default</string>
+    <string name="playerui_skin_des">Tap here to view player skins</string>
+    <string name="playerui_skin_immediate_use">Apply</string>
+    <string name="playerui_skin_in_use">Applied</string>
+    <string name="playerui_skin_setting_successful">Applied successfully</string>
+    <string name="playerui_skin_slide">Player styles</string>
+    <string name="playerui_skin_tape">Cassette</string>
+    <string name="playerui_skin_use_to_player">Applied</string>
+    <string name="playerui_skin_vinyl">Classic vinyl</string>
     <string name="playerui_song_dialog_cancel">"Don't allow"</string>
     <string name="playerui_song_dialog_hint">"More accurate lyrics aren't currently available. You can help us by allowing Mi Music to access this audio file for optimization purposes. Allow access now?"</string>
     <string name="playerui_song_dialog_ok">Allow</string>
@@ -1837,6 +1893,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="read_and_agree_joox_protocol"><Data>"I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>"</Data></string>
     <string name="read_and_agree_mi_protocol"><Data>"I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>"</Data></string>
     <string name="read_and_agree_protocol">Read and agree to our User Agreement and Privacy Policy before you continue.</string>
+    <string name="read_and_agree_ws_protocol"><Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Vansound Privacy Policy&lt;/a>&lt;/font> to start listening to online music.</Data></string>
     <string name="ready_to_play">Up next</string>
     <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>
     <string name="recently_played">Recently played</string>
