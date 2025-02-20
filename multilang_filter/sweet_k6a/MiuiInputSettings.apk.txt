@@ -1,2 +1,0 @@
-Removed: [fr] plurals.xml: plurals/auto_disable_screenbuttons_disabled_header_title (duplicate item)
-Removed: [fr] plurals.xml: plurals/auto_disable_screenbuttons_enabled_header_title (duplicate item)
