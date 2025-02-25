@@ -781,8 +781,8 @@
         <item>"Current network connection is very fast! You're at the top of your game."</item>
     </string-array>
     <array name="user_guide_images">
-        <item>@drawable/user_guide_video_download</item>
-        <item>@drawable/user_guide_whats_app</item>
+        <item>@drawable/user_guide_news_flow</item>
+        <item>@drawable/user_guide_ai</item>
         <item>@drawable/user_guide_private_files</item>
     </array>
     <string-array name="user_guide_info_array">
