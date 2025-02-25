@@ -1,7 +1,0 @@
-Removed: [az-rAZ] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
-Removed: [fr] strings.xml: string/miui_feedback_edit_submit_dialog_content_global (wrong format)
-Removed: [it] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
-Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app (wrong format)
-Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_mobile (wrong format)
-Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_with_telecom (wrong format)
-Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_with_unicom (wrong format)
