@@ -11,6 +11,8 @@ Removed: [sk] strings.xml: string/fail_reason_could_not_open_file (wrong attribu
 Removed: [sk] strings.xml: string/sim_capacity_content (wrong attributes)
 Removed: [sk] strings.xml: string/t9_search_guide_pinyin_title2 (wrong attributes)
 Removed: [sk] strings.xml: string/t9_search_guide_zhuyin_title2 (wrong attributes)
+Removed: [tr] strings.xml: string/confirm_call_log_dial_summary (wrong attributes)
+Removed: [tr] strings.xml: string/confirm_call_log_dial_title (wrong attributes)
 Removed: [ug-rCN] plurals.xml: plurals/merge_contact_message_plurals (wrong item format)
 Removed: [ug-rCN] strings.xml: string/t9_search_guide_pinyin_title2 (wrong attributes)
 Removed: [ug-rCN] strings.xml: string/t9_search_guide_zhuyin_title2 (wrong attributes)
