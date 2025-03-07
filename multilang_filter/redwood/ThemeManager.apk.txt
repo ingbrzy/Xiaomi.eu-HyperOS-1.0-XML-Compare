@@ -37,6 +37,7 @@ Removed: [sv] strings.xml: string/resource_get_auth_exceed_max_limit_tips (wrong
 Removed: [th] strings.xml: string/dynamic_video_wallpaper (wrong format)
 Removed: [th] strings.xml: string/resource_get_auth_exceed_max_limit_tips (wrong format)
 Removed: [tr] strings.xml: string/dynamic_video_wallpaper (wrong format)
+Removed: [tr] strings.xml: string/loop_video_wallpaper (wrong attributes)
 Removed: [tr] strings.xml: string/resource_get_auth_exceed_max_limit_tips (wrong format)
 Removed: [uk] strings.xml: string/dynamic_video_wallpaper (wrong format)
 Removed: [uk] strings.xml: string/resource_get_auth_exceed_max_limit_tips (wrong format)
