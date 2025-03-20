@@ -160,6 +160,14 @@
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
+    <plurals name="player_guide_double_tap_left_forward_times">
+        <item quantity="other">Double tap the right side of the screen to fast forward %d seconds</item>
+        <item quantity="one">Double tap the right side of the screen to fast forward %d second</item>
+    </plurals>
+    <plurals name="player_guide_double_tap_left_rewind_times">
+        <item quantity="other">Double tap the left side of the screen to rewind %d seconds</item>
+        <item quantity="one">Double tap the left side of the screen to rewind %d second</item>
+    </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">Delete %s items now?</item>
         <item quantity="one">Delete %s item now?</item>
