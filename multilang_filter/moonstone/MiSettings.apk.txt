@@ -28,7 +28,6 @@ Removed: [sl] plurals.xml: plurals/pcl_unlock_pattern_summary_new (wrong item fo
 Removed: [sw] plurals.xml: plurals/usage_new_home_avg_unlockc (wrong item format)
 Removed: [ta-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [te-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
-Removed: [tr] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [ug-rCN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [ur-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [ur-rPK] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
