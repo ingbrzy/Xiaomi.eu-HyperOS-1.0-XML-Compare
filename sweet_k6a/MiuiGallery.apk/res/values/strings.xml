@@ -1603,7 +1603,7 @@ are available"</string>
     <string name="google_banner_upgrade_left_btn_text">View details</string>
     <string name="google_banner_upgrade_right_btn_get_storage">Get storage</string>
     <string name="google_banner_upgrade_right_btn_text">Buy storage</string>
-    <string name="google_banner_upgrade_space_low_des">"Gallery can't back up your photos and videos when you're out of storage"</string>
+    <string name="google_banner_upgrade_space_low_des">"Gallery can't back up your photos and videos when you are out of storage"</string>
     <string name="google_banner_upgrade_space_low_title">Your storage is %s full</string>
     <string name="google_banner_upgrade_title">Cloud storage is full</string>
     <string name="google_crash_reporting_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
@@ -1620,6 +1620,9 @@ are available"</string>
     <string name="google_setting_title">Google Photos backup</string>
     <string name="google_setting_turn_off_backup">Turn off backup and sync</string>
     <string name="google_storage_bucket">migallery-global.appspot.com</string>
+    <string formatted="false" name="google_storage_progress">%s GB of %s GB</string>
+    <string name="google_storage_progress_btn_get_more_storage">Get more storage</string>
+    <string name="google_storage_progress_title">Storage used</string>
     <string name="grant_permission_go_and_set">Set</string>
     <string name="grant_permission_go_and_set_2">Settings</string>
     <string name="grant_permission_go_and_set_3">Settings</string>
