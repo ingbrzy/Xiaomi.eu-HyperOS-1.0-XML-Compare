@@ -1,0 +1,2 @@
+Removed: [tr] strings.xml: string/expand_top_notification (wrong attributes)
+Removed: [tr] strings.xml: string/show_weather (wrong attributes)
