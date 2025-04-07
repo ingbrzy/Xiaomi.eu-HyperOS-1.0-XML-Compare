@@ -4255,6 +4255,7 @@ Ultra battery saver"</string>
     <string name="perfermance_optimization_title">Performance optimization</string>
     <string name="performance_frame_enhance_super_display_tips">"Enhanced frame rate and super resolution can't work at the same time. Turning on one of them will turn off the other."</string>
     <string name="performance_frame_insert_super_display_tips">"Smart frame rate and super resolution can't be in effect at the same time. Turning on one will turn off the other."</string>
+    <string name="perm_desc_accessibility">This permission is required to view and control the screen, operate apps and hardware sensors according to your instructions, and interact with apps on your behalf.</string>
     <string name="perm_intercept_content">Give this app the following permission: %1s?</string>
     <string name="perm_intercept_notification_title">Allowing %1s to use notifications will let this app perform the following actions:</string>
     <string name="perm_intercept_privacy_content">These actions might expose your personal data. Grant the permission (%1s) anyway?</string>
@@ -6641,6 +6642,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_power_optimizer">Battery saver</string>
     <string name="title_realname_verify">ID verification</string>
     <string name="title_reply">Comment</string>
+    <string name="title_request_perm_accessibility">Allow %1$s to control your device?</string>
     <string name="title_restrict_data_usage">"%s can't connect to the internet?"</string>
     <string name="title_result_absorbed">Focus mode</string>
     <string name="title_result_adjust_volume">Volume</string>
