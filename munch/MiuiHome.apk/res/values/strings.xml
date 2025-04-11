@@ -734,8 +734,6 @@ Enhanced security."</string>
     <string name="navigation_guide_appswitch_title">Switch to previous app</string>
     <string name="navigation_guide_back_summary">Swipe left or right from the edge of the screen</string>
     <string name="navigation_guide_back_title">Go back</string>
-    <string name="navigation_guide_circle_search_summary">Press and hold full screen indicator to use Circle to Search</string>
-    <string name="navigation_guide_circle_search_title">Circle to Search</string>
     <string name="navigation_guide_dialog_dont_show_again">"Don't show again"</string>
     <string name="navigation_guide_dialog_ok">Learn</string>
     <string name="navigation_guide_dialog_skip">Not now</string>
