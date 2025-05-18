@@ -1,0 +1,8 @@
+Removed: [hr] strings.xml: string/passport_user_agreement_hint_3rd_app_mobile (wrong format)
+Removed: [it] strings.xml: string/privacy_detail (wrong format)
+Removed: [ro] arrays.xml: array/debug_mode_protocol_entries (invalid item)
+Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app (wrong format)
+Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_mobile (wrong format)
+Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_with_telecom (wrong format)
+Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_with_unicom (wrong format)
+Removed: [ro] strings.xml: string/privacy_detail (wrong format)

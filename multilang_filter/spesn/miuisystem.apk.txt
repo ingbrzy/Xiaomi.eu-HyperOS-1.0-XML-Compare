@@ -1,0 +1,3 @@
+Removed: [zh-rCN] strings.xml: string/cta_message_license (wrong format)
+Removed: [zh-rHK] strings.xml: string/cta_message_license (wrong format)
+Removed: [zh-rTW] strings.xml: string/cta_message_license (wrong format)
