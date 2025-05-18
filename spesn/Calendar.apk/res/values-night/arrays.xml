@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="account_birthday">
+        <item>#ffa8594b</item>
+        <item>#00000000</item>
+        <item>#33ffa615</item>
+        <item>#99ffba2c</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ff724b9c</item>
+        <item>#00000000</item>
+        <item>#33f49cff</item>
+        <item>#99c575ff</item>
+    </array>
+    <array name="account_preset2">
+        <item>#ff975429</item>
+        <item>#00000000</item>
+        <item>#33f5755e</item>
+        <item>#99fc9428</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ff2a7a9c</item>
+        <item>#00000000</item>
+        <item>#3354c2f0</item>
+        <item>#9968d2ff</item>
+    </array>
+    <array name="account_preset4">
+        <item>#ff4b8148</item>
+        <item>#00000000</item>
+        <item>#339bec96</item>
+        <item>#996ddb66</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff248d8a</item>
+        <item>#00000000</item>
+        <item>#3342fedf</item>
+        <item>#9947e9e0</item>
+    </array>
+</resources>

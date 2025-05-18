@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">Napauta saadaksesi säätiedot</string>
+    <string name="date_format">EEEE d. MMMM</string>
+    <string name="today">Tänään</string>
+    <string name="tomorrow">Huomenna</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'Ei dataa'</string>
+    <string name="weather_type_0">Selkeää</string>
+    <string name="weather_type_1">Pilvinen</string>
+    <string name="weather_type_2">Pilvinen</string>
+    <string name="weather_type_3">Sumuinen</string>
+    <string name="weather_type_4">Raskas rankkasade</string>
+    <string name="weather_type_5">Kaatosade</string>
+    <string name="weather_type_6">Rankkasade</string>
+    <string name="weather_type_7">Ukonilma</string>
+    <string name="weather_type_8">Sateinen</string>
+    <string name="weather_type_9">Rankkasateinen</string>
+    <string name="weather_type_10">Kohtalainen sade</string>
+    <string name="weather_type_11">Kevyt sade</string>
+    <string name="weather_type_12">Räntäsade</string>
+    <string name="weather_type_13">Lumimyrsky</string>
+    <string name="weather_type_14">Lumi</string>
+    <string name="weather_type_15">Rankka lumisade</string>
+    <string name="weather_type_16">Kohtalainen lumisade</string>
+    <string name="weather_type_17">Kevyt lumisade</string>
+    <string name="weather_type_18">Kova hiekkamyrsky</string>
+    <string name="weather_type_19">Hiekkamyrsky</string>
+    <string name="weather_type_20">Hiekka</string>
+    <string name="weather_type_21">Pölymyrsky</string>
+    <string name="weather_type_22">Raesade</string>
+    <string name="weather_type_23">Pöly</string>
+    <string name="weather_type_24">Usva</string>
+    <string name="weather_type_25">Jäätävä sade</string>
+</resources>
