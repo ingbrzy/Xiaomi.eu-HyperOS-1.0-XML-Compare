@@ -1,6 +1,7 @@
 Removed: [ar] plurals.xml: plurals/notice_user_banned (wrong item format)
 Removed: [as-rIN] plurals.xml: plurals/notice_user_banned (wrong item format)
 Removed: [az-rAZ] plurals.xml: plurals/notice_user_banned (wrong item format)
+Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [ja] plurals.xml: plurals/notice_user_banned (wrong item format)
 Removed: [kk-rKZ] plurals.xml: plurals/notice_user_banned (wrong item format)
 Removed: [kn-rIN] plurals.xml: plurals/notice_user_banned (wrong item format)
