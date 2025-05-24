@@ -1,0 +1,2 @@
+Removed: [tr] strings.xml: string/install_desc (wrong format)
+Removed: [tr] strings.xml: string/unit (wrong attributes)
