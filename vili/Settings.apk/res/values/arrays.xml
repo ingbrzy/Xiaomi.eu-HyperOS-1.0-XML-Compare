@@ -1017,71 +1017,71 @@
         <item>@string/color_magenta</item>
     </string-array>
     <integer-array name="captioning_color_selector_values">
-        <item>0x00FFFFFF</item>
-        <item>0xFFFFFFFF</item>
-        <item>0xFF000000</item>
-        <item>0xFFFF0000</item>
-        <item>0xFFFFFF00</item>
-        <item>0xFF00FF00</item>
-        <item>0xFF00FFFF</item>
-        <item>0xFF0000FF</item>
-        <item>0xFFFF00FF</item>
-        <item>0xFF000055</item>
-        <item>0xFF0000AA</item>
-        <item>0xFF005500</item>
-        <item>0xFF005555</item>
-        <item>0xFF0055AA</item>
-        <item>0xFF0055FF</item>
-        <item>0xFF00AA00</item>
-        <item>0xFF00AA55</item>
-        <item>0xFF00AAAA</item>
-        <item>0xFF00AAFF</item>
-        <item>0xFF00FF55</item>
-        <item>0xFF00FFAA</item>
-        <item>0xFF550000</item>
-        <item>0xFF550055</item>
-        <item>0xFF5500AA</item>
-        <item>0xFF5500FF</item>
-        <item>0xFF555500</item>
-        <item>0xFF555555</item>
-        <item>0xFF5555AA</item>
-        <item>0xFF5555FF</item>
-        <item>0xFF55AA00</item>
-        <item>0xFF55AA55</item>
-        <item>0xFF55AAAA</item>
-        <item>0xFF55AAFF</item>
-        <item>0xFF55FF00</item>
-        <item>0xFF55FF55</item>
-        <item>0xFF55FFAA</item>
-        <item>0xFF55FFFF</item>
-        <item>0xFFAA0000</item>
-        <item>0xFFAA0055</item>
-        <item>0xFFAA00AA</item>
-        <item>0xFFAA00FF</item>
-        <item>0xFFAA5500</item>
-        <item>0xFFAA5555</item>
-        <item>0xFFAA55AA</item>
-        <item>0xFFAA55FF</item>
-        <item>0xFFAAAA00</item>
-        <item>0xFFAAAA55</item>
-        <item>0xFFAAAAAA</item>
-        <item>0xFFAAAAFF</item>
-        <item>0xFFAAFF00</item>
-        <item>0xFFAAFF55</item>
-        <item>0xFFAAFFAA</item>
-        <item>0xFFAAFFFF</item>
-        <item>0xFFFF0055</item>
-        <item>0xFFFF00AA</item>
-        <item>0xFFFF5500</item>
-        <item>0xFFFF5555</item>
-        <item>0xFFFF55AA</item>
-        <item>0xFFFF55FF</item>
-        <item>0xFFFFAA00</item>
-        <item>0xFFFFAA55</item>
-        <item>0xFFFFAAAA</item>
-        <item>0xFFFFAAFF</item>
-        <item>0xFFFFFF55</item>
-        <item>0xFFFFFFAA</item>
+        <item>0xffffff</item>
+        <item>0xffffffff</item>
+        <item>0xff000000</item>
+        <item>0xffff0000</item>
+        <item>0xffffff00</item>
+        <item>0xff00ff00</item>
+        <item>0xff00ffff</item>
+        <item>0xff0000ff</item>
+        <item>0xffff00ff</item>
+        <item>0xff000055</item>
+        <item>0xff0000aa</item>
+        <item>0xff005500</item>
+        <item>0xff005555</item>
+        <item>0xff0055aa</item>
+        <item>0xff0055ff</item>
+        <item>0xff00aa00</item>
+        <item>0xff00aa55</item>
+        <item>0xff00aaaa</item>
+        <item>0xff00aaff</item>
+        <item>0xff00ff55</item>
+        <item>0xff00ffaa</item>
+        <item>0xff550000</item>
+        <item>0xff550055</item>
+        <item>0xff5500aa</item>
+        <item>0xff5500ff</item>
+        <item>0xff555500</item>
+        <item>0xff555555</item>
+        <item>0xff5555aa</item>
+        <item>0xff5555ff</item>
+        <item>0xff55aa00</item>
+        <item>0xff55aa55</item>
+        <item>0xff55aaaa</item>
+        <item>0xff55aaff</item>
+        <item>0xff55ff00</item>
+        <item>0xff55ff55</item>
+        <item>0xff55ffaa</item>
+        <item>0xff55ffff</item>
+        <item>0xffaa0000</item>
+        <item>0xffaa0055</item>
+        <item>0xffaa00aa</item>
+        <item>0xffaa00ff</item>
+        <item>0xffaa5500</item>
+        <item>0xffaa5555</item>
+        <item>0xffaa55aa</item>
+        <item>0xffaa55ff</item>
+        <item>0xffaaaa00</item>
+        <item>0xffaaaa55</item>
+        <item>0xffaaaaaa</item>
+        <item>0xffaaaaff</item>
+        <item>0xffaaff00</item>
+        <item>0xffaaff55</item>
+        <item>0xffaaffaa</item>
+        <item>0xffaaffff</item>
+        <item>0xffff0055</item>
+        <item>0xffff00aa</item>
+        <item>0xffff5500</item>
+        <item>0xffff5555</item>
+        <item>0xffff55aa</item>
+        <item>0xffff55ff</item>
+        <item>0xffffaa00</item>
+        <item>0xffffaa55</item>
+        <item>0xffffaaaa</item>
+        <item>0xffffaaff</item>
+        <item>0xffffff55</item>
+        <item>0xffffffaa</item>
     </integer-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Default</item>
@@ -1127,10 +1127,10 @@
         <item>100%</item>
     </string-array>
     <integer-array name="captioning_opacity_selector_values">
-        <item>0x40FFFFFF</item>
-        <item>0x80FFFFFF</item>
-        <item>0xC0FFFFFF</item>
-        <item>0xFFFFFFFF</item>
+        <item>0x40ffffff</item>
+        <item>0x80ffffff</item>
+        <item>0xc0ffffff</item>
+        <item>0xffffffff</item>
     </integer-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Set by app</item>
@@ -4213,11 +4213,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>@string/wifi_security_wpa2</item>
         <item>@string/wifi_security_sae</item>
     </string-array>
-    <array name="wifi_calling_mode_choices">
+    <string-array name="wifi_calling_mode_choices">
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>
         <item>@android:string/wfc_mode_cellular_preferred_summary</item>
         <item>@android:string/wfc_mode_wifi_only_summary</item>
-    </array>
+    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>Mobile</item>
@@ -4238,21 +4238,21 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Wi-Fi</item>
         <item>Mobile</item>
     </string-array>
-    <array name="wifi_calling_mode_choices_with_ims_preferred">
+    <string-array name="wifi_calling_mode_choices_with_ims_preferred">
         <item>Ims Preferred</item>
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>
         <item>@android:string/wfc_mode_cellular_preferred_summary</item>
         <item>@android:string/wfc_mode_wifi_only_summary</item>
-    </array>
-    <array name="wifi_calling_mode_choices_without_wifi_only">
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>
         <item>@android:string/wfc_mode_cellular_preferred_summary</item>
-    </array>
-    <array name="wifi_calling_mode_choices_without_wifi_only_with_ims_preferred">
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only_with_ims_preferred">
         <item>Ims Preferred</item>
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>
         <item>@android:string/wfc_mode_cellular_preferred_summary</item>
-    </array>
+    </string-array>
     <string-array name="wifi_calling_mode_summaries">
         <item>@string/wifi_calling_mode_wifi_preferred_summary</item>
         <item>@string/wifi_calling_mode_cellular_preferred_summary</item>
