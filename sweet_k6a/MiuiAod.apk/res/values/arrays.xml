@@ -206,32 +206,32 @@
         <item>@string/heavenly_stems_gui</item>
     </string-array>
     <array name="kg_color_editor_default_colors">
-        <item>#ffffffff</item>
-        <item>#ffc2c2c2</item>
-        <item>#fff6c0c0</item>
-        <item>#fff9ccb8</item>
-        <item>#fffff4bd</item>
-        <item>#ffe0fdbb</item>
-        <item>#ffb7f7bd</item>
-        <item>#ffbdf4ff</item>
-        <item>#ffbbbeff</item>
-        <item>#ffffbadb</item>
-        <item>#ffcebdff</item>
-        <item>#ffdbadff</item>
+        <item>#ffffff</item>
+        <item>#c2c2c2</item>
+        <item>#f6c0c0</item>
+        <item>#f9ccb8</item>
+        <item>#fff4bd</item>
+        <item>#e0fdbb</item>
+        <item>#b7f7bd</item>
+        <item>#bdf4ff</item>
+        <item>#bbbeff</item>
+        <item>#ffbadb</item>
+        <item>#cebdff</item>
+        <item>#dbadff</item>
     </array>
     <array name="kg_color_editor_default_progress_colors">
-        <item>#ffffffff</item>
-        <item>#ff808080</item>
-        <item>#ffff0000</item>
-        <item>#ffff4c00</item>
-        <item>#ffffd600</item>
-        <item>#ff8fff00</item>
-        <item>#ff00ff1a</item>
-        <item>#ff00d4ff</item>
-        <item>#ff000aff</item>
-        <item>#ffff007a</item>
-        <item>#ff4202fd</item>
-        <item>#ff8f01fe</item>
+        <item>#ffffff</item>
+        <item>#808080</item>
+        <item>#ff0000</item>
+        <item>#ff4c00</item>
+        <item>#ffd600</item>
+        <item>#8fff00</item>
+        <item>#00ff1a</item>
+        <item>#00d4ff</item>
+        <item>#000aff</item>
+        <item>#ff007a</item>
+        <item>#4202fd</item>
+        <item>#8f01fe</item>
     </array>
     <string-array name="kg_glass_filters">
         <item>Original</item>
@@ -244,14 +244,14 @@
         <item>Squares</item>
     </string-array>
     <array name="kg_hue_gradient_colors">
-        <item>#ffff0101</item>
-        <item>#fff800fd</item>
-        <item>#ff3908fe</item>
-        <item>#ff00f0ff</item>
-        <item>#ff00ff47</item>
-        <item>#fffaff00</item>
-        <item>#ffff6702</item>
-        <item>#ffff0000</item>
+        <item>#ff0101</item>
+        <item>#f800fd</item>
+        <item>#3908fe</item>
+        <item>#00f0ff</item>
+        <item>#00ff47</item>
+        <item>#faff00</item>
+        <item>#ff6702</item>
+        <item>#ff0000</item>
     </array>
     <string-array name="miui_lock_solar_terms">
         <item>@string/miui_lock_empty</item>

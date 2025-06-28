@@ -1098,11 +1098,11 @@
         <item>evergo</item>
         <item>XIG03</item>
     </string-array>
-    <array name="config_collapsed_statusbar_icon_blocklist">
+    <string-array name="config_collapsed_statusbar_icon_blocklist">
         <item>@android:string/status_bar_volume</item>
         <item>@android:string/status_bar_alarm_clock</item>
         <item>@android:string/status_bar_call_strength</item>
-    </array>
+    </string-array>
     <array name="config_controlsPreferredPackages" />
     <string-array name="config_disableAutoGroupSummaryPackages">
         <item>com.xiaomi.xmsf</item>
@@ -1172,11 +1172,11 @@
         <item>com.xiaomi.xmsf</item>
         <item>com.miui.systemAdSolution</item>
     </string-array>
-    <array name="config_keyguard_statusbar_icon_blocklist">
+    <string-array name="config_keyguard_statusbar_icon_blocklist">
         <item>@android:string/status_bar_volume</item>
         <item>@android:string/status_bar_alarm_clock</item>
         <item>@android:string/status_bar_call_strength</item>
-    </array>
+    </string-array>
     <string-array name="config_media_whitelist">
         <item>com.netease.cloudmusic</item>
         <item>com.netease.cloudmusic.lite</item>

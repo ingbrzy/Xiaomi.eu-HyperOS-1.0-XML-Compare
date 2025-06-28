@@ -10,12 +10,12 @@
         <item>#33ee4f1c</item>
     </array>
     <array name="speaker_text_color_array">
-        <item>#ff277af7</item>
-        <item>#ff7775f1</item>
-        <item>#ff787e96</item>
-        <item>#ff10c550</item>
-        <item>#ffeca200</item>
-        <item>#ffee8114</item>
-        <item>#ffee4f1c</item>
+        <item>#277af7</item>
+        <item>#7775f1</item>
+        <item>#787e96</item>
+        <item>#10c550</item>
+        <item>#eca200</item>
+        <item>#ee8114</item>
+        <item>#ee4f1c</item>
     </array>
 </resources>

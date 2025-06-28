@@ -15,11 +15,11 @@
     <array name="config_ambientThresholdLevels" />
     <array name="config_ambientThresholdsOfPeakRefreshRate" />
     <integer-array name="config_apfEthTypeBlackList">
-        <item>0x000088A2</item>
-        <item>0x000088A4</item>
-        <item>0x000088B8</item>
-        <item>0x000088CD</item>
-        <item>0x000088E3</item>
+        <item>0x88a2</item>
+        <item>0x88a4</item>
+        <item>0x88b8</item>
+        <item>0x88cd</item>
+        <item>0x88e3</item>
     </integer-array>
     <string-array name="config_appsToPin">
         <item>com.tencent.mm</item>

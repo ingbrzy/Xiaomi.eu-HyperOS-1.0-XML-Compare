@@ -19,23 +19,23 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">In %d mins</item>
         <item quantity="one">In %d min</item>
+        <item quantity="other">In %d mins</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
         <item quantity="one">%d min ago</item>
+        <item quantity="other">%d mins ago</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Never disable for %d apps</item>
         <item quantity="one">Never disable for %d app</item>
+        <item quantity="other">Never disable for %d apps</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Always disable for %d apps</item>
         <item quantity="one">Always disable for %d app</item>
+        <item quantity="other">Always disable for %d apps</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
@@ -50,18 +50,18 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
         <item quantity="one">in 1 minute</item>
+        <item quantity="other">in %d minutes</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
+        <item quantity="other">%d items selected</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
     </plurals>
 </resources>
