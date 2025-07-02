@@ -260,8 +260,8 @@
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.crashlytics.android.build_id">e6cc5fb21d814b08917577dd9f1fa654</string>
-    <string name="com.miapm.build_id">3cfc07236d734e9b8a489f8f9aeaf133</string>
+    <string name="com.crashlytics.android.build_id">14bdd26806e342a3aeb190f8016d769a</string>
+    <string name="com.miapm.build_id">4a1c2e321bcb42de9f963d95f13cfcd5</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -1247,7 +1247,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="mr_user_route_category_name">Devices</string>
     <string name="ms_cost_tip">Subscribe to get access to premium content</string>
     <string name="ms_definition">1080p resolution</string>
-    <string name="ms_expire_time">Subscription expires on m/d/yyyy</string>
+    <string name="ms_expire_time">Subscription expires on MM/dd/yyyy</string>
     <string name="ms_goto">Subscribe</string>
     <string name="ms_month">Monthly subscription</string>
     <string name="ms_pay">Pay</string>
@@ -2019,9 +2019,6 @@ Please try again later"</string>
     <string name="pw_channels">Channels</string>
     <string name="qq_application_id" />
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
-    <string name="question_click_bottom_tab">You can also tap a shortcut to open a website.</string>
-    <string name="question_edit_url_here">Search or enter URL here.</string>
-    <string name="question_how_to_download_video">How to download videos?</string>
     <string name="question_known">Got it</string>
     <string name="question_next">Next</string>
     <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>
@@ -2242,7 +2239,7 @@ Please try again later"</string>
     <string name="talkback_epos">Episodes</string>
     <string name="talkback_expand">Expand</string>
     <string name="talkback_faver">Add to favorites</string>
-    <string name="talkback_fold">Fold</string>
+    <string name="talkback_fold">Collapse</string>
     <string name="talkback_green_font">Green font</string>
     <string name="talkback_last">Previous</string>
     <string name="talkback_like">Like</string>
@@ -2259,7 +2256,7 @@ Please try again later"</string>
     <string name="talkback_selected">Selected</string>
     <string name="talkback_share">Share</string>
     <string name="talkback_title">Title</string>
-    <string name="talkback_title_select_speed">Select speed</string>
+    <string name="talkback_title_select_speed">Playback speed</string>
     <string name="talkback_unlock_screen">Unlock screen</string>
     <string name="talkback_unselected">Not selected</string>
     <string name="talkback_video_play">Play video</string>

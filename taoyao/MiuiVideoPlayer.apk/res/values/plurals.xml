@@ -46,6 +46,7 @@
         <item quantity="other">%s stars selected</item>
     </plurals>
     <plurals name="download_doing_hint">
+        <item quantity="one">Downloading %1$1d/%2$2d</item>
         <item quantity="other">Downloading %1$1d/%2$2d</item>
     </plurals>
     <plurals name="download_error_hint">

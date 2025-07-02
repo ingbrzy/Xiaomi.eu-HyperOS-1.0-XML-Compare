@@ -76,9 +76,29 @@
         <item quantity="one">1 minute ago</item>
         <item quantity="other">%d minutes ago</item>
     </plurals>
+    <plurals name="photo_editor_talkback_crop_distortion_value">
+        <item quantity="one">Distortion: %d</item>
+        <item quantity="other">Distortion: %d</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_horizontal_default_value">
+        <item quantity="one">Default horizontal value: %d degree</item>
+        <item quantity="other">Default horizontal value: %d degrees</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_horizontal_value">
+        <item quantity="one">Horizontal: %d degree</item>
+        <item quantity="other">Horizontal: %d degrees</item>
+    </plurals>
     <plurals name="photo_editor_talkback_crop_scale_value">
         <item quantity="one">Rotate %d degree</item>
         <item quantity="other">Rotate %d degrees</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_vertical_default_value">
+        <item quantity="one">Default vertical value: %d degree</item>
+        <item quantity="other">Default vertical value: %d degrees</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_vertical_value">
+        <item quantity="one">Vertical: %d degree</item>
+        <item quantity="other">Vertical: %d degrees</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="one">%2$d installation package (%3$s) from %1$s</item>
