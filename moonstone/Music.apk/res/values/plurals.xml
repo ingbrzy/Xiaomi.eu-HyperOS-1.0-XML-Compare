@@ -97,6 +97,14 @@ total %2$d songs"</item>
         <item quantity="one">%1$s song</item>
         <item quantity="other">%1$s songs</item>
     </plurals>
+    <plurals name="columbus_exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">Fast forward %d seconds</item>
+    </plurals>
+    <plurals name="columbus_exo_controls_rewind_by_amount_description">
+        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">Rewind %d seconds</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="one">%d comment</item>
         <item quantity="other">%d comments</item>
