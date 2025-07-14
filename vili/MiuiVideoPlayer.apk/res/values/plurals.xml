@@ -37,6 +37,14 @@
         <item quantity="one">%d video is already on this playlist</item>
         <item quantity="other">%d videos are already on this playlist</item>
     </plurals>
+    <plurals name="columbus_exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">Fast forward %d seconds</item>
+    </plurals>
+    <plurals name="columbus_exo_controls_rewind_by_amount_description">
+        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">Rewind %d seconds</item>
+    </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="one">View %d reply</item>
         <item quantity="other">View %d replies</item>
@@ -46,6 +54,7 @@
         <item quantity="other">%s stars selected</item>
     </plurals>
     <plurals name="download_doing_hint">
+        <item quantity="one">Downloading %1$1d/%2$2d</item>
         <item quantity="other">Downloading %1$1d/%2$2d</item>
     </plurals>
     <plurals name="download_error_hint">
@@ -59,6 +68,9 @@
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="one">Rewind %d second</item>
         <item quantity="other">Rewind %d seconds</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="hint_local_guide_views">
         <item quantity="one">%s view</item>
