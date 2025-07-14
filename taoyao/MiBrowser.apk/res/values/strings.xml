@@ -480,7 +480,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">91e6447554064fb19dfa8484355ae717</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">00c01c47695042e6b7c511dcbcf999df</string>
+    <string name="com.miapm.build_id">2f55cef726b649a0bb1ea20efa748f13</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -2408,6 +2409,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="send">Send</string>
     <string name="send_comment_button">Send</string>
     <string name="send_comment_title">Comment</string>
+    <string name="send_worker_process_name">:miapm_sendwork</string>
     <string name="senddesktop">Home screen</string>
     <string name="sendstartpage">Start page</string>
     <string name="sensitive_permissions_prompt_allow">Allow once</string>
