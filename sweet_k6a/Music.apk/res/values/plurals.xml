@@ -113,6 +113,10 @@ total %2$d songs"</item>
         <item quantity="one">%d day ago</item>
         <item quantity="other">%d days ago</item>
     </plurals>
+    <plurals name="delete_dialog_tips">
+        <item quantity="one">Items are deleted permanently. Delete %d song anyway?</item>
+        <item quantity="other">Items are deleted permanently. Delete %d songs anyway?</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="one">Delete %d item?</item>
         <item quantity="other">Delete %d items?</item>
