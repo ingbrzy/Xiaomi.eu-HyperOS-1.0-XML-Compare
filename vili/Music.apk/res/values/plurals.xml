@@ -73,6 +73,9 @@ total %2$d songs"</item>
         <item quantity="one">%d min ago</item>
         <item quantity="other">%d mins ago</item>
     </plurals>
+    <plurals name="added_to_playlist">
+        <item quantity="other">%d 首已添加至播放列表</item>
+    </plurals>
     <plurals name="asm_download_batch_action_start_download">
         <item quantity="one">Added %1$d song to download queue</item>
         <item quantity="other">Added %1$d songs to download queue</item>
@@ -112,6 +115,10 @@ total %2$d songs"</item>
     <plurals name="days_ago">
         <item quantity="one">%d day ago</item>
         <item quantity="other">%d days ago</item>
+    </plurals>
+    <plurals name="delete_dialog_tips">
+        <item quantity="one">Items are deleted permanently. Delete %d song anyway?</item>
+        <item quantity="other">Items are deleted permanently. Delete %d songs anyway?</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="one">Delete %d item?</item>
