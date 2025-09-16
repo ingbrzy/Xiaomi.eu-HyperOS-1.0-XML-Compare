@@ -133,6 +133,7 @@
     <string name="apply_wallpaper_after_three_theme">"You're currently using a third party theme. If you change your Lock screen wallpaper, this may cause the Lock screen clock style to be restored to default. Apply now?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"You're currently using a Super wallpaper. If you select a new wallpaper, it'll be applied to both your Home and Lock screens, and Always-on display will be restored to its previous setting. Apply now?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"You're currently using a Super wallpaper. If you select a new wallpaper, it'll be applied to both your Home and Lock screens. Apply now?"</string>
+    <string name="apply_wallpaper_warning_when_use_super_wallpaper">Update Super wallpapers to the latest version to be able to keep using them.</string>
     <string name="apply_warning_get_device_dialog_message">To be able to use downloaded content, allow this feature to access your device ID first. You can grant this permission in Settings > Privacy.</string>
     <string name="apply_warning_tip_get_device_status">Allow this app to access your device ID in Profile > Settings first.</string>
     <string name="aqi_format">AQI %s</string>
@@ -356,8 +357,8 @@
     <string name="description_version">Version</string>
     <string name="description_version_szie">Version: %1$s Size: %2$s</string>
     <string name="desk_loop_will_change">Attention</string>
-    <string name="desktop_effects">Live wallpapers</string>
-    <string name="desktop_wallpaper">Wallpaper</string>
+    <string name="desktop_effects">Home screen effects</string>
+    <string name="desktop_wallpaper">Home screen</string>
     <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
     <string name="detail_author_fans">"Followers: "</string>
     <string name="detail_author_works">"Items: "</string>
@@ -738,7 +739,7 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="large_icon_warning_not_install">Install %s</string>
     <string name="large_icon_warning_not_install_msg">Install %s to be able to use a Super icon. Install now?</string>
     <string name="like_list">My likes</string>
-    <string name="live_wallpaper">Dynamic wallpapers</string>
+    <string name="live_wallpaper">Dynamic wallpaper</string>
     <string name="load_from_local_photos">Gallery</string>
     <string name="loading">Just a sec…</string>
     <string name="loading_picture">Loading image…</string>
@@ -775,7 +776,7 @@ Tap to turn off."</string>
     <string name="lockstyle_personal_settings">Customize</string>
     <string name="login_theme">Sign in to Themes</string>
     <string name="long_click_can_hide_resource">Press and hold to hide items</string>
-    <string name="loop_video_wallpaper">Loop video wallpapers</string>
+    <string name="loop_video_wallpaper">Loop dynamic wallpapers</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
@@ -1622,7 +1623,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="sunrise_time_format_tomorrow_desc">"Tomorrow's sunrise: %s"</string>
     <string name="sunset_time_format">Sunset %s</string>
     <string name="sunset_time_format_desc">Sunset time: %s</string>
-    <string name="super_wallpaper">Super wallpapers</string>
+    <string name="super_wallpaper">Super Wallpapers</string>
     <string name="super_wallpaper_dialog_content">Battery saver will turn off the dynamic features of wallpapers.</string>
     <string name="super_wallpaper_download_progress">%1$d%%</string>
     <string name="super_wallpaper_list_footer_text">Stay tuned for our new releases!</string>
@@ -1748,7 +1749,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="theme_component_title_photo_frame">Image frames</string>
     <string name="theme_component_title_ringtone">Ringtone</string>
     <string name="theme_component_title_statusbar">Status bar</string>
-    <string name="theme_component_title_wallpaper">Wallpaper</string>
+    <string name="theme_component_title_wallpaper">Home screen</string>
     <string name="theme_component_video_wallpaper">Dynamic wallpapers</string>
     <string name="theme_current_using_has_update">Theme update available</string>
     <string name="theme_description_title_customized">Custom</string>
@@ -1809,7 +1810,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="tips_theme_gate_transfer_fail">"Couldn't open this page. Wait a minute or two and try again."</string>
     <string name="title_component">Theme components</string>
     <string name="title_my_audio_resource">My ringtones</string>
-    <string name="title_my_miwallpaper_desktop_effects">Live wallpapers</string>
+    <string name="title_my_miwallpaper_desktop_effects">Home screen effects</string>
     <string name="title_my_miwallpaper_resource">My dynamic wallpapers</string>
     <string name="title_my_miwallpaper_video_file_resource">My wallpaper movies</string>
     <string name="title_my_wallpaper">My wallpapers</string>
@@ -1883,6 +1884,7 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="update_immediately">Update now</string>
     <string name="update_latest">Your app is up to date</string>
     <string name="update_no_net">A network error occurred. Try again.</string>
+    <string name="update_now">Update</string>
     <string name="update_title">NEW UPDATE AVAILABLE</string>
     <string name="use_hint">Attention</string>
     <string name="use_now">Add</string>
@@ -1997,6 +1999,7 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="warning_miui_optimization_closed_dialog_message">"It looks like you haven't turned on system optimization. Without it, this theme won't work properly when applied. You can apply it anyway or turn on system optimization in Settings."</string>
     <string name="warning_miui_optimization_closed_dialog_title">Attention</string>
     <string name="warning_subscribe_wallpaper_group_content">"You've turned on Home screen slideshow. %1$s will be applied to your Home screen."</string>
+    <string name="warning_update_super_wallpaper">Update Super wallpapers</string>
     <string name="weather_no_data">No weather data</string>
     <string name="wechat_not_found">Install WeChat first</string>
     <string name="wednesday">Wednesday</string>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="speaker_background_color_array">
+        <item>#33277af7</item>
+        <item>#337775f1</item>
+        <item>#33787e96</item>
+        <item>#3310c550</item>
+        <item>#33eca200</item>
+        <item>#33ee8114</item>
+        <item>#33ee4f1c</item>
+    </array>
+    <array name="speaker_text_color_array">
+        <item>#277af7</item>
+        <item>#7775f1</item>
+        <item>#787e96</item>
+        <item>#10c550</item>
+        <item>#eca200</item>
+        <item>#ee8114</item>
+        <item>#ee4f1c</item>
+    </array>
+</resources>
