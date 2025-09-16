@@ -1,2 +1,4 @@
-Removed: [it] arrays.xml: array/multi_floating_package_allow_list (item mismatch)
-Removed: [it] strings.xml: string/superpower_progress_battery_last (format mismatch)
+Removed: [bo-rCN] dimens.xml: dimen/pc_em_view_margin_top (invalid value)
+Removed: [bo-rCN] dimens.xml: dimen/pc_tv_extreme_mode_runtime_margin_top (invalid value)
+Removed: [it] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
+Removed: [it] strings.xml: string/superpower_progress_battery_last (wrong format)
