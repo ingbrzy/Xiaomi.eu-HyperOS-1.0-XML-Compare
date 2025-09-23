@@ -177,8 +177,8 @@
         <item quantity="other">Found %1$s new videos</item>
     </plurals>
     <plurals name="search_head_hint_all">
-        <item quantity="other">Results (%1$d items)</item>
         <item quantity="one">Results (%1$d item)</item>
+        <item quantity="other">Results (%1$d items)</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="one">App %1$s related files (%2$d item)</item>
