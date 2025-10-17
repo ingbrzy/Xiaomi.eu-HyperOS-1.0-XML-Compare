@@ -390,6 +390,7 @@ Toggle off to stop syncing."</string>
     <string name="close_cant_recommand">"You won't receive personalized content services if you turn this feature off."</string>
     <string name="close_cloud_tab_tip">Close cloud tabs on %s?</string>
     <string name="close_desktop">Turned off desktop version</string>
+    <string name="close_talkback_toast">TalkBack is off</string>
     <string name="cloud_loading_tips">Pull down to sync</string>
     <string name="cloud_no_new_data_toast">"Everything's up to date"</string>
     <string name="cloud_sync_closed_toast">"Can't update because sync is off"</string>
@@ -463,8 +464,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">0ac0b6ed7a5a4559aea6c4c1e1284048</string>
-    <string name="com.miapm.build_id">9afac8f0f58d402a8800eaf0a8fba11f</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">abf67b9701b849d29bdd34b7d94dba08</string>
+    <string name="com.miapm.build_id">4e9f5be5182641a59157755a2d503ba6</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -570,9 +571,9 @@ Pages you view won't appear in history."</string>
     <string name="debug_crash">Enable crash debug</string>
     <string name="debug_panel_ad_unit_format">Format</string>
     <string name="debug_panel_ad_unit_id">ID</string>
-    <string name="debug_user_firebase_config_list_title">Firebase Config List</string>
+    <string name="debug_user_firebase_config_list_title">Remote Config List</string>
     <string name="debug_user_firebase_config_reset">Reset</string>
-    <string name="debug_user_firebase_config_reset_confirm_dialog">Firebase configs will be reset</string>
+    <string name="debug_user_firebase_config_reset_confirm_dialog">Remote configs will be reset</string>
     <string name="debug_user_firebase_config_reset_loading_dialog">Processing…</string>
     <string name="debug_user_firebase_config_search_hint">Search config</string>
     <string name="debug_youtube_file">Debug youtube file</string>
@@ -1845,6 +1846,7 @@ We will share more once you're back online."</string>
     <string name="open_google_gaid">"To be able to use this feature, make sure you haven't opted out of ads personalization in Settings > Google > Ads."</string>
     <string name="open_personalized_services">Turn on personalized services to be able to use this feature.</string>
     <string name="open_private_folder">Release to view hidden folders</string>
+    <string name="open_talkback_toast">TalkBack is on</string>
     <string name="open_voice_permission">Allow the mic to connect to the internet</string>
     <string name="open_whatsapp_status">Check WhatsApp statuses</string>
     <string name="operation_delete">Delete</string>
