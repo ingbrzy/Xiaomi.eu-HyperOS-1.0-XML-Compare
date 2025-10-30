@@ -1,0 +1,1 @@
+Removed: [vi] strings.xml: string/mtrl_picker_navigate_to_year_description (wrong format)

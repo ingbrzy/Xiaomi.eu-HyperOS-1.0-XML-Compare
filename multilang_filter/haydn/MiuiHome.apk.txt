@@ -1,3 +1,4 @@
+Removed: [be] strings.xml: string/remove_sys_app_content (wrong format)
 Removed: [bo-rCN] plurals.xml: plurals/announce_for_drag (wrong item format)
 Removed: [bo-rCN] strings.xml: string/content_description_workspace_thumbnail_item (wrong format)
 Removed: [ru] dimens.xml: dimen/app_shortcut_menu_item_width (wrong value unit)
