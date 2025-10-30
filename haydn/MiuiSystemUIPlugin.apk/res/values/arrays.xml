@@ -392,10 +392,10 @@
     <array name="miui_volume_progress_released_corners">
         <item>@dimen/miui_volume_timer_corner_radius</item>
         <item>@dimen/miui_volume_timer_corner_radius</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
         <item>@dimen/miui_volume_timer_corner_radius</item>
         <item>@dimen/miui_volume_timer_corner_radius</item>
     </array>
@@ -410,32 +410,32 @@
         <item>@dimen/miui_volume_bg_radius</item>
     </array>
     <array name="miui_volume_ringer_btn_dnd_corners">
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
     </array>
     <array name="miui_volume_ringer_btn_standard_corners">
         <item>@dimen/miui_volume_bg_radius_expanded</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
     </array>
     <array name="miui_volume_ringer_btn_standard_corners2">
         <item>@dimen/miui_volume_bg_radius_expanded</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
     </array>

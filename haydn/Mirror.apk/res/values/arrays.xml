@@ -90,14 +90,14 @@
         <item>@string/pm</item>
     </string-array>
     <array name="assume_strong_biometrics_prefixes" />
-    <array name="buffer_size_values">
+    <string-array name="buffer_size_values">
         <item>@null</item>
         <item>64K</item>
         <item>128K</item>
         <item>256K</item>
         <item>512K</item>
         <item>1M</item>
-    </array>
+    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>

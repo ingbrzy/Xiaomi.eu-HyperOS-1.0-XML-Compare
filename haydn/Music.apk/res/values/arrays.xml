@@ -166,6 +166,15 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
+    <string-array name="columbus_exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <array name="cover_icon_arrays">
         <item>@drawable/music_icon_d_0</item>
         <item>@drawable/music_icon_d_1</item>
@@ -191,25 +200,25 @@
         <item>@drawable/music_icon_d_n_9</item>
     </array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
         <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
     </array>
     <array name="desktop_lyric_seekbar_track_color">
-        <item>#ff13baff</item>
-        <item>#ff616acb</item>
-        <item>#ffe28ce2</item>
-        <item>#ffe64b4b</item>
-        <item>#ffffff00</item>
-        <item>#ff84cf84</item>
-        <item>#ff6fe9e9</item>
+        <item>#13baff</item>
+        <item>#616acb</item>
+        <item>#e28ce2</item>
+        <item>#e64b4b</item>
+        <item>#ffff00</item>
+        <item>#84cf84</item>
+        <item>#6fe9e9</item>
     </array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
