@@ -56,6 +56,8 @@
     <string name="action_menu_text_find_in_page">Find on page</string>
     <string name="action_menu_text_fullscreen">Full screen</string>
     <string name="action_menu_text_history">Bookmarks &amp; History</string>
+    <string name="action_menu_text_new_incognito_tab">New incognito tab</string>
+    <string name="action_menu_text_new_tab">New tab</string>
     <string name="action_menu_text_nightmode">Night mode</string>
     <string name="action_menu_text_nightmode_off">Night mode</string>
     <string name="action_menu_text_nightmode_on">Night mode</string>
@@ -135,7 +137,6 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="api_level">API Level</string>
     <string name="app_cache">Cache</string>
-    <string name="app_id">Firebase App ID(Click To Export)</string>
     <string name="app_name">webp_decoder</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Camera</string>
@@ -221,7 +222,11 @@ Toggle off to stop syncing."</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">This is the last tab</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
+    <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
+    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
     <string name="branch_give_relevant_permissions">Grant Mi Browser the relevant permissions in Settings</string>
     <string name="browser">Mi Browser</string>
     <string name="browserFrameFileErrorLabel">File error</string>
@@ -464,8 +469,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">abf67b9701b849d29bdd34b7d94dba08</string>
-    <string name="com.miapm.build_id">4e9f5be5182641a59157755a2d503ba6</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">42c67107cecc40f08d87ac6573320959</string>
+    <string name="com.miapm.build_id">d6f8fc30ea7b493a8063889d2be8d699</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -1358,6 +1363,18 @@ Pages you view won't appear in history."</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
     <string name="miuix_appcompat_show_dialog_description">Pop-up window</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Swipe down to close</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Swipe down to switch to half screen</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Swipe down to minimize</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Swipe up to switch to half screen</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Swipe up to maximize</string>
+    <string name="miuix_bottom_sheet_accessibility_state_half_screen">Half screen</string>
+    <string name="miuix_bottom_sheet_accessibility_state_maximized">Maximized</string>
+    <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimized</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Switch to half screen</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maximize</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimize</string>
+    <string name="miuix_bottom_sheet_behavior">miuix.bottomsheet.BottomSheetBehavior</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -1386,6 +1403,7 @@ Pages you view won't appear in history."</string>
     <string name="miuix_font_weight_title4">@string/miuix_font_style_misans_medium_font_family</string>
     <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_pairing_dialog_closable_icon_description">Close</string>
+    <string name="miuix_popup_window_default_title">Pop-up window</string>
     <string name="miuix_progressbar_loading">Just a sec…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
@@ -2034,10 +2052,6 @@ We will share more once you're back online."</string>
     <string name="pref_privacy_enable_geolocation_summary">Allow browser to request access to your location</string>
     <string name="pref_privacy_formdata_title">Form data</string>
     <string name="pref_privacy_location_title">Location access</string>
-    <string name="pref_privacy_performance_id_instead_by_random_id">"We'll replace your current Performance ID with a randomly generated new one."</string>
-    <string name="pref_privacy_performance_id_is">"Current Performance ID: "</string>
-    <string name="pref_privacy_performance_id_reset">Reset your Performance ID</string>
-    <string name="pref_privacy_performance_id_will_reset">Performance ID will be reset</string>
     <string name="pref_privacy_security_title">Privacy &amp; security</string>
     <string name="pref_rate_app">Rate</string>
     <string name="pref_save_bandwidth_mode_title">Reduce data usage</string>
@@ -2145,7 +2159,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="privacy_message_welcome_tip_second">- Downloading images and videos from social media platforms</string>
     <string name="privacy_permission_name">"Don't allow tracking your activity"</string>
     <string name="privacy_policy">Privacy Policy</string>
-    <string name="privacy_reset_fail">"Couldn't reset. Try again."</string>
     <string name="privacy_sub_title">Terms and conditions</string>
     <string name="privacy_title">Welcome to Mi Browser</string>
     <string name="private_title">Hidden files</string>
@@ -2571,6 +2584,8 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="talkback_background_color">Background color</string>
     <string name="talkback_clear_copied">Clear clipboard</string>
     <string name="talkback_clear_history">Clear search history</string>
+    <string name="talkback_darkmode_close">Dark mode is off</string>
+    <string name="talkback_darkmode_open">Dark mode is on</string>
     <string name="talkback_download_edit">Edit apps</string>
     <string name="talkback_edittext">Text field</string>
     <string name="talkback_fill_search_bar">Search this URL</string>
@@ -3057,10 +3072,12 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_item_permission_title">Default permissions</string>
     <string name="web_permission_item_web_title">Set permissions</string>
     <string name="web_permission_protect_ad">Block ads</string>
+    <string name="web_permission_protect_ad_blacklist">Ad blocklist</string>
     <string name="web_permission_protect_ad_mark_manager">Manage advertisement tags</string>
     <string name="web_permission_protect_behavior_title">Permissions</string>
     <string name="web_permission_protect_continue">Continue</string>
     <string name="web_permission_protect_download">Protect downloads</string>
+    <string name="web_permission_protect_download_blacklist">Downloads blocklist</string>
     <string name="web_permission_protect_download_protect">Restrict auto downloads</string>
     <string name="web_permission_protect_download_record">"Downloads aren't protected for these websites"</string>
     <string name="web_permission_protect_download_switch_title">"Don't allow automatic downloads and activations"</string>
