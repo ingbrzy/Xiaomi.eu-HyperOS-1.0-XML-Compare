@@ -551,7 +551,7 @@
     <string name="music_sound_num">Custom preset %s</string>
     <string name="music_sound_sample">System presets</string>
     <string name="music_sure_to_delete_sound_msg">Delete selected presets now?</string>
-    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d years old</string>
+    <string formatted="false" name="music_thirty_to_sixty_years">%d-%d years old</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"USB headsets aren't supported"</string>
     <string name="music_upper_sixty_years">More than %d years old</string>

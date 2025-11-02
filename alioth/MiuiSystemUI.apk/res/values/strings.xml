@@ -1327,7 +1327,7 @@ only"</string>
     <string name="keyguard_accessibility_pin_area">PIN area</string>
     <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
     <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-    <string name="keyguard_carrier_name_with_sim_locked_template" formatted="false">%s (%s)</string>
+    <string formatted="false" name="keyguard_carrier_name_with_sim_locked_template">%s (%s)</string>
     <string name="keyguard_charged">Charged</string>
     <string name="keyguard_charging_back_to_lockscreen">Back to Lock screen</string>
     <string name="keyguard_charging_battery_level">%s%%</string>

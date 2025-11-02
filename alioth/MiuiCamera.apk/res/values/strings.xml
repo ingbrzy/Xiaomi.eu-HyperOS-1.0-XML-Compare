@@ -2615,7 +2615,7 @@ to record and edit videos on the go"</string>
     <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">Just a sec…</string>
     <string name="warm_prompt">温馨提示</string>
-    <string name="watermark_count_format" formatted="false">%d/%d</string>
+    <string formatted="false" name="watermark_count_format">%d/%d</string>
     <string name="watermark_tab_city">City</string>
     <string name="watermark_tab_festival">Holiday</string>
     <string name="watermark_tab_general">General</string>

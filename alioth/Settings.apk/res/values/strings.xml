@@ -684,6 +684,7 @@ Widget: %2$s
     <string name="allow_sound_title">Sound</string>
     <string name="allow_turn_screen_on">Allow turning the screen on</string>
     <string name="allow_turn_screen_on_description">Allow an app to turn the screen on. If this permission is granted, the app may turn on the screen at any time without your explicit intent.</string>
+    <string name="allow_update_system_app">Allow updating system apps</string>
     <string name="allow_vibrate_title">Vibration</string>
     <string name="alpha_build">Alpha</string>
     <string name="already_delete_system_app">Uninstalled system apps</string>
@@ -2599,7 +2600,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="config_backup_settings_intent" />
     <string name="config_backup_settings_label" />
     <string name="config_battery_prediction_authority" />
-    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver.module</string>
+    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver</string>
     <string name="config_charging_function_name">charging</string>
     <string name="config_contextual_card_feedback_email" />
     <string name="config_deletion_helper_class">com.android.storagemanager.deletionhelper.DeletionHelperActivity</string>
@@ -4819,7 +4820,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="importance_default">Default</string>
     <string name="importance_high">High</string>
     <string name="importance_low">Low</string>
-    <string name="importance_min">Minimal</string>
+    <string name="importance_min">Trivial</string>
     <string name="importance_title">Importance</string>
     <string name="important_bubble">Bubble priority conversations</string>
     <string name="important_conversation_behavior_summary">Priority conversations show at the top of the pull-down shade. You can also set them to bubble and interrupt Do Not Disturb.</string>
@@ -5341,7 +5342,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
-    <string name="location_agps_def_supl_host">221.176.0.55</string>
+    <string name="location_agps_def_supl_host">supl.google.com</string>
     <string name="location_agps_def_supl_port">7275</string>
     <string name="location_agps_params_settings_title">A-GPS settings</string>
     <string name="location_agps_pref_apn_title">Preferred APN</string>
@@ -7024,7 +7025,7 @@ Enhanced notifications can access notification content, including personal infor
     <string name="notification_importance_low_title">Medium</string>
     <string name="notification_importance_min">Show silently and minimize</string>
     <string name="notification_importance_min_title">Minimize</string>
-    <string name="notification_importance_title">Importance</string>
+    <string name="notification_importance_title">Behavior</string>
     <string name="notification_importance_unspecified">Allow sound</string>
     <string name="notification_listener_allowed">Allowed</string>
     <string name="notification_listener_disable_warning_cancel">Cancel</string>
@@ -8007,9 +8008,9 @@ Restart your device and try again."</string>
     <string name="resetting_second_space_passwd">Resetting Second space password</string>
     <string name="resident_timezone_summary">Second clock</string>
     <string name="resolution_fhd">FHD+</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (saves battery)</string>
+    <string formatted="false" name="resolution_fhd_summary">%d×%d (saves battery)</string>
     <string name="resolution_qhd">WQHD+</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (adds clarity)</string>
+    <string formatted="false" name="resolution_qhd_summary">%d×%d (adds clarity)</string>
     <string name="resolution_sub_title">The system might close the apps running in the background while switching resolution</string>
     <string name="resolver_settings_label">Sort</string>
     <string name="restore_default_apn">Restoring default APN settings.</string>
