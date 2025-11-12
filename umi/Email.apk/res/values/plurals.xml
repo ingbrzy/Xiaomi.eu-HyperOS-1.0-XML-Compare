@@ -19,46 +19,46 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">In %d mins</item>
         <item quantity="one">In %d min</item>
+        <item quantity="other">In %d mins</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
         <item quantity="one">%d min ago</item>
+        <item quantity="other">%d mins ago</item>
     </plurals>
     <plurals name="actionbar_large_unread_count">
-        <item quantity="other">%1$d+ unread</item>
         <item quantity="one">%1$d+ unread</item>
+        <item quantity="other">%1$d+ unread</item>
     </plurals>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d unread</item>
         <item quantity="one">%1$d unread</item>
+        <item quantity="other">%1$d unread</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">Added %d contacts</item>
         <item quantity="one">Added %d contact</item>
+        <item quantity="other">Added %d contacts</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
-        <item quantity="other">+%1$d other people</item>
         <item quantity="one">+%1$d other person</item>
+        <item quantity="other">+%1$d other people</item>
     </plurals>
     <plurals name="draft">
-        <item quantity="other">Drafts</item>
         <item quantity="one">Draft</item>
+        <item quantity="other">Drafts</item>
     </plurals>
     <plurals name="email_filter_rule_max_tips">
-        <item quantity="other">You can add up to %1$d conditions</item>
         <item quantity="one">You can add up to %1$d condition</item>
+        <item quantity="other">You can add up to %1$d conditions</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="hide_atts_remaining">
-        <item quantity="other">Hide %1$d attachments</item>
         <item quantity="one">Hide %1$d attachment</item>
+        <item quantity="other">Hide %1$d attachments</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 hour</item>
@@ -70,74 +70,74 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
         <item quantity="one">in 1 minute</item>
+        <item quantity="other">in %d minutes</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
+        <item quantity="other">%d items selected</item>
     </plurals>
     <plurals name="more_atts_remaining">
-        <item quantity="other">%1$d attachments remaining</item>
         <item quantity="one">%1$d attachment remaining</item>
+        <item quantity="other">%1$d attachments remaining</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
         <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
     </plurals>
     <plurals name="new_messages">
-        <item quantity="other">%1$d new messages</item>
         <item quantity="one">%1$d new message</item>
+        <item quantity="other">%1$d new messages</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d selected</item>
         <item quantity="one">%d selected</item>
+        <item quantity="other">%d selected</item>
     </plurals>
     <plurals name="number_of_day_after">
-        <item quantity="other">%1$d days after</item>
         <item quantity="one">%1$d day after</item>
+        <item quantity="other">%1$d days after</item>
     </plurals>
     <plurals name="number_of_day_before">
-        <item quantity="other">%1$d days before</item>
         <item quantity="one">%1$d day before</item>
+        <item quantity="other">%1$d days before</item>
     </plurals>
     <plurals name="number_of_hour_after">
-        <item quantity="other">%1$d hours after</item>
         <item quantity="one">%1$d hour after</item>
+        <item quantity="other">%1$d hours after</item>
     </plurals>
     <plurals name="number_of_hour_before">
-        <item quantity="other">%1$d hours before</item>
         <item quantity="one">%1$d hour before</item>
+        <item quantity="other">%1$d hours before</item>
     </plurals>
     <plurals name="number_of_minute_after">
-        <item quantity="other">%1$d minutes after</item>
         <item quantity="one">%1$d minute after</item>
+        <item quantity="other">%1$d minutes after</item>
     </plurals>
     <plurals name="number_of_minute_before">
-        <item quantity="other">%1$d minutes before</item>
         <item quantity="one">%1$d minute before</item>
+        <item quantity="other">%1$d minutes before</item>
     </plurals>
     <plurals name="number_of_second_after">
-        <item quantity="other">%1$d seconds after</item>
         <item quantity="one">%1$d second after</item>
+        <item quantity="other">%1$d seconds after</item>
     </plurals>
     <plurals name="number_of_second_before">
-        <item quantity="other">%1$d seconds before</item>
         <item quantity="one">%1$d second before</item>
+        <item quantity="other">%1$d seconds before</item>
     </plurals>
     <plurals name="number_of_week_after">
-        <item quantity="other">%1$d weeks after</item>
         <item quantity="one">%1$d week after</item>
+        <item quantity="other">%1$d weeks after</item>
     </plurals>
     <plurals name="number_of_week_before">
-        <item quantity="other">%1$d weeks before</item>
         <item quantity="one">%1$d week before</item>
+        <item quantity="other">%1$d weeks before</item>
     </plurals>
 </resources>

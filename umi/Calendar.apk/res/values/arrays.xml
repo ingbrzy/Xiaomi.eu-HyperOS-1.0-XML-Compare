@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="account_birthday">
-        <item>#fff26f85</item>
-        <item>#fff26f85</item>
-        <item>#fffbe1df</item>
-        <item>#fff26f85</item>
+        <item>#f26f85</item>
+        <item>#f26f85</item>
+        <item>#fbe1df</item>
+        <item>#f26f85</item>
     </array>
     <array name="account_preset1">
-        <item>#fffb735a</item>
-        <item>#fffb735a</item>
-        <item>#fffde5d4</item>
-        <item>#fffb735a</item>
+        <item>#fb735a</item>
+        <item>#fb735a</item>
+        <item>#fde5d4</item>
+        <item>#fb735a</item>
     </array>
     <array name="account_preset2">
-        <item>#ff66bdcd</item>
-        <item>#ff66bdcd</item>
-        <item>#ffd5f0ed</item>
-        <item>#ff66bdcd</item>
+        <item>#66bdcd</item>
+        <item>#66bdcd</item>
+        <item>#d5f0ed</item>
+        <item>#66bdcd</item>
     </array>
     <array name="account_preset3">
-        <item>#ff8a88eb</item>
-        <item>#ff8a88eb</item>
-        <item>#ffe0e0fc</item>
-        <item>#ff8a88eb</item>
+        <item>#8a88eb</item>
+        <item>#8a88eb</item>
+        <item>#e0e0fc</item>
+        <item>#8a88eb</item>
     </array>
     <array name="account_preset4">
-        <item>#fffea31a</item>
-        <item>#fffea31a</item>
-        <item>#fffde5d4</item>
-        <item>#fffea31a</item>
+        <item>#fea31a</item>
+        <item>#fea31a</item>
+        <item>#fde5d4</item>
+        <item>#fea31a</item>
     </array>
     <array name="account_xiaomi">
-        <item>#ff4c9fed</item>
-        <item>#ff4c9fed</item>
-        <item>#ffdeedfa</item>
-        <item>#ff4c9fed</item>
+        <item>#4c9fed</item>
+        <item>#4c9fed</item>
+        <item>#deedfa</item>
+        <item>#4c9fed</item>
     </array>
     <string-array name="additional_cal_dialog_labels">
         <item>None</item>
@@ -113,20 +113,20 @@
         <item>@string/pm</item>
     </string-array>
     <array name="aqi_level_bg_colors">
-        <item>#ff88b932</item>
-        <item>#ffbaa419</item>
-        <item>#ffda8522</item>
-        <item>#ffe86848</item>
-        <item>#ff7b6dce</item>
-        <item>#ff98557e</item>
+        <item>#88b932</item>
+        <item>#baa419</item>
+        <item>#da8522</item>
+        <item>#e86848</item>
+        <item>#7b6dce</item>
+        <item>#98557e</item>
     </array>
     <array name="aqi_level_content_colors">
-        <item>#ff7bb11c</item>
-        <item>#ffb39500</item>
-        <item>#ffd6780a</item>
-        <item>#ffe65834</item>
-        <item>#ff6d5dc9</item>
-        <item>#ff8d4370</item>
+        <item>#7bb11c</item>
+        <item>#b39500</item>
+        <item>#d6780a</item>
+        <item>#e65834</item>
+        <item>#6d5dc9</item>
+        <item>#8d4370</item>
     </array>
     <string-array name="aqi_level_simple_desc">
         <item>优</item>
