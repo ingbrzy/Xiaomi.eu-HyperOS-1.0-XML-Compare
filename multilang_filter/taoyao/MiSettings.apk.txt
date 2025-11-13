@@ -32,7 +32,6 @@ Removed: [ug-rCN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong i
 Removed: [ur-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [ur-rPK] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [uz-rUZ] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
-Removed: [vi] strings.xml: string/footer_max_fps (wrong attributes)
 Removed: [zh-rCN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [zh-rHK] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [zh-rTW] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
