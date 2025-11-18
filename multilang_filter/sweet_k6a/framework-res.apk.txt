@@ -75,3 +75,6 @@ Removed: [sq-rAL] strings.xml: string/ext_media_new_notification_message (wrong 
 Removed: [sq-rAL] strings.xml: string/ext_media_nomedia_notification_message (wrong format)
 Removed: [sq-rAL] strings.xml: string/ext_media_unmountable_notification_message (wrong format)
 Removed: [vi] strings.xml: string/select_keyboard_layout_notification_title (wrong format)
+Removed: [vi-rVN] strings.xml: string/date_and_time (wrong attributes)
+Removed: [vi-rVN] strings.xml: string/month_day_year (wrong attributes)
+Removed: [vi-rVN] strings.xml: string/time_of_day (wrong attributes)

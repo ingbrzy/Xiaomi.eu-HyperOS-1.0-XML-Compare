@@ -1,4 +1,6 @@
 Removed: [ar] strings.xml: string/gtb_setting_item_summary_smart_wlan_speed (wrong attributes)
+Removed: [be] strings.xml: string/ew_push_message (wrong format)
+Removed: [be] strings.xml: string/ew_push_title (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/gb_game_mode_text_margin_top (invalid value)
 Removed: [bo-rCN] dimens.xml: dimen/pc_charge_times_margin_bottom (invalid value)
 Removed: [bo-rCN] dimens.xml: dimen/pc_enter_exit_power_margin (invalid value)
