@@ -189,12 +189,12 @@
         <item quantity="other">Double tap the left side of the screen to rewind %d seconds</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
-        <item quantity="one">Delete %s item now?</item>
-        <item quantity="other">Delete %s items now?</item>
+        <item quantity="one">Delete %s file now?</item>
+        <item quantity="other">Delete %s files now?</item>
     </plurals>
     <plurals name="plus_edit_top_titletext">
-        <item quantity="one">Selected %s item</item>
-        <item quantity="other">Selected %s items</item>
+        <item quantity="one">Selected %s file</item>
+        <item quantity="other">Selected %s files</item>
     </plurals>
     <plurals name="plus_local_edit_delete_confirm_text">
         <item quantity="one">Permanently delete %s file now?</item>
@@ -247,6 +247,10 @@
     <plurals name="toast_bookmark_max_size">
         <item quantity="one">Add up to %d bookmark</item>
         <item quantity="other">Add up to %d bookmarks</item>
+    </plurals>
+    <plurals name="video_favorite_text">
+        <item quantity="one">%s favorite</item>
+        <item quantity="other">%s favorites</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="one">%s like</item>
