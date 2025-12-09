@@ -268,4 +268,8 @@
         <item quantity="one">Validity period: %d day</item>
         <item quantity="other">Validity period: %d days</item>
     </plurals>
+    <plurals name="widget_add_helper_button">
+        <item quantity="one">Add (%d)</item>
+        <item quantity="other">Add (%d)</item>
+    </plurals>
 </resources>
