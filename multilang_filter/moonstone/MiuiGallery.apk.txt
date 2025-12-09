@@ -1,4 +1,5 @@
 Removed: [az-rAZ] arrays.xml: array/last_month (wrong item count)
+Removed: [be] strings.xml: string/photodetail_rename_invalid_prefix (wrong format)
 Removed: [bo-rCN] plurals.xml: plurals/ai_create_remain_time_minute (wrong item format)
 Removed: [bo-rCN] strings.xml: string/album_share_subtitle_quitting (wrong format)
 Removed: [bo-rCN] strings.xml: string/confirm_download_video_message (wrong format)
