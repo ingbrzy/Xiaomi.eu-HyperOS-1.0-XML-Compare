@@ -1,4 +1,5 @@
 Removed: [az-rAZ] arrays.xml: array/wifitrackerlib_wifi_status (wrong item count)
+Removed: [be-v36] strings.xml: string/close_button_text (wrong format)
 Removed: [bo-rCN] strings.xml: string/kg_invalid_sim_puk_hint (wrong format)
 Removed: [cs] strings.xml: string/kg_invalid_sim_puk_hint (wrong format)
 Removed: [cs] strings.xml: string/notification_app_settings (wrong format)

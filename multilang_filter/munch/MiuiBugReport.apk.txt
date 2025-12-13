@@ -1,0 +1,4 @@
+Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app (wrong format)
+Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_mobile (wrong format)
+Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_with_telecom (wrong format)
+Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_with_unicom (wrong format)
