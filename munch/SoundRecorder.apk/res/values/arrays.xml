@@ -397,13 +397,13 @@
         <item>#1aff5b29</item>
     </array>
     <array name="speaker_text_color_array">
-        <item>#ff3482ff</item>
-        <item>#ff8482ff</item>
-        <item>#ff8c93b0</item>
-        <item>#ff36d167</item>
-        <item>#ffffb21d</item>
-        <item>#ffff8514</item>
-        <item>#ffff5b29</item>
+        <item>#3482ff</item>
+        <item>#8482ff</item>
+        <item>#8c93b0</item>
+        <item>#36d167</item>
+        <item>#ffb21d</item>
+        <item>#ff8514</item>
+        <item>#ff5b29</item>
     </array>
     <string-array name="week_days">
         <item>@string/sunday</item>
