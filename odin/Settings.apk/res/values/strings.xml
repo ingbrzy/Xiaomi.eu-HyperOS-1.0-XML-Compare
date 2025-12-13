@@ -699,6 +699,7 @@ Widget: %2$s
     <string name="allow_sound_title">Sound</string>
     <string name="allow_turn_screen_on">Allow turning the screen on</string>
     <string name="allow_turn_screen_on_description">Allow an app to turn the screen on. If this permission is granted, the app may turn on the screen at any time without your explicit intent.</string>
+    <string name="allow_update_system_app">Allow updating system apps</string>
     <string name="allow_vibrate_title">Vibration</string>
     <string name="alpha_build">Alpha</string>
     <string name="already_delete_system_app">Uninstalled system apps</string>
@@ -1608,7 +1609,7 @@ You haven’t connected to %2$s before."</string>
     <string name="bluetooth_connect_access_dialog_title">Connect to Bluetooth device?</string>
     <string name="bluetooth_connect_access_notification_content">A device wants to connect. Tap for details.</string>
     <string name="bluetooth_connect_access_notification_title">Bluetooth device available</string>
-    <string name="bluetooth_connect_battery_state">%1$s %2$s</string>
+    <string name="bluetooth_connect_battery_state">%1$s%2$s</string>
     <string name="bluetooth_connect_settings">Connection</string>
     <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
     <string name="bluetooth_connected">Connected %1$s</string>
