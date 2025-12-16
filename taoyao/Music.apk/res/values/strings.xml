@@ -351,6 +351,8 @@ tap "<font size="16"><b>here</b></font></string>
     <string name="asm_page_error_data">An error occurred</string>
     <string name="asm_page_error_no_network">"Couldn't connect to the network"</string>
     <string name="asm_page_local_empty_action">Discover new music</string>
+    <string name="asm_pay_card">Credit card</string>
+    <string name="asm_pay_google">Google Play</string>
     <string name="asm_pay_in_progress_toast">You have an order in progress</string>
     <string name="asm_pay_in_time_progress_toast">Processing your order. Payment result will be available within %d minutes.</string>
     <string name="asm_pay_info_deduction_failed">"Couldn't complete automatic payment. Check your payment method soon to avoid losing the benefits of your VIP membership."</string>
@@ -358,7 +360,10 @@ tap "<font size="16"><b>here</b></font></string>
     <string name="asm_pay_order_generate">Generating order…</string>
     <string name="asm_pay_order_generate_failed">"Couldn't generate order"</string>
     <string name="asm_pay_query_overtime">Payment status request timed out</string>
+    <string name="asm_payment_success_toast">Paid successfully</string>
     <string name="asm_playing_download_song_quality">Playing downloaded song</string>
+    <string name="asm_preview_unlock_full_track">Previewing song. Tap to unlock full song.</string>
+    <string name="asm_preview_unlock_full_track_free">Previewing song. Unlock full song for %1$s.</string>
     <string name="asm_privacy_desc">ASM Privacy Policy</string>
     <string name="asm_privacy_policy_url">https://fra-mi-h5.allsaints.tv/#/privacy-policy.html</string>
     <string name="asm_privacy_tips_content">Agree to the <a href="/link/click">ASM Privacy Policy</a> to be able to use online music services.</string>
@@ -427,11 +432,16 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="asm_songs_is_downloading">Downloading song…</string>
     <string name="asm_stop_action_when_no_network">Connect to the network and try again</string>
     <string name="asm_subscribe_now">Get started</string>
+    <string name="asm_subscription_free">Claim</string>
+    <string name="asm_subscription_premium">Subscribe</string>
+    <string name="asm_subscription_privacy"><Data>"By tapping \"Subscribe\", you're agreeing to &lt;font color=#3482FF>&lt;a href=%1$s>Vansound Premium Service Agreement&lt;/a>&lt;/font> and &lt;font color=#3482FF>&lt;a href=%2$s>Qobuz General Conditions of Use and Sale&lt;/a>&lt;/font>"</Data></string>
+    <string name="asm_subscription_title">Free trial is active. Subscribe to enjoy full songs.</string>
     <string name="asm_tip_hi_res">Hi-Res</string>
     <string name="asm_tips_cannot_download_disable_songs">"Can't download this song"</string>
     <string name="asm_toast_pay_canceled">Payment canceled</string>
     <string name="asm_toast_pay_failed">"Couldn't complete payment"</string>
     <string name="asm_top_tracks">Top songs</string>
+    <string name="asm_trial_feel_it_all">Start a free trial to enjoy full songs</string>
     <string name="asm_trial_subscribe_free">&lt;font color=#FFFFFF>Free trial is active. &lt;/font>&lt;font color=#FFD179>&lt;b>Subscribe and get the first month free&lt;/b>&lt;/font>&lt;font color=#FFFFFF> to enjoy full songs&lt;/font>.</string>
     <string name="asm_trial_subscribe_price">&lt;font color=#FFFFFF>Free trial is active. &lt;/font>&lt;font color=#FFD179>&lt;b>Subscribe for &lt;xliff:g id=PRICE example=14.99€>%1$s&lt;/xliff:g>/month&lt;/b>&lt;/font>&lt;font color=#FFFFFF> to enjoy full songs&lt;/font>.</string>
     <string name="asm_unknow_album">Unknown album</string>
@@ -701,7 +711,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">ef47c40838cf47aab2362c875005f868</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">c4b75c06534f4c72aa70b70349f52529</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1545,6 +1555,8 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="million_char">%s M</string>
     <string name="millions_songs">Millions of songs</string>
     <string name="min_sleep_time">%d</string>
+    <string name="minibar_guide_text_claimed">Tap to unlock full song</string>
+    <string name="minibar_guide_text_unsubscribe">Subscribe for %1$s to enjoy full song</string>
     <string name="missing_integration">Missing Integration</string>
     <string name="missing_title">&lt;Unknown></string>
     <string name="miuishare_account_login_ok">Sign in</string>
@@ -2881,7 +2893,21 @@ Be Happy"</string>
     <string name="whitelist_entrance_text_1">"Can't find a song? "</string>
     <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
     <string name="whitelist_title">File exceptions</string>
+    <string name="widget_add_failed">"Couldn't add widget. Try again."</string>
+    <string name="widget_add_one_click">Add</string>
+    <string name="widget_add_success">Added successfully</string>
+    <string name="widget_desc_capsule_player">Display song info and controls in a minimal layout</string>
+    <string name="widget_desc_large_player">Full size with clear lyrics and cover art for immersive listening</string>
+    <string name="widget_desc_middle_player">Daily song picks for easier listening</string>
+    <string name="widget_desc_recommend_player">Use essential controls and tap to play instantly</string>
+    <string name="widget_desc_small_player">Quick controls for instant play and pause</string>
+    <string name="widget_new_desktop_available">All-new Home screen widgets</string>
     <string name="widget_small_text_separator">-</string>
+    <string name="widget_type_capsule_player">Capsule player widget</string>
+    <string name="widget_type_large_player">Large player widget</string>
+    <string name="widget_type_middle_player">Medium player widget</string>
+    <string name="widget_type_recommend_player">Recommended player widget</string>
+    <string name="widget_type_small_player">Small player widget</string>
     <string formatted="false" name="wifi_required_body">"Connect to Wi-Fi to complete this %s download. 
 
 Tap %s to start this download the next time you're connected to a Wi-Fi network."</string>
