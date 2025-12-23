@@ -119,6 +119,7 @@
     <string name="btn_clear_history">Clear history</string>
     <string name="btn_empty_go_to_download">Download</string>
     <string name="btn_playlist_play_all">Play</string>
+    <string name="btn_str_fcm_notification_normal">Play</string>
     <string name="call_notification_answer_action">Answer</string>
     <string name="call_notification_answer_video_action">Video</string>
     <string name="call_notification_decline_action">Decline</string>
@@ -329,7 +330,7 @@
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.crashlytics.android.build_id">39b2f1e2bf064c9a95d0259657293d07</string>
+    <string name="com.crashlytics.android.build_id">04feac7e3b3940f99e74be25cc4659cc</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -2731,13 +2732,19 @@ Please try again later"</string>
     <string name="widget_add_dialog_desc_local">With this widget, you can play audio and video files stored on your device with one tap from your Home screen. Add it now?</string>
     <string name="widget_add_dialog_desc_online">"With this widget, you can watch today's popular videos with one tap from your Home screen. Add it now?"</string>
     <string name="widget_add_dialog_title">Add widget</string>
+    <string name="widget_add_helper_cancel">Cancel</string>
+    <string name="widget_add_helper_description">"Don't want to miss anything? Add our Home screen widget!"</string>
     <string name="widget_local_video">Local videos</string>
     <string name="widget_local_video_click">Tap to watch videos stored on your device</string>
     <string name="widget_more_channel">More channels</string>
     <string name="widget_more_channel_click">Tap to see TV channels</string>
     <string name="widget_online_videos">Online video</string>
+    <string name="widget_popular_videos">You might like</string>
     <string name="widget_trending_click">"Tap to see today's most popular videos"</string>
     <string name="widget_trending_today">Popular today</string>
+    <string name="widget_trending_videos">Popular today</string>
+    <string name="widget_trending_videos_hot">Hot</string>
+    <string name="widget_trending_videos_new">New</string>
     <string name="yandex_mobileads_age_restricted_user">com.yandex.mobile.ads.AGE_RESTRICTED_USER</string>
     <string name="yandex_mobileads_appmetrica_easy_integration_enabled">com.yandex.mobile.ads.APPMETRICA_EASY_INTEGRATION_ENABLED</string>
     <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>
@@ -2745,6 +2752,7 @@ Please try again later"</string>
     <string name="year">year</string>
     <string name="yes">Yes</string>
     <string name="yesterday">Yesterday</string>
+    <string name="you_may_like_str">You may also like</string>
     <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
     <string name="yt_subscription_notification_setting_title">Subscription notifications</string>
     <string name="ytb_account">Accounts</string>
