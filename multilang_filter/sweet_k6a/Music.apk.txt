@@ -1,6 +1,4 @@
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
-Removed: [ne-rIN] plurals.xml: plurals/iframe_playlist (wrong item format)
-Removed: [ne-rNP] plurals.xml: plurals/iframe_playlist (wrong item format)
 Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app (wrong format)
 Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_mobile (wrong format)
 Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_with_telecom (wrong format)
