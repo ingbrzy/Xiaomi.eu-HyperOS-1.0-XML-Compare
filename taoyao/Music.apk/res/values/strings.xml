@@ -44,6 +44,7 @@
     <string name="accessibility_sliding_button_state_description_on">Turned on</string>
     <string name="accessibility_tab_state_description_unselect">Not selected</string>
     <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="accessibility_volume_percent">音量：%s</string>
     <string name="account_and_cloud">Account</string>
     <string name="account_logout">Sign out</string>
     <string name="account_visitor">Visitor</string>
@@ -185,6 +186,9 @@
     <string name="artist_is_empty">Artist name can not be empty.</string>
     <string name="artist_name">Artist</string>
     <string name="asm_account_exception">System account error. Sign out and sign in again.</string>
+    <string name="asm_account_info_message">For creating your profile and displaying the related info in the app</string>
+    <string name="asm_account_info_subtitle">We need to access the following info:</string>
+    <string name="asm_account_info_title">Account info required</string>
     <string name="asm_ad_daily_opportunity_exhausted">"Can't watch more videos"</string>
     <string name="asm_ad_download_des">Watch %1$d ad to download %2$d song for free</string>
     <string name="asm_ad_download_tab_title">Download for free</string>
@@ -219,6 +223,7 @@
     <string name="asm_ad_watch_now">Watch</string>
     <string name="asm_ad_watch_second">%d videos</string>
     <string name="asm_ad_watch_third">%d videos</string>
+    <string name="asm_agree_and_continue">Agree</string>
     <string name="asm_album_not_available">album is not available</string>
     <string name="asm_album_not_available_toast">"Couldn't access albums"</string>
     <string name="asm_alubm_disc">Disc %d</string>
@@ -238,6 +243,7 @@
     <string name="asm_check_video_playing">"Playing video. Can't add item to playlist."</string>
     <string name="asm_column_offline_toast">This chart is no longer available</string>
     <string name="asm_congratulations">Congrats!</string>
+    <string name="asm_create_account_only">Create account only</string>
     <string name="asm_delete_all">Clear</string>
     <string name="asm_delete_all_data">Clear all data</string>
     <string name="asm_delete_all_data_failed">"Couldn't clear data. Try again."</string>
@@ -300,6 +306,7 @@ Once you choose to permanently clear all data, you'll be signed out of the app. 
     <string name="asm_fail_play_song">"Couldn't download song"</string>
     <string name="asm_featured">Featured</string>
     <string name="asm_full_tracks">Full tracks</string>
+    <string name="asm_google_account_login">Sign in with Google</string>
     <string name="asm_google_connect_failed">"Couldn't complete payment. Make sure you're signed in to Play Store."</string>
     <string name="asm_google_no_goods">"Couldn't get product info"</string>
     <string name="asm_google_not_login">Sign in to Play Store and try again</string>
@@ -322,6 +329,9 @@ tap "<font size="16"><b>here</b></font></string>
     <string name="asm_joox_song_expired_toast">"Can't download due to copyright issues"</string>
     <string name="asm_loadstate_error_retry">Connect to the internet and tap to try again</string>
     <string name="asm_loadstate_not_more">"That's all for now"</string>
+    <string name="asm_login_register_hint">Select a method to sign in</string>
+    <string name="asm_logout_confirm_message">If you sign out, you will no longer be able to enjoy membership benefits. Stay signed in if you want to continue using them. Sign out anyway?</string>
+    <string name="asm_logout_confirm_title">Sign out now?</string>
     <string name="asm_main_section_best_sellers">Bestsellers</string>
     <string name="asm_main_section_new_releases">New releases</string>
     <string name="asm_main_section_playlist_by_category">Playlists by category</string>
@@ -471,6 +481,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="asm_ws_vip_ads">No ads</string>
     <string name="asm_ws_vip_get_premium">Get Premium</string>
     <string name="asm_ws_vip_subscribe">Subscribe</string>
+    <string name="asm_xiaomi_account_login">Sign in with Xiaomi Account</string>
     <string name="audio_ad_countdown">Skip ad in %ss</string>
     <string name="audio_ad_pass">Skip ad</string>
     <string name="audio_add_equalizer">均衡器+</string>
@@ -711,7 +722,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">c4b75c06534f4c72aa70b70349f52529</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">ecaa0527c26a4738bdc88b85f2baba16</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -2859,6 +2870,8 @@ Be Happy"</string>
     <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
     <string name="vip_required_with_song">%s is available to Gold members only. Skipped this song for now.</string>
     <string name="voice_search_first_hint">Try voice search!</string>
+    <string name="volume_experience_now">马上体验</string>
+    <string name="volume_no_speaker_party">聚会没音响？“三倍大音量”让快乐翻倍！</string>
     <string name="watch_now">Watch</string>
     <string name="watch_video">Watch video</string>
     <string name="watch_video_for_more_songs">Watch a video to play more songs</string>
