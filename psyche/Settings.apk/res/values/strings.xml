@@ -684,6 +684,7 @@ Widget: %2$s
     <string name="allow_sound_title">Sound</string>
     <string name="allow_turn_screen_on">Allow turning the screen on</string>
     <string name="allow_turn_screen_on_description">Allow an app to turn the screen on. If this permission is granted, the app may turn on the screen at any time without your explicit intent.</string>
+    <string name="allow_update_system_app">Allow updating system apps</string>
     <string name="allow_vibrate_title">Vibration</string>
     <string name="alpha_build">Alpha</string>
     <string name="already_delete_system_app">Uninstalled system apps</string>
