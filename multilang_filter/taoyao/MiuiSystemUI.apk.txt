@@ -2,6 +2,8 @@ Removed: [az-rAZ] arrays.xml: array/wifitrackerlib_wifi_status (wrong item count
 Removed: [be-v36] strings.xml: string/close_button_text (wrong format)
 Removed: [cs] strings.xml: string/kg_invalid_sim_puk_hint (wrong format)
 Removed: [cs] strings.xml: string/notification_app_settings (wrong format)
+Removed: [es] strings.xml: string/mtrl_picker_navigate_to_year_description (wrong format)
+Removed: [es-rUS] strings.xml: string/mtrl_picker_navigate_to_year_description (wrong format)
 Removed: [it] arrays.xml: array/dot_black_list (wrong item count)
 Removed: [it] arrays.xml: array/top_caption_insets_black_list (wrong item count)
 Removed: [it] strings.xml: string/format_count_denominator (wrong format)

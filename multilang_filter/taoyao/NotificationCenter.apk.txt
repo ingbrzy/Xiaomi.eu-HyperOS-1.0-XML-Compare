@@ -1,3 +1,5 @@
 Removed: [be] strings.xml: string/rule_keyguard_display (wrong format)
+Removed: [es] strings.xml: string/rule_keyguard_display (wrong format)
+Removed: [es-rUS] strings.xml: string/rule_keyguard_display (wrong format)
 Removed: [tr] strings.xml: string/expand_top_notification (wrong attributes)
 Removed: [tr] strings.xml: string/show_weather (wrong attributes)
