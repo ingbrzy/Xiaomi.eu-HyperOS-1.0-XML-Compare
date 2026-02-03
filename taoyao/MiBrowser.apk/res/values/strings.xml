@@ -48,7 +48,7 @@
     <string name="accessibility_time_picker_minute">Minute</string>
     <string name="accessibility_time_picker_second">Second</string>
     <string name="accessibility_toolbar_btn_menu">Customize and control Google Chrome</string>
-    <string name="account_prifix">Account:</string>
+    <string name="account_prifix">"Account: "</string>
     <string name="action">Sign in</string>
     <string name="action_menu_account_not_login">Not signed in</string>
     <string name="action_menu_account_not_login_hint">Sign in to sync with Xiaomi Cloud</string>
@@ -94,6 +94,33 @@
     <string name="ad_info_dialog_close">Close</string>
     <string name="ad_info_dialog_disclaimer">Disclaimer</string>
     <string name="ad_info_dialog_token">Token</string>
+    <string name="ad_inspector_ad_dcid">方案ID:%1$s</string>
+    <string name="ad_inspector_ad_position_is_empty">广告位列表为空</string>
+    <string name="ad_inspector_ad_position_list">广告位列表</string>
+    <string name="ad_inspector_bucket_is_empty">配置桶为空</string>
+    <string name="ad_inspector_cancel">取消</string>
+    <string name="ad_inspector_click_copy_gaid">点击复制GAID:</string>
+    <string name="ad_inspector_is_local_config">是否强制开启了本地配置:%1$s</string>
+    <string name="ad_inspector_is_staging">是否staging:%1$s</string>
+    <string name="ad_inspector_local_sdk_test_desc">"本地SDK测试功能生效后，聚合SDK会以测试模式初始化所有广告SDK。
+
+需要手动重启应用后生效。"</string>
+    <string name="ad_inspector_local_sdk_test_mode">本地SDK测试功能</string>
+    <string name="ad_inspector_no">否</string>
+    <string name="ad_inspector_parallelism">并行度:%1$s</string>
+    <string name="ad_inspector_phone_country">手机地区:%1$s</string>
+    <string name="ad_inspector_phone_lang">手机语言:%1$s</string>
+    <string name="ad_inspector_pos_list">广告位列表</string>
+    <string name="ad_inspector_price">price:%1$s</string>
+    <string name="ad_inspector_restart_app">请重启应用以开启测试模式</string>
+    <string name="ad_inspector_single_ad_source">单一广告源测试</string>
+    <string name="ad_inspector_single_ad_source_close">关闭</string>
+    <string name="ad_inspector_single_ad_source_desc">选择您想测试的广告源，聚合SDK仅会请求选中的广告源。</string>
+    <string name="ad_inspector_start_test">开始测试</string>
+    <string name="ad_inspector_timeout">超时:%1$s</string>
+    <string name="ad_inspector_title">Mi Mediation广告检查器</string>
+    <string name="ad_inspector_weight">权重:%1$s</string>
+    <string name="ad_inspector_yes">是</string>
     <string name="ad_loading_tips_text">Loading ad…</string>
     <string name="ad_mark">Ad</string>
     <string name="ad_permission_name">Block ads</string>
@@ -156,6 +183,7 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="api_level">API Level</string>
     <string name="app_cache">Cache</string>
+    <string name="app_id">Application ID</string>
     <string name="app_name">webp_decoder</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Camera</string>
@@ -220,9 +248,7 @@
     <string name="bookmark_not_saved">"Couldn't add to bookmarks"</string>
     <string name="bookmark_rename_group">Rename group</string>
     <string name="bookmark_saved">Added to bookmarks</string>
-    <string name="bookmark_sync_alert_ok">Sync</string>
     <string name="bookmark_sync_alert_title">Select items to sync</string>
-    <string name="bookmark_sync_tip_in_login_activity">By tapping \"Sign in\", you agree to sync bookmarks and browsing history automatically. You can turn off sync in \"My account\" later.</string>
     <string name="bookmark_sync_tip_in_profile_page">"Select items to sync.
 Toggle off to stop syncing."</string>
     <string name="bookmark_sync_tip_logined">Sync bookmarks and browsing history</string>
@@ -234,14 +260,21 @@ Toggle off to stop syncing."</string>
     <string name="bookmark_url_can_not_null">Enter the URL</string>
     <string name="bookmark_url_lable">URL</string>
     <string name="bookmark_url_not_valid">"This URL isn't valid"</string>
+    <string name="bookmarks_add_group_hint">Added successfully</string>
     <string name="bookmarks_content_is_null">No bookmarks</string>
+    <string name="bookmarks_delete_bookmark_pop_title">Delete bookmark</string>
+    <string name="bookmarks_delete_bookmark_pop_title_content">Delete selected bookmarks permanently?</string>
     <string name="bookmarks_edit">Edit</string>
+    <string name="bookmarks_edit_title">Edit group</string>
     <string name="bookmarks_folder_name">Group name</string>
     <string name="bookmarks_hint">Bookmarks bar</string>
+    <string name="bookmarks_link_hint">Enter URL</string>
     <string name="bookmarks_management">Bookmarks</string>
     <string name="bookmarks_move_position">Move</string>
+    <string name="bookmarks_name_hint">Enter name</string>
     <string name="bookmarks_new_bookmark_folder">Add group</string>
     <string name="bookmarks_new_incognito_traceless_tab">Open in Incognito mode</string>
+    <string name="bookmarks_quick_select">Select</string>
     <string name="bookmarks_root_folder">Root folder</string>
     <string name="bookmarks_search">Browser</string>
     <string name="bookmarks_search_bookmarks">Search bookmarks</string>
@@ -421,7 +454,7 @@ Toggle off to stop syncing."</string>
     <string name="clipboard_title_text">Copied text</string>
     <string name="clipboard_title_url">Copied URL</string>
     <string name="close">Close</string>
-    <string name="close_ads_choice_no">Allow</string>
+    <string name="close_ads_choice_no">"Don't block"</string>
     <string name="close_ads_choice_yes">Block</string>
     <string name="close_ads_message">"Block content from this website? You can view sites you've blocked in Settings > Advanced > Blocked sites."</string>
     <string name="close_ads_title">Block content?</string>
@@ -437,7 +470,7 @@ Toggle off to stop syncing."</string>
     <string name="cloud_sync_failed_toast">"Couldn't update"</string>
     <string name="cloud_tab">Cloud tabs</string>
     <string name="cloud_time_tips">Last sync</string>
-    <string name="cloud_up_to_loading_tips">Release to sync</string>
+    <string name="cloud_up_to_loading_tips">Release to refresh</string>
     <string name="collection_articles">Articles</string>
     <string name="collection_videos">Videos</string>
     <string name="color_picker_button_black">Black</string>
@@ -463,6 +496,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_ad_choices_privacy_policy">Privacy Policy</string>
     <string name="columbus_ad_flag_text">AD</string>
     <string name="columbus_ad_layout_swipe_to_detail_link">Swipe left to view details</string>
+    <string name="columbus_ad_xout_do_not_resubmit">"Don't submit duplicate feedback"</string>
+    <string name="columbus_ad_xout_feedback_submitted">Submitted successfully</string>
     <string name="columbus_exo_controls_cc_disabled_description">Enable subtitles</string>
     <string name="columbus_exo_controls_cc_enabled_description">Disable subtitles</string>
     <string name="columbus_exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -521,9 +556,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">dbf8bd247a7847be9ad6bc0e95086ac7</string>
-    <string name="com.miapm.build_id">a6b67b94c92442539f22b96602309926</string>
-    <string name="comment_app_menu">Comment</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">954e1d2d44784233af62014e836cc23c</string>
+    <string name="com.miapm.build_id">292692d020784d19a71acece22376328</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
     <string name="comment_menu">Comment</string>
@@ -578,7 +612,7 @@ Toggle off to stop syncing."</string>
     <string name="contextmenu_add_contact">Add contact</string>
     <string name="contextmenu_copy">Copy</string>
     <string name="contextmenu_copy_image">Copy image</string>
-    <string name="contextmenu_copylink">Copy link URL</string>
+    <string name="contextmenu_copylink">Copy URL</string>
     <string name="contextmenu_dial_dot">Dial…</string>
     <string name="contextmenu_download_image">Save image</string>
     <string name="contextmenu_download_image_as">Save image</string>
@@ -612,15 +646,10 @@ Toggle off to stop syncing."</string>
     <string name="could_not_load_data">"Couldn't load data, refresh and try again"</string>
     <string name="crash_page_button">Try again</string>
     <string name="crash_page_description">Something went wrong while displaying this webpage.</string>
-    <string name="crash_page_title">Aw, snap!</string>
+    <string name="crash_page_title">An error occurred</string>
     <string name="create_qr_code">QR code</string>
-    <string name="current_version_pad">Pad</string>
-    <string name="current_version_pc">Desktop</string>
-    <string name="current_version_phone">Phone</string>
     <string name="custom">Enter URL</string>
     <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
-    <string name="custom_head_card_text_incognito">"You're incognito!
-Pages you view won't appear in history."</string>
     <string name="custom_page_guide_content">Bookmarks, settings, and tools are here!</string>
     <string name="customize">Customize</string>
     <string name="dark_mode">Dark mode</string>
@@ -679,10 +708,7 @@ Pages you view won't appear in history."</string>
     <string name="dialog_ad_callback_inappropriate_picture">Inappropriate images</string>
     <string name="dialog_ad_callback_others">Other</string>
     <string name="dialog_ad_callback_title">Report an issue</string>
-    <string name="dialog_cancle">cancle</string>
     <string name="dialog_channel_cancel">Cancel</string>
-    <string name="dialog_channel_confirm">OK</string>
-    <string name="dialog_channel_remove_content">Removing all channels will also remove Content feed.</string>
     <string name="dialog_dislike_reason_cancel">Cancel</string>
     <string name="dialog_dislike_reason_not_interested">"I'm not interested"</string>
     <string name="dialog_dislike_reason_others">Other reason</string>
@@ -690,9 +716,6 @@ Pages you view won't appear in history."</string>
     <string name="dialog_dislike_reason_repetitive">Repetitive</string>
     <string name="dialog_dislike_title">"Why don't you like this ad?"</string>
     <string name="dialog_game_close">Cancel</string>
-    <string name="dialog_game_play">Play</string>
-    <string name="dialog_submit">submit</string>
-    <string name="dialog_title">What’s wrong with this ad?</string>
     <string name="disable">Disable</string>
     <string name="display__quick_entry_of_search">Show feature shortcuts in the Notification shade</string>
     <string name="div_slider_range_end">Range end</string>
@@ -706,7 +729,7 @@ Pages you view won't appear in history."</string>
     <string name="document_download_failed">"Couldn't download"</string>
     <string name="document_download_official">Download official version</string>
     <string name="document_download_open_direct">Open directly</string>
-    <string name="document_download_title">Downloading</string>
+    <string name="document_download_title">Downloading…</string>
     <string name="document_open_file">Open %s</string>
     <string name="document_open_message">To improve your reading experience and ensure security, use WPS customized version</string>
     <string name="document_open_other">Other apps</string>
@@ -741,7 +764,7 @@ Pages you view won't appear in history."</string>
     <string name="download_dialog_failed_body">Try again later or remove this file from the download que​ue?</string>
     <string name="download_dialog_file_already_exists">"You've already downloaded this file"</string>
     <string name="download_dialog_file_length_hint_txt">"File size: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Less than %1$dKB</string>
+    <string name="download_dialog_file_length_lessthan1kb">Less than %1$d KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">"Couldn't download"</string>
     <string name="download_dialog_file_length_nolength_txt">Just a sec…</string>
     <string name="download_dialog_file_missing_body">"Couldn't find file. Did you move or delete it?"</string>
@@ -809,7 +832,7 @@ Pages you view won't appear in history."</string>
     <string name="download_retry_download">Try again</string>
     <string name="download_router_tip">Download to Mi Router</string>
     <string name="download_save_dialog_title">Save</string>
-    <string name="download_sdcard_busy_dlg_msg">SD card is busy. To allow downloads, turn off USB storage in the notification shade.</string>
+    <string name="download_sdcard_busy_dlg_msg">SD card is busy. To allow downloads, turn off USB storage in the Notification shade.</string>
     <string name="download_sdcard_busy_dlg_title">SD card unavailable</string>
     <string name="download_sdcard_no_space">"Couldn't download. Not enough storage space."</string>
     <string name="download_secure_download_in_xiaomi_market">Download in GetApps</string>
@@ -858,7 +881,7 @@ Pages you view won't appear in history."</string>
     <string name="encrypting">Encrypting…</string>
     <string name="enter_bookmark">Bookmarks</string>
     <string name="enter_developer_mode">Enter developer mode</string>
-    <string name="enter_incongnito_mode">Enter Incognito mode</string>
+    <string name="enter_incongnito_mode">Turn on Incognito mode</string>
     <string name="enter_news_by_pull_down">Release to open Content feed</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -957,7 +980,6 @@ Pages you view won't appear in history."</string>
     <string name="featured_this_week">Featured this week</string>
     <string name="features">Features</string>
     <string name="feed_content_protection">Content protection</string>
-    <string name="feedback_advise_this_app">Recommendation</string>
     <string name="feedback_advise_your_friends">How likely are you to recommend Mi Browser?</string>
     <string name="feedback_bad">No</string>
     <string name="feedback_download_not_necessary">Optional</string>
@@ -981,6 +1003,10 @@ Pages you view won't appear in history."</string>
     <string name="feedback_thank_you">Thanks for your feedback!</string>
     <string name="feedback_title">Does this content interest you?</string>
     <string name="festival_task_start">Play</string>
+    <string name="fetch_video">Preparing video…</string>
+    <string name="fetch_video_fail">"Couldn't get data"</string>
+    <string name="fetch_video_ssl_bad_clock">"Looks like date and time set on your device (%s) aren't correct. Adjust the settings and try again."</string>
+    <string name="fetching_video">Preparing video…</string>
     <string name="file">Files</string>
     <string name="file_dir">Change folder</string>
     <string name="file_info_canread">Readable: </string>
@@ -1094,8 +1120,6 @@ Pages you view won't appear in history."</string>
     <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
     <string name="geolocation_permissions_prompt_remember">Remember preference</string>
     <string name="geolocation_permissions_prompt_share">Share location</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location info. You can change in Settings.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">"This site can't access your location."</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Cancel</string>
     <string name="geolocation_settings_page_dialog_message">Clear location access for this website?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -1118,7 +1142,7 @@ Pages you view won't appear in history."</string>
     <string name="has_already_subscribed_tips">"You're already subscribed to this plan"</string>
     <string name="has_location_consent">Has Location Consent</string>
     <string name="has_user_consent">Has User Consent</string>
-    <string name="hash_tag">"\# %1$s "</string>
+    <string name="hash_tag">"# %1$s "</string>
     <string name="hashtag_action_follow">Follow</string>
     <string name="hashtag_action_followed">Following</string>
     <string name="hashtag_detail_explore">Discover</string>
@@ -1164,7 +1188,6 @@ Pages you view won't appear in history."</string>
     <string name="home_game_channel">Show \"Games\" on the navigation bar</string>
     <string name="home_list_item_click">Home list item click</string>
     <string name="home_nf">Content feed</string>
-    <string name="home_nf_recommend_on">Recommended for you</string>
     <string name="home_page_simple">Simple</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_currency">Regular</string>
@@ -1227,7 +1250,6 @@ Pages you view won't appear in history."</string>
     <string name="interest_advise_subtitle">"We'll show you news about the topics you're interested in"</string>
     <string name="interest_advise_title">What content interests you?</string>
     <string name="interest_card_button">Continue</string>
-    <string name="interest_card_title">Select your interests</string>
     <string name="into_info_flow_guide">View more articles</string>
     <string name="intrercept_dialog_hint">The website is about to show a popup dialog. Stop this action?</string>
     <string name="invalid_integration">Invalid Integration</string>
@@ -1254,6 +1276,7 @@ Leave this page now?"</string>
     <string name="jump_web_learn_more">Open original web page</string>
     <string name="junk_files_found">Trash found</string>
     <string name="just_now">Just now</string>
+    <string name="keep_intrercept">Stop</string>
     <string name="kindred_applying_code">Searching…</string>
     <string name="kindred_cancel">Cancel</string>
     <string name="kindred_code">Code: %s</string>
@@ -1262,6 +1285,7 @@ Leave this page now?"</string>
     <string name="kindred_coupons_title">Coupons</string>
     <string name="kindred_find_saving">Find me a coupon</string>
     <string name="kindred_new_total">Final price: %s</string>
+    <string name="kindred_not_find_coupons">"Couldn't find available coupons"</string>
     <string name="kindred_original_total">Original price: %s</string>
     <string name="kindred_saved">You saved %s</string>
     <string name="kindred_savings">Savings: %s</string>
@@ -1416,8 +1440,6 @@ Leave this page now?"</string>
     <string name="midnight">Night</string>
     <string name="mint_games">Trending games</string>
     <string name="mint_news_feed">News</string>
-    <string name="mint_news_feed_a">Mi News</string>
-    <string name="mint_news_feed_b">Local news</string>
     <string name="missing_integration">Missing Integration</string>
     <string name="miui_autologin_bar_error">"Can't sign in"</string>
     <string name="miui_autologin_bar_title">Sign in with Xiaomi Account</string>
@@ -1504,9 +1526,9 @@ Leave this page now?"</string>
     <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
     <string name="miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
     <string name="miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
-    <string name="miuichromium_error_page_suggestion_check_mobile_proxy">(Mobile data) Reset your %1$sAPN settings%2$s.</string>
+    <string formatted="false" name="miuichromium_error_page_suggestion_check_mobile_proxy">(Mobile data) Reset your %s1APN settings%s2.</string>
     <string name="miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
-    <string name="miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Check your %1$sproxy settings%2$s.</string>
+    <string formatted="false" name="miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Check your %s1proxy settings%s2.</string>
     <string name="miuichromium_error_page_suggestion_clear_cache">Clear cache.</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies">Clear cache and cookies (your account info may be lost).</string>
     <string name="miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
@@ -1606,9 +1628,12 @@ Leave this page now?"</string>
     <string name="monetization_ads_internal_install_from_google_play">Установить из Google Play</string>
     <string name="monetization_ads_internal_instream_ad_position">%1$d из %2$d</string>
     <string name="monetization_ads_internal_instream_call_to_action">Перейти ➔</string>
+    <string name="monetization_ads_internal_instream_feedback">Ещё</string>
+    <string name="monetization_ads_internal_instream_muted">Включить звук</string>
     <string name="monetization_ads_internal_instream_skip">Пропустить</string>
     <string name="monetization_ads_internal_instream_sponsored_default">РЕКЛАМА</string>
     <string name="monetization_ads_internal_instream_sponsored_social">СОЦИАЛЬНАЯ РЕКЛАМА</string>
+    <string name="monetization_ads_internal_instream_unmuted">Выключить звук</string>
     <string name="monetization_ads_internal_mediation_sponsored_text">Реклама</string>
     <string name="monetization_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="monetization_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
@@ -1629,6 +1654,7 @@ Leave this page now?"</string>
     <string name="monetization_ads_internal_tools_sponsored_text">sponsored</string>
     <string name="monetization_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
     <string name="monetization_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
+    <string name="monetization_ads_mediation_api_sponsored_text">Ad</string>
     <string name="monitor_app_name">zeus-monitor-crash</string>
     <string name="month_april">April</string>
     <string name="month_april_short">Apr</string>
@@ -1737,7 +1763,6 @@ Leave this page now?"</string>
     <string name="nav_incognito_sub_title">"In Incognito mode, Mi Browser won't save your browsing history, website data, cookies, or information you enter into forms."</string>
     <string name="nav_screen_container_tab_incognito">Incognito tab</string>
     <string name="nav_screen_container_tab_normal">Regular tab</string>
-    <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode. Remember that the files you download and the bookmarks you add will still be saved."</string>
     <string name="nav_screen_incognito_title"> Incognito mode</string>
     <string name="nav_tab_guide_text">You can manage tabs here</string>
     <string name="navigation_delete_all">Swipe left or right to close all tabs</string>
@@ -1796,7 +1821,6 @@ Leave this page now?"</string>
     <string name="not_remind_again">Remember my choice</string>
     <string name="not_set">Not set</string>
     <string name="not_show_again">"Don't show again"</string>
-    <string name="noti_dialog_agree">Restrict</string>
     <string name="noti_dialog_cancel">Cancel</string>
     <string name="noti_dialog_content">Restrict notifications for this website?</string>
     <string name="noti_dialog_title">Restricting notifications</string>
@@ -1818,8 +1842,6 @@ Leave this page now?"</string>
     <string name="notifications_permission_decline">"Don't allow"</string>
     <string name="notifications_permission_title">Allow app to send you notifications?</string>
     <string name="novel_continue_read_popup">Read</string>
-    <string name="novel_tab_popup">View your newest books here</string>
-    <string name="novel_tab_popup_ok">OK</string>
     <string name="offline_dialog_image_description">Icon</string>
     <string name="offline_dialog_text">"Thanks for your interest.
 We will share more once you're back online."</string>
@@ -1952,6 +1974,8 @@ We will share more once you're back online."</string>
     <string name="ping_test_title">Network delay</string>
     <string name="players_still_play">&lt;font color=#ff2458>%s&lt;/font> of the gamers also like these</string>
     <string name="pm">PM</string>
+    <string name="popu_menu_item_eidt_shortcut">Edit shortcut</string>
+    <string name="popu_menu_item_remove">Remove</string>
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
     <string name="positive_confirm_message">Turn off anyway</string>
@@ -1994,7 +2018,6 @@ We will share more once you're back online."</string>
     <string name="pref_extras_reset_default">Restore defaults</string>
     <string name="pref_extras_reset_default_dlg">Restore default settings?</string>
     <string name="pref_extras_reset_default_summary">Restore default order</string>
-    <string name="pref_extras_reset_default_title">Other</string>
     <string name="pref_extras_send_feedback">Send feedback</string>
     <string name="pref_extras_title">Advanced</string>
     <string name="pref_extras_title_version">Version info</string>
@@ -2070,12 +2093,9 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="pref_security_show_security_warning_summary">"Show a security warning when there is a problem with the site's certificate"</string>
     <string name="pref_set_default_browser">Set as default browser</string>
     <string name="pref_set_default_browser_don_ask">"Don't ask again"</string>
-    <string name="pref_set_default_browser_msg">Mi Browser makes web browsing fast, convenient, and secure. Set Mi Browser as your default browser?</string>
     <string name="pref_set_default_browser_no_keep_it">Keep Mi Browser</string>
     <string name="pref_set_default_browser_no_thanks">No thanks</string>
     <string name="pref_set_default_browser_set">Set</string>
-    <string name="pref_set_default_browser_set_another">Mi Browser makes web browsing fast, convenient, and secure. Switch browsers anyway?</string>
-    <string name="pref_set_default_browser_sure_to_clear">Switching browsers?</string>
     <string name="pref_set_default_browser_switch">Switch</string>
     <string name="pref_set_default_browser_tab">Tap \"Browser\"</string>
     <string name="pref_set_default_browser_toast">Set default browser successfully</string>
@@ -2135,11 +2155,11 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"This action requires uploading your Performance ID, which can't be done in Incognito mode. Leave Incognito mode and try again."</string>
     <string name="privacy_authorize_network_error">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
     <string name="privacy_authorize_revoke">Withdraw</string>
-    <string name="privacy_authorize_revoke_dialog_msg">After you revoke authorization, Mi Browser will stop collecting data, and all the related data will be deleted from the servers. This might make Mi Browser virtually unusable. Revoke authorization anyway?</string>
+    <string name="privacy_authorize_revoke_dialog_msg">After you withdraw consent, this app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Withdraw consent now?</string>
     <string name="privacy_authorize_revoke_dialog_title">Withdrawal of consent</string>
     <string name="privacy_authorize_revoke_failed">"Couldn't withdraw consent"</string>
     <string name="privacy_authorize_revoke_success">Consent withdrawn successfully</string>
-    <string name="privacy_authorize_revoke_time">Withdraw (%1$ds)</string>
+    <string name="privacy_authorize_revoke_time">Withdraw (%1$d)</string>
     <string name="privacy_authorize_revoking">Withdrawing consent…</string>
     <string name="privacy_authorize_summary">Toggle the switch on and off to grant or withdraw your consent</string>
     <string name="privacy_authorize_title">Withdrawal of consent</string>
@@ -2197,10 +2217,8 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="quicklinks_group_default_subtitle">Empty</string>
     <string name="quicklinks_management">Popular</string>
     <string name="quicklinks_most_visited">Add to start page</string>
-    <string name="quicklinks_most_visited_subtitle">Show recently visited sites in new tab</string>
     <string name="quicklinks_most_visited_title">Add to start page</string>
     <string name="reading__business_recommend_at_end_more">View more</string>
-    <string name="reading__business_recommend_at_end_other_docs">Other reads</string>
     <string name="reading__business_recommend_at_end_title">Recommended</string>
     <string name="reading__cancel">Cancel</string>
     <string name="reading__menu_play">Slideshow</string>
@@ -2221,7 +2239,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="reading__shared__reach_last_page">This is the last page</string>
     <string name="readmode_already_add_to_bookshelf">Added to bookshelf</string>
     <string name="readmode_battery">Battery </string>
-    <string name="readmode_login">Sign in</string>
     <string name="readmode_login_message">You need to sign in to read more.</string>
     <string name="readmode_page_load_error">"Can't load page"</string>
     <string name="readmode_page_loading">Just a sec…</string>
@@ -2298,7 +2315,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="report_event_load_more">加载更多</string>
     <string name="report_event_refresh">刷新</string>
     <string name="report_event_select_language">语言选择</string>
-    <string name="report_issue">report issue</string>
     <string name="report_path_extra">未进入</string>
     <string name="request_profile_error">"Couldn't get account info"</string>
     <string name="resAuthority">miuibrowser</string>
@@ -2312,7 +2328,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="root_folder_lable">None</string>
     <string name="router_download_exist">This file already exists</string>
     <string name="router_download_failed">"Couldn't download"</string>
-    <string name="router_download_success">Downloaded successfully</string>
     <string name="s1">Save image</string>
     <string name="s2">Allow Ad to store image in Picture gallery?</string>
     <string name="s3">Accept</string>
@@ -2396,7 +2411,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="secure_download_in_xiaomi_market">Download in App Store</string>
     <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
     <string name="security_warning">Security warning</string>
-    <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
     <string name="select_all">Select all</string>
     <string name="select_dot">Select text</string>
     <string name="select_download_device">Choose device</string>
@@ -2434,7 +2448,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="shear_plate_permission_name">Access or save items to clipboard</string>
     <string name="short_cut_name_novel">Free books</string>
     <string name="shortcut_function">Shortcuts</string>
-    <string name="sign_in_by_others">Other ways to sign in</string>
     <string name="sign_in_by_xiaommi">Sign in with Xiaomi Account</string>
     <string name="sign_in_failed">"Couldn't sign in"</string>
     <string formatted="false" name="sign_in_to">Sign in to %s1 \"%s2\"</string>
@@ -2452,7 +2465,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="smart_summary">Smart summary</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Couldn't save page"</string>
-    <string name="snapshot_successed">Open Bookmarks/History->LOCAL to view page</string>
     <string name="sniff_ask_every_times">Ask every time</string>
     <string name="sniff_description">Get prompts when a web page contains downloadable items</string>
     <string name="sniff_detect_resource">We noticed downloadable content on this page. View now?</string>
@@ -2500,7 +2512,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="ssl_bad_clock_date_settings">Set date</string>
     <string formatted="false" name="ssl_bad_clock_warning">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
     <string name="ssl_bad_expired_warning">"This channel is provided by %1$s. However, the date and time set on your device (%2$s) don't allow to establish a secure connection with %1$s. You can set the correct date and time or tap \"Continue\" if you still want to use this channel."</string>
-    <string name="ssl_bad_warning">"This channel is provided by %1$s. However, Mi Browser can't verify that this server belongs to %1$s because its cerificate is invalid or has been revoked. This problem may be caused by incorrect configurations or blocked connection. Tap \"Continue\" if you still want to use this channel."</string>
+    <string name="ssl_bad_warning">"This channel is provided by %1$s. However, Mi Browser can't verify that this server belongs to %1$s because its certificate is invalid or has been revoked. This problem may be caused by incorrect configurations or blocked connection. Tap \"Continue\" if you still want to use this channel."</string>
     <string name="ssl_certificate">Security certificate</string>
     <string name="ssl_certificate_is_valid">This certificate is valid.</string>
     <string name="ssl_continue">Continue</string>
@@ -2672,10 +2684,12 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="title_use_local_ad_config">Use local ad config</string>
     <string name="title_use_sandbox_domain">Use Sandbox domain</string>
     <string name="toast_exit_browser">Tap again to exit Browser</string>
+    <string name="toast_remove_link_hint">Removed successfully. <font color="#247BFF">%s</font></string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="top_news">Top stories</string>
     <string name="topsite_click">TopSite click</string>
+    <string name="tracer_mapping_uuid">4e090e30-aff5-11f0-9f27-3e3c84784f26</string>
     <string name="track_permission_name">Do not track</string>
     <string name="track_permission_name_new">"Don't allow tracking your activity"</string>
     <string name="translate">Translate</string>
@@ -2683,7 +2697,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="translate_into">Translate into</string>
     <string name="translate_page">Translate page</string>
     <string name="translation_other">Other languages</string>
-    <string name="translation_query_error">"Translation isn't supported for the selected language."</string>
     <string name="translation_query_error_network">"Couldn't translate. Check your network settings and try again."</string>
     <string name="translation_result_empty">"Couldn't translate. Try again."</string>
     <string name="translation_to">Translate into</string>
@@ -2698,10 +2711,12 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_ad_data_error">Response data error</string>
     <string name="tt_ad_is_closed">Ads Closed</string>
     <string name="tt_ad_logo_txt">AD</string>
+    <string name="tt_add_bad_reason">Add the reason you think bad</string>
     <string name="tt_adslot_empty">No request ad slot</string>
     <string name="tt_adslot_id_error">Illegal ad slot id</string>
     <string name="tt_adslot_size_empty">Empty ad slot size</string>
     <string name="tt_app_empty">No request app</string>
+    <string name="tt_bad">Bad</string>
     <string name="tt_banner_ad_load_image_error">Banner loading failed</string>
     <string name="tt_choose_language">en</string>
     <string name="tt_comment_num">%1$s reviews</string>
@@ -2710,8 +2725,9 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_dislike_header_tv_back">Back</string>
     <string name="tt_dislike_header_tv_title">Select</string>
     <string name="tt_display_error">Display error</string>
+    <string name="tt_done">Done</string>
     <string name="tt_error_access_method_pass">Illegal access method</string>
-    <string name="tt_error_ad_able_false_msg">Prohibit request ads by compliance, please check COPPA/CCPA/GDPR settings</string>
+    <string name="tt_error_ad_able_false_msg">Prohibit request ads by compliance, please check GDPR settings</string>
     <string name="tt_error_ad_type">Illegal ad type</string>
     <string name="tt_error_adtype_differ">Ad type error</string>
     <string name="tt_error_apk_sign_check_error">Illegal apk sha1 value</string>
@@ -2739,24 +2755,33 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_feedback_experience_text">"We'll continue to improve our service."</string>
     <string name="tt_feedback_submit_text">"You've submitted feedback! Please don't submit again."</string>
     <string name="tt_feedback_thank_text">Thanks for your feedback!</string>
+    <string name="tt_feel_hint">Tell us how this ad made you feel</string>
     <string name="tt_frequent_call_erroe">Ad requests are too frequent</string>
     <string name="tt_full_screen_skip_tx">Skip after 5S</string>
+    <string name="tt_good">Good</string>
     <string name="tt_init_setting_config_not_complete">Setting initialization is not completed</string>
     <string name="tt_insert_ad_load_image_error">Interstitial loading failed</string>
     <string name="tt_lack_android_manifest_configuration">Initialization check error, please check the AndroidManifest</string>
+    <string name="tt_like_this_ad">Like this ad?</string>
+    <string name="tt_list_end_tip">"You've seen all the content"</string>
     <string name="tt_load_creative_icon_error">Icon loading failed</string>
     <string name="tt_load_creative_icon_response_error">Icon loading error</string>
     <string name="tt_loading_language">Landing page loading……</string>
+    <string name="tt_loading_more">Loading more...</string>
     <string name="tt_logo_cn">AD</string>
     <string name="tt_logo_en">Ad</string>
     <string name="tt_msgPlayable">Finish playing to get rewards</string>
     <string name="tt_multiple_ad_indicator">ad %1$d of %2$d</string>
+    <string name="tt_multiple_playable_next_ad_tips">Next Ad</string>
+    <string name="tt_multiple_playable_wait_tips">Next ad in %1$ds</string>
     <string name="tt_negtiveBtnBtnText">Leave</string>
     <string name="tt_negtive_txt">Cancel</string>
     <string name="tt_net_error">Network error</string>
     <string name="tt_no_ad">No ad</string>
     <string name="tt_no_ad_parse">Parsing data without ad</string>
     <string name="tt_no_network">Network is unavailable, please try again later.</string>
+    <string name="tt_not_bad">Not bad</string>
+    <string name="tt_other_reason">Other reasons</string>
     <string name="tt_parse_fail">Parsing error</string>
     <string name="tt_postiveBtnText">Resume</string>
     <string name="tt_postiveBtnTextPlayable">Continue playing</string>
@@ -2770,6 +2795,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_render_fail_unknown">Render failed unknown</string>
     <string name="tt_render_main_template_invalid">Main template invalid</string>
     <string name="tt_render_render_parse_error">Render parsing failed</string>
+    <string name="tt_report_this_ad">Report this ad to help us improve</string>
     <string name="tt_request_body_error">Request entity is empty</string>
     <string name="tt_request_pb_error">Http request pb error</string>
     <string name="tt_reward_feedback">Feedback</string>
@@ -2777,6 +2803,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_reward_msg">Watch the entire video to claim your reward</string>
     <string name="tt_reward_screen_skip_tx">Skip</string>
     <string name="tt_ror_code_show_event_error">Show event error</string>
+    <string name="tt_select_reason">Please select reason</string>
     <string name="tt_skip_ad_time_text">Skip after %ds</string>
     <string name="tt_slide_up_3d">wipe up</string>
     <string name="tt_splash_ad_load_image_error">Splash loading failed</string>
@@ -2792,7 +2819,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tt_splash_wriggle_top_text">Twist the phone</string>
     <string name="tt_splash_wriggle_top_text_style_17">Twist the phone or tap the icon</string>
     <string name="tt_suggestion_commit">Submit</string>
-    <string name="tt_suggestion_description">Enter a description of the display error, and click the Submit button. The ad creative will also be sent back to Pangle to help troubleshoot the problem.</string>
     <string name="tt_sys_error">System error</string>
     <string name="tt_template_load_fail">main template load fail !</string>
     <string name="tt_text_privacy_app_version">Version：V</string>
@@ -2837,14 +2863,10 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="user_defined_webpage">Add to start page</string>
     <string name="user_defined_webpage_title">Add to start page</string>
     <string name="user_experience_agree">Enroll</string>
-    <string name="user_experience_content">"User Experience Program helps us improve our products and services in a targeted manner, as well as introduce new features and services that are helpful to you. We'll start collecting and analyzing relevant data (e.g. product usage data) after you enroll in the program. By tapping \"Enroll\" below, you're agreeing to the terms and conditions of &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>User Experience Program&lt;/a>&lt;/font>.
-You can always opt out in Settings > Privacy &amp; security."</string>
     <string name="user_experience_disagree">"Don't enroll"</string>
     <string name="user_experience_title">User Experience Program</string>
     <string name="user_guide_agree">Agree</string>
     <string name="user_guide_color_mode_info">Light mode and Dark mode are available</string>
-    <string name="user_guide_color_mode_title">Select color scheme</string>
-    <string name="user_guide_control_privacy_tips">Be in full control of your privacy</string>
     <string name="user_guide_disagree">"Don't agree"</string>
     <string name="user_guide_privacy_message">Read and agree to our &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Privacy Policy&lt;/a>&lt;/font> and &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>User Agreement&lt;/a>&lt;/font> before using Content Center.</string>
     <string name="user_guide_provide_service_content">Popular videos and news</string>
@@ -2853,7 +2875,7 @@ You can always opt out in Settings > Privacy &amp; security."</string>
     <string name="user_guide_turn_off_feature">To turn off this feature, tap &lt;font color=#0a84ff>&lt;u>here&lt;/u>&lt;/font>.</string>
     <string name="user_privacy">User Privacy</string>
     <string name="userguide_talkback_page_index">Page %1$d</string>
-    <string name="username">Name</string>
+    <string name="username">Username</string>
     <string name="uuid">UUID(Click To Export)</string>
     <string name="v5_edit_mode_title_empty">Select items</string>
     <string name="v7_preference_off">OFF</string>
@@ -2912,7 +2934,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="voice_semantic_analysis">Browser will be able to analyze semantics after you allow it to connect.</string>
     <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
     <string name="voice_title">Say your command…</string>
-    <string name="voice_title_distinguish">Processing…</string>
     <string name="voice_title_listening">Listening…</string>
     <string name="voice_title_please">Start speaking…</string>
     <string name="voice_title_speech_again">"Couldn't understand you"</string>
@@ -2957,7 +2978,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="weather_card_wind_direction_west">W wind</string>
     <string name="weather_card_wind_spd">Wind speed</string>
     <string name="weather_cp_des">Weather from Microsoft Start</string>
-    <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
     <string name="web_ad_clear_dialog_cancel">Cancel</string>
     <string name="web_ad_clear_dialog_confirm">Delete</string>
     <string name="web_ad_clear_dialog_msg">Delete ad tags from \"%s\" now?</string>
@@ -3107,7 +3127,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_permissions_title">Website behavior</string>
     <string name="web_permission_protect_pie_title">Protected items</string>
     <string name="web_permission_protect_privacy_auto_play_title">Auto playback</string>
-    <string name="web_permission_protect_privacy_clip_title">Access or save items to clipboard</string>
     <string name="web_permission_protect_privacy_dialog_title">Open new windows</string>
     <string name="web_permission_protect_privacy_location_title">Access location</string>
     <string name="web_permission_protect_privacy_vibrate_title">Use vibration</string>
@@ -3185,6 +3204,10 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="withdraw_dia_content">If you withdraw your consent to the Privacy Policy of Content Center, this feature will cease to collect your personal information. Any personal information previously collected and uploaded to our servers will be deleted. Once you withdraw your consent, you will no longer be able to use Content Center. Withdraw consent now?</string>
     <string name="within_30_days">Last %d days</string>
     <string name="xiaomi_sign_in_btn_txt">Sign in or create account</string>
+    <string name="xout_dialog_cancle">Cancel</string>
+    <string name="xout_dialog_submit">Submit</string>
+    <string name="xout_dialog_title">"Why don't you like this ad?"</string>
+    <string name="xout_report_issue">Report issue</string>
     <string name="yandex_mobileads_age_restricted_user">com.yandex.mobile.ads.AGE_RESTRICTED_USER</string>
     <string name="yandex_mobileads_appmetrica_easy_integration_enabled">com.yandex.mobile.ads.APPMETRICA_EASY_INTEGRATION_ENABLED</string>
     <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>

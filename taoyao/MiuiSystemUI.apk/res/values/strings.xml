@@ -2168,9 +2168,9 @@ If you have questions, contact %2$s."</string>
     <string name="thermal_shutdown_dialog_message">"Your phone was too hot, so it turned off to cool down. Your phone is now running normally.
 
 Your phone may get too hot if you:
-\u0009• Use resource-intensive apps (such as gaming, video, or navigation apps)
-\u0009• Download or upload large files
-\u0009• Use your phone in high temperatures"</string>
+\t• Use resource-intensive apps (such as gaming, video, or navigation apps)
+\t• Download or upload large files
+\t• Use your phone in high temperatures"</string>
     <string name="thermal_shutdown_message">"Your phone is now running normally.
 Tap for more info"</string>
     <string name="thermal_shutdown_title">Phone turned off due to heat</string>

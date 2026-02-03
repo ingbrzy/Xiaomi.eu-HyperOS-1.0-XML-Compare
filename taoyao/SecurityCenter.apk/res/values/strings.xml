@@ -3396,7 +3396,7 @@ to respond"</string>
     <string formatted="false" name="memory_clean_no_need_clean_1_new">"Freed up %s.
 Your device is %s faster now."</string>
     <string name="memory_clear_unused">Clear cache (%s)</string>
-    <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Available: %1$s\t\tTotal: %2$s</string>
     <string name="menu_add">Add</string>
     <string name="menu_bl_call_log">View blocked calls</string>
     <string name="menu_bl_remove">Unblock</string>

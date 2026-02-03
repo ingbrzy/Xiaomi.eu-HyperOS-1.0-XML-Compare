@@ -2511,7 +2511,7 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="color_blue">Blue</string>
     <string name="color_calibration_none">This device</string>
     <string name="color_calibration_srgb">sRGB</string>
-    <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
+    <string name="color_custom">#%1$02X%2$02X%3$02X</string>
     <string name="color_cyan">Cyan</string>
     <string name="color_game_led_applications_title">Select apps</string>
     <string name="color_game_led_applications_title_summary">Select individual apps that will work with LED light</string>
@@ -5987,7 +5987,7 @@ You won't be able to reverse this action."</string>
     <string name="memory_summary">Avg %1$s of %2$s memory used</string>
     <string name="memory_system_rom">System</string>
     <string name="memory_system_space">System storage</string>
-    <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Available: %1$s\t\tTotal: %2$s</string>
     <string name="memory_usage">Memory usage</string>
     <string name="memory_usage_apps">Memory used by apps</string>
     <string name="memory_usage_apps_summary">{count, plural, =1 {1 app used memory in the last {time}} other {# apps used memory in the last {time}} }</string>
@@ -7200,7 +7200,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
     <string name="one_handed_action_show_notification_summary">Notifications and settings will appear.</string>
     <string name="one_handed_action_show_notification_title">Show notifications</string>
     <string name="one_handed_mode_enabled">Use one-handed mode</string>
-    <string name="one_handed_mode_footer_text">" "<b>How to use one-handed mode</b>"
+    <string name="one_handed_mode_footer_text"> <b>How to use one-handed mode</b>"
  • Make sure gesture navigation is selected in system navigation settings
  • Swipe down near the bottom edge of the screen "</string>
     <string name="one_handed_mode_intro_text">Pull down the top half of your screen so it’s easier to reach with one hand</string>
@@ -8308,9 +8308,9 @@ Use this feature with caution while sharing this device with others."</string>
 
 If you want to securely share your device with someone, try using a guest user instead. 
 
-To use app pinning: \u0009
-1. Turn on app pinning \u0009
-2. Open Overview \u0009
+To use app pinning: \t
+1. Turn on app pinning \t
+2. Open Overview \t
 3. Tap the app icon at the top of the screen, then tap Pin"</string>
     <string name="screen_pinning_summary">Pinned apps will stay in Recents until you unpin them</string>
     <string name="screen_pinning_switch_off_text">Off</string>
@@ -12021,7 +12021,7 @@ When you turn off Do Not Disturb, find missed notifications by swiping down from
     <string name="zen_mode_settings_dnd_automatic_rule">Do Not Disturb was automatically turned on by a schedule (%s)</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Do Not Disturb was automatically turned on by an app (%s)</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">Do Not Disturb is on for %s with custom settings.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">View custom settings</annotation></string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"> <annotation id="link">View custom settings</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">Do Not Disturb is on until %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">Do Not Disturb will stay on until you turn it off</string>
     <string name="zen_mode_settings_schedules_summary">{count, plural, =0 {None} =1 {1 schedule set} other {# schedules set} }</string>

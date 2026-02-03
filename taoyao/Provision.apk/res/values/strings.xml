@@ -295,7 +295,7 @@
     <string name="font_settings_sub_title">Select system font</string>
     <string name="font_settings_title">Font settings</string>
     <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
-    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
+    <string name="font_use_case_symbol_example">@ # % &amp; * () _ + - =</string>
     <string name="font_use_case_text_example">Body</string>
     <string name="font_use_case_title_example">Title</string>
     <string name="framework_introduction">Xiaomi service framework (Mi Push and Analytics) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
@@ -332,65 +332,65 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="interconnection_service_global_item_title">Xiaomi Interconnectivity</string>
     <string name="interconnection_service_global_label">"&lt;Data>Xiaomi Interconnectivity allows your devices to interact with each other wirelessly. By toggling this switch on, you're agreeing to the Xiaomi Interconnectivity's &lt;a href=%1$s>Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="interconnection_service_summary_china">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Play, casting, app handoff, Home screen+, shared clipboard, cross-device image capture, network assistance, shared keyboards and mice, shared camera, and Mi Smart Hub.To be able to work normally, Xiaomi Interconnectivity Services need to connect to the internet and require the following permissions:
-\u0009\u0009Mi Smart Play and casting:
-\u0009\u0009Turn Bluetooth on or off
-\u0009\u0009For discovering nearby devices to connect to via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
-\u0009\u0009Transfer items to other devices
-\u0009\u0009For establishing a Bluetooth connection between devices and transferring items
-\u0009\u0009Access location info
-\u0009\u0009For accessing the info of nearby devices
-\u0009\u0009Record internal device audio
-\u0009\u0009For transferring and playing audio between devices while casting and mirroring
-\u0009\u0009Access photos, videos, and audio stored on the device
-\u0009\u0009For sending and receiving transferred content
-\u0009\u0009Access device MAC address
-\u0009\u0009For recognizing connected devices
-\u0009\u0009Access screen content
-\u0009\u0009For accessing screen content while recording or casting, including sensitive information such as audio, passwords, payment passwords, photos, messages, etc.
-\u0009\u0009App handoff and Home screen+:
-\u0009\u0009Turn Bluetooth on or off
-\u0009\u0009For discovering nearby devices via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
-\u0009\u0009Access device MAC address
-\u0009\u0009For recognizing connected devices
-\u0009\u0009Access photos, videos, and audio stored on the device
-\u0009\u0009For sending and receiving transferred content
-\u0009\u0009Transfer items to other devices
-\u0009\u0009For establishing a Bluetooth connection between devices and transferring items
-\u0009\u0009Record internal device audio
-\u0009\u0009For transferring and playing audio between devices while casting and mirroring
-\u0009\u0009Access screen content
-\u0009\u0009For accessing screen content while recording or casting, including sensitive information such as audio, passwords, payment passwords, photos, messages, etc.
-\u0009\u0009Shared clipboard and cross-device image capture:
-\u0009\u0009Turn Bluetooth on or off
-\u0009\u0009For discovering nearby devices via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
-\u0009\u0009Access photos, videos, and audio stored on the device
-\u0009\u0009For sending and receiving transferred content
-\u0009\u0009Access clipboard
-\u0009\u0009For allowing apps to access copied content
-\u0009\u0009Network assistance, shared keyboards and mice, and shared camera:
-\u0009\u0009Turn Bluetooth on or off
-\u0009\u0009For discovering nearby devices via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
-\u0009\u0009Access photos, videos, and audio stored on the device
-\u0009\u0009For sending and receiving transferred content
-\u0009\u0009Access camera
-\u0009\u0009For taking photos and recording video
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Turn Bluetooth on or off
-\u0009\u0009For discovering nearby devices via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
-\u0009\u0009Record internal device audio
-\u0009\u0009For transferring and playing audio between devices while casting and mirroring
-\u0009\u0009Access photos, videos, and audio stored on the device
-\u0009\u0009For sending and receiving transferred content
+\t\tMi Smart Play and casting:
+\t\tTurn Bluetooth on or off
+\t\tFor discovering nearby devices to connect to via Bluetooth
+\t\tTurn Wi-Fi on or off
+\t\tFor discovering nearby devices and transferring items via Wi-Fi
+\t\tTransfer items to other devices
+\t\tFor establishing a Bluetooth connection between devices and transferring items
+\t\tAccess location info
+\t\tFor accessing the info of nearby devices
+\t\tRecord internal device audio
+\t\tFor transferring and playing audio between devices while casting and mirroring
+\t\tAccess photos, videos, and audio stored on the device
+\t\tFor sending and receiving transferred content
+\t\tAccess device MAC address
+\t\tFor recognizing connected devices
+\t\tAccess screen content
+\t\tFor accessing screen content while recording or casting, including sensitive information such as audio, passwords, payment passwords, photos, messages, etc.
+\t\tApp handoff and Home screen+:
+\t\tTurn Bluetooth on or off
+\t\tFor discovering nearby devices via Bluetooth
+\t\tTurn Wi-Fi on or off
+\t\tFor discovering nearby devices and transferring items via Wi-Fi
+\t\tAccess device MAC address
+\t\tFor recognizing connected devices
+\t\tAccess photos, videos, and audio stored on the device
+\t\tFor sending and receiving transferred content
+\t\tTransfer items to other devices
+\t\tFor establishing a Bluetooth connection between devices and transferring items
+\t\tRecord internal device audio
+\t\tFor transferring and playing audio between devices while casting and mirroring
+\t\tAccess screen content
+\t\tFor accessing screen content while recording or casting, including sensitive information such as audio, passwords, payment passwords, photos, messages, etc.
+\t\tShared clipboard and cross-device image capture:
+\t\tTurn Bluetooth on or off
+\t\tFor discovering nearby devices via Bluetooth
+\t\tTurn Wi-Fi on or off
+\t\tFor discovering nearby devices and transferring items via Wi-Fi
+\t\tAccess photos, videos, and audio stored on the device
+\t\tFor sending and receiving transferred content
+\t\tAccess clipboard
+\t\tFor allowing apps to access copied content
+\t\tNetwork assistance, shared keyboards and mice, and shared camera:
+\t\tTurn Bluetooth on or off
+\t\tFor discovering nearby devices via Bluetooth
+\t\tTurn Wi-Fi on or off
+\t\tFor discovering nearby devices and transferring items via Wi-Fi
+\t\tAccess photos, videos, and audio stored on the device
+\t\tFor sending and receiving transferred content
+\t\tAccess camera
+\t\tFor taking photos and recording video
+\t\tMi Smart Hub:
+\t\tTurn Bluetooth on or off
+\t\tFor discovering nearby devices via Bluetooth
+\t\tTurn Wi-Fi on or off
+\t\tFor discovering nearby devices and transferring items via Wi-Fi
+\t\tRecord internal device audio
+\t\tFor transferring and playing audio between devices while casting and mirroring
+\t\tAccess photos, videos, and audio stored on the device
+\t\tFor sending and receiving transferred content
 If you don't agree to grant these permissions, you won't be able to use these services.
 Avavailable interconnectivity services may differ based on your system version and device model. Find more information at %s."</string>
     <string name="interconnection_service_summary_global">"Xiaomi Interconnectivity features may vary depending on device model and system version. Visit the system's official website to learn more."</string>
@@ -714,7 +714,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="require_authority_list_statement">To be able to work normally, this service requires the following permissions:</string>
     <string name="require_authority_statement">To allow us to provide you with basic services, you need to grant the following permissions in order for us to collect your personal information:</string>
     <string name="require_base_authority_statement">"In order to provide basic services, the following permissions are required:
-\u0009\u0009\u0009Access IMEI and IMSI"</string>
+\t\t\tAccess IMEI and IMSI"</string>
     <string name="require_basic_applist_and_authority_statement">In order to provide basic services, the following permissions are required:</string>
     <string name="require_device_information_statement">To be able to provide basic services, the following permissions are required:</string>
     <string name="require_miuidaemon_authority_statement">To allow us to provide you with this service, you need to grant the following permissions in order for us to collect your personal information:</string>

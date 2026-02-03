@@ -726,7 +726,7 @@ Stay tuned!"</string>
     <string name="pa_picker_home_search_hint">Search for widgets</string>
     <string name="pa_picker_home_title">Add widgets</string>
     <string name="pa_picker_image_text_share">Share</string>
-    <string formatted="false" name="pa_picker_image_text_share_content">\#小米小部件# 用%s小米小部件装扮你的桌面！%s</string>
+    <string formatted="false" name="pa_picker_image_text_share_content">#小米小部件# 用%s小米小部件装扮你的桌面！%s</string>
     <string name="pa_picker_image_text_share_copy_url">Copy URL</string>
     <string name="pa_picker_image_text_share_more">More</string>
     <string name="pa_picker_image_text_share_wechat_favourite">WeChat Favorites</string>

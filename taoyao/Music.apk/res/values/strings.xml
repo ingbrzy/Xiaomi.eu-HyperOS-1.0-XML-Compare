@@ -44,7 +44,7 @@
     <string name="accessibility_sliding_button_state_description_on">Turned on</string>
     <string name="accessibility_tab_state_description_unselect">Not selected</string>
     <string name="accessibility_tab_statedesc_unselect">Not selected</string>
-    <string name="accessibility_volume_percent">音量：%s</string>
+    <string name="accessibility_volume_percent">Volume: %s</string>
     <string name="account_and_cloud">Account</string>
     <string name="account_logout">Sign out</string>
     <string name="account_visitor">Visitor</string>
@@ -329,7 +329,9 @@ tap "<font size="16"><b>here</b></font></string>
     <string name="asm_joox_song_expired_toast">"Can't download due to copyright issues"</string>
     <string name="asm_loadstate_error_retry">Connect to the internet and tap to try again</string>
     <string name="asm_loadstate_not_more">"That's all for now"</string>
+    <string name="asm_login_fail_toast">"Couldn't sign in"</string>
     <string name="asm_login_register_hint">Select a method to sign in</string>
+    <string name="asm_login_success_toast">Signed in successfully</string>
     <string name="asm_logout_confirm_message">If you sign out, you will no longer be able to enjoy membership benefits. Stay signed in if you want to continue using them. Sign out anyway?</string>
     <string name="asm_logout_confirm_title">Sign out now?</string>
     <string name="asm_main_section_best_sellers">Bestsellers</string>
@@ -722,7 +724,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">ecaa0527c26a4738bdc88b85f2baba16</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">625cb4e86e1440f7856e335504859e06</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1969,7 +1971,7 @@ We will share more once you're back online."</string>
     <string name="passport_error_length_limit">The text you entered is too long</string>
     <string name="passport_error_network">"Can't connect to the network"</string>
     <string name="passport_error_no_password_user">"You haven't set the password yet. Sign in with SMS."</string>
-    <string name="passport_error_phone">Invalid phone number</string>
+    <string name="passport_error_phone">Enter a valid phone number</string>
     <string name="passport_error_server">Server error</string>
     <string name="passport_error_sms_limit">Too many verification codes have been sent to this number. Try again later.</string>
     <string name="passport_error_ticket_invalid">This code is incorrect</string>
@@ -2870,8 +2872,8 @@ Be Happy"</string>
     <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
     <string name="vip_required_with_song">%s is available to Gold members only. Skipped this song for now.</string>
     <string name="voice_search_first_hint">Try voice search!</string>
-    <string name="volume_experience_now">马上体验</string>
-    <string name="volume_no_speaker_party">聚会没音响？“三倍大音量”让快乐翻倍！</string>
+    <string name="volume_experience_now">Try</string>
+    <string name="volume_no_speaker_party">Triple the volume to double the fun!</string>
     <string name="watch_now">Watch</string>
     <string name="watch_video">Watch video</string>
     <string name="watch_video_for_more_songs">Watch a video to play more songs</string>

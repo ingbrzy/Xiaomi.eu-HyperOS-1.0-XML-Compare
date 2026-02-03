@@ -170,7 +170,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -199,7 +199,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -229,7 +229,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="always_enabled_app_list">
         <item>com.android.providers.applications</item>
@@ -2149,9 +2149,9 @@
         <item>60</item>
     </string-array>
     <string-array name="gradient_colors">
-        <item>\#88C2FF</item>
-        <item>\#C8F4E4</item>
-        <item>\#FFCEA0</item>
+        <item>#88C2FF</item>
+        <item>#C8F4E4</item>
+        <item>#FFCEA0</item>
     </string-array>
     <string-array name="gradient_positions">
         <item>0f</item>
@@ -2342,7 +2342,7 @@
         <item>green</item>
         <item>cyan</item>
         <item>white</item>
-        <item>magenta</item>
+        <item>#FFAA00AA</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 seconds</item>
@@ -2537,9 +2537,9 @@
         <item>blue</item>
         <item>red</item>
         <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>magenta</item>
+        <item>#FFFF0033</item>
+        <item>#FF5500FF</item>
+        <item>#FFAA00AA</item>
     </string-array>
     <string-array name="mi2_wifi_security">
         <item>@string/wifi_security_none</item>
@@ -3169,7 +3169,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Moderate</item>
         <item>Low</item>
         <item>Critical</item>
-        <item>\?</item>
+        <item>?</item>
     </string-array>
     <string-array name="remove_oldman_mode_device_list">
         <item>davinci</item>
@@ -3535,6 +3535,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>3</item>
     </string-array>
     <array name="slice_allowlist_package_names" />
+    <array name="slice_allowlist_package_names_for_dev" />
     <string-array name="smart_device_control_entries">
         <item>Xiaomi Smart Hub</item>
         <item>Smart home</item>
