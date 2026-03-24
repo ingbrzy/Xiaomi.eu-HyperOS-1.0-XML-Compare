@@ -1548,7 +1548,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="share_content_text_first_theme">Check it out! \"%1$s\" theme gives your phone a completely new look.</string>
     <string name="share_content_text_first_wallpaper">Check it out! \"%1$s\" wallpaper gives your phone a completely new look.</string>
     <string name="share_content_text_second">" Find your own style in %1$s!"</string>
-    <string name="share_content_topic">\#Xiaomi Themes#</string>
+    <string name="share_content_topic">#Xiaomi Themes#</string>
     <string name="share_copy_theme_url">Copy theme URL</string>
     <string name="share_copy_url_success">Copied successfully</string>
     <string name="share_copy_wallpaper_url">Copy wallpaper URL</string>
@@ -1556,7 +1556,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="share_save_success">Saved successfully</string>
     <string name="share_save_to_photo">Gallery</string>
     <string name="share_send_to_friend">WeChat</string>
-    <string name="share_share_suffix">\@小米主题</string>
+    <string name="share_share_suffix">@小米主题</string>
     <string name="share_theme_content_text">"You can download an amazing theme \"%1$s\" here: %2$s. From "</string>
     <string name="share_to_qq">QQ</string>
     <string name="share_to_weibo">Weibo</string>

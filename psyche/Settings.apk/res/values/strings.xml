@@ -2486,7 +2486,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="color_blue">Blue</string>
     <string name="color_calibration_none">This device</string>
     <string name="color_calibration_srgb">sRGB</string>
-    <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
+    <string name="color_custom">#%1$02X%2$02X%3$02X</string>
     <string name="color_cyan">Cyan</string>
     <string name="color_game_led_applications_title">Select apps</string>
     <string name="color_game_led_applications_title_summary">Select individual apps that will work with LED light</string>
@@ -5944,7 +5944,7 @@ You won't be able to reverse this action."</string>
     <string name="memory_summary">Avg %1$s of %2$s memory used</string>
     <string name="memory_system_rom">System</string>
     <string name="memory_system_space">System storage</string>
-    <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Available: %1$s\t\tTotal: %2$s</string>
     <string name="memory_usage">Memory usage</string>
     <string name="memory_usage_apps">Memory used by apps</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
@@ -7160,7 +7160,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
     <string name="one_handed_action_show_notification_summary">Notifications and settings will appear.</string>
     <string name="one_handed_action_show_notification_title">Show notifications</string>
     <string name="one_handed_mode_enabled">Use one-handed mode</string>
-    <string name="one_handed_mode_footer_text">" "<b>How to use one-handed mode</b>"
+    <string name="one_handed_mode_footer_text"> <b>How to use one-handed mode</b>"
  • Make sure gesture navigation is selected in system navigation settings
  • Swipe down near the bottom edge of the screen "</string>
     <string name="one_handed_mode_intro_text">Pull down the top half of your screen so it’s easier to reach with one hand</string>
@@ -8243,24 +8243,24 @@ This setting affects all users on this phone."</string>
     <string name="screen_paper_texture">Texture</string>
     <string name="screen_pinning_description">"When an app is pinned, the pinned app may open other apps and personal data may be accessible. 
 
-To use app pinning: \u0009
-1. Turn on app pinning \u0009
-2. Open Overview \u0009
+To use app pinning: \t
+1. Turn on app pinning \t
+2. Open Overview \t
 3. Tap the app icon at the top of the screen, then tap Pin"</string>
     <string name="screen_pinning_dialog_message">"When app is pinned: 
 
-•\u0009\u0009Personal data may be accessible 
-\u0009\u0009(such as contacts and email content) 
-•\u0009\u0009Pinned app may open other apps 
+•\t\tPersonal data may be accessible 
+\t\t(such as contacts and email content) 
+•\t\tPinned app may open other apps 
 
 Only use app pinning with people you trust."</string>
     <string name="screen_pinning_guest_user_description">"When an app is pinned, the pinned app may open other apps and personal data may be accessible. 
 
 If you want to securely share your device with someone, try using a guest user instead. 
 
-To use app pinning: \u0009
-1. Turn on app pinning \u0009
-2. Open Overview \u0009
+To use app pinning: \t
+1. Turn on app pinning \t
+2. Open Overview \t
 3. Tap the app icon at the top of the screen, then tap Pin"</string>
     <string name="screen_pinning_switch_off_text">Off</string>
     <string name="screen_pinning_switch_on_text">On</string>
@@ -9602,7 +9602,7 @@ This ^1 is formatted to work on this device only. It won’t work on any others.
 
 After formatting, this ^1 will only work in this device. 
 
-"<b>Formatting erases all data currently stored on the ^1.</b>" To avoid losing the data, consider backing it up. "</string>
+"<b>Formatting erases all data currently stored on the ^1.</b> To avoid losing the data, consider backing it up. </string>
     <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
     <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted.
 Formatting will erase all data currently stored on the ^1.
@@ -12057,7 +12057,7 @@ When you turn off Do Not Disturb, find missed notifications by swiping down from
     <string name="zen_mode_settings_dnd_automatic_rule">Do Not Disturb was automatically turned on by a schedule (%s)</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Do Not Disturb was automatically turned on by an app (%s)</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">Do Not Disturb is on for %s with custom settings.</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">View custom settings</annotation></string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link"> <annotation id="link">View custom settings</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">Do Not Disturb is on until %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">Do Not Disturb will stay on until you turn it off</string>
     <string name="zen_mode_settings_schedules_summary">{count, plural, =0 {None} =1 {1 schedule set} other {# schedules set} }</string>

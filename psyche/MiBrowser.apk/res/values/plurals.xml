@@ -163,6 +163,9 @@
         <item quantity="one">Downloaded %1$s item successfully</item>
         <item quantity="other">Downloaded %1$s items successfully</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
     <plurals name="matches_found">
         <item quantity="one">%d match</item>
         <item quantity="other">%1$d of %2$d</item>
@@ -190,6 +193,10 @@
     <plurals name="numSelectedFile">
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
     </plurals>
     <plurals name="opr_activity_news_task">
         <item quantity="one">Browse %d news story</item>
@@ -254,6 +261,11 @@
     <plurals name="views">
         <item quantity="one">%dk view</item>
         <item quantity="other">%dk views</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="one">%d person has voted</item>
+        <item quantity="few">%d people have voted</item>
+        <item quantity="other">%d people have voted</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_ad">
         <item quantity="one">Blocked %d ad</item>
