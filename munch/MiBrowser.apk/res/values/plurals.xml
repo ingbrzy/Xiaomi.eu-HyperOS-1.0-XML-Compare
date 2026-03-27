@@ -155,9 +155,20 @@
         <item quantity="one">You have %d coupon</item>
         <item quantity="other">You have %d coupons</item>
     </plurals>
+    <plurals name="last_num_days">
+        <item quantity="one">Last %d day</item>
+        <item quantity="other">Last %d days</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="one">Downloaded %1$s item successfully</item>
         <item quantity="other">Downloaded %1$s items successfully</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="one">%d match</item>
+        <item quantity="other">%1$d of %2$d</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="one">%1$d minute ago</item>
@@ -175,14 +186,6 @@
         <item quantity="one">%d new notification</item>
         <item quantity="other">%d new notifications</item>
     </plurals>
-    <plurals name="mw_last_num_days">
-        <item quantity="one">Last %d day</item>
-        <item quantity="other">Last %d days</item>
-    </plurals>
-    <plurals name="mw_matches_found">
-        <item quantity="one">%d match</item>
-        <item quantity="other">%1$d of %2$d</item>
-    </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="one">After %d second will automatically create a new page</item>
         <item quantity="other">After %d seconds will automatically create a new page</item>
@@ -190,6 +193,10 @@
     <plurals name="numSelectedFile">
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
     </plurals>
     <plurals name="opr_activity_news_task">
         <item quantity="one">Browse %d news story</item>
@@ -231,14 +238,6 @@
         <item quantity="one">%d song</item>
         <item quantity="other">%d songs</item>
     </plurals>
-    <plurals name="suggest_access_item_singer_albums">
-        <item quantity="one">%d album</item>
-        <item quantity="other">%d albums</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_pop">
-        <item quantity="one">%d popular song</item>
-        <item quantity="other">%d popular songs</item>
-    </plurals>
     <plurals name="tag_count">
         <item quantity="one">%d tab</item>
         <item quantity="other">%d tabs</item>
@@ -246,10 +245,6 @@
     <plurals name="v5_edit_mode_title">
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
-    </plurals>
-    <plurals name="video_collection_reminder_view">
-        <item quantity="one">"You haven't watched %d favorite video in a long time."</item>
-        <item quantity="other">"You haven't watched %d of your favorite videos in a long time."</item>
     </plurals>
     <plurals name="video_views">
         <item quantity="one">%s view</item>
@@ -266,6 +261,11 @@
     <plurals name="views">
         <item quantity="one">%dk view</item>
         <item quantity="other">%dk views</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="one">%d person has voted</item>
+        <item quantity="few">%d people have voted</item>
+        <item quantity="other">%d people have voted</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_ad">
         <item quantity="one">Blocked %d ad</item>

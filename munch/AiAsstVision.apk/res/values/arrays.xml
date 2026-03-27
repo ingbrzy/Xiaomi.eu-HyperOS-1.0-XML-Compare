@@ -34,7 +34,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -63,7 +63,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -93,7 +93,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
