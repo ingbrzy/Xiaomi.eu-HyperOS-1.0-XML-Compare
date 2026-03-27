@@ -13,6 +13,8 @@ Removed: [cs] plurals.xml: plurals/global_syncing_title_link (wrong item attribu
 Removed: [cs] strings.xml: string/burst_save_choice_title (wrong attributes)
 Removed: [cs] strings.xml: string/loading_text_format (wrong attributes)
 Removed: [cs] strings.xml: string/slim_dialog_message (wrong attributes)
+Removed: [es] strings.xml: string/photodetail_rename_invalid_prefix (wrong format)
+Removed: [es-rUS] strings.xml: string/photodetail_rename_invalid_prefix (wrong format)
 Removed: [fr] plurals.xml: plurals/share_album_sync_textline_oversize (wrong item attributes)
 Removed: [fr] strings.xml: string/burst_save_choice_title (wrong attributes)
 Removed: [fr] strings.xml: string/loading_text_format (wrong attributes)
