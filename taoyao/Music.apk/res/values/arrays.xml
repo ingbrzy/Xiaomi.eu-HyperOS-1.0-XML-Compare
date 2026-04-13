@@ -89,6 +89,10 @@
         <item>female</item>
         <item>group</item>
     </string-array>
+    <string-array name="assume_strong_biometrics_models">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -199,6 +203,10 @@
         <item>@drawable/music_icon_d_n_8</item>
         <item>@drawable/music_icon_d_n_9</item>
     </array>
+    <array name="crypto_fingerprint_fallback_prefixes" />
+    <string-array name="crypto_fingerprint_fallback_vendors">
+        <item>samsung</item>
+    </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
         <item>0x1fffffff</item>
         <item>0x14ffffff</item>
@@ -211,6 +219,10 @@
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
         <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
     </array>
+    <string-array name="delay_showing_prompt_models">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </string-array>
     <array name="desktop_lyric_seekbar_track_color">
         <item>#13baff</item>
         <item>#616acb</item>
@@ -301,6 +313,25 @@
         <item>@string/heavenly_stems_xin</item>
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
+    </string-array>
+    <string-array name="hide_fingerprint_instantly_prefixes">
+        <item>SM-A50</item>
+        <item>SM-G973</item>
+        <item>SM-G975</item>
+        <item>SM-G977</item>
+        <item>SM-G770</item>
+        <item>SM-N970</item>
+        <item>SM-N971</item>
+        <item>SM-N975</item>
+        <item>SM-N976</item>
+        <item>SM-N770</item>
+        <item>SC-03L</item>
+        <item>SC-04L</item>
+        <item>SC-05L</item>
+        <item>SC-01M</item>
+        <item>SCV41</item>
+        <item>SCV42</item>
+        <item>SCV45</item>
     </string-array>
     <string-array name="month_table">
         <item>@string/January</item>

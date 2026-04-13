@@ -194,6 +194,10 @@
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
     </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
+    </plurals>
     <plurals name="opr_activity_news_task">
         <item quantity="one">Browse %d news story</item>
         <item quantity="other">Browse %d news stories</item>
@@ -238,6 +242,10 @@
         <item quantity="one">%d tab</item>
         <item quantity="other">%d tabs</item>
     </plurals>
+    <plurals name="toast_check_content">
+        <item quantity="one">Check out %d new item</item>
+        <item quantity="other">Check out %d new items</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
@@ -257,6 +265,11 @@
     <plurals name="views">
         <item quantity="one">%dk view</item>
         <item quantity="other">%dk views</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="one">%d person has voted</item>
+        <item quantity="few">%d people have voted</item>
+        <item quantity="other">%d people have voted</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_ad">
         <item quantity="one">Blocked %d ad</item>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="CronetProviderClassName">com.google.android.gms.net.PlayServicesCronetProvider</string>
     <string name="aab">f4bb9b1cdc1a0f4b</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
@@ -154,6 +155,9 @@
     <string name="add_to_dictionary">Add to dictionary</string>
     <string name="add_to_quicklink">Start page</string>
     <string name="added_to_bookmarks">Added to bookmarks</string>
+    <string name="address_input_position">Address bar position</string>
+    <string name="address_move_to_bottom">Move address bar to the bottom</string>
+    <string name="address_move_to_top">Move address bar to the top</string>
     <string name="adjust_text_zoom_toast">Changing text size may cause some websites to be displayed incorrectly</string>
     <string name="ads_sdk_version">SDK Version</string>
     <string name="advertisement_network_settings">Advertisement Network Settings</string>
@@ -228,7 +232,6 @@
     <string name="batch_download">Download</string>
     <string name="batch_download_tip">Looks like multiple items are being downloaded at the same time. Block these downloads?</string>
     <string name="bba">e6135d289c1ff651b514fd4559850c19</string>
-    <string name="bbaa">4fd450ec3389b623d119a62b5c574ee7</string>
     <string name="block">Block</string>
     <string name="block_ads_choice_block">Block</string>
     <string name="block_ads_choice_continue">Continue</string>
@@ -279,6 +282,7 @@ Toggle off to stop syncing."</string>
     <string name="bookmarks_search">Browser</string>
     <string name="bookmarks_search_bookmarks">Search bookmarks</string>
     <string name="bookmarks_share">Share</string>
+    <string name="bottom">Bottom</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">This is the last tab</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
@@ -460,6 +464,7 @@ Toggle off to stop syncing."</string>
     <string name="close_ads_title">Block content?</string>
     <string name="close_all_tab_alert_message">Close all tabs currently open in browser?</string>
     <string name="close_all_tab_alert_title">Close all tabs</string>
+    <string name="close_button">Close button</string>
     <string name="close_cant_recommand">"You won't receive personalized content services if you turn this feature off."</string>
     <string name="close_cloud_tab_tip">Close cloud tabs on %s?</string>
     <string name="close_desktop">Turned off desktop version</string>
@@ -556,8 +561,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">954e1d2d44784233af62014e836cc23c</string>
-    <string name="com.miapm.build_id">292692d020784d19a71acece22376328</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">9a87bc79d58149949e4c5b4b4a50c782</string>
+    <string name="com.miapm.build_id">c88bc307668746fea65c750106553bdc</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
     <string name="comment_menu">Comment</string>
@@ -597,6 +602,7 @@ Toggle off to stop syncing."</string>
     <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="confirm">OK</string>
     <string name="confirm_delect_history_record">Delete the selected history records now?</string>
+    <string name="confirm_delete_all_history">Delete all search history?</string>
     <string name="confirm_exit_cur_game">Close this game?</string>
     <string name="confirm_know">OK</string>
     <string name="confirm_privacy_password">Draw your unlock pattern</string>
@@ -900,10 +906,6 @@ Toggle off to stop syncing."</string>
     <string name="evening">Afternoon</string>
     <string name="exit">Exit</string>
     <string name="exit_browser_warning">Exit Browser now?</string>
-    <string name="exit_clear_dialog_always">Remember my choice</string>
-    <string name="exit_clear_dialog_btn_cancel">Exit</string>
-    <string name="exit_clear_dialog_btn_ok">Clear &amp; exit</string>
-    <string name="exit_clear_dialog_msg">Clear history before you exit?</string>
     <string name="exit_game">Close</string>
     <string name="exo_controls_cc_disabled_description">Enable subtitles</string>
     <string name="exo_controls_cc_enabled_description">Disable subtitles</string>
@@ -1324,6 +1326,7 @@ Leave this page now?"</string>
     <string name="logging_is_enabled">Logging is enabled</string>
     <string name="login_failed_toast">"Couldn't sign in, refresh and try again"</string>
     <string name="login_or_register">or</string>
+    <string name="long_press_change_position">You can also press and hold the address bar to change its position</string>
     <string name="long_press_edit">Long press to edit</string>
     <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
     <string name="low_memory_toast">"Can't use Browser due to low memory"</string>
@@ -1706,6 +1709,12 @@ Leave this page now?"</string>
     <string name="most_visited_sites">Most visited</string>
     <string name="most_visited_sites_switch">Show most visited sites on the start page</string>
     <string name="move_bookmark">Move</string>
+    <string name="mraid_alert_accept">Accept</string>
+    <string name="mraid_alert_decline">Decline</string>
+    <string name="mraid_allow_calendar_event">Allow Ad to create a calendar event?</string>
+    <string name="mraid_allow_store_picture">Allow Ad to store image in Picture gallery?</string>
+    <string name="mraid_create_calendar_event">Create calendar event</string>
+    <string name="mraid_save_image">Save image</string>
     <string name="msg_token">Firebase Message Token(Click To Export)</string>
     <string name="msn_ad_identification">Ad</string>
     <string name="msn_privacy">Microsoft Privacy Statement</string>
@@ -1838,19 +1847,7 @@ Leave this page now?"</string>
     <string name="notification_download_completed">Downloaded successfully</string>
     <string name="notification_download_failed">"Couldn't download."</string>
     <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
-    <string name="notifications_permission_confirm">Allow</string>
-    <string name="notifications_permission_decline">"Don't allow"</string>
-    <string name="notifications_permission_title">Allow app to send you notifications?</string>
     <string name="novel_continue_read_popup">Read</string>
-    <string name="offline_dialog_image_description">Icon</string>
-    <string name="offline_dialog_text">"Thanks for your interest.
-We will share more once you're back online."</string>
-    <string name="offline_notification_title">"You are back online! Let's pick up where we left off"</string>
-    <string name="offline_notification_title_with_advertiser">You are back online! Continue learning about %s</string>
-    <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_decline">No thanks</string>
-    <string name="offline_opt_in_message">"We'll send you a notification with a link to the advertiser site."</string>
-    <string name="offline_opt_in_title">"Open ad when you're back online."</string>
     <string name="ok">OK</string>
     <string name="older">Older</string>
     <string name="one_prefect_author">Creator</string>
@@ -2046,7 +2043,7 @@ We will share more once you're back online."</string>
     <string name="pref_nav_mode_title">Desktop</string>
     <string name="pref_notifications_title">Notifications</string>
     <string name="pref_other_title">Other</string>
-    <string name="pref_paper_mode_title">Reading mode</string>
+    <string name="pref_paper_mode_title">Eye comfort mode</string>
     <string name="pref_privacy_clear_cache">Cache</string>
     <string name="pref_privacy_clear_cache_dlg">Clear all the items cached during your browsing?</string>
     <string name="pref_privacy_clear_cache_summary">Mi Browser caches some web pages to load them faster next time you visit them. Clearing cache deletes the items saved by sites during your browsing.</string>
@@ -2237,6 +2234,9 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="reading__shared__page_num_with_total_pages">%1$d/%2$d</string>
     <string name="reading__shared__reach_first_page">This is the first page</string>
     <string name="reading__shared__reach_last_page">This is the last page</string>
+    <string name="reading_text_action_copy">Copy</string>
+    <string name="reading_text_action_search_web">Search</string>
+    <string name="reading_text_action_select_all">Select all</string>
     <string name="readmode_already_add_to_bookshelf">Added to bookshelf</string>
     <string name="readmode_battery">Battery </string>
     <string name="readmode_login_message">You need to sign in to read more.</string>
@@ -2320,6 +2320,14 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="resAuthority">miuibrowser</string>
     <string name="restart">Start over</string>
     <string name="return_to_homepage">Go back to start page</string>
+    <string name="risk_continue">Continue</string>
+    <string name="risk_detail">Details</string>
+    <string name="risk_malicious_url">This website might pose security risks.</string>
+    <string name="risk_safe_url">This website is secure</string>
+    <string name="risk_setting_des">Allow Mi Browser to check websites for security issues</string>
+    <string name="risk_setting_title">Secure browsing</string>
+    <string name="risk_stop">Stop</string>
+    <string name="risk_unspecified_url">"There's a problem with this website's security certificate."</string>
     <string name="rlv_last_refreshing_time">Updated %1$s</string>
     <string name="rlv_loading_more">Just a sec…</string>
     <string name="rlv_pull_to_refresh">Pull down to refresh</string>
@@ -2328,13 +2336,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="root_folder_lable">None</string>
     <string name="router_download_exist">This file already exists</string>
     <string name="router_download_failed">"Couldn't download"</string>
-    <string name="s1">Save image</string>
-    <string name="s2">Allow Ad to store image in Picture gallery?</string>
-    <string name="s3">Accept</string>
-    <string name="s4">Decline</string>
-    <string name="s5">Create calendar event</string>
-    <string name="s6">Allow Ad to create a calendar event?</string>
-    <string name="s7">Test Ad</string>
     <string name="same_bookmarks_warning">"You've already bookmarked this page"</string>
     <string name="same_folder_name_warning">A group with the same name already exists</string>
     <string name="saturday">Saturday</string>
@@ -2619,6 +2620,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="talkbak_refresh_icon">Refresh</string>
     <string name="talkbak_title">Title: %1$s</string>
     <string name="tcf_consent">TCF Consent</string>
+    <string name="test_ad">Test Ad</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -2683,10 +2685,12 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="title_select_volume">Select folder</string>
     <string name="title_use_local_ad_config">Use local ad config</string>
     <string name="title_use_sandbox_domain">Use Sandbox domain</string>
+    <string name="toast_current_see">Recently viewed</string>
     <string name="toast_exit_browser">Tap again to exit Browser</string>
-    <string name="toast_remove_link_hint">Removed successfully. <font color="#247BFF">%s</font></string>
+    <string name="toast_remove_link_hint">Removed successfully. &lt;font color=#247BFF>%s&lt;/font></string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
+    <string name="top">Top</string>
     <string name="top_news">Top stories</string>
     <string name="topsite_click">TopSite click</string>
     <string name="tracer_mapping_uuid">4e090e30-aff5-11f0-9f27-3e3c84784f26</string>
@@ -2937,31 +2941,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="voice_title_listening">Listening…</string>
     <string name="voice_title_please">Start speaking…</string>
     <string name="voice_title_speech_again">"Couldn't understand you"</string>
-    <string name="vpn_data_current_period">Validity period: %s</string>
-    <string name="vpn_data_used_info">Used %2$s of %1$s</string>
-    <string name="vpn_detail_guide1">Unlock all servers to speed up your connection</string>
-    <string name="vpn_detail_guide2">Subscribe to VPN services to access more websites</string>
-    <string name="vpn_detail_guide3">"You're almost out of traffic. Try our %1$d-month plan! Tap to learn about your options."</string>
-    <string name="vpn_detail_guide4">"You're out of traffic. Try our %1$d-month plan! Tap to learn about your options."</string>
-    <string name="vpn_detail_guide5">"You're almost out of traffic"</string>
-    <string name="vpn_detail_guide6">"You're out of traffic"</string>
-    <string name="vpn_detail_subscribe">Subscribe</string>
-    <string name="vpn_detail_subscribe_autorenew">Renew</string>
-    <string name="vpn_detail_title">VPN services</string>
-    <string name="vpn_free_data_used_info">Free traffic: %1$s | Used %2$s</string>
-    <string name="vpn_guide_popup_window_text">Try using VPN</string>
-    <string name="vpn_not_support_by_region">"VPN services aren't available in your region"</string>
-    <string name="vpn_offline_tip">"VPN services aren't available now"</string>
-    <string name="vpn_privacy_dialog_agress">Agree</string>
-    <string name="vpn_privacy_dialog_content">This service is provided by Tai Xin. Read and agree to &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Tai Xin Privacy Policy&lt;/a>&lt;/font> before using this service.</string>
-    <string name="vpn_privacy_dialog_disagree">No thanks</string>
-    <string name="vpn_privacy_dialog_title">Privacy statement</string>
-    <string name="vpn_subscribe_tips_1">Use all available servers</string>
-    <string name="vpn_subscribe_tips_2">Access more websites</string>
-    <string name="vpn_subscribe_tips_3">Enjoy high speed</string>
-    <string name="vpn_used_all_free_data_toast">"You're out of traffic. Subscribe to continue."</string>
-    <string name="vpn_used_all_toast">"You're out of traffic"</string>
-    <string name="watermark_label_prefix">"AdMob - "</string>
+    <string name="waiting_for_input">Waiting for input</string>
     <string name="weather_card_aqi">AQI</string>
     <string name="weather_card_baro">Pressure</string>
     <string name="weather_card_dew_pt">Dew point</string>
@@ -3179,7 +3159,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_video_size_ratio">Aspect ratio:</string>
     <string name="web_video_size_stretch">Stretch</string>
     <string name="web_video_size_tailoring">Crop</string>
+    <string name="webpage_bottom_input">Bottom of the page</string>
     <string name="webpage_title">Bookmarks &amp; History</string>
+    <string name="webpage_top_input">Top of the page</string>
     <string name="webview_find_on_page">Find on page</string>
     <string name="webviewchromium_private_browsing_warning">"This functionality isn't supported in this version of Android."</string>
     <string name="wednesday">Wednesday</string>

@@ -120,7 +120,6 @@
     <string name="btn_clear_history">Clear history</string>
     <string name="btn_empty_go_to_download">Download</string>
     <string name="btn_playlist_play_all">Play</string>
-    <string name="btn_str_fcm_notification_normal">Play</string>
     <string name="call_notification_answer_action">Answer</string>
     <string name="call_notification_answer_video_action">Video</string>
     <string name="call_notification_decline_action">Decline</string>
@@ -331,7 +330,7 @@
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.crashlytics.android.build_id">3fab855fd892410aa8fbcca5c9de24ff</string>
+    <string name="com.crashlytics.android.build_id">33d63f7d5236478a98bd1fe09066508a</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -1599,7 +1598,7 @@ We will share more once you're back online."</string>
     <string name="passport_error_length_limit">The text you entered is too long</string>
     <string name="passport_error_network">"Can't connect to the network"</string>
     <string name="passport_error_no_password_user">"You haven't set the password yet. Sign in with SMS."</string>
-    <string name="passport_error_phone">Invalid phone number</string>
+    <string name="passport_error_phone">Enter a valid phone number</string>
     <string name="passport_error_server">Server error</string>
     <string name="passport_error_sms_limit">Too many verification codes have been sent to this number. Try again later.</string>
     <string name="passport_error_ticket_invalid">This code is incorrect</string>
@@ -1974,6 +1973,9 @@ We will share more once you're back online."</string>
     <string name="russia_ad_advertiser_information">Advertiser info</string>
     <string name="russia_ad_disclaimer">Disclaimer</string>
     <string name="russia_ad_token">Token</string>
+    <string name="russia_version_personal_empty">Nothing here yet</string>
+    <string name="russia_version_search_see_less">Show less</string>
+    <string name="russia_version_search_see_more">Show more</string>
     <string name="s1">Save image</string>
     <string name="s2">Allow Ad to store image in Picture gallery?</string>
     <string name="s3">Accept</string>
@@ -2059,6 +2061,12 @@ We will share more once you're back online."</string>
     <string name="small_title_hide">Show less</string>
     <string name="small_title_more">Show more</string>
     <string name="small_video_bottom_slide">Swipe up to view more</string>
+    <string name="small_video_comment">Comments</string>
+    <string name="small_video_comment_collapse">Show less</string>
+    <string name="small_video_comment_empty">Nothing here yet</string>
+    <string name="small_video_comment_expand">View more</string>
+    <string name="small_video_comment_expand_all">Expand</string>
+    <string name="small_video_comment_no_more">No more items to show</string>
     <string name="small_video_load_more_hint">Swipe up to play more videos</string>
     <string name="small_video_long_press_speed_hint">Press and hold to adjust playback speed</string>
     <string name="small_video_report">Report</string>
