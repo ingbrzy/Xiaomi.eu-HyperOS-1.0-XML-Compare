@@ -203,6 +203,20 @@
         <item>@drawable/music_icon_d_n_8</item>
         <item>@drawable/music_icon_d_n_9</item>
     </array>
+    <array name="cover_icon_n_arrays_new">
+        <item>@drawable/music_icon_d_n_0_new</item>
+        <item>@drawable/music_icon_d_n_1_new</item>
+        <item>@drawable/music_icon_d_n_2_new</item>
+        <item>@drawable/music_icon_d_n_3_new</item>
+        <item>@drawable/music_icon_d_n_4_new</item>
+        <item>@drawable/music_icon_d_n_5_new</item>
+        <item>@drawable/music_icon_d_n_6_new</item>
+        <item>@drawable/music_icon_d_n_7_new</item>
+        <item>@drawable/music_icon_d_n_8_new</item>
+        <item>@drawable/music_icon_d_n_9_new</item>
+        <item>@drawable/music_icon_d_n_10_new</item>
+        <item>@drawable/music_icon_d_n_11_new</item>
+    </array>
     <array name="crypto_fingerprint_fallback_prefixes" />
     <string-array name="crypto_fingerprint_fallback_vendors">
         <item>samsung</item>
@@ -293,14 +307,6 @@
         <item>1.25x</item>
         <item>1.5x</item>
         <item>2x</item>
-    </string-array>
-    <string-array name="feedback_content">
-        <item>Not interested</item>
-        <item>Repetitive</item>
-        <item>Inappropriate content</item>
-        <item>Misleading or scam</item>
-        <item>Illegal content</item>
-        <item>Other</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -496,5 +502,13 @@
         <item>@string/thursday_shortest</item>
         <item>@string/friday_shortest</item>
         <item>@string/saturday_shortest</item>
+    </string-array>
+    <string-array name="xout_feedback_content">
+        <item>Not interested</item>
+        <item>Appears too often</item>
+        <item>Inappropriate content</item>
+        <item>Misleading or fraudulent</item>
+        <item>Content violates guidelines</item>
+        <item>Other</item>
     </string-array>
 </resources>

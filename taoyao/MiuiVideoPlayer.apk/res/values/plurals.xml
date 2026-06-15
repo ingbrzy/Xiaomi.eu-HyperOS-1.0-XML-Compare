@@ -228,6 +228,14 @@
         <item quantity="one">%1$s sec</item>
         <item quantity="other">%1$s secs</item>
     </plurals>
+    <plurals name="short_drama_episode_select">
+        <item quantity="one">Episodes · %1$d total</item>
+        <item quantity="other">Episodes · %1$d total</item>
+    </plurals>
+    <plurals name="short_drama_episode_short">
+        <item quantity="one">Episode %1$d/%2$d</item>
+        <item quantity="other">Episode %1$d/%2$d</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="one">%s subscriber</item>
         <item quantity="other">%s subscribers</item>
