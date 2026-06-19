@@ -1163,13 +1163,13 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="confirm_hidden_recommend_group_message">When recommendations are turned off, you can still use \"More people who look alike\" option</string>
     <string name="confirm_hidden_recommend_group_title">"Don't show recommendations"</string>
     <string name="confirm_hide_selected_albums">Hide selected albums?</string>
-    <string name="confirm_merge_face_albums">" "<Data> Merge this album with %s? </Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data> Merge these albums with %s? </Data>" "</string>
+    <string name="confirm_merge_face_albums"> <Data> Merge this album with %s? </Data> </string>
+    <string name="confirm_merge_many_face_albums"> <Data> Merge these albums with %s? </Data> </string>
     <string name="confirm_not_face">No matches</string>
-    <string name="confirm_recommandation_face_is">" "<Data> Sure this is &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? This person will be moved to \"%2$s\" album. </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data>" Sure this isn't &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sure these are &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? These people will be moved to \"%2$s\" album. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Sure these aren't &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
+    <string name="confirm_recommandation_face_is"> <Data> Sure this is &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? This person will be moved to \"%2$s\" album. </Data> </string>
+    <string name="confirm_recommandation_face_not"> <Data>" Sure this isn't &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data> </string>
+    <string name="confirm_recommandation_multiple_faces_are"> <Data> Sure these are &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? These people will be moved to \"%2$s\" album. </Data> </string>
+    <string name="confirm_recommandation_multiple_faces_not"> <Data>" Sure these aren't &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data> </string>
     <string name="contact_tip">Contact</string>
     <string name="content_preview_ratio">1:1</string>
     <string name="context_menu_add_contact">Add to contacts</string>

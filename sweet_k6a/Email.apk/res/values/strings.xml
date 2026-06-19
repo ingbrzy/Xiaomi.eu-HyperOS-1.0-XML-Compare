@@ -1287,7 +1287,7 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="senders_split_token">, </string>
     <string name="sending_message">Sending message…</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate
-\u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
+\t (Make sure'Auto sync time' is turned on in Settings)"</string>
     <string name="ser_resp_err_map_landing_more_failure">"Couldn't sign in multiple times in a row. Wait a minute or two and try again."</string>
     <string name="ser_resp_err_map_landing_too_frequently">Too many frequent sign-in attempts. Wait a minute or two and try again.</string>
     <string name="ser_resp_err_map_mailbox_locked">This email account is locked. Contact the email service provider to unlock it first.</string>

@@ -5,7 +5,7 @@
         <item>Female</item>
     </string-array>
     <string-array name="alphabet_table">
-        <item>\#</item>
+        <item>#</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>

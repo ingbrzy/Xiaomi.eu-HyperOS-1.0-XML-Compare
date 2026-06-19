@@ -1117,7 +1117,7 @@ are secure"</string>
     <string name="service_mode_advantage_pay_protection_tip">Protect your finances</string>
     <string name="service_mode_advantage_pay_protection_title">Payment environment protection</string>
     <string name="service_mode_advantage_risk_app_download_subtitle">"Risky apps will be detected while you're downloading them in Mi Browser."</string>
-    <string name="service_mode_advantage_risk_app_download_tip">"\u0009Detect risks
+    <string name="service_mode_advantage_risk_app_download_tip">"\tDetect risks
 while downloading apps"</string>
     <string name="service_mode_advantage_risk_app_download_title">Mi Protect provides secure downloads</string>
     <string name="service_mode_advantage_risk_app_forbidden_subtitle">"Mi Protect doesn't allow risky apps to install anything else on your device by default."</string>

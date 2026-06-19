@@ -1111,7 +1111,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="postal_postcode">ZIP code</string>
     <string name="postal_region">State</string>
     <string name="postal_street">Street</string>
-    <string name="pound">\#</string>
+    <string name="pound">#</string>
     <string name="pref_key_photo_word_title">Assign contact photos</string>
     <string name="pref_key_rebuild_t9_index_message">Rebuild index to resolve search issues</string>
     <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>

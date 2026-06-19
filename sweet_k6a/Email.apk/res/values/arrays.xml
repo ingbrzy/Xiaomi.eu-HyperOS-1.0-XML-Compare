@@ -136,7 +136,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
         <item>∅</item>
     </string-array>
     <string-array name="alphabet_sub_table_with_starred">
@@ -163,7 +163,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -192,7 +192,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -222,7 +222,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -371,7 +371,7 @@
         <item>Please using authorized code to login. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
         <item>Authorized code is incorrect. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
         <item>LOGIN Login error user suspended</item>
-        <item>LOGIN failure, 楠岃瘉澶辫触锛\ufffd</item>
+        <item>LOGIN failure, 楠岃瘉澶辫触锛�</item>
         <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
         <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
         <item>Login fail. Password is incorrect or service is not open</item>

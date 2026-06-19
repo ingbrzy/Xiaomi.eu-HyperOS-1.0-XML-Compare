@@ -47,6 +47,10 @@
         <item quantity="one">Playing next video in %d second</item>
         <item quantity="other">Playing next video in %d seconds</item>
     </plurals>
+    <plurals name="bookmark_import_repeat_toast">
+        <item quantity="one">Imported successfully. %d repeated item has been deleted.</item>
+        <item quantity="other">Imported successfully. %d repeated items have been deleted.</item>
+    </plurals>
     <plurals name="cashback_coupons_account_hint">
         <item quantity="one">%1$d coupon from %2$s</item>
         <item quantity="other">%1$d coupons from %2$s</item>
@@ -151,6 +155,10 @@
         <item quantity="one">Protected %d time</item>
         <item quantity="other">Protected %d times</item>
     </plurals>
+    <plurals name="intercept_protection_total">
+        <item quantity="one">%d threat blocked</item>
+        <item quantity="other">%d threats blocked</item>
+    </plurals>
     <plurals name="kindred_coupons_hint">
         <item quantity="one">You have %d coupon</item>
         <item quantity="other">You have %d coupons</item>
@@ -194,6 +202,10 @@
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
     </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
+    </plurals>
     <plurals name="opr_activity_news_task">
         <item quantity="one">Browse %d news story</item>
         <item quantity="other">Browse %d news stories</item>
@@ -201,6 +213,16 @@
     <plurals name="opr_activity_svideo_task">
         <item quantity="one">Watch %d short video</item>
         <item quantity="other">Watch %d short videos</item>
+    </plurals>
+    <plurals name="pad_edit_selected_title">
+        <item quantity="one">Selected %d item</item>
+        <item quantity="other">Selected %d items</item>
+    </plurals>
+    <plurals name="pad_incognito_tab_count_talkback">
+        <item quantity="other">无痕%d个</item>
+    </plurals>
+    <plurals name="pad_normal_tab_count_talkback">
+        <item quantity="other">窗口%d个</item>
     </plurals>
     <plurals name="person_menu_protect_count">
         <item quantity="one">Protected %s time</item>
@@ -238,9 +260,17 @@
         <item quantity="one">%d tab</item>
         <item quantity="other">%d tabs</item>
     </plurals>
+    <plurals name="toast_check_content">
+        <item quantity="one">Check out %d new item</item>
+        <item quantity="other">Check out %d new items</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
+    </plurals>
+    <plurals name="video_history_counts">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videos</item>
     </plurals>
     <plurals name="video_views">
         <item quantity="one">%s view</item>
@@ -257,6 +287,11 @@
     <plurals name="views">
         <item quantity="one">%dk view</item>
         <item quantity="other">%dk views</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="one">%d person has voted</item>
+        <item quantity="few">%d people have voted</item>
+        <item quantity="other">%d people have voted</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_ad">
         <item quantity="one">Blocked %d ad</item>

@@ -27,7 +27,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -57,7 +57,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -75,6 +75,30 @@
         <item>search_bing</item>
         <item>ic_search_engine_bing</item>
         <item>bing</item>
+    </string-array>
+    <string-array name="bookmark_group_menu_choices">
+        <item>@string/open_bookmark_folder</item>
+        <item>@string/edit_bookmark_folder</item>
+        <item>@string/delete_bookmark_folder</item>
+        <item>@string/pad_right_popup_more</item>
+    </string-array>
+    <string-array name="bookmark_group_menu_choices_search">
+        <item>@string/open_bookmark_folder</item>
+        <item>@string/edit_bookmark_folder</item>
+        <item>@string/delete_bookmark_folder</item>
+    </string-array>
+    <string-array name="bookmark_menu_choices">
+        <item>@string/new_tab_open</item>
+        <item>@string/edit_bookmark</item>
+        <item>@string/add_to_homepage</item>
+        <item>@string/contextmenu_copylink</item>
+        <item>@string/bookmarks_delete_bookmark_pop_title</item>
+        <item>@string/pad_right_popup_more</item>
+    </string-array>
+    <string-array name="bookmark_menu_more">
+        <item>@string/import_menu</item>
+        <item>@string/bookmark_create_group</item>
+        <item>@string/bookmark_new_create</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
@@ -318,6 +342,14 @@
         <item>@string/heavenly_stems_xin</item>
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
+    </string-array>
+    <string-array name="history_menu_choices">
+        <item>@string/new_tab_open</item>
+        <item>@string/add_to_quick_link_bookmark</item>
+        <item>@string/add_to_homepage</item>
+        <item>@string/contextmenu_copylink</item>
+        <item>@string/web_ad_clear_dialog_confirm</item>
+        <item>@string/pad_right_popup_more</item>
     </string-array>
     <integer-array name="hot_words_item_text_bg_color">
         <item>0xfff2f6e8</item>
@@ -613,6 +645,30 @@
         <item>0</item>
         <item>1</item>
     </string-array>
+    <string-array name="pref_pad_ua_choices_new">
+        <item>@string/menu_web_agent_computer</item>
+        <item>@string/pref_nav_mode_summary_phone</item>
+        <item>@string/menu_web_agent_win_chrome</item>
+        <item>@string/menu_web_agent_linux_Chrome</item>
+        <item>@string/menu_web_agent_mac_Chrome</item>
+        <item>@string/menu_web_agent_mac_safari</item>
+        <item>@string/menu_web_agent_iphone_safari</item>
+        <item>@string/menu_web_agent_iPad_safari</item>
+        <item>@string/menu_web_agent_firefox</item>
+        <item>@string/menu_web_agent_ie_compatibility_mode</item>
+    </string-array>
+    <string-array name="pref_pad_ua_values_new">
+        <item>1</item>
+        <item>0</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
     <string-array name="pref_security_do_not_track_keys">
         <item>On</item>
         <item>Only in Incognito mode</item>
@@ -689,6 +745,23 @@
         <item>-1</item>
         <item>0</item>
         <item>1</item>
+    </string-array>
+    <string-array name="quick_bookmark_group_menu_choices">
+        <item>@string/edit_bookmark_folder</item>
+        <item>@string/delete_bookmark_folder</item>
+        <item>@string/bookmark_switch_close</item>
+    </string-array>
+    <string-array name="quick_bookmark_menu_choices">
+        <item>@string/new_tab_open</item>
+        <item>@string/edit_bookmark</item>
+        <item>@string/add_to_homepage</item>
+        <item>@string/copy_bookmark_url</item>
+        <item>@string/bookmarks_delete_bookmark_pop_title</item>
+        <item>@string/bookmark_switch_close</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>@string/bookmark</item>
+        <item>@string/history</item>
     </string-array>
     <integer-array name="readmode_theme_bgcolors">
         <item>0xffefefef</item>
@@ -830,5 +903,18 @@
         <item>Misleading or fraudulent</item>
         <item>Content violates guidelines</item>
         <item>Other</item>
+    </string-array>
+    <string-array name="yahoo">
+        <item>Yahoo!</item>
+        <item>yahoo.com</item>
+        <item>https://search.yahoo.com/favicon.ico</item>
+        <item>https://search.yahoo.com/search;_ylt=A0oG7l7PeB5P3G0AKASl87UF?p={searchTerms}&amp;ei={inputEncoding}</item>
+        <item>UTF-8</item>
+        <item>https://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo</item>
+        <item>yahoo</item>
     </string-array>
 </resources>
